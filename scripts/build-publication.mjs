@@ -4,7 +4,7 @@ import { archiveDir, docsDir, escapeXml, readJson, root } from "./lib.mjs";
 
 const tasks = await readJson(path.join(root, "config/tasks.json"), []);
 const { items = [] } = await readJson(path.join(archiveDir, "index.json"), { items: [] });
-const baseUrl = (process.env.PUBLIC_BASE_URL || "https://example.github.io/chatgpt-task-rss").replace(/\/$/, "");
+const baseUrl = (process.env.PUBLIC_BASE_URL || "https://youngwilly.github.io/chatgpt-task-rss").replace(/\/$/, "");
 await fs.rm(docsDir, { recursive: true, force: true });
 await fs.mkdir(path.join(docsDir, "feeds"), { recursive: true });
 
