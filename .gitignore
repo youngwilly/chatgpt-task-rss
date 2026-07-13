@@ -1,0 +1,9 @@
+node_modules/
+.next/
+.wrangler/
+.vinext/
+build/
+dist/
+.collector-profile/
+logs/
+.DS_Store
