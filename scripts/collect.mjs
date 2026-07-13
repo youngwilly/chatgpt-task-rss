@@ -42,6 +42,25 @@ try {
     }
     const result = await page.locator('[data-message-author-role="assistant"]').last().evaluate((node) => {
       const clone = node.cloneNode(true);
+      const sourceImages = [...node.querySelectorAll("img")];
+      [...clone.querySelectorAll("img")].forEach((image, index) => {
+        const source = sourceImages[index];
+        const width = source?.naturalWidth || 0;
+        const height = source?.naturalHeight || 0;
+        const src = image.getAttribute("src") || "";
+        const suitable = !/(?:favicon|google\.com\/s2\/favicons)/i.test(src)
+          && width >= 720
+          && height >= 480
+          && width * height >= 600000;
+        if (!suitable) {
+          image.remove();
+          return;
+        }
+        image.setAttribute("data-published-width", String(width));
+        image.setAttribute("data-published-height", String(height));
+        image.setAttribute("loading", "lazy");
+        image.setAttribute("decoding", "async");
+      });
       clone.querySelectorAll("button, script, style, form, textarea, input").forEach(el => el.remove());
       clone.querySelectorAll("a").forEach(el => {
         el.setAttribute("target", "_blank");
