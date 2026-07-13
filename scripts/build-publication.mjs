@@ -13,6 +13,8 @@ const css = `:root{color-scheme:light dark;--bg:#f4f1ea;--card:#fffdf8;--text:#1
 
 const platformCss = `html{-webkit-text-size-adjust:100%;text-size-adjust:100%;scroll-behavior:smooth}body{min-width:320px}.shell{padding-left:max(14px,env(safe-area-inset-left));padding-right:max(14px,env(safe-area-inset-right));padding-bottom:max(64px,env(safe-area-inset-bottom))}.content{overflow-wrap:anywhere}.content p{margin-block:0 1em}.content h1,.content h2,.content h3,.content h4{line-height:1.3;margin-block:1.35em .55em}.content ul,.content ol{padding-inline-start:1.5em}.content blockquote{margin:1.25em 0;padding:.1em 0 .1em 1em;border-left:3px solid var(--accent);color:var(--muted)}.content pre{padding:14px;border:1px solid var(--line);border-radius:10px;background:var(--table-alt);font-size:13px;line-height:1.5}.content code{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}.content img{max-height:78vh;object-fit:contain}.media-gallery{display:grid;gap:12px;margin:4px 0 22px}.media-gallery figure{margin:0}.media-gallery a{display:block;border-radius:13px;overflow:hidden;background:var(--table-alt)}.media-gallery img{margin:0;width:100%;max-height:none;aspect-ratio:auto;object-fit:contain}.media-gallery figcaption{padding:8px 2px 0;color:var(--muted);font-size:12px;line-height:1.45}.media-gallery figcaption span{white-space:nowrap}.filters a{display:inline-flex;align-items:center;min-height:42px}.filters a:focus-visible,.content a:focus-visible{outline:3px solid var(--accent);outline-offset:3px;border-radius:4px}@media(min-width:700px){.shell{width:min(900px,100%);padding-top:30px}.filters{flex-wrap:wrap;overflow:visible}article{padding:24px;margin-bottom:18px}.content{font-size:17px;line-height:1.72}.media-gallery:has(figure:nth-child(2)){grid-template-columns:repeat(2,minmax(0,1fr))}.table-scroll th,.table-scroll td{padding:11px 13px}}@media(min-width:1100px){.shell{width:min(1080px,100%);padding-top:42px}header{padding-block:24px 18px}article{padding:30px 34px;border-radius:22px}.content{font-size:18px;line-height:1.75}.content>p,.content>h1,.content>h2,.content>h3,.content>h4,.content>ul,.content>ol,.content>blockquote{max-width:74ch}.table-scroll{margin-block:22px}.table-scroll th,.table-scroll td{font-size:14px}}@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}@media(forced-colors:active){.filters a,article,.table-scroll,.table-scroll th,.table-scroll td{border-color:CanvasText}.tag,.content a{color:LinkText}}@media print{:root{color-scheme:light;--bg:#fff;--card:#fff;--text:#000;--muted:#444;--line:#aaa;--accent:#000;--table-head:#eee;--table-alt:#f7f7f7}body{background:#fff;font:11pt/1.5 Georgia,"Songti SC",serif}.shell{width:auto;max-width:none;padding:0}.filters,.deck,footer{display:none}header{padding:0 0 12pt}h1{font-size:24pt}article{border:0;border-radius:0;box-shadow:none;padding:0;margin:0 0 20pt;break-inside:auto}article h2{break-after:avoid}.content a{color:#000;text-decoration:underline}.content img{max-height:20cm;break-inside:avoid}.table-scroll{overflow:visible;border-radius:0;break-inside:avoid}.table-scroll table{width:100%;min-width:0;font-size:8pt}.table-scroll th,.table-scroll td{position:static!important;min-width:0;max-width:none;padding:4pt;box-shadow:none}.meta{font-size:9pt}}`;
 
+const tableCardCss = `.table-mobile{display:none}@media(max-width:699px){.table-scroll{display:none}.table-mobile{display:grid;gap:10px;margin:14px 0}.table-card{margin:0;border:1px solid var(--line);border-radius:13px;background:var(--card);overflow:hidden}.table-card summary{display:grid;grid-template-columns:minmax(0,1fr) 28px;align-items:center;gap:10px;min-height:52px;padding:11px 12px;cursor:pointer;list-style:none;-webkit-tap-highlight-color:transparent}.table-card summary::-webkit-details-marker{display:none}.table-card summary::after{content:"＋";display:grid;place-items:center;width:28px;height:28px;border-radius:50%;background:var(--table-head);color:var(--muted);font-size:18px;line-height:1}.table-card[open] summary{border-bottom:1px solid var(--line);background:var(--table-alt)}.table-card[open] summary::after{content:"−"}.table-card-title{display:block;color:var(--text);font-size:15px;font-weight:750;line-height:1.35}.table-card-meta{display:block;margin-top:3px;color:var(--muted);font-size:12px;line-height:1.35;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.table-card dl{margin:0}.table-card dl>div{display:grid;grid-template-columns:minmax(88px,34%) minmax(0,1fr);gap:10px;padding:9px 12px;border-bottom:1px solid var(--line)}.table-card dl>div:last-child{border-bottom:0}.table-card dt{color:var(--muted);font-size:12px;font-weight:700;line-height:1.45}.table-card dd{min-width:0;margin:0;color:var(--text);font-size:13px;line-height:1.5;overflow-wrap:anywhere}.table-card dd p{margin:0}.table-card summary:focus-visible{outline:3px solid var(--accent);outline-offset:-3px}}@media print{.table-mobile{display:none!important}.table-scroll{display:block!important}}`;
+
 function attribute(tag, name) {
   return tag.match(new RegExp(`\\b${name}=["']([^"']*)["']`, "i"))?.[1] || "";
 }
@@ -32,20 +34,56 @@ function addInlineStyle(tag, style) {
   return tag.replace(/>$/, ` style="${style}">`);
 }
 
+function plainText(html = "") {
+  return html
+    .replace(/<br\s*\/?>/gi, " ")
+    .replace(/<[^>]+>/g, "")
+    .replace(/&nbsp;/gi, " ")
+    .replace(/&amp;/gi, "&")
+    .replace(/&lt;/gi, "<")
+    .replace(/&gt;/gi, ">")
+    .replace(/&quot;/gi, '"')
+    .replace(/&#39;|&apos;/gi, "'")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function tableParts(table) {
+  const head = table.match(/<thead\b[^>]*>([\s\S]*?)<\/thead>/i)?.[1] || "";
+  const headers = [...head.matchAll(/<th\b[^>]*>([\s\S]*?)<\/th>/gi)].map(match => plainText(match[1]));
+  const body = table.match(/<tbody\b[^>]*>([\s\S]*?)<\/tbody>/i)?.[1] || table.replace(/<thead\b[^>]*>[\s\S]*?<\/thead>/i, "");
+  const rows = [...body.matchAll(/<tr\b[^>]*>([\s\S]*?)<\/tr>/gi)].map(row =>
+    [...row[1].matchAll(/<td\b[^>]*>([\s\S]*?)<\/td>/gi)].map(cell => cell[1])
+  ).filter(cells => cells.length);
+  return { headers, rows };
+}
+
+function tableCards(table, { rss = false } = {}) {
+  const { headers, rows } = tableParts(table);
+  if (!headers.length || !rows.length) return "";
+  if (rss) {
+    return `<div style="margin:14px 0">${rows.map(cells => `<div style="margin:0 0 12px;border:1px solid #d8d3c8;border-radius:10px;overflow:hidden">${cells.map((cell, index) => `<div style="padding:8px 10px;border-bottom:1px solid #e4dfd5"><strong style="display:block;margin-bottom:3px;color:#666;font-size:12px">${escapeXml(headers[index] || `第${index + 1}列`)}</strong><div>${cell}</div></div>`).join("")}</div>`).join("")}</div>`;
+  }
+  return `<div class="table-mobile" role="list" aria-label="表格的手机卡片视图">${rows.map(cells => {
+    const first = plainText(cells[0]);
+    const primaryIndex = cells.length > 1 && /^[\d\s#＋+\-.%()（）]+$/.test(first) ? 1 : 0;
+    const secondaryIndex = primaryIndex === 0 && cells.length > 1 ? 1 : 0;
+    const primary = plainText(cells[primaryIndex]) || `第${rows.indexOf(cells) + 1}项`;
+    const secondary = cells[secondaryIndex] ? `${headers[secondaryIndex] || ""} ${plainText(cells[secondaryIndex])}`.trim().slice(0, 70) : "点按查看详情";
+    return `<details class="table-card" role="listitem"><summary><span><span class="table-card-title">${escapeXml(primary)}</span><span class="table-card-meta">${escapeXml(secondary)}</span></span></summary><dl>${cells.map((cell, index) => `<div><dt>${escapeXml(headers[index] || `第${index + 1}列`)}</dt><dd>${cell}</dd></div>`).join("")}</dl></details>`;
+  }).join("")}</div>`;
+}
+
 function preparedHtml(html, { rss = false } = {}) {
   let output = html.replace(/<img\b[^>]*>/gi, tag => qualityImage(tag)
     ? tag.replace(/<img\b/i, '<img loading="lazy" decoding="async"')
     : "");
   output = output.replace(/<figure\b[^>]*>\s*<\/figure>/gi, "");
-  output = output.replace(/<table\b[^>]*>/gi, tag => {
-    const wrapper = rss
-      ? '<div style="max-width:100%;overflow-x:auto;-webkit-overflow-scrolling:touch;margin:16px 0">'
-      : '<div class="table-scroll" role="region" aria-label="横向滑动查看完整表格" tabindex="0">';
-    return `${wrapper}${rss ? addInlineStyle(tag, "min-width:720px;width:100%;border-collapse:collapse;font-size:14px;line-height:1.45") : tag}`;
-  }).replace(/<\/table>/gi, "</table></div>");
-  if (rss) {
-    output = output.replace(/<(th|td)\b[^>]*>/gi, tag => addInlineStyle(tag, "padding:9px 10px;border:1px solid #d8d3c8;text-align:left;vertical-align:top"));
-  }
+  output = output.replace(/<table\b[^>]*>[\s\S]*?<\/table>/gi, table => {
+    const cards = tableCards(table, { rss });
+    if (rss) return cards || table;
+    return `${cards}<div class="table-scroll" role="region" aria-label="完整表格" tabindex="0">${table}</div>`;
+  });
   return output;
 }
 
@@ -78,7 +116,7 @@ function page(filter) {
   const cards = list.map(item => `<article id="${escapeXml(item.id)}"><div class="meta"><span class="tag">${escapeXml(item.taskTitle)}</span><time>${new Date(item.publishedAt).toLocaleString("zh-CN",{timeZone:"Asia/Shanghai",hour12:false})}</time></div><h2>${escapeXml(item.text.split("\n")[0].slice(0,80) || item.taskTitle)}</h2><div class="content">${mediaMarkup(item)}${preparedHtml(item.html)}</div></article>`).join("") || `<div class="empty">首次采集完成后，内容会出现在这里。</div>`;
   const nav = [`<a href="${basePath}/">全部</a>`, ...tasks.map(t => `<a href="${basePath}/${t.id}.html">${escapeXml(t.title)}</a>`)].join("");
   const feedHref = filter ? `${basePath}/feeds/${filter}.xml` : `${basePath}/rss.xml`;
-  return `<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="format-detection" content="telephone=no"><meta name="robots" content="noindex,nofollow"><meta name="theme-color" content="#f4f1ea" media="(prefers-color-scheme:light)"><meta name="theme-color" content="#141412" media="(prefers-color-scheme:dark)"><link rel="alternate" type="application/rss+xml" title="${escapeXml(title)}" href="${feedHref}"><title>${escapeXml(title)}</title><style>${css}${platformCss}</style></head><body><main class="shell"><header><h1>${escapeXml(title)}</h1><p class="deck">原文呈现 · 全平台阅读 · 自动更新</p></header><nav class="filters" aria-label="内容分类">${nav}</nav>${cards}<footer>内容保持 ChatGPT 任务原文，仅优化阅读版式。</footer></main></body></html>`;
+  return `<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="format-detection" content="telephone=no"><meta name="robots" content="noindex,nofollow"><meta name="theme-color" content="#f4f1ea" media="(prefers-color-scheme:light)"><meta name="theme-color" content="#141412" media="(prefers-color-scheme:dark)"><link rel="alternate" type="application/rss+xml" title="${escapeXml(title)}" href="${feedHref}"><title>${escapeXml(title)}</title><style>${css}${platformCss}${tableCardCss}</style></head><body><main class="shell"><header><h1>${escapeXml(title)}</h1><p class="deck">原文呈现 · 全平台阅读 · 自动更新</p></header><nav class="filters" aria-label="内容分类">${nav}</nav>${cards}<footer>内容保持 ChatGPT 任务原文，仅优化阅读版式。</footer></main></body></html>`;
 }
 
 function rss(filter) {
