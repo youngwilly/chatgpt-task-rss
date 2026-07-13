@@ -27,13 +27,6 @@ function qualityImage(tag) {
   return width >= 720 && height >= 480 && width * height >= 600000;
 }
 
-function addInlineStyle(tag, style) {
-  if (/\bstyle=["']/i.test(tag)) {
-    return tag.replace(/\bstyle=(["'])(.*?)\1/i, (_match, quote, current) => `style=${quote}${current};${style}${quote}`);
-  }
-  return tag.replace(/>$/, ` style="${style}">`);
-}
-
 function plainText(html = "") {
   return html
     .replace(/<br\s*\/?>/gi, " ")
@@ -46,6 +39,17 @@ function plainText(html = "") {
     .replace(/&#39;|&apos;/gi, "'")
     .replace(/\s+/g, " ")
     .trim();
+}
+
+function cleanSourceMarkup(html) {
+  let output = html
+    .replace(/<svg\b[^>]*>[\s\S]*?<\/svg>/gi, "")
+    .replace(/<\/?span\b[^>]*>/gi, "")
+    .replace(/\s+(?:class|style|data-[\w:-]+|aria-[\w:-]+|tabindex|alt|role)=(?:"[^"]*"|'[^']*')/gi, "");
+  for (let pass = 0; pass < 3; pass++) {
+    output = output.replace(/<(div|p)\b[^>]*>\s*<\/\1>/gi, "");
+  }
+  return output;
 }
 
 function tableParts(table) {
@@ -62,7 +66,12 @@ function tableCards(table, { rss = false } = {}) {
   const { headers, rows } = tableParts(table);
   if (!headers.length || !rows.length) return "";
   if (rss) {
-    return `<div style="margin:14px 0">${rows.map(cells => `<div style="margin:0 0 12px;border:1px solid #d8d3c8;border-radius:10px;overflow:hidden">${cells.map((cell, index) => `<div style="padding:8px 10px;border-bottom:1px solid #e4dfd5"><strong style="display:block;margin-bottom:3px;color:#666;font-size:12px">${escapeXml(headers[index] || `第${index + 1}列`)}</strong><div>${cell}</div></div>`).join("")}</div>`).join("")}</div>`;
+    return `<div>${rows.map(cells => {
+      const first = plainText(cells[0]);
+      const primaryIndex = cells.length > 1 && /^[\d\s#＋+\-.%()（）]+$/.test(first) ? 1 : 0;
+      const primary = plainText(cells[primaryIndex]) || "数据项";
+      return `<section><h4>${escapeXml(primary)}</h4><dl>${cells.map((cell, index) => `<dt><strong>${escapeXml(headers[index] || `第${index + 1}列`)}</strong></dt><dd>${cell}</dd>`).join("")}</dl></section><hr>`;
+    }).join("")}</div>`;
   }
   return `<div class="table-mobile" role="list" aria-label="表格的手机卡片视图">${rows.map(cells => {
     const first = plainText(cells[0]);
@@ -75,7 +84,7 @@ function tableCards(table, { rss = false } = {}) {
 }
 
 function preparedHtml(html, { rss = false } = {}) {
-  let output = html.replace(/<img\b[^>]*>/gi, tag => qualityImage(tag)
+  let output = cleanSourceMarkup(html).replace(/<img\b[^>]*>/gi, tag => qualityImage(tag)
     ? tag.replace(/<img\b/i, '<img loading="lazy" decoding="async"')
     : "");
   output = output.replace(/<figure\b[^>]*>\s*<\/figure>/gi, "");
@@ -116,24 +125,66 @@ function page(filter) {
   const cards = list.map(item => `<article id="${escapeXml(item.id)}"><div class="meta"><span class="tag">${escapeXml(item.taskTitle)}</span><time>${new Date(item.publishedAt).toLocaleString("zh-CN",{timeZone:"Asia/Shanghai",hour12:false})}</time></div><h2>${escapeXml(item.text.split("\n")[0].slice(0,80) || item.taskTitle)}</h2><div class="content">${mediaMarkup(item)}${preparedHtml(item.html)}</div></article>`).join("") || `<div class="empty">首次采集完成后，内容会出现在这里。</div>`;
   const nav = [`<a href="${basePath}/">全部</a>`, ...tasks.map(t => `<a href="${basePath}/${t.id}.html">${escapeXml(t.title)}</a>`)].join("");
   const feedHref = filter ? `${basePath}/feeds/${filter}.xml` : `${basePath}/rss.xml`;
-  return `<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="format-detection" content="telephone=no"><meta name="robots" content="noindex,nofollow"><meta name="theme-color" content="#f4f1ea" media="(prefers-color-scheme:light)"><meta name="theme-color" content="#141412" media="(prefers-color-scheme:dark)"><link rel="alternate" type="application/rss+xml" title="${escapeXml(title)}" href="${feedHref}"><title>${escapeXml(title)}</title><style>${css}${platformCss}${tableCardCss}</style></head><body><main class="shell"><header><h1>${escapeXml(title)}</h1><p class="deck">原文呈现 · 全平台阅读 · 自动更新</p></header><nav class="filters" aria-label="内容分类">${nav}</nav>${cards}<footer>内容保持 ChatGPT 任务原文，仅优化阅读版式。</footer></main></body></html>`;
+  const jsonHref = filter ? `${basePath}/feeds/${filter}.json` : `${basePath}/feed.json`;
+  return `<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="format-detection" content="telephone=no"><meta name="robots" content="noindex,nofollow"><meta name="theme-color" content="#f4f1ea" media="(prefers-color-scheme:light)"><meta name="theme-color" content="#141412" media="(prefers-color-scheme:dark)"><link rel="alternate" type="application/rss+xml" title="${escapeXml(title)}" href="${feedHref}"><link rel="alternate" type="application/feed+json" title="${escapeXml(title)} JSON Feed" href="${jsonHref}"><title>${escapeXml(title)}</title><style>${css}${platformCss}${tableCardCss}</style></head><body><main class="shell"><header><h1>${escapeXml(title)}</h1><p class="deck">原文呈现 · 全平台阅读 · 自动更新</p></header><nav class="filters" aria-label="内容分类">${nav}</nav>${cards}<footer>内容保持 ChatGPT 任务原文，仅优化阅读版式。</footer></main></body></html>`;
 }
 
-function rss(filter) {
+function itemTitle(item) {
+  const firstLine = item.text.split("\n").map(line => line.trim()).find(Boolean) || item.taskTitle;
+  if (firstLine === item.taskTitle) return item.taskTitle;
+  if (firstLine.startsWith(item.taskTitle)) return firstLine.slice(0, 76);
+  return `${item.taskTitle}｜${firstLine.slice(0, 56)}`;
+}
+
+function itemSummary(item) {
+  return item.text.replace(/\s+/g, " ").trim().slice(0, 420);
+}
+
+function rss(filter, feedFile) {
   const list = (filter ? items.filter(x => x.taskId === filter) : items).slice(0, 100);
   const title = filter ? tasks.find(x => x.id === filter)?.title || "任务结果" : "ChatGPT 计划任务合集";
-  const feedUrl = filter ? `${baseUrl}/feeds/${filter}.xml` : `${baseUrl}/rss.xml`;
+  const feedUrl = filter ? `${baseUrl}/feeds/${filter}.xml` : `${baseUrl}/${feedFile || "rss.xml"}`;
   const lastBuildDate = list.length ? new Date(list[0].publishedAt).toUTCString() : new Date().toUTCString();
-  const entries = list.map(item => `<item><title>${escapeXml(item.taskTitle)}</title><link>${escapeXml(`${baseUrl}/${filter ? `${filter}.html` : ""}#${item.id}`)}</link><guid isPermaLink="false">${escapeXml(item.hash)}</guid><pubDate>${new Date(item.publishedAt).toUTCString()}</pubDate><description><![CDATA[${`${mediaMarkup(item, { rss: true })}${preparedHtml(item.html, { rss: true })}`.replaceAll("]]>", "]]]]><![CDATA[>")}]]></description></item>`).join("");
-  return `<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>${escapeXml(title)}</title><link>${escapeXml(baseUrl)}</link><atom:link href="${escapeXml(feedUrl)}" rel="self" type="application/rss+xml"/><description>ChatGPT 计划任务原文订阅</description><language>zh-cn</language><lastBuildDate>${lastBuildDate}</lastBuildDate><generator>ChatGPT Task RSS</generator>${entries}</channel></rss>`;
+  const entries = list.map(item => {
+    const url = `${baseUrl}/${filter ? `${filter}.html` : ""}#${item.id}`;
+    const fullContent = `${mediaMarkup(item, { rss: true })}${preparedHtml(item.html, { rss: true })}`.replaceAll("]]>", "]]]]><![CDATA[>");
+    return `<item><title>${escapeXml(itemTitle(item))}</title><link>${escapeXml(url)}</link><guid isPermaLink="false">${escapeXml(item.hash)}</guid><pubDate>${new Date(item.publishedAt).toUTCString()}</pubDate><category>${escapeXml(item.taskTitle)}</category><description>${escapeXml(itemSummary(item))}</description><content:encoded><![CDATA[${fullContent}]]></content:encoded></item>`;
+  }).join("");
+  return `<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>${escapeXml(title)}</title><link>${escapeXml(baseUrl)}</link><atom:link href="${escapeXml(feedUrl)}" rel="self" type="application/rss+xml"/><description>ChatGPT 计划任务原文订阅</description><language>zh-cn</language><lastBuildDate>${lastBuildDate}</lastBuildDate><generator>ChatGPT Task RSS</generator>${entries}</channel></rss>`;
+}
+
+function jsonFeed(filter) {
+  const list = (filter ? items.filter(x => x.taskId === filter) : items).slice(0, 100);
+  const title = filter ? tasks.find(x => x.id === filter)?.title || "任务结果" : "ChatGPT 计划任务合集";
+  const feedUrl = filter ? `${baseUrl}/feeds/${filter}.json` : `${baseUrl}/feed.json`;
+  return JSON.stringify({
+    version: "https://jsonfeed.org/version/1.1",
+    title,
+    home_page_url: filter ? `${baseUrl}/${filter}.html` : `${baseUrl}/`,
+    feed_url: feedUrl,
+    language: "zh-CN",
+    description: "ChatGPT 计划任务原文订阅",
+    items: list.map(item => ({
+      id: item.hash,
+      url: `${baseUrl}/${filter ? `${filter}.html` : ""}#${item.id}`,
+      title: itemTitle(item),
+      summary: itemSummary(item),
+      content_html: `${mediaMarkup(item, { rss: true })}${preparedHtml(item.html, { rss: true })}`,
+      date_published: item.publishedAt,
+      tags: [item.taskTitle]
+    }))
+  }, null, 2) + "\n";
 }
 
 await fs.writeFile(path.join(docsDir, "index.html"), page());
 await fs.writeFile(path.join(docsDir, "rss.xml"), rss());
+await fs.writeFile(path.join(docsDir, "feed.xml"), rss(undefined, "feed.xml"));
+await fs.writeFile(path.join(docsDir, "feed.json"), jsonFeed());
 await fs.writeFile(path.join(docsDir, ".nojekyll"), "");
-await fs.writeFile(path.join(docsDir, "robots.txt"), "User-agent: *\nDisallow: /\n");
+await fs.writeFile(path.join(docsDir, "robots.txt"), "User-agent: *\nAllow: /\n");
 await fs.cp(path.join(archiveDir, "assets"), path.join(docsDir, "assets"), { recursive: true, force: true }).catch(() => {});
 for (const task of tasks) {
   await fs.writeFile(path.join(docsDir, `${task.id}.html`), page(task.id));
   await fs.writeFile(path.join(docsDir, "feeds", `${task.id}.xml`), rss(task.id));
+  await fs.writeFile(path.join(docsDir, "feeds", `${task.id}.json`), jsonFeed(task.id));
 }

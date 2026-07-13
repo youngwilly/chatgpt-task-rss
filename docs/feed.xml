@@ -1,4 +1,217 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>美股收盘日报</title><link>https://youngwilly.github.io/chatgpt-task-rss</link><atom:link href="https://youngwilly.github.io/chatgpt-task-rss/feeds/us-close.xml" rel="self" type="application/rss+xml"/><description>ChatGPT 计划任务原文订阅</description><language>zh-cn</language><lastBuildDate>Mon, 13 Jul 2026 15:51:22 GMT</lastBuildDate><generator>ChatGPT Task RSS</generator><item><title>美股收盘日报｜2026-07-13</title><link>https://youngwilly.github.io/chatgpt-task-rss/us-close.html#us-close-2026-07-13T15-51-22Z</link><guid isPermaLink="false">3cbd60732e80ed103fb5ea6f4ce22271cfb817424714fc005f70c5c769d104d0</guid><pubDate>Mon, 13 Jul 2026 15:51:22 GMT</pubDate><category>美股收盘日报</category><description>美股收盘日报｜2026-07-13 美股周末休市。本期使用美东时间 2026年7月10日收盘，并加入截至7月12日晚间的期货、油价和地缘变化。周日晚美国与伊朗在霍尔木兹海峡附近再次交火，WTI一度上涨超过3%至约74美元，美股三大指数期货小幅下跌。周一开盘先看油价和美债，不宜直接沿用周五收盘时的risk-on状态。MarketWatch 0. 今日一句话总结 S&amp;P 500收7,575.39，涨0.42%；Dow收52,637.01，涨0.29%；Nasdaq收26,281.61，涨0.29%。NVDA涨4.02%，META涨6.00%，AI龙头继续推指数，但SOXX几乎平盘，IWM跌0.46%，软件和网络安全集中下跌。Reuters+1 周五市场仍偏risk-on，宽度也不差，不过上涨越来越集中于少数AI龙头。SK Hynix美国上市首日上涨近13%，显示资金对HBM和AI内存需求仍很强。AP News+1 周日晚油价重新跳涨</description><content:encoded><![CDATA[<div><div><h1>美股收盘日报｜2026-07-13</h1>
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>ChatGPT 计划任务合集</title><link>https://youngwilly.github.io/chatgpt-task-rss</link><atom:link href="https://youngwilly.github.io/chatgpt-task-rss/feed.xml" rel="self" type="application/rss+xml"/><description>ChatGPT 计划任务原文订阅</description><language>zh-cn</language><lastBuildDate>Mon, 13 Jul 2026 15:51:26 GMT</lastBuildDate><generator>ChatGPT Task RSS</generator><item><title>AI Turning Point Scan｜AI投资转折点报告</title><link>https://youngwilly.github.io/chatgpt-task-rss/#ai-turning-point-2026-07-13T15-51-26Z</link><guid isPermaLink="false">0a5cad8b4e5c8e9bf791fbdd53416aa1d4593861d8fa8d2dbde5e2a078fad629</guid><pubDate>Mon, 13 Jul 2026 15:51:26 GMT</pubDate><category>AI Turning Point Scan</category><description>AI投资转折点报告 日期：2026年7月12日 过去一周真正值得看的，不是哪家公司又发布了一个模型，而是三件已经开始影响产业链利润分配的事情。 7月9日，Meta Platforms内部文件显示，自研AI芯片 Iris 将于9月进入量产，同时计划到2027年将AI算力提升至14GW，并继续维持极高强度的基础设施投资。这意味着Hyperscaler开始进入第二阶段，自研ASIC与GPU并行，而整体算力需求并没有下降。Reuters 同一天，Micron Technology宣布未来十年再增加500亿美元美国投资，总投资规模提高至2500亿美元，同时继续扩大HBM和DRAM供应链建设。Business Insider+1 市场却开始担心另一件事。 过去几天，美股半导体板块明显调整。原因不是订单减少，而是投资者开始怀疑7000亿美元以上的AI资本开支最终能否兑现足够的利润。这个预期差，很可能决定未来6个月市场风格。The Wall S</description><content:encoded><![CDATA[<div><div><h1>AI投资转折点报告</h1>
+<p><strong>日期：2026年7月12日</strong></p>
+<p>过去一周真正值得看的，不是哪家公司又发布了一个模型，而是三件已经开始影响产业链利润分配的事情。</p>
+<p>7月9日，Meta Platforms内部文件显示，自研AI芯片 <strong>Iris</strong> 将于9月进入量产，同时计划到2027年将AI算力提升至14GW，并继续维持极高强度的基础设施投资。这意味着Hyperscaler开始进入第二阶段，自研ASIC与GPU并行，而整体算力需求并没有下降。<a href="https://www.reuters.com/world/asia-pacific/meta-put-ai-chip-into-production-september-it-looks-double-computing-capacity-2026-07-09/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>同一天，Micron Technology宣布未来十年再增加500亿美元美国投资，总投资规模提高至2500亿美元，同时继续扩大HBM和DRAM供应链建设。<a href="https://www.businessinsider.com/micron-stock-price-us-chip-making-250-billion-trump-ai-2026-7?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Business Insider+1</a></p>
+<p>市场却开始担心另一件事。</p>
+<p>过去几天，美股半导体板块明显调整。原因不是订单减少，而是投资者开始怀疑7000亿美元以上的AI资本开支最终能否兑现足够的利润。这个预期差，很可能决定未来6个月市场风格。<a href="https://www.wsj.com/tech/ai/will-someone-finally-blink-in-the-ai-spending-war-0f59aa60?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">The Wall Street Journal+1</a></p>
+<hr>
+<h1>一页结论</h1>
+<div><div><div><section><h4>AI电力基础设施</h4><dl><dt><strong>排名</strong></dt><dd>1</dd><dt><strong>转折点主题</strong></dt><dd>AI电力基础设施</dd><dt><strong>核心结论</strong></dt><dd>电力、散热、配电仍是最紧缺资源</dd><dt><strong>最高置信度标的</strong></dt><dd>Vertiv Holdings</dd><dt><strong>交易方向</strong></dt><dd>做多</dd><dt><strong>是否已被市场定价</strong></dt><dd>部分定价</dd><dt><strong>未来催化剂</strong></dt><dd>Hyperscaler财报</dd><dt><strong>总分</strong></dt><dd>92</dd></dl></section><hr><section><h4>HBM长期供给紧张</h4><dl><dt><strong>排名</strong></dt><dd>2</dd><dt><strong>转折点主题</strong></dt><dd>HBM长期供给紧张</dd><dt><strong>核心结论</strong></dt><dd>存储利润池继续扩大</dd><dt><strong>最高置信度标的</strong></dt><dd>Micron Technology</dd><dt><strong>交易方向</strong></dt><dd>做多</dd><dt><strong>是否已被市场定价</strong></dt><dd>部分定价</dd><dt><strong>未来催化剂</strong></dt><dd>HBM订单、ASP</dd><dt><strong>总分</strong></dt><dd>90</dd></dl></section><hr><section><h4>ASIC替代GPU开始兑现</h4><dl><dt><strong>排名</strong></dt><dd>3</dd><dt><strong>转折点主题</strong></dt><dd>ASIC替代GPU开始兑现</dd><dt><strong>核心结论</strong></dt><dd>自研芯片增加，总算力需求继续增长</dd><dt><strong>最高置信度标的</strong></dt><dd>Broadcom</dd><dt><strong>交易方向</strong></dt><dd>做多</dd><dt><strong>是否已被市场定价</strong></dt><dd>仍有预期差</dd><dt><strong>未来催化剂</strong></dt><dd>Meta Iris量产</dd><dt><strong>总分</strong></dt><dd>87</dd></dl></section><hr><section><h4>AI企业基础设施</h4><dl><dt><strong>排名</strong></dt><dd>4</dd><dt><strong>转折点主题</strong></dt><dd>AI企业基础设施</dd><dt><strong>核心结论</strong></dt><dd>企业部署速度快于Agent商业化</dd><dt><strong>最高置信度标的</strong></dt><dd>Pure Storage</dd><dt><strong>交易方向</strong></dt><dd>观察偏多</dd><dt><strong>是否已被市场定价</strong></dt><dd>未充分定价</dd><dt><strong>未来催化剂</strong></dt><dd>企业采购周期</dd><dt><strong>总分</strong></dt><dd>83</dd></dl></section><hr><section><h4>AI Capex回报率压力</h4><dl><dt><strong>排名</strong></dt><dd>5</dd><dt><strong>转折点主题</strong></dt><dd>AI Capex回报率压力</dd><dt><strong>核心结论</strong></dt><dd>软件兑现慢于硬件</dd><dt><strong>最高置信度标的</strong></dt><dd>做空高估值AI应用篮子</dd><dt><strong>交易方向</strong></dt><dd>配对</dd><dt><strong>是否已被市场定价</strong></dt><dd>尚未充分反映</dd><dt><strong>未来催化剂</strong></dt><dd>Q2财报季</dd><dt><strong>总分</strong></dt><dd>81</dd></dl></section><hr></div></div></div>
+<hr>
+<h2>本周发生了什么</h2>
+<h3>Meta开始真正进入ASIC时代</h3>
+<p>Meta准备9月投产Iris，自研芯片路线已经清晰。</p>
+<p>几个细节值得注意：</p>
+<ul>
+<li>
+<p>Broadcom参与设计。</p>
+</li>
+<li>
+<p>Taiwan Semiconductor Manufacturing Company负责制造。</p>
+</li>
+<li>
+<p>未来计划每半年推出一代AI芯片。</p>
+</li>
+<li>
+<p>2026年部署7GW算力，2027年再增加7GW，总规模达到14GW。<a href="https://www.reuters.com/world/asia-pacific/meta-put-ai-chip-into-production-september-it-looks-double-computing-capacity-2026-07-09/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+</li>
+</ul>
+<p>很多人第一反应是利空GPU。</p>
+<p>我没有这么看。</p>
+<p>Meta没有削减AI预算。</p>
+<p>它只是开始把利润从GPU采购转移到ASIC设计。</p>
+<p>因此真正增加的是：</p>
+<ul>
+<li>
+<p>ASIC设计</p>
+</li>
+<li>
+<p>高端封装</p>
+</li>
+<li>
+<p>HBM</p>
+</li>
+<li>
+<p>高速互连</p>
+</li>
+</ul>
+<p>真正受压的是：</p>
+<p>GPU长期ASP。</p>
+<hr>
+<h3>Micron继续扩大投资</h3>
+<p>Micron宣布：</p>
+<ul>
+<li>
+<p>美国投资增加500亿美元。</p>
+</li>
+<li>
+<p>总投资提高至2500亿美元。</p>
+</li>
+<li>
+<p>美国DRAM产能目标提高到全球40%。<a href="https://www.businessinsider.com/micron-stock-price-us-chip-making-250-billion-trump-ai-2026-7?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Business Insider+1</a></p>
+</li>
+</ul>
+<p>再结合三个月前电话会议：</p>
+<ul>
+<li>
+<p>2026 Capex超过250亿美元。</p>
+</li>
+<li>
+<p>2027设备采购继续增加。</p>
+</li>
+<li>
+<p>HBM先进封装2027继续扩产。</p>
+</li>
+<li>
+<p>DRAM、NAND供需预计2026以后仍偏紧。<a href="https://www.sahmcapital.com/news/content/brief-micron-reports-q2-results-and-outlook-2026-03-19?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Sahm</a></p>
+</li>
+</ul>
+<p>这里看到的是：</p>
+<p>企业还在扩大供给。</p>
+<p>说明客户订单没有明显放缓。</p>
+<hr>
+<h3>市场开始怀疑AI Capex</h3>
+<p>这一周最重要的市场变化来自股价。</p>
+<p>三星利润很好。</p>
+<p>芯片股却普遍下跌。</p>
+<p>Micron一度跌4%以上。</p>
+<p>原因很简单。</p>
+<p>市场开始问：</p>
+<p>7000亿美元Capex到底什么时候赚回来？</p>
+<p>这种担心已经开始影响估值。<a href="https://www.investing.com/news/stock-market-news/nasdaq-futures-fall-after-samsungs-record-profit-fails-to-allay-chip-jitters-4778520?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Investing.com+1</a></p>
+<p>这个地方会很麻烦。</p>
+<p>因为：</p>
+<p>基础设施订单是真实存在的。</p>
+<p>应用收入兑现速度仍然偏慢。</p>
+<p>未来两个季度，这个矛盾会越来越明显。</p>
+<hr>
+<h1>AI转折点雷达</h1>
+<div><div><div><section><h4>AI电力</h4><dl><dt><strong>主题</strong></dt><dd>AI电力</dd><dt><strong>新能力或瓶颈</strong></dt><dd>14GW级算力部署</dd><dt><strong>谁付钱</strong></dt><dd>Meta、Microsoft等</dd><dt><strong>利润流向</strong></dt><dd>Vertiv、Eaton</dd><dt><strong>最新证据</strong></dt><dd>Meta继续扩建算力<a href="https://www.reuters.com/world/asia-pacific/meta-put-ai-chip-into-production-september-it-looks-double-computing-capacity-2026-07-09/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></dd><dt><strong>市场是否充分定价</strong></dt><dd>否</dd><dt><strong>分数</strong></dt><dd>92</dd></dl></section><hr><section><h4>HBM</h4><dl><dt><strong>主题</strong></dt><dd>HBM</dd><dt><strong>新能力或瓶颈</strong></dt><dd>长期缺货</dd><dt><strong>谁付钱</strong></dt><dd>Hyperscaler</dd><dt><strong>利润流向</strong></dt><dd>Micron、SK Hynix</dd><dt><strong>最新证据</strong></dt><dd>Micron继续扩产<a href="https://www.businessinsider.com/micron-stock-price-us-chip-making-250-billion-trump-ai-2026-7?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Business Insider+1</a></dd><dt><strong>市场是否充分定价</strong></dt><dd>部分</dd><dt><strong>分数</strong></dt><dd>90</dd></dl></section><hr><section><h4>ASIC</h4><dl><dt><strong>主题</strong></dt><dd>ASIC</dd><dt><strong>新能力或瓶颈</strong></dt><dd>GPU向ASIC迁移</dd><dt><strong>谁付钱</strong></dt><dd>Meta</dd><dt><strong>利润流向</strong></dt><dd>Broadcom、TSMC</dd><dt><strong>最新证据</strong></dt><dd>Meta Iris量产<a href="https://www.reuters.com/world/asia-pacific/meta-put-ai-chip-into-production-september-it-looks-double-computing-capacity-2026-07-09/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></dd><dt><strong>市场是否充分定价</strong></dt><dd>否</dd><dt><strong>分数</strong></dt><dd>87</dd></dl></section><hr><section><h4>AI企业部署</h4><dl><dt><strong>主题</strong></dt><dd>AI企业部署</dd><dt><strong>新能力或瓶颈</strong></dt><dd>企业采购增加</dd><dt><strong>谁付钱</strong></dt><dd>大型企业</dd><dt><strong>利润流向</strong></dt><dd>Pure Storage、安全软件</dd><dt><strong>最新证据</strong></dt><dd>公开订单仍有限</dd><dt><strong>市场是否充分定价</strong></dt><dd>否</dd><dt><strong>分数</strong></dt><dd>83</dd></dl></section><hr><section><h4>AI软件</h4><dl><dt><strong>主题</strong></dt><dd>AI软件</dd><dt><strong>新能力或瓶颈</strong></dt><dd>ROI验证</dd><dt><strong>谁付钱</strong></dt><dd>企业IT</dd><dt><strong>利润流向</strong></dt><dd>SaaS厂商</dd><dt><strong>最新证据</strong></dt><dd>尚缺统一数据</dd><dt><strong>市场是否充分定价</strong></dt><dd>仍偏乐观</dd><dt><strong>分数</strong></dt><dd>72</dd></dl></section><hr></div></div></div>
+<hr>
+<h1>Top 5交易机会</h1>
+<h2>1. Broadcom</h2>
+<p><strong>操作：做多</strong></p>
+<p>Meta开始真正量产ASIC。</p>
+<p>Broadcom已经从网络芯片供应商逐渐变成Hyperscaler ASIC设计平台。</p>
+<p>未来一年继续看：</p>
+<ul>
+<li>
+<p>Meta ASIC出货</p>
+</li>
+<li>
+<p>更多Hyperscaler采用自研芯片</p>
+</li>
+<li>
+<p>AI交换芯片需求</p>
+</li>
+</ul>
+<p>风险：</p>
+<p>大型客户自研比例继续提高。</p>
+<hr>
+<h2>2. Vertiv Holdings</h2>
+<p><strong>操作：确认仓</strong></p>
+<p>AI算力增长没有减速。</p>
+<p>电力需求继续增长。</p>
+<p>未来几个季度重点关注：</p>
+<ul>
+<li>
+<p>Backlog</p>
+</li>
+<li>
+<p>毛利率</p>
+</li>
+<li>
+<p>数据中心订单</p>
+</li>
+</ul>
+<hr>
+<h2>3. Micron Technology</h2>
+<p><strong>操作：确认仓</strong></p>
+<p>继续扩大Capex。</p>
+<p>继续扩大HBM。</p>
+<p>继续扩大美国制造。</p>
+<p>真正需要观察的是：</p>
+<p>HBM价格什么时候开始松动。</p>
+<p>目前还没有看到可靠证据。</p>
+<hr>
+<h2>4. Taiwan Semiconductor Manufacturing Company</h2>
+<p><strong>操作：确认仓</strong></p>
+<p>ASIC越来越多。</p>
+<p>GPU越来越复杂。</p>
+<p>先进封装需求继续增长。</p>
+<p>真正赚钱的仍然是制造能力。</p>
+<hr>
+<h2>5. Pure Storage</h2>
+<p><strong>操作：观察仓</strong></p>
+<p>这里我还没有提高仓位。</p>
+<p>原因很简单。</p>
+<p>长期记忆逻辑成立。</p>
+<p>企业采购数据还没有充分验证。</p>
+<hr>
+<h1>做空或受损资产</h1>
+<div><div><div><section><h4>高估值AI应用软件</h4><dl><dt><strong>受损资产</strong></dt><dd>高估值AI应用软件</dd><dt><strong>原因</strong></dt><dd>收入兑现慢于估值</dd><dt><strong>做空可行性</strong></dt><dd>中</dd><dt><strong>风险</strong></dt><dd>财报超预期</dd></dl></section><hr><section><h4>单纯GPU替代逻辑公司</h4><dl><dt><strong>受损资产</strong></dt><dd>单纯GPU替代逻辑公司</dd><dt><strong>原因</strong></dt><dd>ASIC增加</dd><dt><strong>做空可行性</strong></dt><dd>低</dd><dt><strong>风险</strong></dt><dd>GPU需求继续增长</dd></dl></section><hr><section><h4>纯概念机器人</h4><dl><dt><strong>受损资产</strong></dt><dd>纯概念机器人</dd><dt><strong>原因</strong></dt><dd>缺订单</dd><dt><strong>做空可行性</strong></dt><dd>高</dd><dt><strong>风险</strong></dt><dd>主题资金推动</dd></dl></section><hr></div></div></div>
+<hr>
+<h1>配对交易</h1>
+<div><div><div><section><h4>Broadcom</h4><dl><dt><strong>做多</strong></dt><dd>Broadcom</dd><dt><strong>做空</strong></dt><dd>高估值AI SaaS</dd><dt><strong>理由</strong></dt><dd>基础设施兑现快于应用</dd></dl></section><hr><section><h4>Micron</h4><dl><dt><strong>做多</strong></dt><dd>Micron</dd><dt><strong>做空</strong></dt><dd>普通DRAM厂商</dd><dt><strong>理由</strong></dt><dd>HBM利润继续集中</dd></dl></section><hr><section><h4>Vertiv</h4><dl><dt><strong>做多</strong></dt><dd>Vertiv</dd><dt><strong>做空</strong></dt><dd>传统IDC REIT</dd><dt><strong>理由</strong></dt><dd>AI数据中心利润向电力迁移</dd></dl></section><hr></div></div></div>
+<hr>
+<h1>当前观察名单</h1>
+<div><div><div><section><h4>AI Agent</h4><dl><dt><strong>主题</strong></dt><dd>AI Agent</dd><dt><strong>缺什么证据</strong></dt><dd>企业ROI</dd><dt><strong>买入触发</strong></dt><dd>ARR连续两个季度加速</dd></dl></section><hr><section><h4>机器人</h4><dl><dt><strong>主题</strong></dt><dd>机器人</dd><dt><strong>缺什么证据</strong></dt><dd>批量订单</dd><dt><strong>买入触发</strong></dt><dd>年出货突破万台</dd></dl></section><hr><section><h4>AI眼镜</h4><dl><dt><strong>主题</strong></dt><dd>AI眼镜</dd><dt><strong>缺什么证据</strong></dt><dd>销量</dd><dt><strong>买入触发</strong></dt><dd>季度出货翻倍</dd></dl></section><hr><section><h4>推理ASIC</h4><dl><dt><strong>主题</strong></dt><dd>推理ASIC</dd><dt><strong>缺什么证据</strong></dt><dd>更多客户</dd><dt><strong>买入触发</strong></dt><dd>第二家Hyperscaler大规模量产</dd></dl></section><hr></div></div></div>
+<hr>
+<h1>数据缺口</h1>
+<p>目前仍没有可靠公开数据支持以下判断：</p>
+<ul>
+<li>
+<p>企业Agent真实ROI的行业分布。</p>
+</li>
+<li>
+<p>全球AI长期记忆存储采购规模。</p>
+</li>
+<li>
+<p>Meta自研ASIC成本相较GPU的详细优势。</p>
+</li>
+<li>
+<p>各Hyperscaler内部ASIC采购比例。</p>
+</li>
+</ul>
+<p>这些结论目前只能做情景分析，不能当成确定事实。</p>
+<h2>交易员版本</h2>
+<p><strong>现在最值得研究的方向：</strong></p>
+<p>ASIC、高端封装、HBM、电力基础设施。</p>
+<p><strong>现在最可能被低估的标的：</strong></p>
+<p>Broadcom、Vertiv Holdings、Pure Storage。</p>
+<p><strong>现在最拥挤、最需要小心的标的：</strong></p>
+<p>部分高估值AI应用软件，以及已经高度依赖AI叙事的成长股。近期市场已经开始重新审视AI资本开支的回报率。<a href="https://www.wsj.com/tech/ai/will-someone-finally-blink-in-the-ai-spending-war-0f59aa60?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">The Wall Street Journal+1</a></p>
+<p><strong>未来30天需要盯的催化剂：</strong></p>
+<p>Meta、Microsoft、Alphabet、Amazon财报，AI资本开支指引是否继续上修。</p>
+<p><strong>未来90天需要盯的数据：</strong></p>
+<p>HBM价格与交期、ASIC量产进度、企业AI部署收入、电力设备订单。</p>
+<p><strong>当前最优交易结构：</strong></p>
+<p>做多AI基础设施，重点放在HBM、ASIC、电力设备，适当降低兑现周期较长的软件资产配置。</p>
+<p><strong>什么情况下承认判断错了：</strong></p>
+<p>如果未来两个季度大型云厂商开始连续削减资本开支，同时HBM价格明显回落，ASIC项目延期，数据中心电力投资放缓，这一轮基础设施继续领跑的判断需要重新修正。</p>
+<p>三个值得继续思考的问题：</p>
+<ol>
+<li>
+<p>如果Hyperscaler全面转向自研ASIC，NVIDIA未来最大的护城河会继续是GPU，还是软件生态和互连网络？</p>
+</li>
+<li>
+<p>当HBM供给最终恢复平衡，利润会向先进封装、交换芯片、电力设备中的哪一个环节迁移？</p>
+</li>
+<li>
+<p>如果AI应用收入增长仍然慢于基础设施投资，市场会先压缩Hyperscaler估值，还是先压缩AI软件公司的估值？</p>
+</li>
+</ol></div></div>]]></content:encoded></item><item><title>美股收盘日报｜2026-07-13</title><link>https://youngwilly.github.io/chatgpt-task-rss/#us-close-2026-07-13T15-51-22Z</link><guid isPermaLink="false">3cbd60732e80ed103fb5ea6f4ce22271cfb817424714fc005f70c5c769d104d0</guid><pubDate>Mon, 13 Jul 2026 15:51:22 GMT</pubDate><category>美股收盘日报</category><description>美股收盘日报｜2026-07-13 美股周末休市。本期使用美东时间 2026年7月10日收盘，并加入截至7月12日晚间的期货、油价和地缘变化。周日晚美国与伊朗在霍尔木兹海峡附近再次交火，WTI一度上涨超过3%至约74美元，美股三大指数期货小幅下跌。周一开盘先看油价和美债，不宜直接沿用周五收盘时的risk-on状态。MarketWatch 0. 今日一句话总结 S&amp;P 500收7,575.39，涨0.42%；Dow收52,637.01，涨0.29%；Nasdaq收26,281.61，涨0.29%。NVDA涨4.02%，META涨6.00%，AI龙头继续推指数，但SOXX几乎平盘，IWM跌0.46%，软件和网络安全集中下跌。Reuters+1 周五市场仍偏risk-on，宽度也不差，不过上涨越来越集中于少数AI龙头。SK Hynix美国上市首日上涨近13%，显示资金对HBM和AI内存需求仍很强。AP News+1 周日晚油价重新跳涨</description><content:encoded><![CDATA[<div><div><h1>美股收盘日报｜2026-07-13</h1>
 <p>美股周末休市。本期使用美东时间 <strong>2026年7月10日收盘</strong>，并加入截至7月12日晚间的期货、油价和地缘变化。周日晚美国与伊朗在霍尔木兹海峡附近再次交火，WTI一度上涨超过3%至约74美元，美股三大指数期货小幅下跌。周一开盘先看油价和美债，不宜直接沿用周五收盘时的risk-on状态。<a href="https://www.marketwatch.com/story/oil-prices-rise-stock-futures-dip-after-latest-flare-up-of-strikes-between-u-s-and-iran-fef7f856?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">MarketWatch</a></p>
 <h2>0. 今日一句话总结</h2>
 <p>S&amp;P 500收7,575.39，涨0.42%；Dow收52,637.01，涨0.29%；Nasdaq收26,281.61，涨0.29%。NVDA涨4.02%，META涨6.00%，AI龙头继续推指数，但SOXX几乎平盘，IWM跌0.46%，软件和网络安全集中下跌。<a href="https://www.reuters.com/business/media-telecom/sp-500-nasdaq-futures-slip-investors-eye-sk-hynix-listing-middle-east-risks-2026-07-10/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters+1</a></p>
@@ -139,5 +352,71 @@ IWM支撑294.06，压力298.26。</p>
 </li>
 <li>
 <p>NVDA和META继续推高指数，软件和小盘成长不断下跌，这种集中行情还能维持多久？</p>
+</li>
+</ol></div></div>]]></content:encoded></item><item><title>每日重点简报</title><link>https://youngwilly.github.io/chatgpt-task-rss/#daily-brief-2026-07-13T15-51-18Z</link><guid isPermaLink="false">bd0f1def53d9a9a2d7c8ac6ccfd9d48e6f89fbfe8808aac445ee7b1a7a645993</guid><pubDate>Mon, 13 Jul 2026 15:51:18 GMT</pubDate><category>每日重点简报</category><description>每日重点简报 2026年7月13日 1. 昨夜美股收盘概览 美国周末没有新收盘，周五留下来的价格仍是今天亚洲盘的起点。SPY收754.95美元，涨0.39%；QQQ收725.51美元，涨0.28%；DIA收525.78美元，涨0.31%。Nvidia涨4.02%至210.96美元，AMD涨2.06%至557.89美元，Apple跌0.29%至315.32美元，Micron跌1.30%至979.30美元。 周五那场还能继续看出资金偏好。Nvidia单日成交约1.48亿股，市值超过5.1万亿美元，市场继续往算力龙头集中。Micron盘中从955美元拉到接近998美元，最后仍收跌，存储线的分歧没有消失。AMD市盈率接近183倍，远高于Nvidia约32倍，后面一旦AI订单增速低于预期，AMD的估值波动会更大。 2. 宏观与政策 今天早上真正改变盘面的东西来自中东。美国和伊朗周末继续互相发动导弹及无人机打击，伊朗宣布关闭霍尔木兹海峡，美</description><content:encoded><![CDATA[<div><div><h1>每日重点简报</h1>
+<p>2026年7月13日</p>
+<h2>1. 昨夜美股收盘概览</h2>
+<p>美国周末没有新收盘，周五留下来的价格仍是今天亚洲盘的起点。SPY收754.95美元，涨0.39%；QQQ收725.51美元，涨0.28%；DIA收525.78美元，涨0.31%。Nvidia涨4.02%至210.96美元，AMD涨2.06%至557.89美元，Apple跌0.29%至315.32美元，Micron跌1.30%至979.30美元。</p>
+<p>周五那场还能继续看出资金偏好。Nvidia单日成交约1.48亿股，市值超过5.1万亿美元，市场继续往算力龙头集中。Micron盘中从955美元拉到接近998美元，最后仍收跌，存储线的分歧没有消失。AMD市盈率接近183倍，远高于Nvidia约32倍，后面一旦AI订单增速低于预期，AMD的估值波动会更大。</p>
+<h2>2. 宏观与政策</h2>
+<p>今天早上真正改变盘面的东西来自中东。美国和伊朗周末继续互相发动导弹及无人机打击，伊朗宣布关闭霍尔木兹海峡，美国则称航道仍保持开放。Reuters报道，Brent周一亚洲盘上涨3.51%至78.68美元，WTI上涨3.47%至73.89美元。<a href="https://www.reuters.com/world/asia-pacific/iran-declares-strait-hormuz-closed-unauthorised-vessel-hit-2026-07-11/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters+1</a></p>
+<p>政治表态现在有冲突，船到底能不能顺利走过去更重要。AP称，过去一周仍有超过140艘船通过，但周末一艘塞浦路斯旗集装箱船遇袭起火，一名船员失踪，美国随后扩大对伊朗的空袭。运输量如果继续下降，油价会先过80美元，随后影响美债收益率、航空、化工和消费预期。<a href="https://apnews.com/article/0764d17c09370a8c5cf1e8197a8878ab?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">AP News</a></p>
+<p>本周美国CPI、PPI、零售销售连续公布。Reuters称，投资者会用CPI重新调整利率预期，美股二季度财报季也同时启动。现在油价在数据公布前先跳了一次，通胀数据即使符合预期，市场也会开始往7月能源成本上升的方向算。<a href="https://www.reuters.com/markets/europe/wall-st-week-ahead-investors-grapple-with-packed-week-earnings-cpi-iran-2026-07-10/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<h2>3. AI与科技产业</h2>
+<p>Meta计划从9月开始生产自研AI芯片，同时把明年总算力提高到14吉瓦。这个动作比单纯买GPU更值得留意。Meta一边买Nvidia，一边做内部芯片，一边研究把富余算力卖给外部客户，目的很直接，降低推理成本，把巨额资本开支变成可计算的收入和成本节约。<a href="https://www.reuters.com/world/asia-pacific/meta-put-ai-chip-into-production-september-it-looks-double-computing-capacity-2026-07-09/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>SK海力士CEO预计，2027年可能出现史上最严重的内存短缺，需求将持续超过供应。UBS预计全球DRAM供应紧张可能延续到2028年二季度。这个说法给Micron、SK海力士和HBM设备链提供支撑，不过市场已经在提前交易巨额扩产，后面只看缺货口号不够，新增产能、客户预付款和长期合同更有用。<a href="https://www.reuters.com/world/asia-pacific/sk-hynix-ceo-sees-worst-ever-memory-supply-shortage-2027-says-demand-outstrip-2026-07-10/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>本周TSMC、ASML都要公布业绩。AI芯片订单会经过TSMC晶圆代工、CoWoS封装和ASML设备三层验证。只要TSMC继续上调先进制程和封装需求，Nvidia、Broadcom、AMD及半导体设备还能维持强势。资本开支增速明显超过订单增速，市场会马上讨论2027年产能利用率。</p>
+<h2>4. 全球重大新闻</h2>
+<p>美国和伊朗周末的攻击范围已经扩大到海湾多个国家。Reuters称，伊朗打击了驻有美军设施的海湾国家，美国周日下午又启动新一轮对伊打击。外交谈判还在，但军事行动的频率和范围都上来了。<a href="https://www.reuters.com/world/asia-pacific/iran-declares-strait-hormuz-closed-unauthorised-vessel-hit-2026-07-11/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>IEA此前警告，美伊冲突可能破坏原本预计在2027年出现的石油供应过剩。油价眼下仍低于今年战争高点，成品油和炼化环节已经更紧。原油涨3%，柴油、航空燃油和运费可能涨得更快，这个地方会直接压航空、物流和制造业利润。<a href="https://www.reuters.com/business/energy/us-iran-escalation-could-threaten-2027-oil-market-surplus-iea-says-2026-07-10/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters+1</a></p>
+<h2>5. 中国市场与政策</h2>
+<p>中国资产近期和全球市场走出了点不同的节奏。Reuters称，人民币、中国债券及部分股票与全球科技股、美债的相关性下降，海外投资者开始增加分散配置。这个变化还不算大，至少在美伊冲突和美股估值偏高的时候，中国资产有了一点独立交易逻辑。<a href="https://www.reuters.com/world/china/china-breaks-step-with-global-markets-investors-buy-2026-07-07/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>国内经济仍是高科技制造相对强，消费和地产偏弱。5月零售销售出现三年多来首次同比下降，投资也偏软，工业生产更多依靠出口和制造业支撑。国产芯片、机器人、AI服务器可以继续活跃，大盘消费和传统顺周期未必跟着一起走。<a href="https://www.reuters.com/world/china/chinas-may-retail-sales-fall-first-time-over-three-years-2026-06-16/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>IMF已把2026年全球增长预测小幅下调至3.0%，理由包括中东战争、贸易碎片化和AI资产预期可能修正。对中国出口链来说，AI服务器和高端制造还有需求，普通制造、低利润出口和欧洲业务会更难。<a href="https://www.reuters.com/world/china/imf-edges-2026-global-growth-forecast-lower-3-sees-rebound-2027-2026-07-08/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<h2>6. 公司重大事件与财报</h2>
+<p>JPMorgan和Goldman Sachs将在7月14日公布二季度业绩。JPMorgan约在美东时间上午7点发布数据，8点30分召开电话会；Goldman同日发布。市场会盯交易收入、投行业务、净息差、贷款增长和信用损失。<a href="https://www.jpmorganchase.com/ir/news/2026/jpmc-to-host-second-quarter-2026-earnings-call?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">JPMorgan Chase+1</a></p>
+<p>Reuters统计，市场预计标普500公司二季度盈利同比增长约24%，科技仍是主要贡献。这个预期已经很高。银行财报如果只小幅超预期，股价未必会买账。市场活跃度上升能推高交易和投行收入，消费者信用、商业地产和贷款需求可能拖后腿。<a href="https://www.reuters.com/business/media-telecom/sp-500-nasdaq-futures-slip-investors-eye-sk-hynix-listing-middle-east-risks-2026-07-10/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<h2>7. 今日投资机会</h2>
+<p>油价已经先涨3%以上，能源和油服会直接受益。开盘后要看Brent能不能站稳78美元，继续向80美元走，能源股还有延续性；很快回落到76美元附近，追高会比较难受。</p>
+<p>AI链条仍然偏强，资金会更挑。Nvidia趋势最好，210美元上方的赔率已经没前面舒服。TSMC、ASML、先进封装、光模块、服务器电源和数据中心电力，本周有财报或订单验证，位置相对更容易找。</p>
+<p>银行股适合看财报后的分化。JPMorgan和Goldman受益于交易、IPO和并购恢复，区域银行更受贷款质量和融资成本影响。油价上升与长债收益率抬头，对银行净息差可能有利，信用成本也可能跟着上去。</p>
+<h2>8. 风险预警</h2>
+<p>霍尔木兹现在是第一风险。伊朗说关闭，美国说开放，实际通航数据会决定油价。出现布雷、商船停航或保险公司停止承保，Brent冲破80美元的速度可能很快。</p>
+<p>AI交易集中度还在升。Nvidia一家公司对纳指和标普的拉动越来越大，Micron、Apple和部分软件已经多次掉队。TSMC或ASML只要给出一点低于预期的指引，半导体波动会被放大。</p>
+<p>美股盈利预期同比增长24%，容错空间不大。银行、半导体和大型科技都需要同时给出收入、利润和指引，单纯超过历史数字已经不够。</p>
+<h2>9. 今日重点关注事项</h2>
+<p>今天亚洲盘先看Brent、WTI、黄金、美元指数和美国股指期货。霍尔木兹实际船舶通行量，比双方表态更有交易价值。</p>
+<p>7月14日看美国CPI、JPMorgan和Goldman Sachs。7月15日看PPI、Bank of America、Citigroup、Wells Fargo及ASML。7月16日看零售销售、TSMC、Netflix和UnitedHealth。<a href="https://www.barrons.com/articles/inflation-bank-of-america-wells-fargo-goldman-asml-j-j-and-more-to-watch-this-week-71bddc40?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Barron's+2JPMorgan Chase+2</a></p>
+<p>三个深入思考的问题：</p>
+<ol>
+<li>
+<p>霍尔木兹通航只下降一部分，油价会停在80美元附近，还是会因保险和运费先失控？</p>
+</li>
+<li>
+<p>TSMC和ASML继续上调AI需求时，市场会继续奖励扩产，还是开始计算2027年的产能过剩？</p>
+</li>
+<li>
+<p>银行财报如果交易收入强、贷款需求弱，美股会把它理解成金融市场繁荣，还是实体经济正在降温？</p>
+</li>
+</ol>
+<div><div><div><div><div><div><a href="https://www.reuters.com/world/asia-pacific/iran-declares-strait-hormuz-closed-unauthorised-vessel-hit-2026-07-11/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener"><div></div><div><div>Reuters</div><div>Iran declares Strait of Hormuz closed as 'unauthorised' vessel hit</div><div>昨天</div></div></a></div></div></div><div><div><div><a href="https://www.reuters.com/business/energy/oil-jumps-more-than-3-after-us-iran-launch-strikes-mideast-2026-07-12/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener"><div></div><div><div>Reuters</div><div>Oil jumps more than 3% after US, Iran launch strikes in Mideast</div><div>今天</div></div></a></div></div></div><div><div><div><a href="https://apnews.com/article/0764d17c09370a8c5cf1e8197a8878ab?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener"><div></div><div><div>AP News</div><div>The US launches more strikes on Iran as the standoff over the Strait of Hormuz escalates</div><div>昨天</div></div></a></div></div></div><div><div><div><a href="https://www.reuters.com/markets/europe/wall-st-week-ahead-investors-grapple-with-packed-week-earnings-cpi-iran-2026-07-10/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener"><div></div><div><div>Reuters</div><div>Wall St Week Ahead Investors to grapple with packed ...</div><div>3天前</div></div></a></div></div></div><div><div><div><a href="https://www.reuters.com/world/asia-pacific/meta-put-ai-chip-into-production-september-it-looks-double-computing-capacity-2026-07-09/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener"><div></div><div><div>Reuters</div><div>Meta to put AI chip into production in September as it looks ...</div><div>4天前</div></div></a></div></div></div><div><div><div><a href="https://www.reuters.com/world/asia-pacific/sk-hynix-ceo-sees-worst-ever-memory-supply-shortage-2027-says-demand-outstrip-2026-07-10/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener"><div></div><div><div>Reuters</div><div>SK Hynix CEO sees worst memory shortage in 2027, ...</div><div>前天</div></div></a></div></div></div></div></div></div></div></div>]]></content:encoded></item><item><title>每日新闻摄影精选｜今天选这张：Reuters / Pablo Sanhueza，委内瑞拉拉瓜伊拉，地震遇难者墓地里成排的新十字架。</title><link>https://youngwilly.github.io/chatgpt-task-rss/#daily-photo-2026-07-13T15-51-15Z</link><guid isPermaLink="false">cf3ce66644566b089009b7cd4d270bdb31851783301934b0b563406fa4b15564</guid><pubDate>Mon, 13 Jul 2026 15:51:15 GMT</pubDate><category>每日新闻摄影精选</category><description>今天选这张：Reuters / Pablo Sanhueza，委内瑞拉拉瓜伊拉，地震遇难者墓地里成排的新十字架。 原图受版权限制，我不放其他墓地照片代替。Reuters Connect 官方页面收录了这张原图： 查看 Reuters 官方图片页 照片拍摄于 2026年7月12日，地点是委内瑞拉拉瓜伊拉的 La Esperanza Cemetery。摄影师 Pablo Sanhueza 从空中拍下大量十字架，它们沿着裸露的土地排开，下面埋葬的是6月24日两次强震中的遇难者。Reuters 将它列入当天的 TPX Images of the Day。Reuters Connect 从画面里先看到的是重复。十字架一个挨着一个，人几乎消失了，地面被切成整齐的行列。地震发生时是楼房倒塌、烟尘和搜救，这张拍的是两个多星期以后，灾难开始在土地上留下固定形状。 截至7月12日，委内瑞拉官方公布的死亡人数已经升至 4490人，另有 16740人受</description><content:encoded><![CDATA[<div class="media-gallery"><figure><a href="https://www.reutersconnect.com/item/aftermath-of-earthquakes-in-la-guaira/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMkVDTUFFNUxXVg?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener"><img src="https://youngwilly.github.io/chatgpt-task-rss/assets/daily-photo-2026-07-13T15-51-15Z-official.webp" alt="2026 年 7 月 12 日，无人机拍摄委内瑞拉拉瓜伊拉拉埃斯佩兰萨公墓的十字架，该公墓埋葬着 6 月 24 日地震的受害者。路透社/Pablo Sanhueza TPX 当天图片" width="800" height="450" loading="lazy" decoding="async" referrerpolicy="no-referrer" data-published-width="800" data-published-height="450"></a><figcaption>2026 年 7 月 12 日，无人机拍摄委内瑞拉拉瓜伊拉拉埃斯佩兰萨公墓的十字架，该公墓埋葬着 6 月 24 日地震的受害者。路透社/Pablo Sanhueza TPX 当天图片 · <span>来源：reutersconnect.com</span></figcaption></figure></div><div><div><p>今天选这张：<strong>Reuters / Pablo Sanhueza，委内瑞拉拉瓜伊拉，地震遇难者墓地里成排的新十字架。</strong></p>
+<p>原图受版权限制，我不放其他墓地照片代替。Reuters Connect 官方页面收录了这张原图：</p>
+<p><a rel="noreferrer noopener" target="_blank">查看 Reuters 官方图片页</a></p>
+<p>照片拍摄于 <strong>2026年7月12日</strong>，地点是委内瑞拉拉瓜伊拉的 <strong>La Esperanza Cemetery</strong>。摄影师 <strong>Pablo Sanhueza</strong> 从空中拍下大量十字架，它们沿着裸露的土地排开，下面埋葬的是6月24日两次强震中的遇难者。Reuters 将它列入当天的 <strong>TPX Images of the Day</strong>。<a href="https://www.reutersconnect.com/item/aftermath-of-earthquakes-in-la-guaira/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMkVDTUFFNUxXVg?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters Connect</a></p>
+<p>从画面里先看到的是重复。十字架一个挨着一个，人几乎消失了，地面被切成整齐的行列。地震发生时是楼房倒塌、烟尘和搜救，这张拍的是两个多星期以后，灾难开始在土地上留下固定形状。</p>
+<p>截至7月12日，委内瑞拉官方公布的死亡人数已经升至 <strong>4490人</strong>，另有 <strong>16740人受伤、17907人无家可归</strong>。6月24日的两次地震震级分别达到7.2和7.5，间隔不到一分钟，拉瓜伊拉是受灾最严重的地区之一。<a href="https://www.reuters.com/world/americas/death-toll-venezuela-earthquakes-rises-4490-2026-07-12/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters+1</a></p>
+<p>这张图很重要，因为死亡人数到了四位数以后，人容易只记住数字。无人机视角把数字重新变成了空间。每一根十字架只占画面里很小的位置，几百根放到一起，规模突然变得很具体。墓地还在扩展，这点很要命。画面没有废墟，却让人知道救援阶段已经逐渐过去，确认身份、安葬、寻找失踪者这些事情还会拖很久。</p>
+<p>Pablo Sanhueza 没有靠某张哭泣的脸来推情绪。高处视角把个人悲伤压低，留下排列、数量和空地。十字架看起来接近，实际对应的是彼此毫无关系的家庭。画面越整齐，事情越难受。灾难把混乱带进城市，最后在墓地里被整理成一排一排的编号和坟墓。</p>
+<p>它在新闻摄影上也很克制。无人机照片常常容易变成漂亮的几何图形，这张的几何感没有盖住现场。棕色土地、浅色十字架、尚未长出植被的新墓区，一眼就能看出这里刚刚被开辟。它拍到了灾难的规模，也留下了时间感。</p>
+<p>三个问题：</p>
+<ol>
+<li>
+<p>当死亡人数不断上升，航拍墓地会不会比单个葬礼更能让人理解灾难规模？</p>
+</li>
+<li>
+<p>墓地里的整齐排列，是对死者尊严的恢复，还是行政系统处理巨大死亡数字后留下的冷感？</p>
+</li>
+<li>
+<p>搜救结束以后，媒体还会不会继续拍身份确认、失踪者家庭和长期安置这些更慢的部分？</p>
 </li>
 </ol></div></div>]]></content:encoded></item></channel></rss>
