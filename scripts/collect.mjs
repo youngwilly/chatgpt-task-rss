@@ -53,6 +53,32 @@ function suitableImage(image) {
     && image.width * image.height >= minImageArea;
 }
 
+function normalizeMatchText(value = "") {
+  return value.toLowerCase().normalize("NFKD").replace(/[^a-z0-9\p{Script=Han}]+/gu, " ").trim();
+}
+
+function imageMatchScore(image, taskText) {
+  const target = taskText.slice(0, 700);
+  const candidate = normalizeMatchText(`${image.alt || ""} ${image.context || ""}`);
+  const byline = target.match(/(?:AP(?:\s+Photo)?|Reuters|Getty(?:\s+Images)?|AFP)\s*\/\s*([^，,\n]+)/i)?.[1]?.trim();
+  let score = byline && candidate.includes(normalizeMatchText(byline)) ? 1000 : 0;
+  const ignored = new Set(["photo", "photos", "image", "images", "official", "page", "news", "reuters", "associated", "press", "today", "this", "that", "with", "from", "after", "before", "copyright"]);
+  const tokens = [...new Set((target.match(/[A-Za-zÀ-ÿ][A-Za-zÀ-ÿ'-]{3,}/g) || []).map(token => normalizeMatchText(token)).filter(token => !ignored.has(token)))];
+  for (const token of tokens) if (candidate.includes(token)) score += 5;
+  return score;
+}
+
+function bestMatchedImage(candidates, taskText, predicate) {
+  const ranked = candidates.filter(predicate).map(image => ({
+    ...image,
+    matchScore: imageMatchScore(image, taskText)
+  })).sort((a, b) =>
+    b.matchScore - a.matchScore || (b.renderedArea + b.width * b.height) - (a.renderedArea + a.width * a.height)
+  );
+  if (ranked.length === 1) return ranked[0];
+  return ranked[0]?.matchScore >= 10 ? ranked[0] : undefined;
+}
+
 async function embeddedMedia(message, itemId) {
   const candidates = await message.locator("img").evaluateAll(images => images.map((image, index) => {
     const link = image.closest("a[href]");
@@ -80,7 +106,7 @@ async function embeddedMedia(message, itemId) {
   return media.map(({ index: _index, ...image }) => image);
 }
 
-async function referencedPhotoMedia(message, itemId) {
+async function referencedPhotoMedia(message, itemId, taskText) {
   const links = await message.locator("a[href]").evaluateAll(anchors => anchors.map(anchor => ({
     url: anchor.href,
     text: (anchor.textContent || "").trim()
@@ -98,23 +124,22 @@ async function referencedPhotoMedia(message, itemId) {
         index,
         src: image.currentSrc || image.src,
         alt: image.alt || "",
+        context: ((image.closest("figure") || image.parentElement?.parentElement || image.parentElement)?.textContent || "").replace(/\s+/g, " ").trim().slice(0, 700),
         width: image.naturalWidth || 0,
         height: image.naturalHeight || 0,
         renderedWidth: Math.round(image.getBoundingClientRect().width),
         renderedHeight: Math.round(image.getBoundingClientRect().height),
         renderedArea: image.getBoundingClientRect().width * image.getBoundingClientRect().height
       })));
-      const selected = candidates.filter(suitableImage).sort((a, b) =>
-        (b.renderedArea + b.width * b.height) - (a.renderedArea + a.width * a.height)
-      )[0];
+      const selected = bestMatchedImage(candidates, taskText, suitableImage);
       if (!selected) {
-        const screenshotCandidate = candidates.filter(image =>
+        const screenshotCandidate = bestMatchedImage(candidates, taskText, image =>
           image.src
           && !/(?:favicon|emoji|avatar|logo)/i.test(`${image.src} ${image.alt || ""}`)
           && image.renderedWidth >= minImageWidth
           && image.renderedHeight >= minImageHeight
           && image.renderedArea >= minImageArea
-        ).sort((a, b) => b.renderedArea - a.renderedArea)[0];
+        );
         if (screenshotCandidate) {
           await fs.mkdir(path.join(archiveDir, "assets"), { recursive: true });
           const highResolutionUrl = screenshotCandidate.src.replace(/([?&])w=\d+/i, "$1w=1200");
@@ -220,7 +245,7 @@ try {
       if (result.text && (!existing || !existing.media?.length)) {
         const itemId = existing?.id || `${task.id}-${slugDate()}`;
         let media = await embeddedMedia(message, itemId);
-        if (!media.length && task.id === "daily-photo") media = await referencedPhotoMedia(message, itemId);
+        if (!media.length && task.id === "daily-photo") media = await referencedPhotoMedia(message, itemId, result.text);
         if (existing) {
           existing.media = media;
         } else {
