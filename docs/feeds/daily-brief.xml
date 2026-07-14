@@ -1,4 +1,51 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>每日重点简报</title><link>https://youngwilly.github.io/chatgpt-task-rss</link><atom:link href="https://youngwilly.github.io/chatgpt-task-rss/feeds/daily-brief.xml" rel="self" type="application/rss+xml"/><description>ChatGPT 计划任务原文订阅</description><language>zh-cn</language><lastBuildDate>Mon, 13 Jul 2026 22:40:15 GMT</lastBuildDate><generator>ChatGPT Task RSS</generator><item><title>每日重点简报</title><link>https://youngwilly.github.io/chatgpt-task-rss/daily-brief.html#daily-brief-2026-07-13T22-40-15Z</link><guid isPermaLink="false">395be4855e9ce74c5efb417b22cc147585380f8d322875e5e77be2a0fce3a4ec</guid><pubDate>Mon, 13 Jul 2026 22:40:15 GMT</pubDate><category>每日重点简报</category><description>每日重点简报 2026年7月14日 1. 昨夜美股收盘概览 周一美股明显降温。标普500跌0.79%至7515.34点，纳指跌1.55%至25873.18点，道指跌0.26%至52498.64点。ETF里，SPY收749.17美元，跌0.79%；QQQ收711.74美元，跌1.87%；DIA收524.47美元，跌0.26%。纳指跌得最重，市场同时在卖AI芯片、抬高能源价格和利率预期。Reuters+1 Nvidia跌3.48%至203.53美元，Micron跌4.32%至937美元，AMD跌4.25%至534.39美元。费城半导体指数跌约4.8%，SanDisk、Marvell、Intel和SK海力士跌幅均超过6%。Apple逆势涨0.68%至317.31美元，资金还愿意留在现金流和终端产品相对清楚的位置。The Wall Street Journal 这场下跌更能看出东西。Nvidia已经从210美元上方回落，Micron强财</description><content:encoded><![CDATA[<div><div><h1>每日重点简报</h1>
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>每日重点简报</title><link>https://youngwilly.github.io/chatgpt-task-rss</link><atom:link href="https://youngwilly.github.io/chatgpt-task-rss/feeds/daily-brief.xml" rel="self" type="application/rss+xml"/><description>ChatGPT 计划任务原文订阅</description><language>zh-cn</language><lastBuildDate>Tue, 14 Jul 2026 22:40:27 GMT</lastBuildDate><generator>ChatGPT Task RSS</generator><item><title>每日重点简报</title><link>https://youngwilly.github.io/chatgpt-task-rss/daily-brief.html#daily-brief-2026-07-14T22-40-27Z</link><guid isPermaLink="false">a3ad54de458ca0d09a1cf22ab03de318307f605487038721423e8515731f1f4a</guid><pubDate>Tue, 14 Jul 2026 22:40:27 GMT</pubDate><category>每日重点简报</category><description>每日重点简报 2026年7月15日 1. 昨夜美股收盘概览 SPY收751.83美元，涨0.37%；QQQ收719.69美元，涨1.11%；DIA收524.69美元，基本持平。标普500上涨0.38%，纳指上涨0.90%，道指只涨9.63点。6月CPI低于预期，银行财报又很强，资金重新回到科技和金融。Reuters+1 Nvidia涨4.08%至211.80美元，重新站回210美元；Micron涨5.01%至983.12美元；AMD涨2.54%至548.13美元。Apple跌0.76%至314.86美元。芯片反弹很猛，软件这边却出了大问题。IBM预警二季度收入约172亿美元，软件和基础设施业务低于预期，股价一天跌25%，创公司历史上最差单日表现。公司提到，客户把预算从传统软件转向服务器、存储和AI数据中心，部分软件项目被推迟或取消。Reuters 这场更能看出AI资金往哪里走。企业还在花钱，只是钱先流向GPU、内存、服务器和数据</description><content:encoded><![CDATA[<div><div><h1>每日重点简报</h1>
+<p>2026年7月15日</p>
+<h2>1. 昨夜美股收盘概览</h2>
+<p>SPY收751.83美元，涨0.37%；QQQ收719.69美元，涨1.11%；DIA收524.69美元，基本持平。标普500上涨0.38%，纳指上涨0.90%，道指只涨9.63点。6月CPI低于预期，银行财报又很强，资金重新回到科技和金融。<a href="https://www.reuters.com/business/finance/wall-st-futures-mixed-ahead-cpi-bank-earnings-us-iran-tensions-focus-2026-07-14/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters+1</a></p>
+<p>Nvidia涨4.08%至211.80美元，重新站回210美元；Micron涨5.01%至983.12美元；AMD涨2.54%至548.13美元。Apple跌0.76%至314.86美元。芯片反弹很猛，软件这边却出了大问题。IBM预警二季度收入约172亿美元，软件和基础设施业务低于预期，股价一天跌25%，创公司历史上最差单日表现。公司提到，客户把预算从传统软件转向服务器、存储和AI数据中心，部分软件项目被推迟或取消。<a href="https://www.reuters.com/business/ibm-expects-second-quarter-revenue-below-estimates-2026-07-14/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>这场更能看出AI资金往哪里走。企业还在花钱，只是钱先流向GPU、内存、服务器和数据中心。Micron、SK海力士、Nvidia上涨，IBM、ServiceNow、Workday等软件股承压。硬件现在吃到预算，软件要等企业把基础设施装完，再证明AI应用能带来收入。</p>
+<h2>2. 宏观与政策</h2>
+<p>美国6月CPI经季调环比下降0.4%，5月为上涨0.5%；同比上涨3.5%，低于市场此前约3.8%的预期。核心CPI同比上涨2.6%，住房成本同比仍涨3.3%，航空票价同比上涨26.5%。数字确实降了，结构没有完全松，出行和服务价格还挺硬。<a href="https://www.bls.gov/news.release/archives/cpi_07142026.htm?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Bureau of Labor Statistics+1</a></p>
+<p>CPI公布后，美债收益率和美元回落，市场减少了近期再次加息的押注。现在还很难直接交易大幅降息。霍尔木兹冲突带来的油价上涨主要发生在7月，尚未完整进入6月CPI。今晚公布的PPI能看企业端成本，8月的CPI才会更清楚地反映能源冲击。</p>
+<p>Brent升至84.73美元，WTI升至79.34美元。美伊相互攻击继续，霍尔木兹通航受限，美国恢复针对伊朗的海上封锁。俄罗斯柴油出口同时受到炼厂袭击影响，全球柴油价格7月已上涨约21%。原油贵是一层，柴油和运费涨得更快，对物流、航空、制造和农业成本更麻烦。<a href="https://www.reuters.com/business/energy/oil-climbs-one-month-high-us-iran-step-up-attacks-strait-hormuz-2026-07-14/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters+1</a></p>
+<h2>3. AI与科技产业</h2>
+<p>TSMC将在7月16日公布二季度财报。Reuters调查预计，公司净利润同比增长约59%，达到6326亿新台币，连续第五个季度创纪录。二季度收入已经同比增长36%，先进制程和CoWoS封装仍供不应求，市场还在猜公司会不会把全年资本开支从520亿至560亿美元上调到接近580亿美元。<a href="https://www.reuters.com/world/asia-pacific/tsmc-seen-riding-ai-boom-fifth-straight-quarter-record-profit-2026-07-14/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>订单强没什么争议，真正容易出分歧的是扩产。资本开支继续上调，ASML、应用材料、先进封装和数据中心设备会受益。扩产速度太快，市场也会开始计算2027年的产能利用率。</p>
+<p>IBM这次预警把AI产业链的预算转移摆到台面上。很多企业先抢服务器、GPU和内存，传统软件采购被延后。短期利好芯片、存储、网络、电源和液冷，应用软件会越来越难靠“接入AI”拿估值。收入增长、续费率和客户实际使用量，缺一项都容易挨打。</p>
+<h2>4. 全球重大新闻</h2>
+<p>霍尔木兹船舶流量已经降到两个月低点。美国和伊朗的新一轮空袭、导弹攻击增加了船东和保险公司的风险，海峡即使没有完全关闭，船只等待、绕行和保费上涨也会抬高真实运输成本。<a href="https://www.reuters.com/world/middle-east/hormuz-traffic-slows-multi-week-low-renewed-us-iran-strikes-raise-safety-risk-2026-07-13/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>油价昨夜只涨约2%，市场暂时认为供应还能维持。这个反应偏克制。商船遇袭数量增加，或保险公司暂停承保，Brent过90美元会很快。现在做能源股还可以，追到情绪最热的位置要留意冲高回落。</p>
+<h2>5. 中国市场与政策</h2>
+<p>中国6月出口明显增长，AI芯片、电子产品和汽车订单提供了主要支撑。出口端还挺强，国内需求依旧偏弱，企业越来越依赖海外买家。AI投资给制造业提供了一层缓冲，地产、消费和普通制造并没有同步改善。<a href="https://www.reuters.com/world/china/chinas-june-trade-tops-forecasts-buoyed-by-ai-boom-2026-07-14/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters+1</a></p>
+<p>这对市场意味着结构行情还会延续。光模块、服务器零部件、PCB、功率设备、汽车出口链有订单，传统内需行业要继续等政策和收入修复。油价接近85美元后，航空、物流、化纤和部分制造企业的成本会重新上升，利润率比收入更值得看。</p>
+<p>中国监管部门近期还在研究限制最先进国产AI模型向海外开放，并可能加强对国内AI初创公司的融资和技术流出管理。阿里、字节跳动和智谱等企业参与了相关沟通。国产模型的战略价值会上升，海外商业化空间可能收窄。<a href="https://www.reuters.com/world/beijing-is-looking-curbing-overseas-access-chinas-top-ai-models-sources-say-2026-07-07/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters+1</a></p>
+<h2>6. 公司重大事件与财报</h2>
+<p>Goldman Sachs二季度净收入203.4亿美元，净利润66.3亿美元，每股收益20.98美元，ROE达到23.5%。股票交易收入创74.2亿美元纪录，同比增长72%；投行业务收入增长55%至34亿美元。股价大涨9.18%至1140美元。<a href="https://www.goldmansachs.com/pressroom/press-releases/2026/2026-07-14-q2-results?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Goldman Sachs+1</a></p>
+<p>JPMorgan录得美国银行史上最高季度利润，投行和股票交易业务大幅增长，股价上涨2.51%。Bank of America二季度收入316亿美元，净利润91亿美元，每股收益1.21美元，有形普通股回报率17%。<a href="https://www.reuters.com/business/finance/jpmorgan-profit-rises-investment-banking-boom-2026-07-14/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters+1</a></p>
+<p>银行赚得非常好，市场活动也接近高点。Jamie Dimon提醒，目前环境已经接近“好到极致”。这句话要听进去。交易、IPO和并购收入很强，未来几个季度继续同比大增会越来越难。</p>
+<h2>7. 今日投资机会</h2>
+<p>AI硬件这条线重新获得资金。Nvidia守住210美元，Micron接近1000美元，TSMC财报前，先进封装、HBM、半导体设备、光通信、电源和液冷还有催化。短线涨幅已经很大，今天更适合等ASML订单和指引出来，再判断扩产链能不能继续。</p>
+<p>金融股里，Goldman和JPMorgan的结果最硬。交易与投行业务复苏已经兑现，继续追高要看并购、IPO和AI基础设施融资能否维持。摩根士丹利今天公布财报，财富管理资金流和股票交易收入会决定金融股能不能再走一天。</p>
+<p>软件股现在要谨慎。IBM预警说明企业预算正在被硬件吸走。没有明显AI收入、续费放缓、销售周期变长的公司，估值还会往下压。</p>
+<h2>8. 风险预警</h2>
+<p>油价已经接近85美元，CPI刚降温带来的利好可能很短。能源价格持续两到三周，8月通胀数据会重新变难看。</p>
+<p>芯片反弹仍然高度集中。Nvidia、Micron和SK海力士涨得很猛，IBM及多家软件公司下跌。企业IT总预算没有无限增加，硬件拿得越多，其他环节越容易被挤。</p>
+<p>银行利润接近纪录，市场对后续要求也会越来越高。交易收入只要正常回落，金融股会很快遇到高基数。</p>
+<h2>9. 今日重点关注事项</h2>
+<p>北京时间今晚20时30分公布美国6月PPI。ASML今天发布二季度财报，Morgan Stanley也将在美股盘前公布结果。市场会盯ASML净订单、EUV设备出货和全年收入指引，Morgan Stanley则看股票交易、投行和财富管理。<a href="https://www.bls.gov/schedule/news_release/ppi.htm?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Bureau of Labor Statistics+2ASML+2</a></p>
+<p>盘中看Brent能否守住84美元，Nvidia能否守住210美元，Micron能否突破1000美元。PPI偏热、油价继续涨，昨夜的科技反弹可能会收窄。ASML订单强、PPI温和，半导体设备和AI基础设施还有一段交易空间。</p>
+<p>三个深入思考的问题：</p>
+<ol>
+<li>
+<p>企业预算从软件转向AI硬件会持续几个季度，哪些软件公司会先出现收入缺口？</p>
+</li>
+<li>
+<p>TSMC和ASML继续扩大产能时，市场什么时候会从缺货交易切到产能过剩交易？</p>
+</li>
+<li>
+<p>银行利润和交易收入都接近纪录后，金融股还能靠什么继续上调估值？</p>
+</li>
+</ol></div></div>]]></content:encoded></item><item><title>每日重点简报</title><link>https://youngwilly.github.io/chatgpt-task-rss/daily-brief.html#daily-brief-2026-07-13T22-40-15Z</link><guid isPermaLink="false">395be4855e9ce74c5efb417b22cc147585380f8d322875e5e77be2a0fce3a4ec</guid><pubDate>Mon, 13 Jul 2026 22:40:15 GMT</pubDate><category>每日重点简报</category><description>每日重点简报 2026年7月14日 1. 昨夜美股收盘概览 周一美股明显降温。标普500跌0.79%至7515.34点，纳指跌1.55%至25873.18点，道指跌0.26%至52498.64点。ETF里，SPY收749.17美元，跌0.79%；QQQ收711.74美元，跌1.87%；DIA收524.47美元，跌0.26%。纳指跌得最重，市场同时在卖AI芯片、抬高能源价格和利率预期。Reuters+1 Nvidia跌3.48%至203.53美元，Micron跌4.32%至937美元，AMD跌4.25%至534.39美元。费城半导体指数跌约4.8%，SanDisk、Marvell、Intel和SK海力士跌幅均超过6%。Apple逆势涨0.68%至317.31美元，资金还愿意留在现金流和终端产品相对清楚的位置。The Wall Street Journal 这场下跌更能看出东西。Nvidia已经从210美元上方回落，Micron强财</description><content:encoded><![CDATA[<div><div><h1>每日重点简报</h1>
 <p>2026年7月14日</p>
 <h2>1. 昨夜美股收盘概览</h2>
 <p>周一美股明显降温。标普500跌0.79%至7515.34点，纳指跌1.55%至25873.18点，道指跌0.26%至52498.64点。ETF里，SPY收749.17美元，跌0.79%；QQQ收711.74美元，跌1.87%；DIA收524.47美元，跌0.26%。纳指跌得最重，市场同时在卖AI芯片、抬高能源价格和利率预期。<a href="https://www.reuters.com/business/sp-500-nasdaq-futures-decline-us-iran-escalation-rattles-sentiment-2026-07-13/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters+1</a></p>
