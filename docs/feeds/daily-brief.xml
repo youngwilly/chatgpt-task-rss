@@ -1,4 +1,53 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>每日重点简报</title><link>https://youngwilly.github.io/chatgpt-task-rss</link><atom:link href="https://youngwilly.github.io/chatgpt-task-rss/feeds/daily-brief.xml" rel="self" type="application/rss+xml"/><description>ChatGPT 计划任务原文订阅</description><language>zh-cn</language><lastBuildDate>Wed, 15 Jul 2026 22:40:31 GMT</lastBuildDate><generator>ChatGPT Task RSS</generator><item><title>每日重点简报</title><link>https://youngwilly.github.io/chatgpt-task-rss/daily-brief.html#daily-brief-2026-07-15T22-40-31Z</link><guid isPermaLink="false">caac2e151f655851bcb14926d9d4787400599201fb267a9ee9936c8947e09041</guid><pubDate>Wed, 15 Jul 2026 22:40:31 GMT</pubDate><category>每日重点简报</category><description>每日重点简报 2026年7月16日 1. 昨夜美股收盘概览 标普500涨0.38%，收7572.42点；纳指涨0.62%，收26269.23点；道指涨0.29%，收52659.18点。SPY收754.81美元，涨0.33%；DIA涨0.23%；QQQ收717.74美元，跌0.31%，ETF表现和指数有些错位，主要受盘后及成分权重影响。美股整体上涨，但成交量只有162.7亿股，低于过去20个交易日平均的214亿股，追涨力量没有指数看起来那么狠。Reuters Apple大涨3.97%至327.50美元，市值逼近4.83万亿美元；Nvidia小涨0.29%至212.50美元。Micron暴跌7.94%至904.28美元，AMD跌3.47%至529.14美元，费城半导体指数跌2.1%。盘面很清楚，钱从高波动芯片里撤了一部分，转去Apple、Alphabet、Amazon等大市值平台公司。The Wall Street Journal </description><content:encoded><![CDATA[<div><div><h1>每日重点简报</h1>
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>每日重点简报</title><link>https://youngwilly.github.io/chatgpt-task-rss</link><atom:link href="https://youngwilly.github.io/chatgpt-task-rss/feeds/daily-brief.xml" rel="self" type="application/rss+xml"/><description>ChatGPT 计划任务原文订阅</description><language>zh-cn</language><lastBuildDate>Thu, 16 Jul 2026 22:40:19 GMT</lastBuildDate><generator>ChatGPT Task RSS</generator><item><title>每日重点简报</title><link>https://youngwilly.github.io/chatgpt-task-rss/daily-brief.html#daily-brief-2026-07-16T22-40-19Z</link><guid isPermaLink="false">ac21963c8ad643e2d0cb350f52251b7f5df7fccf68a325d50235fa74cf415996</guid><pubDate>Thu, 16 Jul 2026 22:40:19 GMT</pubDate><category>每日重点简报</category><description>每日重点简报 2026年7月17日 1. 昨夜美股收盘概览 芯片又被砸了一轮。SPY收750.72美元，跌0.53%；QQQ收705.94美元，跌1.61%；DIA收524.83美元，跌0.20%。纳指跌1.47%，费城半导体指数跌4.3%，标普科技板块跌1.8%。半导体在标普500中的权重已经超过20%，这条线一松，指数很难靠其他行业完全顶住。Reuters Nvidia跌2.38%至207.40美元，TSMC美股跌2.27%至409.74美元，Micron跌5.60%至853.20美元，AMD跌5.31%至500.94美元。SanDisk、Western Digital、Seagate、Intel最多跌12.6%。Apple反而涨1.75%至333.26美元，市值接近4.91万亿美元。钱还留在大型科技里，只是从高波动芯片转向终端品牌和现金流更清楚的平台公司。Reuters 这场很能说明现在的情绪。TSMC利润大幅超预期，芯片</description><content:encoded><![CDATA[<div><div><h1>每日重点简报</h1>
+<p>2026年7月17日</p>
+<h2>1. 昨夜美股收盘概览</h2>
+<p>芯片又被砸了一轮。SPY收750.72美元，跌0.53%；QQQ收705.94美元，跌1.61%；DIA收524.83美元，跌0.20%。纳指跌1.47%，费城半导体指数跌4.3%，标普科技板块跌1.8%。半导体在标普500中的权重已经超过20%，这条线一松，指数很难靠其他行业完全顶住。<a href="https://www.reuters.com/business/wall-st-futures-pause-after-two-day-rally-investors-await-data-earnings-2026-07-16/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>Nvidia跌2.38%至207.40美元，TSMC美股跌2.27%至409.74美元，Micron跌5.60%至853.20美元，AMD跌5.31%至500.94美元。SanDisk、Western Digital、Seagate、Intel最多跌12.6%。Apple反而涨1.75%至333.26美元，市值接近4.91万亿美元。钱还留在大型科技里，只是从高波动芯片转向终端品牌和现金流更清楚的平台公司。<a href="https://www.reuters.com/business/wall-st-futures-pause-after-two-day-rally-investors-await-data-earnings-2026-07-16/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>这场很能说明现在的情绪。TSMC利润大幅超预期，芯片股照样下跌。市场已经不满足于需求强，还在算资本开支、估值和AI投资什么时候变成客户利润。好财报只能阻止基本面崩掉，暂时挡不住仓位收缩。</p>
+<h2>2. 宏观与政策</h2>
+<p>美国上周初请失业金减少8000人至20.8万人，低于市场预期的21.7万人，也是5月以来最低。持续领取失业金人数降至180.5万人。就业市场仍是招聘慢、裁员也慢，没有明显衰退信号。<a href="https://www.reuters.com/world/us/us-weekly-jobless-claims-fall-labor-market-remains-stable-2026-07-16/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>6月零售销售小幅增长，核心零售表现更稳，制造业活动也明显走强。经济数据偏硬，市场进一步降低了美联储近期降息的想象。10年期美债收益率小幅上升，美元走强。通胀刚刚降温，就业和消费又没有明显断，美联储继续按兵不动的理由很充分。<a href="https://www.reuters.com/world/china/global-markets-global-markets-2026-07-16/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters+2Reuters+2</a></p>
+<p>油价昨夜回落，WTI收78.95美元。美伊继续交火，霍尔木兹和曼德海峡仍有运输风险，油价却没有继续冲，市场暂时相信供应还能维持。这个反应有点钝。后面一旦商船遇袭增加、保险公司提高保费，运输成本可能先于原油价格上去。<a href="https://www.reuters.com/world/china/global-markets-global-markets-2026-07-16/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<h2>3. AI与科技产业</h2>
+<p>TSMC二季度净利润7066亿新台币，约220亿美元，同比增长77%，远高于市场预期的6326亿新台币。AI处理器需求依旧很猛，Nvidia、Apple和定制芯片客户都在推高先进制程利用率。<a href="https://www.reuters.com/world/asia-pacific/tsmc-q2-profit-jumps-77-record-far-surpasses-expectations-2026-07-16/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>公司把2026年资本开支上调至600亿至640亿美元，之前的区间更低，同时计划在美国追加1000亿美元投资。收入和利润都很好，股价仍跌2.3%。这个地方会很麻烦。市场开始担心，云厂商投入规模越来越大，应用端利润和现金回报跟不上硬件建设速度。<a href="https://www.reuters.com/world/asia-pacific/tsmcs-second-quarter-profit-seen-hitting-record-ai-boom-2026-07-15/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters+1</a></p>
+<p>韩国芯片市场的波动更夸张。KOSPI单日跌6%，从6月高位已经回落约27%，外资流出速度接近25年来最快。韩国监管机构也开始干预与Samsung、SK海力士挂钩的高杠杆ETF。AI硬件还在增长，仓位和估值已经进入清理阶段。<a href="https://www.reuters.com/world/china/global-markets-view-europe-2026-07-16/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters+1</a></p>
+<p>现在芯片链内部的顺序变了。晶圆代工、先进封装、网络和电力设备还有订单支撑，存储和二线GPU压力更大。Micron已经从1000美元附近跌到853美元，前期缺货和涨价逻辑还在，市场开始提前交易扩产、替代和客户成本压力。</p>
+<h2>4. 全球重大新闻</h2>
+<p>美国和伊朗继续互相攻击，中东风险没有实质缓和。俄罗斯与乌克兰对多个城镇和城市发动袭击，至少13人死亡。油价和黄金昨夜反而下跌，说明资金当前更关注芯片估值和美国经济数据。地缘风险只是被暂时压住，没有消失。<a href="https://www.reuters.com/world/china/global-markets-global-markets-2026-07-16/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters+1</a></p>
+<p>Netflix盘后跌约8%。公司二季度收入125.6亿美元，每股收益0.80美元，三季度收入指引128.6亿美元、每股收益0.82美元，略低于市场预期。业务没有突然变差，增长已经进入成熟期。广告收入目标约30亿美元，生成式AI已被用于约300部内容制作，后面要看广告、直播赛事和游戏能不能接住订阅放缓。<a href="https://www.reuters.com/business/media-telecom/netflix-third-quarter-earnings-forecast-falls-shy-wall-street-expectations-2026-07-16/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<h2>5. 中国市场与政策</h2>
+<p>上海世界人工智能大会今天开幕，持续至7月20日。中国将提出更完整的全球AI治理方案，华为会发布Atlas 950 SuperPoD算力集群，采用昇腾处理器和本土技术体系。国产算力今天会有政策和产品双重催化。<a href="https://www.reuters.com/world/china/chinas-xi-outline-ai-diplomacy-vision-key-shanghai-forum-2026-07-16/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters+1</a></p>
+<p>长鑫存储计划在上海IPO融资约86亿美元，若超额配售全部行使，规模可能接近98亿美元，将成为今年亚洲最大IPO，也可能创A股半导体融资纪录。公司收入同比增长约700%，已经扭亏，当前估值约830亿美元。市场有人把上市后估值看到数千亿美元，这个预期很猛，也很容易把短期价格推离盈利。<a href="https://www.reuters.com/world/asia-pacific/chinese-banks-set-41-million-payday-chipmakers-86-billion-ipo-2026-07-16/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters+1</a></p>
+<p>长鑫的产业价值没有问题。Apple也在寻找更多中国DRAM供应，服务器和AI设备的内存需求持续上升。IPO规模太大，会带动国产存储、设备、材料和券商投行情绪，也会抽走一部分二级市场资金。</p>
+<h2>6. 公司重大事件与财报</h2>
+<p>UnitedHealth二季度每股收益6.38美元，高于市场预期的4.90美元，全年调整后每股收益指引提高到19.50至20美元。医疗成本率从去年同期89.4%降至86.7%，股价上涨近8%。公司过去一年投入约15亿美元用于AI，行政效率和医疗成本控制开始反映到利润里。<a href="https://www.reuters.com/legal/litigation/unitedhealth-raises-2026-forecast-it-controls-medical-costs-2026-07-16/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>这个案例比很多AI概念股更实在。AI投入直接降低成本、改善运营指标，市场愿意给钱。只讲模型能力、看不到收入和费用变化的公司，估值会越来越难撑。</p>
+<h2>7. 今日投资机会</h2>
+<p>芯片已经连续大幅调整，今天可以观察恐慌后的承接，暂时不急着接Micron和AMD。Nvidia守住200美元，龙头结构还在；跌破200美元并放量，AI硬件调整可能继续向设备、光模块和电力链扩散。</p>
+<p>中国方向今天更容易交易华为Atlas 950、国产算力集群、昇腾生态、服务器内存和长鑫IPO链。高开以后要看成交能不能留下来。只有大会概念，没有订单和供货能力的公司，很容易冲高回落。</p>
+<p>医疗保险和AI降本也是一条线。UnitedHealth已经给出真实财务验证，后面可以关注医疗支付、药品福利管理、医疗数据和自动化运营公司。</p>
+<h2>8. 风险预警</h2>
+<p>TSMC利润增长77%，股价仍跌，说明AI芯片已经进入高预期消化期。好消息无法推动上涨时，仓位通常还没有出清。</p>
+<p>Micron、AMD、韩国芯片股都在快速下跌，存储和二线算力的波动可能继续放大。前期使用杠杆和追高资金较多，技术性反弹也会很剧烈。</p>
+<p>美国就业、零售和制造业都不弱。市场继续押近期降息，容易被美债收益率反复打脸。</p>
+<p>长鑫IPO规模接近百亿美元。国产存储情绪会被推高，融资抽水和估值过热会同时出现。</p>
+<h2>9. 今日重点关注事项</h2>
+<p>今天先看亚洲芯片股能否止跌，尤其是SK海力士、Samsung和TSMC。A股看世界人工智能大会、华为Atlas 950和长鑫存储相关链条。</p>
+<p>美股今晚看Nvidia 200美元、Micron 840至850美元、AMD 500美元，以及TSMC能否收回400美元。Netflix盘后大跌会不会扩散到流媒体和互联网广告，也值得看。</p>
+<p>Brent和WTI如果继续回落，通胀压力会暂时缓一点。油价重新冲过82美元，美债和高估值科技股还会承压。</p>
+<p>三个深入思考的问题：</p>
+<ol>
+<li>
+<p>TSMC利润增长77%仍被卖，AI硬件还需要多大的盈利增速，才能重新推动估值上升？</p>
+</li>
+<li>
+<p>长鑫存储上市后，如果估值迅速跳到全球存储龙头附近，订单和技术差距要用几年才能填上？</p>
+</li>
+<li>
+<p>UnitedHealth已经用AI改善成本率，下一批真正兑现AI回报的公司会出现在金融、工业，还是企业软件？</p>
+</li>
+</ol></div></div>]]></content:encoded></item><item><title>每日重点简报</title><link>https://youngwilly.github.io/chatgpt-task-rss/daily-brief.html#daily-brief-2026-07-15T22-40-31Z</link><guid isPermaLink="false">caac2e151f655851bcb14926d9d4787400599201fb267a9ee9936c8947e09041</guid><pubDate>Wed, 15 Jul 2026 22:40:31 GMT</pubDate><category>每日重点简报</category><description>每日重点简报 2026年7月16日 1. 昨夜美股收盘概览 标普500涨0.38%，收7572.42点；纳指涨0.62%，收26269.23点；道指涨0.29%，收52659.18点。SPY收754.81美元，涨0.33%；DIA涨0.23%；QQQ收717.74美元，跌0.31%，ETF表现和指数有些错位，主要受盘后及成分权重影响。美股整体上涨，但成交量只有162.7亿股，低于过去20个交易日平均的214亿股，追涨力量没有指数看起来那么狠。Reuters Apple大涨3.97%至327.50美元，市值逼近4.83万亿美元；Nvidia小涨0.29%至212.50美元。Micron暴跌7.94%至904.28美元，AMD跌3.47%至529.14美元，费城半导体指数跌2.1%。盘面很清楚，钱从高波动芯片里撤了一部分，转去Apple、Alphabet、Amazon等大市值平台公司。The Wall Street Journal </description><content:encoded><![CDATA[<div><div><h1>每日重点简报</h1>
 <p>2026年7月16日</p>
 <h2>1. 昨夜美股收盘概览</h2>
 <p>标普500涨0.38%，收7572.42点；纳指涨0.62%，收26269.23点；道指涨0.29%，收52659.18点。SPY收754.81美元，涨0.33%；DIA涨0.23%；QQQ收717.74美元，跌0.31%，ETF表现和指数有些错位，主要受盘后及成分权重影响。美股整体上涨，但成交量只有162.7亿股，低于过去20个交易日平均的214亿股，追涨力量没有指数看起来那么狠。<a href="https://www.reuters.com/business/wall-st-futures-edge-up-with-earnings-focus-paypal-jumps-2026-07-15/" target="_blank" rel="noreferrer noopener">Reuters</a></p>
