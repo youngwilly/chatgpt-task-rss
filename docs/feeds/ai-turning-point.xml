@@ -1,4 +1,214 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>AI Turning Point Scan</title><link>https://youngwilly.github.io/chatgpt-task-rss</link><atom:link href="https://youngwilly.github.io/chatgpt-task-rss/feeds/ai-turning-point.xml" rel="self" type="application/rss+xml"/><description>ChatGPT 计划任务原文订阅</description><language>zh-cn</language><lastBuildDate>Mon, 13 Jul 2026 15:51:26 GMT</lastBuildDate><generator>ChatGPT Task RSS</generator><item><title>AI Turning Point Scan｜AI投资转折点报告</title><link>https://youngwilly.github.io/chatgpt-task-rss/ai-turning-point.html#ai-turning-point-2026-07-13T15-51-26Z</link><guid isPermaLink="false">0a5cad8b4e5c8e9bf791fbdd53416aa1d4593861d8fa8d2dbde5e2a078fad629</guid><pubDate>Mon, 13 Jul 2026 15:51:26 GMT</pubDate><category>AI Turning Point Scan</category><description>AI投资转折点报告 日期：2026年7月12日 过去一周真正值得看的，不是哪家公司又发布了一个模型，而是三件已经开始影响产业链利润分配的事情。 7月9日，Meta Platforms内部文件显示，自研AI芯片 Iris 将于9月进入量产，同时计划到2027年将AI算力提升至14GW，并继续维持极高强度的基础设施投资。这意味着Hyperscaler开始进入第二阶段，自研ASIC与GPU并行，而整体算力需求并没有下降。Reuters 同一天，Micron Technology宣布未来十年再增加500亿美元美国投资，总投资规模提高至2500亿美元，同时继续扩大HBM和DRAM供应链建设。Business Insider+1 市场却开始担心另一件事。 过去几天，美股半导体板块明显调整。原因不是订单减少，而是投资者开始怀疑7000亿美元以上的AI资本开支最终能否兑现足够的利润。这个预期差，很可能决定未来6个月市场风格。The Wall S</description><content:encoded><![CDATA[<div><div><h1>AI投资转折点报告</h1>
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>AI Turning Point Scan</title><link>https://youngwilly.github.io/chatgpt-task-rss</link><atom:link href="https://youngwilly.github.io/chatgpt-task-rss/feeds/ai-turning-point.xml" rel="self" type="application/rss+xml"/><description>ChatGPT 计划任务原文订阅</description><language>zh-cn</language><lastBuildDate>Sun, 19 Jul 2026 22:40:24 GMT</lastBuildDate><generator>ChatGPT Task RSS</generator><item><title>AI Turning Point Scan｜AI产业转折点周报</title><link>https://youngwilly.github.io/chatgpt-task-rss/ai-turning-point.html#ai-turning-point-2026-07-19T22-40-24Z</link><guid isPermaLink="false">46b3ac191e8c21c7b527885dadb2b8dec096671c5e0f676a10db36c85e1f965d</guid><pubDate>Sun, 19 Jul 2026 22:40:24 GMT</pubDate><category>AI Turning Point Scan</category><description>AI产业转折点周报 日期：2026年7月19日 过去一周市场最大的变化不是AI能力，而是资金开始重新定价AI产业链。 7月14日，IBM发布业绩预警，表示大量企业将IT预算从软件转向服务器、芯片和网络设备采购，导致软件业务订单延迟，股价单日暴跌约25%。这是第一次有大型软件公司明确承认AI基础设施正在挤占传统软件预算。Reuters 7月17日，UBS预计Hyperscaler资本开支增速将在2028年明显放缓，部分机构开始降低半导体仓位，转向云平台、网络安全和医疗等AI应用方向。不过，大多数机构并未质疑AI投资本身，只是在调整产业链配置。Reuters 与此同时，Meta Platforms继续扩大数据中心建设，路易斯安那Hyperion园区规划提升至5GW，单项目投资超过500亿美元，自研AI芯片&quot;Iris&quot;仍按计划9月投产。Investing.com+1 真正发生变化的是市场预期，而不是产业需求。 一页结论 排名转折点主题</description><content:encoded><![CDATA[<div><div><h1>AI产业转折点周报</h1>
+<p><strong>日期：2026年7月19日</strong></p>
+<p>过去一周市场最大的变化不是AI能力，而是资金开始重新定价AI产业链。</p>
+<p>7月14日，IBM发布业绩预警，表示大量企业将IT预算从软件转向服务器、芯片和网络设备采购，导致软件业务订单延迟，股价单日暴跌约25%。这是第一次有大型软件公司明确承认AI基础设施正在挤占传统软件预算。<a href="https://www.reuters.com/business/ibm-expects-second-quarter-revenue-below-estimates-2026-07-14/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>7月17日，UBS预计Hyperscaler资本开支增速将在2028年明显放缓，部分机构开始降低半导体仓位，转向云平台、网络安全和医疗等AI应用方向。不过，大多数机构并未质疑AI投资本身，只是在调整产业链配置。<a href="https://www.reuters.com/business/retail-consumer/among-ai-crowd-some-investors-position-slower-hyperscaler-spending-growth-2026-07-17/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>与此同时，Meta Platforms继续扩大数据中心建设，路易斯安那Hyperion园区规划提升至5GW，单项目投资超过500亿美元，自研AI芯片"Iris"仍按计划9月投产。<a href="https://www.investing.com/news/stock-market-news/meta-expands-louisiana-data-center-to-5-gigawatts-compute-capacity-4787796?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Investing.com+1</a></p>
+<p>真正发生变化的是市场预期，而不是产业需求。</p>
+<hr>
+<h1>一页结论</h1>
+<div><div><div><section><h4>AI基础设施继续扩张，但估值开始分化</h4><dl><dt><strong>排名</strong></dt><dd>1</dd><dt><strong>转折点主题</strong></dt><dd>AI基础设施继续扩张，但估值开始分化</dd><dt><strong>核心结论</strong></dt><dd>需求仍强，估值进入筛选阶段</dd><dt><strong>最高置信度标的</strong></dt><dd>Broadcom</dd><dt><strong>交易方向</strong></dt><dd>做多</dd><dt><strong>市场定价</strong></dt><dd>部分定价</dd><dt><strong>催化剂</strong></dt><dd>Q2财报</dd><dt><strong>总分</strong></dt><dd>92</dd></dl></section><hr><section><h4>HBM长期景气仍在延续</h4><dl><dt><strong>排名</strong></dt><dd>2</dd><dt><strong>转折点主题</strong></dt><dd>HBM长期景气仍在延续</dd><dt><strong>核心结论</strong></dt><dd>扩产速度仍慢于需求</dd><dt><strong>最高置信度标的</strong></dt><dd>Micron Technology</dd><dt><strong>交易方向</strong></dt><dd>做多</dd><dt><strong>市场定价</strong></dt><dd>部分定价</dd><dt><strong>催化剂</strong></dt><dd>HBM ASP、交期</dd><dt><strong>总分</strong></dt><dd>90</dd></dl></section><hr><section><h4>软件预算被基础设施挤压</h4><dl><dt><strong>排名</strong></dt><dd>3</dd><dt><strong>转折点主题</strong></dt><dd>软件预算被基础设施挤压</dd><dt><strong>核心结论</strong></dt><dd>传统软件承压，AI平台受益</dd><dt><strong>最高置信度标的</strong></dt><dd>Microsoft</dd><dt><strong>交易方向</strong></dt><dd>配对交易</dd><dt><strong>市场定价</strong></dt><dd>刚开始反映</dd><dt><strong>催化剂</strong></dt><dd>企业AI收入</dd><dt><strong>总分</strong></dt><dd>87</dd></dl></section><hr><section><h4>电力仍是核心瓶颈</h4><dl><dt><strong>排名</strong></dt><dd>4</dd><dt><strong>转折点主题</strong></dt><dd>电力仍是核心瓶颈</dd><dt><strong>核心结论</strong></dt><dd>GW级数据中心继续增加</dd><dt><strong>最高置信度标的</strong></dt><dd>Vertiv Holdings</dd><dt><strong>交易方向</strong></dt><dd>做多</dd><dt><strong>市场定价</strong></dt><dd>部分定价</dd><dt><strong>催化剂</strong></dt><dd>数据中心订单</dd><dt><strong>总分</strong></dt><dd>86</dd></dl></section><hr><section><h4>ASIC进入兑现阶段</h4><dl><dt><strong>排名</strong></dt><dd>5</dd><dt><strong>转折点主题</strong></dt><dd>ASIC进入兑现阶段</dd><dt><strong>核心结论</strong></dt><dd>自研芯片开始量产</dd><dt><strong>最高置信度标的</strong></dt><dd>Broadcom</dd><dt><strong>交易方向</strong></dt><dd>做多</dd><dt><strong>市场定价</strong></dt><dd>未完全定价</dd><dt><strong>催化剂</strong></dt><dd>Meta Iris投产</dd><dt><strong>总分</strong></dt><dd>85</dd></dl></section><hr></div></div></div>
+<hr>
+<h1>本周看到的几个变化</h1>
+<h3>1. 软件第一次公开承认预算被AI基础设施抢走</h3>
+<p>IBM说得非常直接。</p>
+<p>客户为了抢服务器、GPU、网络设备，把原本的软件预算推迟了。</p>
+<p>这一点比AI模型发布更重要。</p>
+<p>意味着企业IT预算开始重新分配。</p>
+<p>钱开始流向：</p>
+<ul>
+<li>
+<p>GPU</p>
+</li>
+<li>
+<p>网络</p>
+</li>
+<li>
+<p>存储</p>
+</li>
+<li>
+<p>电源</p>
+</li>
+<li>
+<p>数据中心</p>
+</li>
+</ul>
+<p>钱暂时流出：</p>
+<ul>
+<li>
+<p>ERP升级</p>
+</li>
+<li>
+<p>普通企业软件</p>
+</li>
+<li>
+<p>部分咨询项目</p>
+</li>
+</ul>
+<p>这意味着未来两个季度，很可能继续看到：</p>
+<p>基础设施收入超预期。</p>
+<p>传统软件低于预期。<a href="https://www.reuters.com/business/ibm-expects-second-quarter-revenue-below-estimates-2026-07-14/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<hr>
+<h3>2. 市场开始讨论Capex，而不是订单</h3>
+<p>最近最大的变化来自资金。</p>
+<p>过去一年：</p>
+<p>市场相信</p>
+<p>Capex越高越好。</p>
+<p>现在：</p>
+<p>开始问：</p>
+<p>什么时候赚钱？</p>
+<p>Reuters采访的基金经理开始降低芯片仓位。</p>
+<p>增加：</p>
+<ul>
+<li>
+<p>Hyperscaler</p>
+</li>
+<li>
+<p>医疗</p>
+</li>
+<li>
+<p>网络安全</p>
+</li>
+</ul>
+<p>原因很简单。</p>
+<p>如果AI Capex继续增加：</p>
+<p>最终赚钱最多的可能变成平台，而不是全部供应商。<a href="https://www.reuters.com/business/retail-consumer/among-ai-crowd-some-investors-position-slower-hyperscaler-spending-growth-2026-07-17/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>这里我没有完全认同。</p>
+<p>因为目前看到的数据仍然说明：</p>
+<p>订单没有减。</p>
+<p>只是估值开始提前修正。</p>
+<hr>
+<h3>3. Meta没有停</h3>
+<p>市场担心Capex。</p>
+<p>Meta继续增加。</p>
+<p>Hyperion：</p>
+<ul>
+<li>
+<p>5GW</p>
+</li>
+<li>
+<p>超过500亿美元</p>
+</li>
+</ul>
+<p>Iris：</p>
+<ul>
+<li>
+<p>9月量产</p>
+</li>
+<li>
+<p>Broadcom参与设计</p>
+</li>
+<li>
+<p>TSMC制造</p>
+</li>
+</ul>
+<p>说明：</p>
+<p>Hyperscaler开始优化成本。</p>
+<p>没有停止建设。<a href="https://www.investing.com/news/stock-market-news/meta-expands-louisiana-data-center-to-5-gigawatts-compute-capacity-4787796?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Investing.com+1</a></p>
+<hr>
+<h1>AI转折点雷达</h1>
+<div><div><div><section><h4>ASIC</h4><dl><dt><strong>主题</strong></dt><dd>ASIC</dd><dt><strong>新瓶颈</strong></dt><dd>降低GPU依赖</dd><dt><strong>谁付钱</strong></dt><dd>Meta、微软等</dd><dt><strong>谁赚钱</strong></dt><dd>Broadcom、TSMC</dd><dt><strong>最新证据</strong></dt><dd>Meta 9月投产Iris<a href="https://www.investing.com/news/stock-market-news/exclusivemeta-to-put-ai-chip-into-production-in-september-as-it-looks-to-double-computing-capacity-memo-shows-4783736?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Investing.com</a></dd><dt><strong>是否仍有预期差</strong></dt><dd>有</dd><dt><strong>分数</strong></dt><dd>92</dd></dl></section><hr><section><h4>HBM</h4><dl><dt><strong>主题</strong></dt><dd>HBM</dd><dt><strong>新瓶颈</strong></dt><dd>推理内存不足</dd><dt><strong>谁付钱</strong></dt><dd>Hyperscaler</dd><dt><strong>谁赚钱</strong></dt><dd>Micron、SK Hynix</dd><dt><strong>最新证据</strong></dt><dd>Micron继续扩大2500亿美元投资计划<a href="https://www.investing.com/news/stock-market-news/micron-to-invest-up-to-3-billion-in-us-chip-supply-chain-4784116?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Investing.com</a></dd><dt><strong>是否仍有预期差</strong></dt><dd>有</dd><dt><strong>分数</strong></dt><dd>90</dd></dl></section><hr><section><h4>电力</h4><dl><dt><strong>主题</strong></dt><dd>电力</dd><dt><strong>新瓶颈</strong></dt><dd>5GW级园区</dd><dt><strong>谁付钱</strong></dt><dd>云厂商</dd><dt><strong>谁赚钱</strong></dt><dd>Vertiv、Eaton</dd><dt><strong>最新证据</strong></dt><dd>Meta Hyperion扩建<a href="https://www.investing.com/news/stock-market-news/meta-expands-louisiana-data-center-to-5-gigawatts-compute-capacity-4787796?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Investing.com</a></dd><dt><strong>是否仍有预期差</strong></dt><dd>部分</dd><dt><strong>分数</strong></dt><dd>86</dd></dl></section><hr><section><h4>企业AI</h4><dl><dt><strong>主题</strong></dt><dd>企业AI</dd><dt><strong>新瓶颈</strong></dt><dd>预算重新分配</dd><dt><strong>谁付钱</strong></dt><dd>企业</dd><dt><strong>谁赚钱</strong></dt><dd>Microsoft</dd><dt><strong>最新证据</strong></dt><dd>IBM业绩预警<a href="https://www.reuters.com/business/ibm-expects-second-quarter-revenue-below-estimates-2026-07-14/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></dd><dt><strong>是否仍有预期差</strong></dt><dd>有</dd><dt><strong>分数</strong></dt><dd>87</dd></dl></section><hr><section><h4>AI软件</h4><dl><dt><strong>主题</strong></dt><dd>AI软件</dd><dt><strong>新瓶颈</strong></dt><dd>ROI兑现</dd><dt><strong>谁付钱</strong></dt><dd>企业</dd><dt><strong>谁赚钱</strong></dt><dd>头部平台</dd><dt><strong>最新证据</strong></dt><dd>预算受压<a href="https://www.reuters.com/business/ibm-expects-second-quarter-revenue-below-estimates-2026-07-14/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></dd><dt><strong>是否仍有预期差</strong></dt><dd>部分</dd><dt><strong>分数</strong></dt><dd>72</dd></dl></section><hr></div></div></div>
+<hr>
+<h1>Top 5交易机会</h1>
+<h2>① Broadcom</h2>
+<p><strong>操作：确认仓</strong></p>
+<p>现在最大的变化已经不是GPU数量。</p>
+<p>而是：</p>
+<p>每家Hyperscaler都开始做ASIC。</p>
+<p>Broadcom已经变成：</p>
+<p>AI ASIC设计平台。</p>
+<p>未来一年：</p>
+<p>Meta只是开始。</p>
+<p>还有更多客户可能进入。</p>
+<p><strong>失效条件</strong></p>
+<p>Hyperscaler停止自研。</p>
+<hr>
+<h2>② Micron Technology</h2>
+<p><strong>操作：确认仓</strong></p>
+<p>看到的数据仍然支持HBM景气。</p>
+<p>公司继续扩大投资。</p>
+<p>说明：</p>
+<p>订单仍在。</p>
+<p>真正需要盯的是：</p>
+<p>HBM价格什么时候开始下降。</p>
+<p>目前没有看到这个迹象。<a href="https://www.investing.com/news/stock-market-news/micron-to-invest-up-to-3-billion-in-us-chip-supply-chain-4784116?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Investing.com</a></p>
+<hr>
+<h2>③ Vertiv Holdings</h2>
+<p><strong>操作：确认仓</strong></p>
+<p>只要GW继续增长。</p>
+<p>UPS、液冷、配电就不会缺订单。</p>
+<p>真正需要担心的是：</p>
+<p>估值已经不低。</p>
+<hr>
+<h2>④ Microsoft</h2>
+<p><strong>操作：左侧增加关注</strong></p>
+<p>IBM其实侧面证明了一件事。</p>
+<p>企业开始花钱。</p>
+<p>只是：</p>
+<p>花的钱还没有流向所有软件公司。</p>
+<p>最后真正受益：</p>
+<p>可能集中到平台。</p>
+<hr>
+<h2>⑤ Taiwan Semiconductor Manufacturing Company</h2>
+<p><strong>操作：确认仓</strong></p>
+<p>ASIC越来越多。</p>
+<p>GPU越来越复杂。</p>
+<p>最后都要先进制程。</p>
+<p>这里目前没有看到需求下降。</p>
+<hr>
+<h1>做空或受损资产</h1>
+<div><div><div><section><h4>传统企业软件</h4><dl><dt><strong>资产</strong></dt><dd>传统企业软件</dd><dt><strong>原因</strong></dt><dd>预算被基础设施挤占</dd><dt><strong>做空可行性</strong></dt><dd>中</dd><dt><strong>风险</strong></dt><dd>AI收入超预期</dd></dl></section><hr><section><h4>纯概念AI SaaS</h4><dl><dt><strong>资产</strong></dt><dd>纯概念AI SaaS</dd><dt><strong>原因</strong></dt><dd>收入兑现慢</dd><dt><strong>做空可行性</strong></dt><dd>高</dd><dt><strong>风险</strong></dt><dd>市场情绪推动</dd></dl></section><hr><section><h4>缺订单机器人概念股</h4><dl><dt><strong>资产</strong></dt><dd>缺订单机器人概念股</dd><dt><strong>原因</strong></dt><dd>商业化仍慢</dd><dt><strong>做空可行性</strong></dt><dd>高</dd><dt><strong>风险</strong></dt><dd>政策催化</dd></dl></section><hr></div></div></div>
+<hr>
+<h1>配对交易</h1>
+<div><div><div><section><h4>Broadcom</h4><dl><dt><strong>做多</strong></dt><dd>Broadcom</dd><dt><strong>做空</strong></dt><dd>高估值传统软件</dd><dt><strong>原因</strong></dt><dd>预算迁移</dd></dl></section><hr><section><h4>Micron</h4><dl><dt><strong>做多</strong></dt><dd>Micron</dd><dt><strong>做空</strong></dt><dd>普通DRAM厂商</dd><dt><strong>原因</strong></dt><dd>HBM利润集中</dd></dl></section><hr><section><h4>Microsoft</h4><dl><dt><strong>做多</strong></dt><dd>Microsoft</dd><dt><strong>做空</strong></dt><dd>传统企业软件ETF</dd><dt><strong>原因</strong></dt><dd>AI平台集中度提高</dd></dl></section><hr></div></div></div>
+<hr>
+<h1>观察名单</h1>
+<div><div><div><section><h4>企业Agent</h4><dl><dt><strong>主题</strong></dt><dd>企业Agent</dd><dt><strong>缺什么</strong></dt><dd>真实ROI</dd><dt><strong>买入信号</strong></dt><dd>连续两个季度ARR加速</dd></dl></section><hr><section><h4>AI存储</h4><dl><dt><strong>主题</strong></dt><dd>AI存储</dd><dt><strong>缺什么</strong></dt><dd>采购数据</dd><dt><strong>买入信号</strong></dt><dd>企业Capex提升</dd></dl></section><hr><section><h4>AI眼镜</h4><dl><dt><strong>主题</strong></dt><dd>AI眼镜</dd><dt><strong>缺什么</strong></dt><dd>销量</dd><dt><strong>买入信号</strong></dt><dd>季度出货明显提升</dd></dl></section><hr><section><h4>机器人</h4><dl><dt><strong>主题</strong></dt><dd>机器人</dd><dt><strong>缺什么</strong></dt><dd>批量订单</dd><dt><strong>买入信号</strong></dt><dd>工业客户持续采购</dd></dl></section><hr></div></div></div>
+<hr>
+<h1>数据缺口</h1>
+<p>目前仍缺少公开且可靠的数据支持以下判断：</p>
+<ul>
+<li>
+<p>各Hyperscaler自研ASIC占总算力比例。</p>
+</li>
+<li>
+<p>企业Agent部署后的真实投资回报率。</p>
+</li>
+<li>
+<p>全球AI存储采购金额。</p>
+</li>
+<li>
+<p>HBM长期合同覆盖率。</p>
+</li>
+</ul>
+<p>这些地方还需要等待下一轮财报和供应链披露。</p>
+<h1>交易员版本</h1>
+<p><strong>现在最值得研究的方向：</strong></p>
+<p>ASIC、高带宽内存、电力基础设施、AI平台软件。</p>
+<p><strong>现在最可能被低估的标的：</strong></p>
+<p>Broadcom、Microsoft、Vertiv Holdings。</p>
+<p><strong>现在最拥挤、最需要小心的标的：</strong></p>
+<p>部分高估值AI芯片股。市场已经开始担心资本开支增速放缓，估值波动可能明显放大。<a href="https://www.reuters.com/business/retail-consumer/among-ai-crowd-some-investors-position-slower-hyperscaler-spending-growth-2026-07-17/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters+1</a></p>
+<p><strong>未来30天需要盯的催化剂：</strong></p>
+<p>微软、Meta、Alphabet、Amazon二季度财报，AI资本开支指引是否继续上修；IBM财报是否进一步验证企业预算迁移。<a href="https://www.reuters.com/business/ibm-expects-second-quarter-revenue-below-estimates-2026-07-14/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p><strong>未来90天需要盯的数据：</strong></p>
+<p>HBM价格和交期，ASIC量产节奏，企业AI收入占比，数据中心新项目开工数量。</p>
+<p><strong>当前最优交易结构：</strong></p>
+<p>继续配置AI基础设施龙头，同时逐步增加能够直接实现AI商业化的平台公司，对传统企业软件保持谨慎，对估值过高且缺乏订单验证的AI概念股降低权重。</p>
+<p><strong>什么情况下承认判断错了：</strong></p>
+<p>如果未来两个季度Hyperscaler连续下调资本开支，HBM价格快速回落，Meta等公司推迟ASIC量产或大型数据中心建设计划放缓，那么当前关于基础设施仍是最大利润池的判断需要重新修正。</p>
+<p>三个值得继续思考的问题：</p>
+<ol>
+<li>
+<p>如果Hyperscaler开始更多采用自研ASIC，未来五年最大的利润池会留在芯片设计、先进制造，还是软件生态？</p>
+</li>
+<li>
+<p>企业IT预算已经从软件转向基础设施，当基础设施建设趋于稳定，资金会优先回流到AI应用、网络安全还是数据治理？</p>
+</li>
+<li>
+<p>市场开始交易AI资本开支放缓预期，如果Capex增速下降但AI收入继续增长，估值切换最先发生在哪一层产业链？</p>
+</li>
+</ol></div></div>]]></content:encoded></item><item><title>AI Turning Point Scan｜AI投资转折点报告</title><link>https://youngwilly.github.io/chatgpt-task-rss/ai-turning-point.html#ai-turning-point-2026-07-13T15-51-26Z</link><guid isPermaLink="false">0a5cad8b4e5c8e9bf791fbdd53416aa1d4593861d8fa8d2dbde5e2a078fad629</guid><pubDate>Mon, 13 Jul 2026 15:51:26 GMT</pubDate><category>AI Turning Point Scan</category><description>AI投资转折点报告 日期：2026年7月12日 过去一周真正值得看的，不是哪家公司又发布了一个模型，而是三件已经开始影响产业链利润分配的事情。 7月9日，Meta Platforms内部文件显示，自研AI芯片 Iris 将于9月进入量产，同时计划到2027年将AI算力提升至14GW，并继续维持极高强度的基础设施投资。这意味着Hyperscaler开始进入第二阶段，自研ASIC与GPU并行，而整体算力需求并没有下降。Reuters 同一天，Micron Technology宣布未来十年再增加500亿美元美国投资，总投资规模提高至2500亿美元，同时继续扩大HBM和DRAM供应链建设。Business Insider+1 市场却开始担心另一件事。 过去几天，美股半导体板块明显调整。原因不是订单减少，而是投资者开始怀疑7000亿美元以上的AI资本开支最终能否兑现足够的利润。这个预期差，很可能决定未来6个月市场风格。The Wall S</description><content:encoded><![CDATA[<div><div><h1>AI投资转折点报告</h1>
 <p><strong>日期：2026年7月12日</strong></p>
 <p>过去一周真正值得看的，不是哪家公司又发布了一个模型，而是三件已经开始影响产业链利润分配的事情。</p>
 <p>7月9日，Meta Platforms内部文件显示，自研AI芯片 <strong>Iris</strong> 将于9月进入量产，同时计划到2027年将AI算力提升至14GW，并继续维持极高强度的基础设施投资。这意味着Hyperscaler开始进入第二阶段，自研ASIC与GPU并行，而整体算力需求并没有下降。<a href="https://www.reuters.com/world/asia-pacific/meta-put-ai-chip-into-production-september-it-looks-double-computing-capacity-2026-07-09/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
