@@ -6,6 +6,8 @@ const tasks = await readJson(path.join(root, "config/tasks.json"), []);
 const { items = [] } = await readJson(path.join(archiveDir, "index.json"), { items: [] });
 const baseUrl = (process.env.PUBLIC_BASE_URL || "https://youngwilly.github.io/chatgpt-task-rss").replace(/\/$/, "");
 const basePath = new URL(baseUrl).pathname.replace(/\/$/, "");
+const aggregateFeedLimit = 20;
+const taskFeedLimit = 5;
 await fs.rm(docsDir, { recursive: true, force: true });
 await fs.mkdir(path.join(docsDir, "feeds"), { recursive: true });
 
@@ -141,7 +143,8 @@ function itemSummary(item) {
 }
 
 function rss(filter, feedFile) {
-  const list = (filter ? items.filter(x => x.taskId === filter) : items).slice(0, 100);
+  const list = (filter ? items.filter(x => x.taskId === filter) : items)
+    .slice(0, filter ? taskFeedLimit : aggregateFeedLimit);
   const title = filter ? tasks.find(x => x.id === filter)?.title || "任务结果" : "ChatGPT 计划任务合集";
   const feedUrl = filter ? `${baseUrl}/feeds/${filter}.xml` : `${baseUrl}/${feedFile || "rss.xml"}`;
   const lastBuildDate = list.length ? new Date(list[0].publishedAt).toUTCString() : new Date().toUTCString();
@@ -150,11 +153,12 @@ function rss(filter, feedFile) {
     const fullContent = `${mediaMarkup(item, { rss: true })}${preparedHtml(item.html, { rss: true })}`.replaceAll("]]>", "]]]]><![CDATA[>");
     return `<item><title>${escapeXml(itemTitle(item))}</title><link>${escapeXml(url)}</link><guid isPermaLink="false">${escapeXml(item.hash)}</guid><pubDate>${new Date(item.publishedAt).toUTCString()}</pubDate><category>${escapeXml(item.taskTitle)}</category><description>${escapeXml(itemSummary(item))}</description><content:encoded><![CDATA[${fullContent}]]></content:encoded></item>`;
   }).join("");
-  return `<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>${escapeXml(title)}</title><link>${escapeXml(baseUrl)}</link><atom:link href="${escapeXml(feedUrl)}" rel="self" type="application/rss+xml"/><description>ChatGPT 计划任务原文订阅</description><language>zh-cn</language><lastBuildDate>${lastBuildDate}</lastBuildDate><generator>ChatGPT Task RSS</generator>${entries}</channel></rss>`;
+  return `<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>${escapeXml(title)}</title><link>${escapeXml(baseUrl)}</link><atom:link href="${escapeXml(feedUrl)}" rel="self" type="application/rss+xml"/><description>ChatGPT 计划任务原文订阅</description><language>zh-cn</language><lastBuildDate>${lastBuildDate}</lastBuildDate><ttl>10</ttl><generator>ChatGPT Task RSS</generator>${entries}</channel></rss>`;
 }
 
 function jsonFeed(filter) {
-  const list = (filter ? items.filter(x => x.taskId === filter) : items).slice(0, 100);
+  const list = (filter ? items.filter(x => x.taskId === filter) : items)
+    .slice(0, filter ? taskFeedLimit : aggregateFeedLimit);
   const title = filter ? tasks.find(x => x.id === filter)?.title || "任务结果" : "ChatGPT 计划任务合集";
   const feedUrl = filter ? `${baseUrl}/feeds/${filter}.json` : `${baseUrl}/feed.json`;
   return JSON.stringify({
