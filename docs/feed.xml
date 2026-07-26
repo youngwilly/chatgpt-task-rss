@@ -1,4 +1,78 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>ChatGPT 计划任务合集</title><link>https://youngwilly.github.io/chatgpt-task-rss</link><atom:link href="https://youngwilly.github.io/chatgpt-task-rss/feed.xml" rel="self" type="application/rss+xml"/><description>ChatGPT 计划任务原文订阅</description><language>zh-cn</language><lastBuildDate>Sun, 26 Jul 2026 14:10:51 GMT</lastBuildDate><ttl>10</ttl><generator>ChatGPT Task RSS</generator><item><title>AI Turning Point Scan｜AI投资转折点周报</title><link>https://youngwilly.github.io/chatgpt-task-rss/#ai-turning-point-2026-07-26T14-10-51Z</link><guid isPermaLink="false">96d41c69dc1c592250058ba630697633879e28e5930c4e275bc3336ac14555d4</guid><pubDate>Sun, 26 Jul 2026 14:10:51 GMT</pubDate><category>AI Turning Point Scan</category><description>AI投资转折点周报 日期：2026年7月26日 这一周最大的变化发生在资本市场。 Alphabet公布季度业绩后，把全年资本开支指引再次提高到 1950亿至2050亿美元。收入和Google Cloud增长都超过预期，但自由现金流首次转负，股价仍下跌超过6%。市场开始重新给AI基础设施估值，焦点已经从“谁投得最多”变成“什么时候赚钱”。Financial Times+1 Reuters统计的LSEG数据显示，微软、Alphabet、Amazon、Meta和Oracle到2027年的累计AI资本开支增量约5340亿美元，同期经营现金流增量约3400亿美元，相当于每新增1美元经营现金流，需要投入约1.57美元资本开支。Reuters 另一边，Meta没有踩刹车。 路易斯安那 Hyperion 数据中心已经扩大到5GW，投资超过500亿美元。内部计划仍维持2027年14GW算力目标，自研ASIC &quot;Iris&quot;按计划推进。Investi</description><content:encoded><![CDATA[<div><div><h1>AI投资转折点周报</h1>
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>ChatGPT 计划任务合集</title><link>https://youngwilly.github.io/chatgpt-task-rss</link><atom:link href="https://youngwilly.github.io/chatgpt-task-rss/feed.xml" rel="self" type="application/rss+xml"/><description>ChatGPT 计划任务原文订阅</description><language>zh-cn</language><lastBuildDate>Sun, 26 Jul 2026 22:40:42 GMT</lastBuildDate><ttl>10</ttl><generator>ChatGPT Task RSS</generator><item><title>每日重点简报</title><link>https://youngwilly.github.io/chatgpt-task-rss/#daily-brief-2026-07-26T22-40-42Z</link><guid isPermaLink="false">85b3580aa998697556cd1471afc5f1974c24e364fb28c40848c856f78e7647d7</guid><pubDate>Sun, 26 Jul 2026 22:40:42 GMT</pubDate><category>每日重点简报</category><description>每日重点简报 2026年7月27日 1. 昨夜美股收盘概览 周五收盘，SPY报738.93美元，涨0.10%；QQQ跌1.10%至684.23美元；DIA涨0.49%至518.76美元。Nvidia跌0.83%至206.84美元，Micron跌6.90%至920.95美元，Tesla再跌2.09%至313.03美元。Apple逆势涨3.57%至333.02美元，市值约4.90万亿美元。 这盘还在做同一件事。资金继续降低芯片和高资本开支公司的仓位，同时往Apple、道指成分股和现金流更容易计算的公司里躲。Micron一天跌近7%，前几天从800美元附近急拉到1000美元附近，随后又被卖下来，存储短缺逻辑还在，筹码已经很乱。 Alphabet财报后只反弹0.63%至319.74美元。Google Cloud增长很快，资本开支和自由现金流压力也很重。市场现在愿意给AI订单付钱，对投入多久才能回来越来越没耐心。Reuters 2. 宏观</description><content:encoded><![CDATA[<div><div><h1>每日重点简报</h1>
+<p>2026年7月27日</p>
+<h2>1. 昨夜美股收盘概览</h2>
+<p>周五收盘，SPY报738.93美元，涨0.10%；QQQ跌1.10%至684.23美元；DIA涨0.49%至518.76美元。Nvidia跌0.83%至206.84美元，Micron跌6.90%至920.95美元，Tesla再跌2.09%至313.03美元。Apple逆势涨3.57%至333.02美元，市值约4.90万亿美元。</p>
+<p>这盘还在做同一件事。资金继续降低芯片和高资本开支公司的仓位，同时往Apple、道指成分股和现金流更容易计算的公司里躲。Micron一天跌近7%，前几天从800美元附近急拉到1000美元附近，随后又被卖下来，存储短缺逻辑还在，筹码已经很乱。</p>
+<p>Alphabet财报后只反弹0.63%至319.74美元。Google Cloud增长很快，资本开支和自由现金流压力也很重。市场现在愿意给AI订单付钱，对投入多久才能回来越来越没耐心。<a href="https://www.reuters.com/business/wall-st-futures-rise-after-tech-rout-mideast-tariffs-focus-2026-07-24/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<h2>2. 宏观与政策</h2>
+<p>周末最大的变化是美国暂停对伊朗的空袭。美国方面称，希望给谈判留出空间；伊朗高级官员表示，只要美国维持暂停，伊朗也将停止报复性打击。周一早盘美国股指期货走高，WTI原油一度跌约5%，回到每桶85美元以下。<a href="https://www.reuters.com/world/asia-pacific/iran-will-halt-attacks-long-us-maintains-pause-iranian-source-says-after-trump-2026-07-26/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters+2Reuters+2</a></p>
+<p>这能给市场喘口气，海上运输风险还没消失。胡塞武装周末袭击沙特红海沿岸石油设施，沙特阿美股价周日下跌0.9%；一艘伊朗油轮在霍尔木兹附近据报触雷爆炸。美国停止空袭，红海和霍尔木兹的安全问题仍在。<a href="https://www.reuters.com/world/middle-east/most-gulf-markets-ease-after-houthi-attacks-saudi-red-sea-oil-sites-2026-07-26/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters+1</a></p>
+<p>美联储7月28日至29日开会。市场主流预期是维持利率，真正会影响交易的是声明中对油价、关税、AI建设成本和秋季加息可能性的描述。美国二季度GDP初值与6月PCE将在7月30日美东时间上午8时30分同时公布；5月PCE同比已升至4.1%。<a href="https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Federal Reserve+2Bureau of Economic Analysis+2</a></p>
+<p>油价回落能压低短线加息预期。Brent和WTI只要重新冲回100美元附近，周末这次风险资产反弹很容易缩回去。</p>
+<h2>3. AI与科技产业</h2>
+<p>本周Microsoft、Meta、Amazon和Apple集中公布财报，AI交易会连续接受四次检查。Microsoft已经确认7月29日美股收盘后发布业绩。上一季度Azure及其他云服务收入增长40%，商业剩余履约义务达到6270亿美元，同比增长99%。<a href="https://www.microsoft.com/en-us/investor/earnings/fy-2026-q3/press-release-webcast?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Microsoft+2Microsoft+2</a></p>
+<p>市场会盯四个数字：云收入、资本开支、折旧、自由现金流。资本开支继续上调，Nvidia、Broadcom、光模块、服务器、电力设备会先拿到订单确认。云业务利润率跟不上，平台公司的估值还会被压，硬件股也会提前反映客户未来削减支出的风险。</p>
+<p>Micron现在的问题也在这里。AI服务器内存短期仍然紧，长鑫存储和长江存储已经开始利用供需紧张提高报价、挑选客户。Reuters报道，长鑫部分DRAM报价甚至高于韩国竞争对手，并与字节跳动、腾讯签下数十亿美元级合同。长鑫计划继续扩产，并希望在本十年末超过Micron。<a href="https://www.reuters.com/world/china/chinas-memory-chip-makers-ride-ai-boom-new-power-us-scrutiny-2026-07-24/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>短期缺货和长期扩产同时存在。Micron可以继续赚高价格，市场会越来越早交易2027年后的供给增加，这个票后面大概率还是大上大下。</p>
+<h2>4. 全球重大新闻</h2>
+<p>美伊暂时停火，谈判窗口重新打开。美国的海上封锁仍未取消，胡塞武装在红海开辟了第二条战线。周末海湾股市普遍下跌，说明当地资金还没有把冲突当成彻底结束。<a href="https://www.reuters.com/world/asia-pacific/iran-will-halt-attacks-long-us-maintains-pause-iranian-source-says-after-trump-2026-07-26/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters+1</a></p>
+<p>油价快速下跌对航空、邮轮、物流、化工和消费股有利。航线安全没有恢复，保险费、绕航时间和柴油成本不会跟着原油一天内全部降下来。航空股如果高开太多，我会对持续性留一点余地。</p>
+<h2>5. 中国市场与政策</h2>
+<p>长鑫存储今天登陆科创板，IPO融资约86亿美元，是今年亚洲规模最大的上市项目。公司已成为全球第四大DRAM厂商，合肥国资相关投资者持股36.8%。<a href="https://www.reuters.com/world/china/chipmaker-cxmt-debut-spotlights-chinas-state-funded-path-tech-power-2026-07-23/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters+1</a></p>
+<p>今天别只看长鑫涨多少。发行规模很大，上市初期出现高换手并不意外。更有用的是半导体设备、材料、服务器内存和券商板块能不能同步放量，以及长鑫高开后有没有持续机构承接。</p>
+<p>Shein披露上市前财务数据，一季度亏损9900万美元，去年同期盈利3.95亿美元。美国取消小额包裹免税、欧洲增加低价包裹费用，再叠加3.28亿美元的一次性会计支出，令美国收入下降14.3%。公司香港IPO目标估值降至400亿至500亿美元，远低于2022年的1000亿美元。<a href="https://www.reuters.com/legal/transactional/shein-reveals-key-financials-ahead-hong-kong-ipo-2026-07-26/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>这对中国跨境电商很有参考价值。流量和供应链能力还在，免税政策消失后，低价直邮模式的利润会被税费、物流和合规成本直接吃掉。</p>
+<h2>6. 公司重大事件与财报</h2>
+<p>本周约177家标普500公司公布业绩，Microsoft、Meta、Amazon和Apple是最关键的四家。市场已经看过Alphabet和Intel的反应，收入超过预期也可能下跌，资本开支和现金流会比单季度利润更影响股价。<a href="https://www.investopedia.com/what-to-expect-in-markets-this-week-amazon-apple-meta-microsoft-earnings-fed-interest-rate-decision-12025525?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Investopedia+1</a></p>
+<p>Apple周五大涨后，40倍左右市盈率并不低。财报需要证明中国销售、服务收入和硬件提价后的需求还能撑住。Microsoft和Meta要证明AI收入能够追上数据中心折旧；Amazon要看AWS增速与零售利润率能不能同时守住。</p>
+<h2>7. 今日投资机会</h2>
+<p>油价早盘大跌，航空、邮轮、物流和消费股可能先反弹。这个交易依赖停火持续时间，适合看开盘后的油价和航运消息，不适合只凭周末标题追。</p>
+<p>AI硬件连续调整后也有修复条件。Nvidia守住200美元，网络、先进封装、光模块、服务器电源和数据中心电力可能跟着回流。只有Nvidia反弹，Micron和设备股继续弱，更多还是龙头回补。</p>
+<p>A股今天先围绕长鑫交易。国产DRAM设备、材料和服务器内存有直接催化。开盘涨幅过大，长鑫又快速回落，整个科创板可能受到融资抽水。</p>
+<h2>8. 风险预警</h2>
+<p>美伊暂停攻击属于脆弱停火。红海设施继续遇袭，霍尔木兹仍有触雷和封锁风险，油价随时可能重新跳升。</p>
+<p>本周美联储、GDP、PCE和四家大科技财报挤在一起。油价降温后，市场重新给科技股加仓，财报稍微低于预期，回撤会很快。</p>
+<p>长鑫上市会提振国产芯片，也会带来巨额新股供给。存储产业景气和二级市场股价未必同步走。</p>
+<h2>9. 今日重点关注事项</h2>
+<p>亚洲盘先看WTI能否维持在85美元以下，美国股指期货的涨幅能否保住，以及红海有没有新的袭击。</p>
+<p>A股看长鑫存储首日换手、科创板成交额和半导体设备板块。美股盘中盯Nvidia 200美元、Micron 900美元、Apple 330美元和美国10年期国债收益率。</p>
+<p>7月29日看FOMC与Microsoft财报。7月30日看美国GDP、PCE、Apple和Amazon。Meta的资本开支与广告增长也会直接影响AI硬件链。</p>
+<p>三个深入思考的问题：</p>
+<ol>
+<li>
+<p>油价因停火快速回落后，市场会先恢复AI风险偏好，还是继续等大科技证明自由现金流？</p>
+</li>
+<li>
+<p>长鑫已经能提价并挑选客户，国产DRAM扩产会在什么时候从稀缺利好变成全球供给压力？</p>
+</li>
+<li>
+<p>Shein失去小额包裹免税后转为亏损，哪些跨境电商还能靠品牌和本地仓把利润保住？</p>
+</li>
+</ol>
+<div><div><div><div><div><div><a href="https://www.reuters.com/world/asia-pacific/iran-will-halt-attacks-long-us-maintains-pause-iranian-source-says-after-trump-2026-07-26/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener"><div><div>Reuters</div><div>After Trump calls off bombing, Iran signals it will halt strikes as long as US does</div><div>今天</div></div></a></div></div></div><div><div><div><a href="https://www.reuters.com/world/middle-east/most-gulf-markets-ease-after-houthi-attacks-saudi-red-sea-oil-sites-2026-07-26/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener"><div><div>Reuters</div><div>Most Gulf markets ease after Houthi attacks on Saudi Red Sea oil sites</div><div>今天</div></div></a></div></div></div><div><div><div><a href="https://www.reuters.com/world/china/chipmaker-cxmt-debut-spotlights-chinas-state-funded-path-tech-power-2026-07-23/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener"><div><div>Reuters</div><div>Chipmaker CXMT debut spotlights China's state-funded path to tech power</div><div>3天前</div></div></a></div></div></div><div><div><div><a href="https://www.reuters.com/world/china/chinas-memory-chip-makers-ride-ai-boom-new-power-us-scrutiny-2026-07-24/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener"><div><div>Reuters</div><div>China's memory chip makers ride AI boom to new power - and U.S. scrutiny</div><div>前天</div></div></a></div></div></div><div><div><div><a href="https://www.reuters.com/legal/transactional/shein-reveals-key-financials-ahead-hong-kong-ipo-2026-07-26/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener"><div><div>Reuters</div><div>Shein flags tariff hits after posting quarterly loss ahead of Hong Kong IPO</div><div>今天</div></div></a></div></div></div><div><div><div><a href="https://www.reuters.com/business/wall-st-week-ahead-us-stocks-face-tests-fed-decision-tech-led-earnings-deluge-2026-07-24/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener"><div></div><div><div>Reuters</div><div>Wall St Week Ahead US stocks face tests from Fed decision, tech-led earnings deluge</div><div>前天</div></div></a></div></div></div></div></div></div></div></div>]]></content:encoded></item><item><title>每日新闻摄影精选｜一名死者亲属站在遗体旁边。地点是乌克兰哈尔科夫，时间是2026年7月26日。当天早晨，一枚俄罗斯发射的 Band</title><link>https://youngwilly.github.io/chatgpt-task-rss/#daily-photo-2026-07-26T22-40-07Z</link><guid isPermaLink="false">71297acaabf6bb1821d43291f33da29246854da1a73f73a50a66cc8bc699e682</guid><pubDate>Sun, 26 Jul 2026 22:40:39 GMT</pubDate><category>每日新闻摄影精选</category><description>一名死者亲属站在遗体旁边。地点是乌克兰哈尔科夫，时间是2026年7月26日。当天早晨，一枚俄罗斯发射的 Banderol 巡航导弹击中住宅楼，一名女性死亡，数十人受伤。Getty 官方页面同时给出了原图、完整图注、拍摄日期、摄影师和图片编号。Getty Images 今天选这张。 摄影师：Pavlo Pakhomenko 机构：NurPhoto via Getty Images 地点：乌克兰哈尔科夫 日期：2026年7月26日 Getty 图片编号：2287070128 原图采用 Rights-managed 授权，这里不转载，也不放相似图片。可直接打开 Getty Images Editorial 官方原图页面查看。Getty Images 这张照片停在袭击已经结束之后。导弹、爆炸和救援行动都容易形成大场面，这里只留下一个亲属和一具遗体。两者之间的距离很短，战争也就从军事通报缩到一个家庭里。 Getty 的图注没有公开死者和亲</description><content:encoded><![CDATA[<div><div><p>一名死者亲属站在遗体旁边。地点是乌克兰哈尔科夫，时间是2026年7月26日。当天早晨，一枚俄罗斯发射的 Banderol 巡航导弹击中住宅楼，一名女性死亡，数十人受伤。Getty 官方页面同时给出了原图、完整图注、拍摄日期、摄影师和图片编号。<a href="https://www.gettyimages.com/detail/news-photo/relative-of-a-woman-killed-in-a-strike-stands-next-to-her-news-photo/2287070128" target="_blank" rel="noreferrer noopener">Getty Images</a></p>
+<p>今天选这张。</p>
+<p>摄影师：<strong>Pavlo Pakhomenko</strong><br>
+机构：<strong>NurPhoto via Getty Images</strong><br>
+地点：<strong>乌克兰哈尔科夫</strong><br>
+日期：<strong>2026年7月26日</strong><br>
+Getty 图片编号：<strong>2287070128</strong></p>
+<p>原图采用 Rights-managed 授权，这里不转载，也不放相似图片。可直接打开 <strong>Getty Images Editorial 官方原图页面</strong>查看。<a href="https://www.gettyimages.com/detail/news-photo/relative-of-a-woman-killed-in-a-strike-stands-next-to-her-news-photo/2287070128" target="_blank" rel="noreferrer noopener">Getty Images</a></p>
+<p>这张照片停在袭击已经结束之后。导弹、爆炸和救援行动都容易形成大场面，这里只留下一个亲属和一具遗体。两者之间的距离很短，战争也就从军事通报缩到一个家庭里。</p>
+<p>Getty 的图注没有公开死者和亲属的姓名。这个细节也挺重。新闻里是一名死亡者，家属面对的是一个认识了很多年的人。统计数字和私人关系之间的落差，全压在这张照片里。<a href="https://www.gettyimages.com/detail/news-photo/relative-of-a-woman-killed-in-a-strike-stands-next-to-her-news-photo/2287070128" target="_blank" rel="noreferrer noopener">Getty Images</a></p>
+<p>摄影师没有依靠爆炸瞬间制造冲击。遗体已经静止，亲属仍站在那里。一个人在场，一个人已经离开。画面里的关系很简单，后劲会比烟火场面更长。</p>
+<p>同一天，俄罗斯向乌克兰发射了7枚弹道导弹和136架无人机。哈尔科夫的袭击造成至少一人死亡、12人受伤，基辅、切尔尼戈夫和扎波罗热也出现平民伤亡。乌克兰对俄占区和俄罗斯境内发动的无人机袭击同样造成平民死亡。双方都否认以平民为目标。<a href="https://www.reuters.com/world/europe/overnight-russian-attack-triggers-fires-ukrainian-capital-kyiv-2026-07-25/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters+1</a></p>
+<p>这张图有个很难绕开的地方。战争进入第五年后，类似照片已经出现过很多次。摄影师还要继续拍，编辑还要继续刊登，观众也可能越来越快地划过去。照片的价值就在于把一次可能被淹没的死亡留住几秒。</p>
+<ol>
+<li>
+<p>当同类袭击反复发生，新闻摄影还要怎样拍，才能避免死亡变成重复图像？</p>
+</li>
+<li>
+<p>图注没有公布死者姓名时，照片保留了隐私，也失去了一部分具体身份，这个边界该放在哪里？</p>
+</li>
+<li>
+<p>一张亲属站在遗体旁边的照片，会推动公众重新关注战争，还是只留下短暂情绪？</p>
+</li>
+</ol></div></div>]]></content:encoded></item><item><title>AI Turning Point Scan｜AI投资转折点周报</title><link>https://youngwilly.github.io/chatgpt-task-rss/#ai-turning-point-2026-07-26T14-10-51Z</link><guid isPermaLink="false">96d41c69dc1c592250058ba630697633879e28e5930c4e275bc3336ac14555d4</guid><pubDate>Sun, 26 Jul 2026 14:10:51 GMT</pubDate><category>AI Turning Point Scan</category><description>AI投资转折点周报 日期：2026年7月26日 这一周最大的变化发生在资本市场。 Alphabet公布季度业绩后，把全年资本开支指引再次提高到 1950亿至2050亿美元。收入和Google Cloud增长都超过预期，但自由现金流首次转负，股价仍下跌超过6%。市场开始重新给AI基础设施估值，焦点已经从“谁投得最多”变成“什么时候赚钱”。Financial Times+1 Reuters统计的LSEG数据显示，微软、Alphabet、Amazon、Meta和Oracle到2027年的累计AI资本开支增量约5340亿美元，同期经营现金流增量约3400亿美元，相当于每新增1美元经营现金流，需要投入约1.57美元资本开支。Reuters 另一边，Meta没有踩刹车。 路易斯安那 Hyperion 数据中心已经扩大到5GW，投资超过500亿美元。内部计划仍维持2027年14GW算力目标，自研ASIC &quot;Iris&quot;按计划推进。Investi</description><content:encoded><![CDATA[<div><div><h1>AI投资转折点周报</h1>
 <p><strong>日期：2026年7月26日</strong></p>
 <p>这一周最大的变化发生在资本市场。</p>
 <p>Alphabet公布季度业绩后，把全年资本开支指引再次提高到 <strong>1950亿至2050亿美元</strong>。收入和Google Cloud增长都超过预期，但自由现金流首次转负，股价仍下跌超过6%。市场开始重新给AI基础设施估值，焦点已经从“谁投得最多”变成“什么时候赚钱”。<a href="https://www.ft.com/content/b02f972c-c764-4006-9377-42563d9d5530?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Financial Times+1</a></p>
@@ -1990,79 +2064,5 @@ IGV支撑88.74，压力92.22。</p>
 </li>
 <li>
 <p>软件、网络安全和数据中心电力开始跑赢GPU，这种轮动只是短期避险，还是AI投资进入下一阶段的信号？</p>
-</li>
-</ol></div></div>]]></content:encoded></item><item><title>每日重点简报</title><link>https://youngwilly.github.io/chatgpt-task-rss/#daily-brief-2026-07-19T22-40-18Z</link><guid isPermaLink="false">e08d2868ff45f6dd02f3c1c2253391a7e4956f5507959f6b26cc8f40889a8617</guid><pubDate>Sun, 19 Jul 2026 22:40:18 GMT</pubDate><category>每日重点简报</category><description>每日重点简报 2026年7月20日 1. 昨夜美股收盘概览 周末没有新收盘，市场今天面对的仍是周五留下来的弱盘面。SPY跌0.98%至743.29美元，QQQ跌1.49%至695.33美元，DIA跌0.76%至520.81美元。Nvidia跌2.28%至202.81美元，盘中最低198.05美元；TSMC跌2.89%至398.37美元；AMD跌1.17%至495.76美元。 Micron收848.95美元，表面只跌0.47%，盘中却从804.48美元拉到902.94美元，日内振幅超过12%。这个价格里同时挤着抄底、止损和杠杆平仓，暂时还很难说企稳。Apple逆势微涨至333.74美元，市盈率约40倍，资金宁愿付较高估值，去买收入结构和现金流更容易计算的公司。 芯片已经连续几天出现好消息也涨不动的情况。TSMC利润增长很快，AI订单仍强，股价照样跌。前面交易的是算力短缺，眼下开始算资本开支回报、产能扩张和客户最终能赚多少钱。 2.</description><content:encoded><![CDATA[<div><div><h1>每日重点简报</h1>
-<p>2026年7月20日</p>
-<h2>1. 昨夜美股收盘概览</h2>
-<p>周末没有新收盘，市场今天面对的仍是周五留下来的弱盘面。SPY跌0.98%至743.29美元，QQQ跌1.49%至695.33美元，DIA跌0.76%至520.81美元。Nvidia跌2.28%至202.81美元，盘中最低198.05美元；TSMC跌2.89%至398.37美元；AMD跌1.17%至495.76美元。</p>
-<p>Micron收848.95美元，表面只跌0.47%，盘中却从804.48美元拉到902.94美元，日内振幅超过12%。这个价格里同时挤着抄底、止损和杠杆平仓，暂时还很难说企稳。Apple逆势微涨至333.74美元，市盈率约40倍，资金宁愿付较高估值，去买收入结构和现金流更容易计算的公司。</p>
-<p>芯片已经连续几天出现好消息也涨不动的情况。TSMC利润增长很快，AI订单仍强，股价照样跌。前面交易的是算力短缺，眼下开始算资本开支回报、产能扩张和客户最终能赚多少钱。</p>
-<h2>2. 宏观与政策</h2>
-<p>Brent周五收88.10美元，WTI收82.49美元，单日都上涨约4.5%。海湾国家7月原油及凝析油出口约1200万至1306万桶每天，较6月增长约16%，却仍比战前2月峰值低32%。最近单日只有三艘船通过霍尔木兹，运输恢复又停了下来。<a href="https://www.reuters.com/business/energy/oil-rises-intensifying-us-iran-hostilities-threat-red-sea-closure-2026-07-17/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters+1</a></p>
-<p>6月通胀数据刚降温，7月的原油、柴油、航运保险和运费还没进入统计。油价在85美元以上待上几周，美联储很难继续讨论快速降息。美国一季度实际GDP年化增长2.1%，5月PCE同比仍高达4.1%，下一次GDP和6月PCE都将在7月30日公布。<a href="https://www.bea.gov/data/personal-consumption-expenditures-price-index?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Bureau of Economic Analysis+2Bureau of Economic Analysis+2</a></p>
-<p>本周美国宏观数据相对清淡，市场会先被财报和中东局势带着走。数据少的时候，油价每跳一次、科技龙头每给一句资本开支指引，指数反应容易放大。</p>
-<h2>3. AI与科技产业</h2>
-<p>本周Alphabet、Intel、Texas Instruments和Tesla的财报会直接检查AI交易。市场预计标普500二季度盈利同比增长约26%，超过80家成分公司将在本周发布业绩。Alphabet现在市值约4.2万亿美元，它的AI资本开支只要放慢，Nvidia、服务器、光模块、电力和数据中心链都会马上被重新估值。<a href="https://www.reuters.com/business/wall-st-week-ahead-alphabet-intel-results-focus-ai-trade-us-earnings-rev-up-2026-07-17/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
-<p>Alphabet如果继续提高投入，股价也未必舒服。市场会追问云收入、AI搜索广告和利润率能不能跟上折旧增长。现在的问题已经从“AI需求存不存在”，走到了“谁真正拿到自由现金流”。</p>
-<p>Intel和Texas Instruments的参考价值也不低。芯片指数刚经历快速回撤，如果成熟制程、工业和汽车芯片订单仍弱，半导体内部会继续分裂。Nvidia可以靠高端AI订单撑住，二线芯片和周期股没有同样的底。</p>
-<h2>4. 全球重大新闻</h2>
-<p>美国已经连续第八晚空袭伊朗。此前伊朗在约旦发动袭击，造成两名美军人员死亡，周末又向科威特、巴林等地的美军及盟友目标发射导弹和无人机。卡塔尔股市周日跌1.5%，巴林跌1.2%，科威特跌0.4%，当地资金已经先在降低风险。<a href="https://www.reuters.com/world/middle-east/gulf-bourses-retreat-usiran-hostilities-intensify-2026-07-19/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters+1</a></p>
-<p>沙特把7月约75%的原油出口转向红海延布港，当前从延布出口约400万桶每天，这能绕过霍尔木兹。伊朗又要求胡塞武装准备干扰红海，一旦曼德海峡也出问题，这条替代路线会跟着受堵。现在最容易被低估的可能是柴油、航空燃油和保险费，原油价格反而人人看得见。<a href="https://www.reuters.com/business/energy/gulf-crude-exports-jump-july-shipments-slowing-renewed-hostilities-data-shows-2026-07-19/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
-<h2>5. 中国市场与政策</h2>
-<p>中国二季度GDP同比增长4.3%，低于市场预期的4.5%，房地产投资下降18%。工业和出口还能撑住，消费与固定资产投资偏弱。市场普遍预期7月底政治局会议会增加定向财政支持和消费措施，大规模全面刺激的预期目前不高。<a href="https://www.reuters.com/world/china/view-chinas-second-quarter-economic-growth-misses-market-forecast-2026-07-15/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
-<p>上海世界人工智能大会今天结束。中国提出扩大开源AI、向发展中国家提供技术和培训，并推动由29个国家参与的全球AI合作组织。这个动作会继续推国产模型、算力集群、推理服务和AI出海，也会让全球模型价格更低。<a href="https://www.reuters.com/world/asia-pacific/chinas-xi-promotes-chinas-commitment-ai-access-speech-shanghai-conference-2026-07-17/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
-<p>中国6月出口受到AI电子、芯片和汽车支撑，内需仍拖后腿。对A股和港股来说，AI硬件出口链还有订单，地产、普通消费和低利润制造业会更难。油价继续上升以后，航空、物流、化纤和部分出口企业还要多扛一层成本。<a href="https://www.reuters.com/world/china/chinas-june-trade-tops-forecasts-buoyed-by-ai-boom-2026-07-14/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
-<h2>6. 公司重大事件与财报</h2>
-<p>Alphabet财报里要盯云收入、AI搜索变现、资本开支和自由现金流。Tesla要看汽车毛利率、低价车型、储能、Robotaxi进展及现金消耗。Intel要给芯片调整中的市场一个更清楚的订单信号。普通的收入超预期可能不够，管理层对下半年需求的表态会更影响股价。<a href="https://www.reuters.com/business/wall-st-week-ahead-alphabet-intel-results-focus-ai-trade-us-earnings-rev-up-2026-07-17/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters+1</a></p>
-<p>本轮财报季的麻烦在预期。标普500今年仍涨约9%，二季度盈利增速预期又达到26%。数字好一点，市场可能觉得早已反映；数字稍微差一点，高估值公司就容易直接掉一截。<a href="https://www.reuters.com/business/wall-st-week-ahead-alphabet-intel-results-focus-ai-trade-us-earnings-rev-up-2026-07-17/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
-<h2>7. 今日投资机会</h2>
-<p>今天先观察能源股开盘后的持续性。Brent站稳90美元，油服、海上工程、油轮和替代管线仍有空间。油价高开后迅速回到85美元附近，追涨就很难做。</p>
-<p>AI硬件会有技术性反弹需求。Nvidia守住198至200美元，可以看先进封装、网络设备、服务器电源和数据中心电力。Micron目前更像高波动交易品种，价格在800至900美元之间来回打，长线仓位还需要等成交量缩下来。</p>
-<p>中国方向可以看开源模型、低成本推理、国产服务器和机器人落地。大会概念今天进入最后一天，只有发布会和合作框架、没有订单收入的公司，容易冲高兑现。</p>
-<h2>8. 风险预警</h2>
-<p>油价上涨、芯片下跌、中东冲突升级同时出现，这个组合会压通胀预期、利率和科技股估值。</p>
-<p>霍尔木兹运输仍在收缩，红海也有扩大冲突的可能。LNG船开始长期减少，亚洲天然气和电力成本会很快反应。</p>
-<p>Alphabet财报会影响整条AI资本开支链。它减少投入，硬件需求预期下修；继续大幅扩张，市场会继续追问回报率。两个方向都可能造成波动。</p>
-<h2>9. 今日重点关注事项</h2>
-<p>亚洲盘先看Brent能否突破90美元，霍尔木兹实际船舶通行量，以及海湾股市下跌是否传到日股、韩股和港股。</p>
-<p>美股盯Nvidia 200美元、TSMC 400美元、Micron 800至850美元。芯片反弹时如果只有Nvidia上涨，设备、存储和网络没有跟，更多是龙头护盘。</p>
-<p>本周把Alphabet放在第一位，随后看Tesla、Intel和Texas Instruments。7月30日还有美国二季度GDP初值和6月PCE，油价持续上涨会让那一天变得更关键。<a href="https://www.bea.gov/news/schedule?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Bureau of Economic Analysis+1</a></p>
-<p>三个深入思考的问题：</p>
-<ol>
-<li>
-<p>Alphabet继续投入AI时，市场还会把资本开支理解成未来增长，还是先压低自由现金流估值？</p>
-</li>
-<li>
-<p>霍尔木兹和红海同时受扰后，最先传到企业利润表的会是原油、柴油，还是航运保险？</p>
-</li>
-<li>
-<p>中国用开源模型和低成本算力扩大海外影响，利润最后会留在模型公司、云平台，还是硬件与电力环节？</p>
-</li>
-</ol>
-<div><div><div><div><div><div><a href="https://www.reuters.com/world/middle-east/gulf-bourses-retreat-usiran-hostilities-intensify-2026-07-19/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener"><div></div><div><div>Reuters</div><div>Gulf bourses retreat as US-Iran hostilities intensify</div><div>今天</div></div></a></div></div></div><div><div><div><a href="https://www.reuters.com/business/energy/gulf-crude-exports-jump-july-shipments-slowing-renewed-hostilities-data-shows-2026-07-19/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener"><div></div><div><div>Reuters</div><div>Gulf crude exports jump in July but shipments slowing on renewed hostilities, data shows</div><div>今天</div></div></a></div></div></div><div><div><div><a href="https://www.reuters.com/world/asia-pacific/us-renews-strikes-iran-after-two-military-personnel-were-killed-by-iranian-2026-07-18/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener"><div></div><div><div>Reuters</div><div>US renews strikes on Iran after at least two military personnel killed by Iranian attack</div><div>今天</div></div></a></div></div></div><div><div><div><a href="https://www.reuters.com/business/wall-st-week-ahead-alphabet-intel-results-focus-ai-trade-us-earnings-rev-up-2026-07-17/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener"><div></div><div><div>Reuters</div><div>Wall St Week Ahead Alphabet, Intel results in focus for AI trade as US earnings rev up</div><div>前天</div></div></a></div></div></div><div><div><div><a href="https://www.reuters.com/world/asia-pacific/chinas-xi-promotes-chinas-commitment-ai-access-speech-shanghai-conference-2026-07-17/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener"><div></div><div><div>Reuters</div><div>Xi pitches China as leader of new global AI order, challenging US dominance</div><div>前天</div></div></a></div></div></div><div><div><div><a href="https://www.reuters.com/world/china/view-chinas-second-quarter-economic-growth-misses-market-forecast-2026-07-15/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener"><div></div><div><div>Reuters</div><div>VIEW China's second-quarter economic growth misses market forecast</div><div>4天前</div></div></a></div></div></div></div></div></div></div></div>]]></content:encoded></item><item><title>每日新闻摄影精选｜球已经越过门将，贴着草皮往球门里走。阿根廷门将埃米利亚诺·马丁内斯倒在近门柱前，双腿伸开，手还在往球的方向够。费</title><link>https://youngwilly.github.io/chatgpt-task-rss/#daily-photo-2026-07-19T22-40-10Z</link><guid isPermaLink="false">2bdde136176b52c0d35ddee0cdd04e4d66c942d4b93fd77a9eaa7f7eaec55416</guid><pubDate>Sun, 19 Jul 2026 22:40:15 GMT</pubDate><category>每日新闻摄影精选</category><description>球已经越过门将，贴着草皮往球门里走。阿根廷门将埃米利亚诺·马丁内斯倒在近门柱前，双腿伸开，手还在往球的方向够。费兰·托雷斯在门前完成了这次射门，白色球网横在镜头前，像把进球瞬间直接钉在画面里。 今天选这张。 摄影师：Matt Slocum 机构：Associated Press 地点：美国新泽西州东卢瑟福，纽约附近 日期：2026年7月19日 事件：2026年世界杯决赛，西班牙对阿根廷，费兰·托雷斯打进西班牙首球 AP 官方图注明确写明，费兰·托雷斯在世界杯决赛中攻破埃米利亚诺·马丁内斯把守的球门。摄影师、人物、地点、日期和比赛信息都在同一张图片的图注里。AP News AP 官方世界杯决赛摄影图集 这张照片最狠的地方在机位。Matt Slocum 把相机放在球门后方，球网占了整个前景。平时看球时，球网很容易成为干扰，这里它成了画面的骨架。每一根白线都把视线往球、门将和射门者身上收。 球的位置也刚刚好。它已经越过门将，结果基本确</description><content:encoded><![CDATA[<div class="media-gallery"><figure><a href="https://apnews.com/photo-gallery/photos-world-cup-soccer-messi-yamal-995eec81dca61aa0f0d11e4147cb516d" target="_blank" rel="noreferrer noopener"><img src="https://dims.apnews.com/dims4/default/10694ba/2147483647/strip/true/crop/5445x3630+0+0/resize/1360x907!/format/webp/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F8e%2F2c%2F7d4b651bbd5046133e9d9d31bd1a%2F4ce0a2b8a89442fb8d6652bdb446b958" alt="2026年7月19日星期日，在纽约附近的新泽西州东卢瑟福，西班牙与阿根廷的世界杯决赛足球赛开始前燃放了烟花。（美联社照片/马特·鲁克）" width="1360" height="907" loading="lazy" decoding="async" referrerpolicy="no-referrer" data-published-width="1360" data-published-height="907"></a><figcaption>2026年7月19日星期日，在纽约附近的新泽西州东卢瑟福，西班牙与阿根廷的世界杯决赛足球赛开始前燃放了烟花。（美联社照片/马特·鲁克） · <span>来源：apnews.com</span></figcaption></figure></div><div><div>
-<p>球已经越过门将，贴着草皮往球门里走。阿根廷门将埃米利亚诺·马丁内斯倒在近门柱前，双腿伸开，手还在往球的方向够。费兰·托雷斯在门前完成了这次射门，白色球网横在镜头前，像把进球瞬间直接钉在画面里。</p>
-<p>今天选这张。</p>
-<p>摄影师：<strong>Matt Slocum</strong><br>
-机构：<strong>Associated Press</strong><br>
-地点：<strong>美国新泽西州东卢瑟福，纽约附近</strong><br>
-日期：<strong>2026年7月19日</strong><br>
-事件：<strong>2026年世界杯决赛，西班牙对阿根廷，费兰·托雷斯打进西班牙首球</strong></p>
-<p>AP 官方图注明确写明，费兰·托雷斯在世界杯决赛中攻破埃米利亚诺·马丁内斯把守的球门。摄影师、人物、地点、日期和比赛信息都在同一张图片的图注里。<a href="https://apnews.com/photo-gallery/photos-world-cup-soccer-messi-yamal-995eec81dca61aa0f0d11e4147cb516d" target="_blank" rel="noreferrer noopener">AP News</a></p>
-<p><a rel="noreferrer noopener" target="_blank">AP 官方世界杯决赛摄影图集</a></p>
-<p>这张照片最狠的地方在机位。Matt Slocum 把相机放在球门后方，球网占了整个前景。平时看球时，球网很容易成为干扰，这里它成了画面的骨架。每一根白线都把视线往球、门将和射门者身上收。</p>
-<p>球的位置也刚刚好。它已经越过门将，结果基本确定，又还没有完全撞进网里。这个瞬间比庆祝更紧。庆祝已经知道发生了什么，这一帧还留着最后一点悬念。</p>
-<p>马丁内斯的身体几乎横着封住球门，他的双手、腿和视线都朝向球。托雷斯站在更后面，身体被球网切开一部分，动作却很清楚。两个人的关系一下就出来了，一个刚完成决定性的触球，一个已经知道来不及了。</p>
-<p>AP 将这场决赛写成梅西与亚马尔之间的全球焦点之战。阿根廷冲击队史第四座世界杯，西班牙冲击第二座。这也是扩军到48支球队后的第104场比赛，整个赛事最后一战。<a href="https://apnews.com/photo-gallery/photos-world-cup-soccer-messi-yamal-995eec81dca61aa0f0d11e4147cb516d" target="_blank" rel="noreferrer noopener">AP News</a></p>
-<p>这张图的新闻价值挺直接。世界杯决赛这种比赛，很多照片都在拍巨星、奖杯、观众和庆祝。真正决定比赛走向的，还是球穿过防线的那一秒。镜头没有追着脸拍，也没有等到球员冲向角旗区，它停在结果刚形成的位置。</p>
-<p>画面还有一层反差。球场里几万人，全球有更大规模的观众，照片里真正起作用的元素很少。一个球，一个门将，一个射门者，一张网。大型体育事件被压回到最小的动作里，这点很准。</p>
-<ol>
-<li>
-<p>体育摄影里，进球瞬间和进球后的情绪，哪一种更容易成为长期记忆？</p>
-</li>
-<li>
-<p>球网把画面切得很碎，这种遮挡会加强现场感，还是会让观众离动作更远？</p>
-</li>
-<li>
-<p>世界杯决赛被包装成梅西和亚马尔的对决，最后真正留下来的照片，会不会经常属于其他球员？</p>
 </li>
 </ol></div></div>]]></content:encoded></item></channel></rss>
