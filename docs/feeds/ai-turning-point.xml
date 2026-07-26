@@ -1,4 +1,163 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>AI Turning Point Scan</title><link>https://youngwilly.github.io/chatgpt-task-rss</link><atom:link href="https://youngwilly.github.io/chatgpt-task-rss/feeds/ai-turning-point.xml" rel="self" type="application/rss+xml"/><description>ChatGPT 计划任务原文订阅</description><language>zh-cn</language><lastBuildDate>Sun, 19 Jul 2026 22:40:24 GMT</lastBuildDate><ttl>10</ttl><generator>ChatGPT Task RSS</generator><item><title>AI Turning Point Scan｜AI产业转折点周报</title><link>https://youngwilly.github.io/chatgpt-task-rss/ai-turning-point.html#ai-turning-point-2026-07-19T22-40-24Z</link><guid isPermaLink="false">46b3ac191e8c21c7b527885dadb2b8dec096671c5e0f676a10db36c85e1f965d</guid><pubDate>Sun, 19 Jul 2026 22:40:24 GMT</pubDate><category>AI Turning Point Scan</category><description>AI产业转折点周报 日期：2026年7月19日 过去一周市场最大的变化不是AI能力，而是资金开始重新定价AI产业链。 7月14日，IBM发布业绩预警，表示大量企业将IT预算从软件转向服务器、芯片和网络设备采购，导致软件业务订单延迟，股价单日暴跌约25%。这是第一次有大型软件公司明确承认AI基础设施正在挤占传统软件预算。Reuters 7月17日，UBS预计Hyperscaler资本开支增速将在2028年明显放缓，部分机构开始降低半导体仓位，转向云平台、网络安全和医疗等AI应用方向。不过，大多数机构并未质疑AI投资本身，只是在调整产业链配置。Reuters 与此同时，Meta Platforms继续扩大数据中心建设，路易斯安那Hyperion园区规划提升至5GW，单项目投资超过500亿美元，自研AI芯片&quot;Iris&quot;仍按计划9月投产。Investing.com+1 真正发生变化的是市场预期，而不是产业需求。 一页结论 排名转折点主题</description><content:encoded><![CDATA[<div><div><h1>AI产业转折点周报</h1>
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>AI Turning Point Scan</title><link>https://youngwilly.github.io/chatgpt-task-rss</link><atom:link href="https://youngwilly.github.io/chatgpt-task-rss/feeds/ai-turning-point.xml" rel="self" type="application/rss+xml"/><description>ChatGPT 计划任务原文订阅</description><language>zh-cn</language><lastBuildDate>Sun, 26 Jul 2026 14:10:51 GMT</lastBuildDate><ttl>10</ttl><generator>ChatGPT Task RSS</generator><item><title>AI Turning Point Scan｜AI投资转折点周报</title><link>https://youngwilly.github.io/chatgpt-task-rss/ai-turning-point.html#ai-turning-point-2026-07-26T14-10-51Z</link><guid isPermaLink="false">96d41c69dc1c592250058ba630697633879e28e5930c4e275bc3336ac14555d4</guid><pubDate>Sun, 26 Jul 2026 14:10:51 GMT</pubDate><category>AI Turning Point Scan</category><description>AI投资转折点周报 日期：2026年7月26日 这一周最大的变化发生在资本市场。 Alphabet公布季度业绩后，把全年资本开支指引再次提高到 1950亿至2050亿美元。收入和Google Cloud增长都超过预期，但自由现金流首次转负，股价仍下跌超过6%。市场开始重新给AI基础设施估值，焦点已经从“谁投得最多”变成“什么时候赚钱”。Financial Times+1 Reuters统计的LSEG数据显示，微软、Alphabet、Amazon、Meta和Oracle到2027年的累计AI资本开支增量约5340亿美元，同期经营现金流增量约3400亿美元，相当于每新增1美元经营现金流，需要投入约1.57美元资本开支。Reuters 另一边，Meta没有踩刹车。 路易斯安那 Hyperion 数据中心已经扩大到5GW，投资超过500亿美元。内部计划仍维持2027年14GW算力目标，自研ASIC &quot;Iris&quot;按计划推进。Investi</description><content:encoded><![CDATA[<div><div><h1>AI投资转折点周报</h1>
+<p><strong>日期：2026年7月26日</strong></p>
+<p>这一周最大的变化发生在资本市场。</p>
+<p>Alphabet公布季度业绩后，把全年资本开支指引再次提高到 <strong>1950亿至2050亿美元</strong>。收入和Google Cloud增长都超过预期，但自由现金流首次转负，股价仍下跌超过6%。市场开始重新给AI基础设施估值，焦点已经从“谁投得最多”变成“什么时候赚钱”。<a href="https://www.ft.com/content/b02f972c-c764-4006-9377-42563d9d5530?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Financial Times+1</a></p>
+<p>Reuters统计的LSEG数据显示，微软、Alphabet、Amazon、Meta和Oracle到2027年的累计AI资本开支增量约5340亿美元，同期经营现金流增量约3400亿美元，相当于每新增1美元经营现金流，需要投入约1.57美元资本开支。<a href="https://www.reuters.com/business/ai-investment-boom-puts-big-techs-free-cash-flow-under-pressure-2026-07-22/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>另一边，Meta没有踩刹车。</p>
+<p>路易斯安那 Hyperion 数据中心已经扩大到5GW，投资超过500亿美元。内部计划仍维持2027年14GW算力目标，自研ASIC "Iris"按计划推进。<a href="https://www.investing.com/news/stock-market-news/meta-expands-louisiana-data-center-to-5-gigawatts-compute-capacity-4787796?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Investing.com+1</a></p>
+<p>所以这一周最大的变化不是需求减弱，而是市场开始区分：</p>
+<ul>
+<li>
+<p>真正拥有利润池的公司</p>
+</li>
+<li>
+<p>只能分享收入增长、却承担巨大资本开支的公司</p>
+</li>
+</ul>
+<hr>
+<h1>一页结论</h1>
+<div><div><div><section><h4>AI资本开支进入现金流考验阶段</h4><dl><dt><strong>排名</strong></dt><dd>1</dd><dt><strong>转折点主题</strong></dt><dd>AI资本开支进入现金流考验阶段</dd><dt><strong>核心结论</strong></dt><dd>收入增长仍强，自由现金流开始承压</dd><dt><strong>最高置信度标的</strong></dt><dd>Broadcom</dd><dt><strong>交易方向</strong></dt><dd>做多</dd><dt><strong>市场定价</strong></dt><dd>部分定价</dd><dt><strong>催化剂</strong></dt><dd>Q2财报季</dd><dt><strong>总分</strong></dt><dd>93</dd></dl></section><hr><section><h4>HBM仍是利润池</h4><dl><dt><strong>排名</strong></dt><dd>2</dd><dt><strong>转折点主题</strong></dt><dd>HBM仍是利润池</dd><dt><strong>核心结论</strong></dt><dd>扩产仍赶不上需求</dd><dt><strong>最高置信度标的</strong></dt><dd>Micron Technology</dd><dt><strong>交易方向</strong></dt><dd>做多</dd><dt><strong>市场定价</strong></dt><dd>部分定价</dd><dt><strong>催化剂</strong></dt><dd>HBM ASP、合同订单</dd><dt><strong>总分</strong></dt><dd>91</dd></dl></section><hr><section><h4>电力约束持续强化</h4><dl><dt><strong>排名</strong></dt><dd>3</dd><dt><strong>转折点主题</strong></dt><dd>电力约束持续强化</dd><dt><strong>核心结论</strong></dt><dd>数据中心继续扩建，电网开始跟不上</dd><dt><strong>最高置信度标的</strong></dt><dd>Vertiv Holdings</dd><dt><strong>交易方向</strong></dt><dd>做多</dd><dt><strong>市场定价</strong></dt><dd>部分定价</dd><dt><strong>催化剂</strong></dt><dd>大型项目订单</dd><dt><strong>总分</strong></dt><dd>89</dd></dl></section><hr><section><h4>ASIC进入兑现阶段</h4><dl><dt><strong>排名</strong></dt><dd>4</dd><dt><strong>转折点主题</strong></dt><dd>ASIC进入兑现阶段</dd><dt><strong>核心结论</strong></dt><dd>Hyperscaler自研持续推进</dd><dt><strong>最高置信度标的</strong></dt><dd>Broadcom</dd><dt><strong>交易方向</strong></dt><dd>做多</dd><dt><strong>市场定价</strong></dt><dd>仍有预期差</dd><dt><strong>催化剂</strong></dt><dd>Meta Iris量产</dd><dt><strong>总分</strong></dt><dd>88</dd></dl></section><hr><section><h4>传统软件预算受压</h4><dl><dt><strong>排名</strong></dt><dd>5</dd><dt><strong>转折点主题</strong></dt><dd>传统软件预算受压</dd><dt><strong>核心结论</strong></dt><dd>预算继续向基础设施迁移</dd><dt><strong>最高置信度标的</strong></dt><dd>Microsoft（平台受益）、传统软件承压</dd><dt><strong>交易方向</strong></dt><dd>配对</dd><dt><strong>市场定价</strong></dt><dd>刚开始反映</dd><dt><strong>催化剂</strong></dt><dd>企业IT预算</dd><dt><strong>总分</strong></dt><dd>84</dd></dl></section><hr></div></div></div>
+<hr>
+<h2>这周最值得看的几个数字</h2>
+<p>Google Cloud收入同比增长82%。</p>
+<p>全年Capex提高到1950亿至2050亿美元。</p>
+<p>自由现金流约负59亿美元。</p>
+<p>这是Google上市以来第一次出现季度自由现金流为负。<a href="https://www.ft.com/content/b02f972c-c764-4006-9377-42563d9d5530?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Financial Times+1</a></p>
+<p>这个数字很重要。</p>
+<p>以前市场默认：</p>
+<p>Capex越高越好。</p>
+<p>现在开始问：</p>
+<p>什么时候变成现金流。</p>
+<p>如果未来一年AI收入继续快速增长，这种担心会慢慢消失。</p>
+<p>如果收入增速开始放缓，高Capex公司的估值可能继续被压缩。</p>
+<hr>
+<p>Micron没有放慢扩产。</p>
+<p>公司宣布2035年前美国累计投资超过2500亿美元。</p>
+<p>原因只有一个：</p>
+<p>HBM需求没有降。<a href="https://www.investing.com/news/stock-market-news/micron-to-invest-up-to-3-billion-in-us-chip-supply-chain-4784116?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Investing.com</a></p>
+<p>这里我更关注订单，而不是股价。</p>
+<p>只要HBM交期没有明显缩短，产业链利润还会集中在内存。</p>
+<hr>
+<p>Meta继续扩大Hyperion。</p>
+<p>5GW。</p>
+<p>投资超过500亿美元。</p>
+<p>市场已经开始担心电力。</p>
+<p>美国政府也开始推动数据中心能源建设，但目前公布的更多是合作倡议，并没有解决输电、审批和并网这些现实瓶颈。<a href="https://www.investing.com/news/stock-market-news/trump-pledge-on-data-center-power-supplies-draws-skepticism-4810938?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Investing.com+1</a></p>
+<p>这里短时间不会缓解。</p>
+<hr>
+<p>IBM那条新闻后续还在发酵。</p>
+<p>越来越多企业优先采购：</p>
+<p>GPU</p>
+<p>服务器</p>
+<p>交换机</p>
+<p>网络设备</p>
+<p>普通软件采购延后。</p>
+<p>这说明预算迁移仍在继续。<a href="https://www.investing.com/news/stock-market-news/ibm-expects-secondquarter-revenue-below-estimates-4790496?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Investing.com</a></p>
+<hr>
+<h1>AI转折点雷达</h1>
+<div><div><div><section><h4>HBM</h4><dl><dt><strong>主题</strong></dt><dd>HBM</dd><dt><strong>新瓶颈</strong></dt><dd>推理内存继续紧张</dd><dt><strong>谁付钱</strong></dt><dd>Hyperscaler</dd><dt><strong>利润流向</strong></dt><dd>Micron、SK Hynix</dd><dt><strong>最新证据</strong></dt><dd>Micron继续扩大2500亿美元投资<a href="https://www.investing.com/news/stock-market-news/micron-to-invest-up-to-3-billion-in-us-chip-supply-chain-4784116?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Investing.com</a></dd><dt><strong>是否充分定价</strong></dt><dd>否</dd><dt><strong>分数</strong></dt><dd>91</dd></dl></section><hr><section><h4>ASIC</h4><dl><dt><strong>主题</strong></dt><dd>ASIC</dd><dt><strong>新瓶颈</strong></dt><dd>GPU之外的新路线</dd><dt><strong>谁付钱</strong></dt><dd>Meta等</dd><dt><strong>利润流向</strong></dt><dd>Broadcom、TSMC</dd><dt><strong>最新证据</strong></dt><dd>Meta 9月量产Iris<a href="https://live.euronext.com/en/financial-news/exclusive-meta-put-ai-chip-production-september-it-looks-double-computing-capacity?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Euronext Live</a></dd><dt><strong>是否充分定价</strong></dt><dd>否</dd><dt><strong>分数</strong></dt><dd>88</dd></dl></section><hr><section><h4>电力</h4><dl><dt><strong>主题</strong></dt><dd>电力</dd><dt><strong>新瓶颈</strong></dt><dd>并网能力不足</dd><dt><strong>谁付钱</strong></dt><dd>云厂商</dd><dt><strong>利润流向</strong></dt><dd>Vertiv、Eaton、Quanta</dd><dt><strong>最新证据</strong></dt><dd>Hyperion扩建5GW<a href="https://www.investing.com/news/stock-market-news/meta-expands-louisiana-data-center-to-5-gigawatts-compute-capacity-4787796?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Investing.com+1</a></dd><dt><strong>是否充分定价</strong></dt><dd>部分</dd><dt><strong>分数</strong></dt><dd>89</dd></dl></section><hr><section><h4>现金流</h4><dl><dt><strong>主题</strong></dt><dd>现金流</dd><dt><strong>新瓶颈</strong></dt><dd>Capex超过FCF</dd><dt><strong>谁付钱</strong></dt><dd>Hyperscaler</dd><dt><strong>利润流向</strong></dt><dd>基础设施供应商</dd><dt><strong>最新证据</strong></dt><dd>Google FCF转负<a href="https://www.reuters.com/business/ai-investment-boom-puts-big-techs-free-cash-flow-under-pressure-2026-07-22/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters+1</a></dd><dt><strong>是否充分定价</strong></dt><dd>刚开始</dd><dt><strong>分数</strong></dt><dd>93</dd></dl></section><hr><section><h4>软件预算迁移</h4><dl><dt><strong>主题</strong></dt><dd>软件预算迁移</dd><dt><strong>新瓶颈</strong></dt><dd>企业延后软件采购</dd><dt><strong>谁付钱</strong></dt><dd>企业客户</dd><dt><strong>利润流向</strong></dt><dd>AI平台、基础设施</dd><dt><strong>最新证据</strong></dt><dd>IBM预警<a href="https://www.investing.com/news/stock-market-news/ibm-expects-secondquarter-revenue-below-estimates-4790496?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Investing.com</a></dd><dt><strong>是否充分定价</strong></dt><dd>刚开始</dd><dt><strong>分数</strong></dt><dd>84</dd></dl></section><hr></div></div></div>
+<hr>
+<h1>Top 5交易机会</h1>
+<h3>① Broadcom</h3>
+<p><strong>操作：确认仓</strong></p>
+<p>Meta推进ASIC只是开始。</p>
+<p>越来越多Hyperscaler会采用GPU和ASIC并存架构。</p>
+<p>Broadcom受益来自：</p>
+<ul>
+<li>
+<p>ASIC设计</p>
+</li>
+<li>
+<p>AI交换芯片</p>
+</li>
+<li>
+<p>高速网络</p>
+</li>
+</ul>
+<p>风险：</p>
+<p>Hyperscaler进一步加强内部芯片设计能力。</p>
+<hr>
+<h3>② Micron Technology</h3>
+<p><strong>操作：确认仓</strong></p>
+<p>扩产继续。</p>
+<p>订单继续。</p>
+<p>真正需要观察的是：</p>
+<p>HBM价格什么时候松动。</p>
+<p>目前没有可靠证据表明已经开始。</p>
+<hr>
+<h3>③ Vertiv Holdings</h3>
+<p><strong>操作：确认仓</strong></p>
+<p>GPU可以买。</p>
+<p>服务器可以买。</p>
+<p>真正限制上线速度的是供电。</p>
+<p>电力瓶颈仍没有解决。</p>
+<hr>
+<h3>④ Taiwan Semiconductor Manufacturing Company</h3>
+<p><strong>操作：确认仓</strong></p>
+<p>ASIC越来越多。</p>
+<p>先进封装需求没有减弱。</p>
+<p>目前没有看到客户削减订单。</p>
+<hr>
+<h3>⑤ Microsoft</h3>
+<p><strong>操作：观察仓</strong></p>
+<p>如果企业预算继续迁移：</p>
+<p>真正能赚钱的平台最终会集中。</p>
+<p>微软目前仍是最有可能兑现企业AI收入的平台之一。</p>
+<hr>
+<h1>做空或受损资产</h1>
+<div><div><div><section><h4>传统企业软件</h4><dl><dt><strong>资产</strong></dt><dd>传统企业软件</dd><dt><strong>原因</strong></dt><dd>预算继续向AI基础设施迁移</dd><dt><strong>做空可行性</strong></dt><dd>中</dd><dt><strong>风险</strong></dt><dd>AI收入兑现超预期</dd></dl></section><hr><section><h4>缺乏订单支撑的AI概念股</h4><dl><dt><strong>资产</strong></dt><dd>缺乏订单支撑的AI概念股</dd><dt><strong>原因</strong></dt><dd>估值过高</dd><dt><strong>做空可行性</strong></dt><dd>高</dd><dt><strong>风险</strong></dt><dd>情绪推动</dd></dl></section><hr><section><h4>普通DRAM厂商</h4><dl><dt><strong>资产</strong></dt><dd>普通DRAM厂商</dd><dt><strong>原因</strong></dt><dd>HBM利润持续集中</dd><dt><strong>做空可行性</strong></dt><dd>中</dd><dt><strong>风险</strong></dt><dd>HBM供给快速增加</dd></dl></section><hr></div></div></div>
+<hr>
+<h1>配对交易</h1>
+<div><div><div><section><h4>Broadcom</h4><dl><dt><strong>做多</strong></dt><dd>Broadcom</dd><dt><strong>做空</strong></dt><dd>传统软件篮子</dd><dt><strong>理由</strong></dt><dd>预算迁移持续</dd></dl></section><hr><section><h4>Micron</h4><dl><dt><strong>做多</strong></dt><dd>Micron</dd><dt><strong>做空</strong></dt><dd>普通DRAM厂商</dd><dt><strong>理由</strong></dt><dd>HBM利润率更高</dd></dl></section><hr><section><h4>Vertiv</h4><dl><dt><strong>做多</strong></dt><dd>Vertiv</dd><dt><strong>做空</strong></dt><dd>传统数据中心REIT</dd><dt><strong>理由</strong></dt><dd>利润继续向供电基础设施集中</dd></dl></section><hr></div></div></div>
+<hr>
+<h1>观察名单</h1>
+<div><div><div><section><h4>企业Agent</h4><dl><dt><strong>主题</strong></dt><dd>企业Agent</dd><dt><strong>当前缺什么证据</strong></dt><dd>真实ROI</dd><dt><strong>买入信号</strong></dt><dd>连续两个季度企业AI收入加速</dd></dl></section><hr><section><h4>AI长期记忆存储</h4><dl><dt><strong>主题</strong></dt><dd>AI长期记忆存储</dd><dt><strong>当前缺什么证据</strong></dt><dd>企业采购金额</dd><dt><strong>买入信号</strong></dt><dd>大型企业Capex披露</dd></dl></section><hr><section><h4>机器人</h4><dl><dt><strong>主题</strong></dt><dd>机器人</dd><dt><strong>当前缺什么证据</strong></dt><dd>万台级订单</dd><dt><strong>买入信号</strong></dt><dd>工业客户持续采购</dd></dl></section><hr><section><h4>AI眼镜</h4><dl><dt><strong>主题</strong></dt><dd>AI眼镜</dd><dt><strong>当前缺什么证据</strong></dt><dd>销量</dd><dt><strong>买入信号</strong></dt><dd>季度出货明显提升</dd></dl></section><hr></div></div></div>
+<hr>
+<h1>数据缺口</h1>
+<p>目前仍缺少公开、可靠的数据支持以下判断：</p>
+<ol>
+<li>
+<p>各Hyperscaler自研ASIC占总AI算力的实际比例。</p>
+</li>
+<li>
+<p>企业Agent部署后的投资回报率分行业数据。</p>
+</li>
+<li>
+<p>HBM长期合同覆盖全球需求的比例。</p>
+</li>
+<li>
+<p>企业长期记忆存储采购金额。</p>
+</li>
+</ol>
+<p>这些地方还需要等待未来几个季度财报和供应链披露。</p>
+<hr>
+<h1>交易员版本</h1>
+<p><strong>现在最值得研究的方向：</strong></p>
+<p>HBM、高速网络ASIC、电力基础设施、企业AI平台。</p>
+<p><strong>现在最可能被低估的标的：</strong></p>
+<p>Broadcom、Vertiv Holdings、Taiwan Semiconductor Manufacturing Company。</p>
+<p><strong>现在最拥挤、最需要小心的标的：</strong></p>
+<p>大型Hyperscaler本身。问题已经不是收入增长，而是自由现金流。未来几个季度，如果AI收入兑现速度跟不上Capex，估值可能继续承压。<a href="https://www.reuters.com/business/ai-investment-boom-puts-big-techs-free-cash-flow-under-pressure-2026-07-22/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters+1</a></p>
+<p><strong>未来30天需要盯的催化剂：</strong></p>
+<p>微软、Meta、Amazon、Apple财报，AI资本开支是否继续上修；Micron后续HBM订单披露；Meta Iris量产进展。</p>
+<p><strong>未来90天需要盯的数据：</strong></p>
+<p>HBM价格和交期、数据中心并网速度、企业AI收入、云厂商自由现金流变化。</p>
+<p><strong>当前最优交易结构：</strong></p>
+<p>保持AI基础设施配置，把重点放在拥有定价权的环节，包括HBM、ASIC设计、先进制造、电力设备；对需要持续高资本开支、自由现金流承压的平台保持估值纪律。</p>
+<p><strong>什么情况下承认判断错了：</strong></p>
+<p>如果未来两个季度大型云厂商连续下调AI资本开支，同时HBM价格快速回落、数据中心项目延期增多、企业AI收入增速明显放缓，那么当前关于基础设施利润池继续扩大的判断需要重新评估。</p>
+<p>三个值得继续思考的问题：</p>
+<ol>
+<li>
+<p>如果未来两年AI资本开支继续增长，而自由现金流持续恶化，市场最终会奖励拥有现金流的平台，还是拥有定价权的供应链？</p>
+</li>
+<li>
+<p>当ASIC逐步提高渗透率以后，HBM、先进封装和高速网络三个环节，哪一个最可能成为下一轮供给瓶颈？</p>
+</li>
+<li>
+<p>如果企业AI预算开始从基础设施转向应用层，哪些公司最有机会率先体现经营现金流改善？</p>
+</li>
+</ol></div></div>]]></content:encoded></item><item><title>AI Turning Point Scan｜AI产业转折点周报</title><link>https://youngwilly.github.io/chatgpt-task-rss/ai-turning-point.html#ai-turning-point-2026-07-19T22-40-24Z</link><guid isPermaLink="false">46b3ac191e8c21c7b527885dadb2b8dec096671c5e0f676a10db36c85e1f965d</guid><pubDate>Sun, 19 Jul 2026 22:40:24 GMT</pubDate><category>AI Turning Point Scan</category><description>AI产业转折点周报 日期：2026年7月19日 过去一周市场最大的变化不是AI能力，而是资金开始重新定价AI产业链。 7月14日，IBM发布业绩预警，表示大量企业将IT预算从软件转向服务器、芯片和网络设备采购，导致软件业务订单延迟，股价单日暴跌约25%。这是第一次有大型软件公司明确承认AI基础设施正在挤占传统软件预算。Reuters 7月17日，UBS预计Hyperscaler资本开支增速将在2028年明显放缓，部分机构开始降低半导体仓位，转向云平台、网络安全和医疗等AI应用方向。不过，大多数机构并未质疑AI投资本身，只是在调整产业链配置。Reuters 与此同时，Meta Platforms继续扩大数据中心建设，路易斯安那Hyperion园区规划提升至5GW，单项目投资超过500亿美元，自研AI芯片&quot;Iris&quot;仍按计划9月投产。Investing.com+1 真正发生变化的是市场预期，而不是产业需求。 一页结论 排名转折点主题</description><content:encoded><![CDATA[<div><div><h1>AI产业转折点周报</h1>
 <p><strong>日期：2026年7月19日</strong></p>
 <p>过去一周市场最大的变化不是AI能力，而是资金开始重新定价AI产业链。</p>
 <p>7月14日，IBM发布业绩预警，表示大量企业将IT预算从软件转向服务器、芯片和网络设备采购，导致软件业务订单延迟，股价单日暴跌约25%。这是第一次有大型软件公司明确承认AI基础设施正在挤占传统软件预算。<a href="https://www.reuters.com/business/ibm-expects-second-quarter-revenue-below-estimates-2026-07-14/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
