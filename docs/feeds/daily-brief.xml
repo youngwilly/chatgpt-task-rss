@@ -1,4 +1,52 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>每日重点简报</title><link>https://youngwilly.github.io/chatgpt-task-rss</link><atom:link href="https://youngwilly.github.io/chatgpt-task-rss/feeds/daily-brief.xml" rel="self" type="application/rss+xml"/><description>ChatGPT 计划任务原文订阅</description><language>zh-cn</language><lastBuildDate>Sun, 26 Jul 2026 22:40:42 GMT</lastBuildDate><ttl>10</ttl><generator>ChatGPT Task RSS</generator><item><title>每日重点简报</title><link>https://youngwilly.github.io/chatgpt-task-rss/daily-brief.html#daily-brief-2026-07-26T22-40-42Z</link><guid isPermaLink="false">85b3580aa998697556cd1471afc5f1974c24e364fb28c40848c856f78e7647d7</guid><pubDate>Sun, 26 Jul 2026 22:40:42 GMT</pubDate><category>每日重点简报</category><description>每日重点简报 2026年7月27日 1. 昨夜美股收盘概览 周五收盘，SPY报738.93美元，涨0.10%；QQQ跌1.10%至684.23美元；DIA涨0.49%至518.76美元。Nvidia跌0.83%至206.84美元，Micron跌6.90%至920.95美元，Tesla再跌2.09%至313.03美元。Apple逆势涨3.57%至333.02美元，市值约4.90万亿美元。 这盘还在做同一件事。资金继续降低芯片和高资本开支公司的仓位，同时往Apple、道指成分股和现金流更容易计算的公司里躲。Micron一天跌近7%，前几天从800美元附近急拉到1000美元附近，随后又被卖下来，存储短缺逻辑还在，筹码已经很乱。 Alphabet财报后只反弹0.63%至319.74美元。Google Cloud增长很快，资本开支和自由现金流压力也很重。市场现在愿意给AI订单付钱，对投入多久才能回来越来越没耐心。Reuters 2. 宏观</description><content:encoded><![CDATA[<div><div><h1>每日重点简报</h1>
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>每日重点简报</title><link>https://youngwilly.github.io/chatgpt-task-rss</link><atom:link href="https://youngwilly.github.io/chatgpt-task-rss/feeds/daily-brief.xml" rel="self" type="application/rss+xml"/><description>ChatGPT 计划任务原文订阅</description><language>zh-cn</language><lastBuildDate>Mon, 27 Jul 2026 22:40:18 GMT</lastBuildDate><ttl>10</ttl><generator>ChatGPT Task RSS</generator><item><title>每日重点简报</title><link>https://youngwilly.github.io/chatgpt-task-rss/daily-brief.html#daily-brief-2026-07-27T22-40-18Z</link><guid isPermaLink="false">9f4048a8419722c5c399c3bbc3e4094af3e303e511e1c6e76129b3cc4101874e</guid><pubDate>Mon, 27 Jul 2026 22:40:18 GMT</pubDate><category>每日重点简报</category><description>每日重点简报 2026年7月28日 1. 昨夜美股收盘概览 周一美股收得有点拧。SPY报739.09美元，微跌0.02%；QQQ跌0.35%至682.12美元；DIA涨0.50%至521.26美元。道指靠医疗、必选消费和传统行业撑住，纳指继续被芯片拖累。Reuters口径里，标普500跌0.24%，纳指跌0.56%，道指涨0.25%。Reuters Nvidia跌5.07%至196.51美元，重新跌破200美元；Micron跌2.20%至900.20美元，盘中最低855.67美元；Meta小跌0.22%，Amazon跌0.29%。Microsoft逆势涨1.90%至389.10美元，Apple涨1.18%至336.91美元。资金继续从高波动芯片里往财报前相对稳的大平台公司挪。 Nvidia这次下跌有个具体导火索。公司据报考虑为OpenAI在俄亥俄州的10吉瓦数据中心项目提供最高2500亿美元融资担保，同时还可能为数千亿美元GPU</description><content:encoded><![CDATA[<div><div><h1>每日重点简报</h1>
+<p>2026年7月28日</p>
+<h2>1. 昨夜美股收盘概览</h2>
+<p>周一美股收得有点拧。SPY报739.09美元，微跌0.02%；QQQ跌0.35%至682.12美元；DIA涨0.50%至521.26美元。道指靠医疗、必选消费和传统行业撑住，纳指继续被芯片拖累。Reuters口径里，标普500跌0.24%，纳指跌0.56%，道指涨0.25%。<a href="https://www.reuters.com/business/wall-st-futures-rise-us-iran-pause-hostilities-2026-07-27/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>Nvidia跌5.07%至196.51美元，重新跌破200美元；Micron跌2.20%至900.20美元，盘中最低855.67美元；Meta小跌0.22%，Amazon跌0.29%。Microsoft逆势涨1.90%至389.10美元，Apple涨1.18%至336.91美元。资金继续从高波动芯片里往财报前相对稳的大平台公司挪。</p>
+<p>Nvidia这次下跌有个具体导火索。公司据报考虑为OpenAI在俄亥俄州的10吉瓦数据中心项目提供最高2500亿美元融资担保，同时还可能为数千亿美元GPU采购提供融资支持。市场看到的已经不只是卖芯片，Nvidia开始承担客户信用和项目融资风险，这点很要命。<a href="https://www.reuters.com/commentary/breakingviews/cloudmaxxing-sucks-nvidia-into-dangerous-game-2026-07-27/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<h2>2. 宏观与政策</h2>
+<p>Brent原油跌约8%至88.90美元，WTI跌7.5%至82.56美元。美国和伊朗暂停互相打击，霍尔木兹局势暂时缓和，美债收益率也跟着回落，10年期美债约4.65%。油价从100美元上方掉下来，给通胀交易松了一口气，但88美元仍然不低。<a href="https://www.reuters.com/world/china/global-markets-wrapup-1-2026-07-27/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>美联储今天开始两天会议，周三美东时间14时公布决议，14时30分举行新闻发布会。CME定价显示，维持利率的概率约62%，市场仍留着不小的加息尾部风险。油价暂停上涨能降低即时压力，美国经济数据却没有明显软。<a href="https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Federal Reserve+2Federal Reserve+2</a></p>
+<p>6月美国核心资本品订单环比增长0.9%，5月上修为增长1.9%；核心资本品出货增长1.9%，创四年半最大增幅。电脑、电子产品、电气设备和初级金属需求都很强，AI投资仍在拉制造业和设备支出。经济增长有支撑，美联储也更难轻松转鸽。<a href="https://www.reuters.com/business/us-core-capital-goods-orders-increase-strongly-june-2026-07-27/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<h2>3. AI与科技产业</h2>
+<p>这周AI交易真正要过的是现金流这一关。Reuters测算，到2027年，美国五大云厂商新增资本开支可能达到5340亿美元，新增经营现金流约3400亿美元，相当于每增加1美元现金，就要投入1.57美元。Alphabet、Microsoft、Amazon、Meta和Oracle的自由现金流都在承压。<a href="https://www.reuters.com/business/ai-investment-boom-puts-big-techs-free-cash-flow-under-pressure-2026-07-22/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>Microsoft和Meta周三盘后公布财报，Amazon和Apple周四盘后公布。大家会盯云收入、AI广告收入、资本开支、折旧和自由现金流。收入增长快，钱还能回来，市场会接受高投入。资本开支继续大涨，现金流又往下走，Alphabet和Intel前几天的走势可能重演。</p>
+<p>Nvidia跌破200美元后，AI链条短线还没稳。服务器、电力、网络和封装订单并没有消失，融资结构已经越来越重。芯片公司给客户提供贷款、担保和设备融资，需求表面很旺，信用风险也被塞进产业链里。</p>
+<h2>4. 全球重大新闻</h2>
+<p>美伊暂停交火给市场带来一点喘息，红海和霍尔木兹的通航风险仍在。油价一天能跌8%，说明前期价格里塞了很重的战争溢价。后面只要商船再遇袭，Brent很容易重新回到95美元以上。<a href="https://www.reuters.com/world/china/global-markets-wrapup-1-2026-07-27/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters+1</a></p>
+<p>美国对60个经济体的新关税已经生效，中国商品面临12.5%额外税率。中国商务部门要求取消相关措施，并保留反制权。关税水平暂时没有突破此前20%的上限，三季度进口成本、零售价格和企业毛利会慢慢体现。<a href="https://www.reuters.com/world/china/china-opposes-us-forced-labour-tariffs-calls-them-be-cancelled-2026-07-27/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<h2>5. 中国市场与政策</h2>
+<p>长鑫存储周一上市，发行价8.66元，收盘49元，涨466%，盘中最高55.03元。公司市值一度达到3.3万亿元，超过工商银行，成为A股市值最大的公司。此次IPO融资579.2亿元，只有约6.73%的股份可以流通，低流通盘放大了首日涨幅。<a href="https://www.reuters.com/world/asia-pacific/china-memory-chipmaker-cxmt-set-shanghai-debut-after-asias-biggest-ipo-2026-07-26/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters+1</a></p>
+<p>这个涨幅很刺激，参考价值要打折。流通盘太少，首日价格很容易被资金顶上去。长鑫已经有真实订单、服务器DRAM需求和盈利改善，3.3万亿元市值仍然把未来很多年的技术追赶都提前算进去了。后面真要看的是良率、资本开支、腾讯和字节等客户复购，以及全球DRAM价格还能维持多久。</p>
+<p>中国6月工业利润同比增长15.1%，上半年增长18.7%。出口和工业生产撑住利润，汽车制造业上半年利润反而下降19.5%，内需和价格竞争还在压传统制造。月底政治局会议大概率继续偏向定向支持和中央项目，全面刺激的预期不高。<a href="https://www.reuters.com/world/asia-pacific/chinas-industrial-profit-rises-187-first-half-2026-2026-07-27/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters+1</a></p>
+<h2>6. 公司重大事件与财报</h2>
+<p>今天美股盘后财报压力不算最大，真正密集的是周三和周四。Microsoft、Meta、Amazon和Apple会连续给出答案，市场预计标普500二季度盈利同比增长约39%，很大一部分来自AI相关公司。这个门槛已经很高，普通超预期未必够用。<a href="https://www.reuters.com/business/wall-st-futures-rise-us-iran-pause-hostilities-2026-07-27/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>Saipem周一因为中东项目受扰下调2026年盈利指引。油价上涨能利好能源公司，战争、停工、运输和项目延期也会直接吃掉利润。能源股不能只看原油价格，还要看资产到底在什么地方。<a href="https://www.reuters.com/business/energy/italys-saipem-cuts-2026-earnings-guidance-middle-east-crisis-2026-07-27/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<h2>7. 今日投资机会</h2>
+<p>油价大跌后，航空、邮轮、物流和部分消费股有修复空间。航运保险和绕航成本还没完全降下来，这个反弹更适合看短线持续性。</p>
+<p>AI硬件先盯Nvidia能不能收回200美元。收不回去，光模块、封装、服务器和电力链的反弹都容易偏弱。Microsoft和Meta财报前，直接追高平台股也不舒服，等资本开支和现金流数字出来更稳。</p>
+<p>A股长鑫相关设备、材料和服务器内存还有情绪，首日涨466%后，今天最容易出现高波动。长鑫继续涨，相关概念股未必同步，因为资金可能被龙头本身吸走。</p>
+<h2>8. 风险预警</h2>
+<p>Nvidia开始讨论数千亿美元级担保和融资，AI繁荣正在从订单扩展到信用风险。客户项目一旦延迟，芯片公司可能同时面对库存、应收款和担保压力。</p>
+<p>长鑫市值一天冲到3.3万亿元，流通盘又很低。价格失真和剧烈换手会同时出现。</p>
+<p>油价虽然跌了8%，霍尔木兹问题没有解决。停火谈判破裂，能源和通胀会很快回来。</p>
+<h2>9. 今日重点关注事项</h2>
+<p>今天先看Nvidia 195至200美元、Micron 880至900美元、Brent 88美元和美国10年期美债4.65%。</p>
+<p>A股看长鑫第二日换手率、半导体设备板块成交额，以及资金有没有从高估值科技回流高分红和消费。</p>
+<p>周三重点看FOMC、Microsoft和Meta。周四看美国二季度GDP、6月PCE、Amazon和Apple。几件事挤在一起，科技股波动大概率还会放大。</p>
+<p>三个深入思考的问题：</p>
+<ol>
+<li>
+<p>Nvidia开始为客户提供巨额担保后，AI产业的下一轮风险会先出现在芯片库存，还是项目融资和信用市场？</p>
+</li>
+<li>
+<p>长鑫上市首日市值达到3.3万亿元，市场需要多少收入、利润和技术突破，才能把这个价格真正撑住？</p>
+</li>
+<li>
+<p>大科技资本开支继续增长，自由现金流却往下走，投资者还能忍几个季度？</p>
+</li>
+</ol>
+<div><div><div><div><div><div><a href="https://www.reuters.com/business/wall-st-futures-rise-us-iran-pause-hostilities-2026-07-27/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener"><div><div>Reuters</div><div>S&amp;P and Nasdaq dip as investors focus on tech earnings</div><div>今天</div></div></a></div></div></div><div><div><div><a href="https://www.reuters.com/commentary/breakingviews/cloudmaxxing-sucks-nvidia-into-dangerous-game-2026-07-27/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener"><div><div>Reuters</div><div>Cloudmaxxing sucks Nvidia into dangerous game</div><div>今天</div></div></a></div></div></div><div><div><div><a href="https://www.reuters.com/business/us-core-capital-goods-orders-increase-strongly-june-2026-07-27/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener"><div><div>Reuters</div><div>US core capital goods orders rise, shipments post largest gain in 4-1/2 years amid AI investment boom</div><div>今天</div></div></a></div></div></div><div><div><div><a href="https://www.reuters.com/world/asia-pacific/china-memory-chipmaker-cxmt-set-shanghai-debut-after-asias-biggest-ipo-2026-07-26/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener"><div><div>Reuters</div><div>Chipmaker CXMT vaults to top of China's valuation with 466% surge in Shanghai debut</div><div>今天</div></div></a></div></div></div><div><div><div><a href="https://www.reuters.com/world/asia-pacific/chinas-industrial-profit-rises-187-first-half-2026-2026-07-27/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener"><div><div>Reuters</div><div>China's industrial profit growth moderates as exports cushion uneven recovery</div><div>今天</div></div></a></div></div></div><div><div><div><a href="https://www.reuters.com/world/china/global-markets-wrapup-1-2026-07-27/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener"><div><div>Reuters</div><div>Stocks mixed, oil and Treasury yields drop on Iran-US pause</div><div>今天</div></div></a></div></div></div></div></div></div></div></div>]]></content:encoded></item><item><title>每日重点简报</title><link>https://youngwilly.github.io/chatgpt-task-rss/daily-brief.html#daily-brief-2026-07-26T22-40-42Z</link><guid isPermaLink="false">85b3580aa998697556cd1471afc5f1974c24e364fb28c40848c856f78e7647d7</guid><pubDate>Sun, 26 Jul 2026 22:40:42 GMT</pubDate><category>每日重点简报</category><description>每日重点简报 2026年7月27日 1. 昨夜美股收盘概览 周五收盘，SPY报738.93美元，涨0.10%；QQQ跌1.10%至684.23美元；DIA涨0.49%至518.76美元。Nvidia跌0.83%至206.84美元，Micron跌6.90%至920.95美元，Tesla再跌2.09%至313.03美元。Apple逆势涨3.57%至333.02美元，市值约4.90万亿美元。 这盘还在做同一件事。资金继续降低芯片和高资本开支公司的仓位，同时往Apple、道指成分股和现金流更容易计算的公司里躲。Micron一天跌近7%，前几天从800美元附近急拉到1000美元附近，随后又被卖下来，存储短缺逻辑还在，筹码已经很乱。 Alphabet财报后只反弹0.63%至319.74美元。Google Cloud增长很快，资本开支和自由现金流压力也很重。市场现在愿意给AI订单付钱，对投入多久才能回来越来越没耐心。Reuters 2. 宏观</description><content:encoded><![CDATA[<div><div><h1>每日重点简报</h1>
 <p>2026年7月27日</p>
 <h2>1. 昨夜美股收盘概览</h2>
 <p>周五收盘，SPY报738.93美元，涨0.10%；QQQ跌1.10%至684.23美元；DIA涨0.49%至518.76美元。Nvidia跌0.83%至206.84美元，Micron跌6.90%至920.95美元，Tesla再跌2.09%至313.03美元。Apple逆势涨3.57%至333.02美元，市值约4.90万亿美元。</p>
@@ -211,57 +259,5 @@
 </li>
 <li>
 <p>美国新关税和接近100美元的油价同时存在，企业会先提价，还是先压缩利润和投资？</p>
-</li>
-</ol></div></div>]]></content:encoded></item><item><title>每日重点简报</title><link>https://youngwilly.github.io/chatgpt-task-rss/daily-brief.html#daily-brief-2026-07-23T22-41-01Z</link><guid isPermaLink="false">51081329a9deb219e27c7893b711778343f82edfceec97ed30de90803cdbce61</guid><pubDate>Thu, 23 Jul 2026 22:41:01 GMT</pubDate><category>每日重点简报</category><description>每日重点简报 2026年7月24日 1. 昨夜美股收盘概览 油价突破100美元，Alphabet和Tesla一起大跌，美股周四明显回撤。SPY收738.18美元，跌1.20%；QQQ收691.96美元，跌1.88%；DIA收516.26美元，跌1.01%。标普500跌1.21%，纳指跌2.15%，道指跌506.93点，科技资本开支和能源通胀同时压着市场。The Wall Street Journal Alphabet跌7.17%至317.69美元，Tesla跌14.56%至319.69美元。Google Cloud收入增长82%，公司却把2026年资本开支提高到1950亿至2050亿美元，二季度自由现金流转负。Tesla汽车价格、毛利率和现金流都承压，AI及机器人投资继续增加。市场现在不怀疑AI需求，开始怀疑股东什么时候能收到钱。Reuters+1 Nvidia跌1.53%至208.76美元，AMD跌2.27%至539.69美元</description><content:encoded><![CDATA[<div><div><h1>每日重点简报</h1>
-<p>2026年7月24日</p>
-<h2>1. 昨夜美股收盘概览</h2>
-<p>油价突破100美元，Alphabet和Tesla一起大跌，美股周四明显回撤。SPY收738.18美元，跌1.20%；QQQ收691.96美元，跌1.88%；DIA收516.26美元，跌1.01%。标普500跌1.21%，纳指跌2.15%，道指跌506.93点，科技资本开支和能源通胀同时压着市场。<a href="https://www.wsj.com/finance/stocks/u-s-stocks-slide-as-oil-hits-100-while-tech-selloff-deepens-4b712414?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">The Wall Street Journal</a></p>
-<p>Alphabet跌7.17%至317.69美元，Tesla跌14.56%至319.69美元。Google Cloud收入增长82%，公司却把2026年资本开支提高到1950亿至2050亿美元，二季度自由现金流转负。Tesla汽车价格、毛利率和现金流都承压，AI及机器人投资继续增加。市场现在不怀疑AI需求，开始怀疑股东什么时候能收到钱。<a href="https://www.reuters.com/business/google-quarterly-cloud-revenue-growth-beats-expectations-2026-07-22/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters+1</a></p>
-<p>Nvidia跌1.53%至208.76美元，AMD跌2.27%至539.69美元。Micron逆势涨3.18%至990.21美元，盘中重新站上1000美元，存储短缺和HBM需求仍有资金接。</p>
-<p>这场更能看出东西。资金没有把所有AI硬件一起卖掉，仍在买能够直接从巨额资本开支里收钱的存储和设备公司。承担资本开支的云厂商、汽车和平台公司，先被检查自由现金流。</p>
-<h2>2. 宏观与政策</h2>
-<p>Brent原油收于每桶101.27美元，WTI收于96.14美元，单日涨幅超过7%。胡塞武装加强对沙特油轮的袭击，霍尔木兹和红海两条航线同时受扰，市场开始交易真实的供应和运输中断。<a href="https://www.reuters.com/business/energy/oil-prices-rise-six-week-high-us-iran-tensions-escalate-2026-07-23/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters+1</a></p>
-<p>美国10年期国债收益率升至约4.70%。美元兑日元创40年新高，市场给7月底美联储加息的概率升至约35.8%，9月前至少加息一次的概率达到81.4%。油价、长债和美元一起上行，高估值成长股很难舒服。<a href="https://www.wsj.com/finance/stocks/u-s-stocks-slide-as-oil-hits-100-while-tech-selloff-deepens-4b712414?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">The Wall Street Journal+1</a></p>
-<p>初请失业金人数继续下降，劳动力市场还没有给美联储明确的转鸽理由。5月PCE同比仍约4%，能源价格又从7月开始明显上涨。月底FOMC可能继续维持利率，也可能释放更清楚的加息倾向。<a href="https://www.reuters.com/world/china/us-iran-tensions-underpin-dollar-yen-nears-40-year-low-2026-07-23/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters+1</a></p>
-<p>欧洲央行把存款利率维持在2.25%，同时保留进一步加息的空间。市场仍预计欧洲央行年底前可能加息两次，9月会议已经进入交易视野。欧洲对进口能源依赖更重，100美元原油对它的压力比美国更直接。<a href="https://www.reuters.com/business/finance/ecb-keeps-rates-hold-leaves-room-more-hikes-2026-07-23/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters+1</a></p>
-<h2>3. AI与科技产业</h2>
-<p>Intel盘后公布二季度收入161.3亿美元，同比增长25.4%，调整后每股收益0.42美元，均高于预期。数据中心与AI业务收入62.6亿美元，PC业务收入88.8亿美元。公司预计三季度收入158亿至168亿美元，调整后每股收益0.38美元。<a href="https://www.reuters.com/business/intel-forecasts-upbeat-quarterly-revenue-profit-strong-ai-driven-server-chip-2026-07-23/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters+1</a></p>
-<p>Intel把2026年资本开支计划从180亿美元提高到200亿美元，明年还准备继续增加。Agentic AI带动服务器CPU需求，公司也在争取晶圆代工和定制芯片客户。财报数字挺硬，股价常规交易时段先跌2.33%，今天盘中能不能消化更高的支出计划很关键。<a href="https://www.reuters.com/business/intel-forecasts-upbeat-quarterly-revenue-profit-strong-ai-driven-server-chip-2026-07-23/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
-<p>现在AI链条已经形成一个挺尴尬的循环。Alphabet、Meta、Microsoft不断扩大数据中心投资，Intel、Micron、Nvidia和设备公司拿到订单。云厂商现金流下降后，市场又会压它们的估值。硬件公司继续扩产，2027年产能利用率也会越来越早被拿出来讨论。</p>
-<p>Micron昨夜上涨，Alphabet大跌，正好体现这个资金方向。前者收订单和涨价收益，后者负责付钱。这个结构还能维持多久，要看云收入能否持续以五六成甚至更高速度增长。</p>
-<h2>4. 全球重大新闻</h2>
-<p>胡塞武装袭击沙特油轮，部分船只掉头，红海替代航线开始失去稳定性。霍尔木兹船舶通行量也继续下降。两个咽喉通道一起收缩，柴油、航空燃油、海运保险和化工原料的涨幅可能超过原油。<a href="https://www.reuters.com/world/middle-east/rubio-says-us-still-willing-negotiate-over-iran-crisis-2026-07-22/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters+2Reuters+2</a></p>
-<p>油价突破100美元后，航空公司和邮轮公司迅速下跌，American Airlines跌约8.4%。国防、能源和部分铁路股反而获得资金。地缘冲突已经进入企业成本和资产配置，不再只是新闻风险。<a href="https://www.wsj.com/finance/stocks/u-s-stocks-slide-as-oil-hits-100-while-tech-selloff-deepens-4b712414?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">The Wall Street Journal</a></p>
-<h2>5. 中国市场与政策</h2>
-<p>长鑫存储将在7月27日登陆科创板，发行价8.66元，发行66.9亿股，募资579.2亿元。如果超额配售全部行使，募资可能达到666.1亿元，这是2026年亚洲规模最大的IPO。<a href="https://www.reuters.com/world/asia-pacific/chinese-chipmaker-cxmt-list-shanghai-july-27-after-asias-biggest-ipo-this-year-2026-07-23/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
-<p>长鑫生产电脑、手机、服务器和AI系统所需的DRAM，募集资金主要用于扩产、研发和补充营运资金。公司目前是全球第四大DRAM厂商，腾讯此前已与其签下接近30亿美元的长期内存供应协议。<a href="https://www.reuters.com/world/asia-pacific/chinese-chipmaker-cxmt-list-shanghai-july-27-after-asias-biggest-ipo-this-year-2026-07-23/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters+1</a></p>
-<p>发行价对应2025年利润超过300倍市盈率，约5倍市净率。机构认购约570倍，虽然需求很强，热度明显低于近期一些数千倍认购的科技新股。上市首日大涨几乎已经写进预期，真正难的是随后能否用产量、良率和服务器客户把估值撑住。<a href="https://www.reuters.com/business/finance/eyeing-valuation-jump-investors-prep-bids-chip-giant-cxmts-86-billion-ipo-2026-07-15/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters+1</a></p>
-<h2>6. 公司重大事件与财报</h2>
-<p>Alphabet的财报给整个市场泼了冷水。收入和云业务都很好，资本开支超过2000亿美元、自由现金流转负59亿美元后，股价仍跌近7%。AI订单越强，短期现金支出也越大，这个矛盾开始压住平台公司的估值。<a href="https://www.reuters.com/business/google-quarterly-cloud-revenue-growth-beats-expectations-2026-07-22/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
-<p>Tesla跌近15%，收入增长没有盖住汽车毛利率、降价和现金流问题。公司继续投入Robotaxi、Optimus和AI芯片，汽车主业提供的现金却在变弱。293倍左右市盈率下，市场不会给项目延迟太多耐心。</p>
-<p>Intel财报则给服务器CPU和晶圆代工链带来一点支撑。今天要看股价是否认可增长，同时接受更高资本开支。只看收入超预期，忽略投资支出，容易重复Alphabet昨夜的走势。</p>
-<h2>7. 今日投资机会</h2>
-<p>Micron、HBM设备、先进封装、服务器CPU和数据中心电力仍有真实订单。今天更适合等油价和长债稳定后找承接，直接追昨夜逆势上涨的Micron，赔率已经一般。</p>
-<p>能源和油服还有趋势，Brent已经超过100美元。原油股高开后容易出现兑现，油轮、炼化、海上工程、航运保险和替代运输环节可能更有持续性。</p>
-<p>中国市场今天会提前交易长鑫上市。国产DRAM、半导体设备、材料和券商投行会有情绪，估值已经很高。周一上市后的成交和换手，比今天的概念涨幅更有参考价值。</p>
-<h2>8. 风险预警</h2>
-<p>100美元油价、4.70%的美债收益率、AI平台公司自由现金流转负同时出现，这个组合对估值很不友好。</p>
-<p>Alphabet和Tesla大跌后，卖压可能继续扩散到Microsoft、Amazon、Meta等高资本开支公司。财报增长很快，现金流跟不上，市场会继续降低估值倍数。</p>
-<p>Intel、TSMC、ASML和存储厂同时扩产。当前订单确实强，2027年出现局部产能过剩的概率也在上升。</p>
-<p>长鑫IPO规模太大，上市初期会带动科技情绪，也会明显分流A股存量资金。</p>
-<h2>9. 今日重点关注事项</h2>
-<p>今天看Intel盘后财报的正式交易反应。股价能收回105美元，服务器CPU和代工逻辑会继续发酵；高开后跌回100美元以下，市场仍在回避所有高资本开支公司。</p>
-<p>盘面盯Brent 100美元、美国10年期收益率4.70%、Nvidia 205美元、Micron 1000美元和Alphabet 315美元。油价继续涨、长债继续上行，科技股反弹空间会被压住。</p>
-<p>中国市场盯长鑫IPO相关板块有没有放量，以及资金是否从高估值科技转去能源、煤炭、油服和高分红资产。</p>
-<p>三个深入思考的问题：</p>
-<ol>
-<li>
-<p>Google Cloud增长82%，资本开支超过2000亿美元，云业务需要保持多久的高速增长，才能把自由现金流重新拉正？</p>
-</li>
-<li>
-<p>Intel、TSMC和存储厂同时提高投资，2027年最先出现产能压力的会是CPU、DRAM，还是先进封装？</p>
-</li>
-<li>
-<p>油价突破100美元后，市场目前低估更多的是通胀和利率，还是航空、物流与消费企业的利润下修？</p>
 </li>
 </ol></div></div>]]></content:encoded></item></channel></rss>
