@@ -1,0 +1,12 @@
+{
+  "status": "ok",
+  "checkedAt": "2026-08-04T00:55:32.065Z",
+  "lastSuccessfulAt": "2026-08-04T00:55:32.065Z",
+  "successfulTasks": [
+    "daily-photo",
+    "daily-brief",
+    "us-close",
+    "ai-turning-point"
+  ],
+  "failedTasks": []
+}

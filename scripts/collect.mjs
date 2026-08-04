@@ -7,7 +7,9 @@ import { archiveDir, chromePath, profileDir, readJson, root, slugDate, writeJson
 
 const tasks = await readJson(path.join(root, "config/tasks.json"), []);
 const indexFile = path.join(archiveDir, "index.json");
+const healthFile = path.join(archiveDir, "health.json");
 const archive = await readJson(indexFile, { items: [] });
+const previousHealth = await readJson(healthFile, {});
 const port = 9333;
 const chrome = spawn(chromePath, [
   `--remote-debugging-port=${port}`,
@@ -217,6 +219,10 @@ async function referencedPhotoMedia(message, itemId, taskText) {
   return [];
 }
 
+const successfulTasks = [];
+const failedTasks = [];
+let authRequired = false;
+
 try {
   for (const task of tasks) {
     const page = await context.newPage();
@@ -225,7 +231,12 @@ try {
       try {
         await page.waitForSelector('[data-message-author-role="assistant"]', { timeout: 30000 });
       } catch (error) {
-        console.error(JSON.stringify({task:task.title,url:page.url(),title:await page.title(),preview:(await page.locator("body").innerText()).slice(0,500)},null,2));
+        const preview = (await page.locator("body").innerText()).slice(0, 500);
+        console.error(JSON.stringify({ task: task.title, url: page.url(), title: await page.title(), preview }, null, 2));
+        if (/登录以获取|登录\s*免费注册|Log in to get|Log in\s*Sign up/i.test(preview)) {
+          error.code = "AUTH_REQUIRED";
+          error.message = "ChatGPT 登录已失效";
+        }
         throw error;
       }
       const messages = page.locator('[data-message-author-role="assistant"]');
@@ -262,17 +273,30 @@ try {
           });
         }
       }
+      successfulTasks.push(task.id);
     } catch (error) {
       console.error(`任务采集失败：${task.title} (${error.message})`);
+      failedTasks.push({ id: task.id, title: task.title, reason: error.message });
+      if (error.code === "AUTH_REQUIRED") authRequired = true;
     } finally {
       await page.close();
     }
+    if (authRequired) break;
   }
   await writeJson(indexFile, archive);
 } finally {
   await browser.close();
   chrome.kill("SIGTERM");
 }
+
+const checkedAt = new Date().toISOString();
+await writeJson(healthFile, {
+  status: authRequired ? "auth_required" : failedTasks.length ? "degraded" : "ok",
+  checkedAt,
+  lastSuccessfulAt: successfulTasks.length ? checkedAt : previousHealth.lastSuccessfulAt || null,
+  successfulTasks,
+  failedTasks
+});
 
 await import("./build-publication.mjs");
 
@@ -289,3 +313,6 @@ if (process.env.NO_AUTO_PUBLISH !== "1") {
     console.error(`自动发布失败：${error.message}`);
   }
 }
+
+if (authRequired) process.exitCode = 2;
+else if (failedTasks.length) process.exitCode = 1;

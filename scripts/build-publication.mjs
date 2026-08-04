@@ -186,6 +186,7 @@ await fs.writeFile(path.join(docsDir, "feed.xml"), rss(undefined, "feed.xml"));
 await fs.writeFile(path.join(docsDir, "feed.json"), jsonFeed());
 await fs.writeFile(path.join(docsDir, ".nojekyll"), "");
 await fs.writeFile(path.join(docsDir, "robots.txt"), "User-agent: *\nAllow: /\n");
+await fs.copyFile(path.join(archiveDir, "health.json"), path.join(docsDir, "health.json")).catch(() => {});
 await fs.cp(path.join(archiveDir, "assets"), path.join(docsDir, "assets"), { recursive: true, force: true }).catch(() => {});
 for (const task of tasks) {
   await fs.writeFile(path.join(docsDir, `${task.id}.html`), page(task.id));
