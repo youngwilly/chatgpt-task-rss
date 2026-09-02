@@ -1,4 +1,629 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>ChatGPT 计划任务合集</title><link>https://youngwilly.github.io/chatgpt-task-rss</link><atom:link href="https://youngwilly.github.io/chatgpt-task-rss/rss.xml" rel="self" type="application/rss+xml"/><description>ChatGPT 计划任务原文订阅</description><language>zh-cn</language><lastBuildDate>Tue, 01 Sep 2026 22:40:26 GMT</lastBuildDate><ttl>10</ttl><generator>ChatGPT Task RSS</generator><item><title>美股收盘日报｜2026-09-01</title><link>https://youngwilly.github.io/chatgpt-task-rss/#us-close-2026-09-01T22-40-26Z</link><guid isPermaLink="false">d0fc40725b236ea7bbf359754a7520415d46ebb737924a4ad0c64061ea2ff513</guid><pubDate>Tue, 01 Sep 2026 22:40:26 GMT</pubDate><category>美股收盘日报</category><description>美股收盘日报｜2026-09-01 S&amp;P 500 收 7,631.47，跌0.71%；Dow 收 52,766.93，跌0.79%；Nasdaq Composite 收 26,099.77，跌1.03%。油价重新冲上去，Brent收 94.65美元，+4.6%，WTI收 90.22美元，+5.2%。10年期美债收益率盘中到 4.797% 左右，30年期到 5.286%，9月加息概率已经抬到 68.2%。Reuters+2Reuters+2 白天很明显是risk-off。SOX跌2.1%，NYSE和Nasdaq下跌家数都大约是上涨家数的2.8倍。可盘后Dell交出一份很狠的AI服务器财报，收入470亿美元，调整EPS 7.04美元，FY2027 AI服务器收入预期从600亿美元直接提到740亿美元，盘后涨约8%。Palo Alto的AI安全业务也继续增长。AI需求这条线今天并没有跟股市一起坏。Reuters+2Google+2 </description><content:encoded><![CDATA[<div><div><h1>美股收盘日报｜2026-09-01</h1>
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>ChatGPT 计划任务合集</title><link>https://youngwilly.github.io/chatgpt-task-rss</link><atom:link href="https://youngwilly.github.io/chatgpt-task-rss/rss.xml" rel="self" type="application/rss+xml"/><description>ChatGPT 计划任务原文订阅</description><language>zh-cn</language><lastBuildDate>Wed, 02 Sep 2026 22:40:56 GMT</lastBuildDate><ttl>10</ttl><generator>ChatGPT Task RSS</generator><item><title>美股收盘日报｜2026-09-02</title><link>https://youngwilly.github.io/chatgpt-task-rss/#us-close-2026-09-02T22-40-56Z</link><guid isPermaLink="false">b9f1b1fa3c4662e05c1b6bc62048679568616b259189ed548dff14eb1d4b95b9</guid><pubDate>Wed, 02 Sep 2026 22:40:56 GMT</pubDate><category>美股收盘日报</category><description>美股收盘日报｜2026-09-02 S&amp;P 500 收 7,666.63，+0.46%；Dow 收 53,061.89，+0.56%；Nasdaq Composite 收 26,217.83，+0.45%；Russell 2000 +1.1%。连续三天下跌以后终于反弹，而且这次小盘和市场宽度都参与了。Reuters+1 盘后却出现很鲜明的分化。Broadcom Q3收入、EPS和AI芯片收入都超预期，Q4总收入指引却略低于市场预期，盘后跌逾3%；Snowflake产品收入同比增长37%，大幅上调全年指引，盘后一度涨20%以上；HPE同样beat并上调全年预测，盘后却因供应瓶颈跌逾3%。 Reuters+2Reuters+2 这三家公司放在一起看，今晚很有意思。AI需求仍然相当强，市场现在对供应、利润率、竞争和下一季度指引挑得越来越细。 0. 今日一句话总结 Nvidia +3.2%，Micron +2.4%，Qualcomm +</description><content:encoded><![CDATA[<div><div><h1>美股收盘日报｜2026-09-02</h1>
+<p>S&amp;P 500 收 <strong>7,666.63，+0.46%</strong>；Dow 收 <strong>53,061.89，+0.56%</strong>；Nasdaq Composite 收 <strong>26,217.83，+0.45%</strong>；Russell 2000 <strong>+1.1%</strong>。连续三天下跌以后终于反弹，而且这次小盘和市场宽度都参与了。<a href="https://www.reuters.com/business/us-stock-index-futures-subdued-oil-treasury-yields-rise-iran-tensions-2026-09-02/" target="_blank" rel="noreferrer noopener">Reuters+1</a></p>
+<p>盘后却出现很鲜明的分化。<strong>Broadcom Q3收入、EPS和AI芯片收入都超预期，Q4总收入指引却略低于市场预期，盘后跌逾3%；Snowflake产品收入同比增长37%，大幅上调全年指引，盘后一度涨20%以上；HPE同样beat并上调全年预测，盘后却因供应瓶颈跌逾3%。</strong> <a href="https://www.reuters.com/business/broadcom-forecasts-quarterly-revenue-below-estimates-2026-09-02/" target="_blank" rel="noreferrer noopener">Reuters+2Reuters+2</a></p>
+<p>这三家公司放在一起看，今晚很有意思。AI需求仍然相当强，市场现在对供应、利润率、竞争和下一季度指引挑得越来越细。</p>
+<h2>0. 今日一句话总结</h2>
+<p>Nvidia <strong>+3.2%</strong>，Micron +2.4%，Qualcomm +2.0%，Dell因为AI服务器需求和上调全年预测正式交易大涨 <strong>15.8%</strong>。昨天被长债和油价砸下去的AI硬件，今天出现了比较实在的buy the dip。<a href="https://www.reuters.com/business/us-stock-index-futures-subdued-oil-treasury-yields-rise-iran-tensions-2026-09-02/" target="_blank" rel="noreferrer noopener">reuters.com</a></p>
+<p>宽度也明显反弹。NYSE上涨家数约为下跌家数 <strong>1.78倍</strong>，Nasdaq为 <strong>1.85倍</strong>，Russell 2000涨1.1%。前几天那种指数靠少数权重撑着、内部一路恶化的状态今天缓了一口气。<a href="https://www.reuters.com/business/us-stock-index-futures-subdued-oil-treasury-yields-rise-iran-tensions-2026-09-02/" target="_blank" rel="noreferrer noopener">reuters.com</a></p>
+<p>可Nasdaq仍有 <strong>135家52周新低，只有58家新高</strong>。长债也只是从盘中极端位置回落，10年期最终仍在约4.79%，Brent继续涨到95.63美元。这个地方还不能叫全面risk-on。<a href="https://www.reuters.com/business/us-stock-index-futures-subdued-oil-treasury-yields-rise-iran-tensions-2026-09-02/" target="_blank" rel="noreferrer noopener">Reuters+2The Wall Street Journal+2</a></p>
+<p><strong>今日市场状态：超跌修复，宽度改善，AI硬件重新接钱，小盘参与，但长债、油价和Fed加息风险仍在高位。</strong></p>
+<hr>
+<h1>1. 大盘表现总览</h1>
+<div><div><div><section><h4>Dow</h4><dl><dt><strong>标的</strong></dt><dd>Dow</dd><dt><strong>收盘</strong></dt><dd>53,061.89</dd><dt><strong>涨跌</strong></dt><dd>+0.56%</dd><dt><strong>日内高低</strong></dt><dd>暂无可靠完整数据</dd><dt><strong>成交量变化</strong></dt><dd>暂无指数成交</dd><dt><strong>技术状态</strong></dt><dd>三连跌后反弹</dd></dl></section><hr><section><h4>S&amp;P 500</h4><dl><dt><strong>标的</strong></dt><dd>S&amp;P 500</dd><dt><strong>收盘</strong></dt><dd>7,666.63</dd><dt><strong>涨跌</strong></dt><dd>+0.46%</dd><dt><strong>日内高低</strong></dt><dd>暂无可靠完整数据</dd><dt><strong>成交量变化</strong></dt><dd>全市场147.5亿股</dd><dt><strong>技术状态</strong></dt><dd>收回部分昨日跌幅</dd></dl></section><hr><section><h4>Nasdaq Composite</h4><dl><dt><strong>标的</strong></dt><dd>Nasdaq Composite</dd><dt><strong>收盘</strong></dt><dd>26,217.83</dd><dt><strong>涨跌</strong></dt><dd>+0.45%</dd><dt><strong>日内高低</strong></dt><dd>暂无可靠完整数据</dd><dt><strong>成交量变化</strong></dt><dd>暂无可靠指数成交</dd><dt><strong>技术状态</strong></dt><dd>AI带动修复</dd></dl></section><hr><section><h4>Nasdaq 100 / QQQ</h4><dl><dt><strong>标的</strong></dt><dd>Nasdaq 100 / QQQ</dd><dt><strong>收盘</strong></dt><dd>QQQ约709.24</dd><dt><strong>涨跌</strong></dt><dd>约+0.23%</dd><dt><strong>日内高低</strong></dt><dd>暂无可靠完整区间</dd><dt><strong>成交量变化</strong></dt><dd>暂无可靠终量</dd><dt><strong>技术状态</strong></dt><dd>弱于小盘</dd></dl></section><hr><section><h4>Russell 2000</h4><dl><dt><strong>标的</strong></dt><dd>Russell 2000</dd><dt><strong>收盘</strong></dt><dd>2,953.17</dd><dt><strong>涨跌</strong></dt><dd>+1.1%</dd><dt><strong>日内高低</strong></dt><dd>暂无可靠数据</dd><dt><strong>成交量变化</strong></dt><dd>暂无</dd><dt><strong>技术状态</strong></dt><dd>明显参与反弹</dd></dl></section><hr><section><h4>IWM</h4><dl><dt><strong>标的</strong></dt><dd>IWM</dd><dt><strong>收盘</strong></dt><dd>暂无可靠正式终值</dd><dt><strong>涨跌</strong></dt><dd>上涨方向</dd><dt><strong>日内高低</strong></dt><dd>暂无</dd><dt><strong>成交量变化</strong></dt><dd>暂无</dd><dt><strong>技术状态</strong></dt><dd>小盘改善</dd></dl></section><hr><section><h4>SOX</h4><dl><dt><strong>标的</strong></dt><dd>SOX</dd><dt><strong>收盘</strong></dt><dd>暂无可靠正式点位</dd><dt><strong>涨跌</strong></dt><dd>上涨</dd><dt><strong>日内高低</strong></dt><dd>暂无</dd><dt><strong>成交量变化</strong></dt><dd>暂无</dd><dt><strong>技术状态</strong></dt><dd>芯片重新接钱</dd></dl></section><hr><section><h4>VIX</h4><dl><dt><strong>标的</strong></dt><dd>VIX</dd><dt><strong>收盘</strong></dt><dd>暂无可靠正式终值</dd><dt><strong>涨跌</strong></dt><dd>回落方向</dd><dt><strong>日内高低</strong></dt><dd>暂无</dd><dt><strong>成交量变化</strong></dt><dd>不适用</dd><dt><strong>技术状态</strong></dt><dd>未出现恐慌</dd></dl></section><hr></div></div></div>
+<p>指数最终值Reuters与AP基本一致，Reuters S&amp;P为7,666.63，AP为7,666.60，属于正常报价和更新时间差异，本期采用Reuters最终收盘口径。<a href="https://www.reuters.com/business/us-stock-index-futures-subdued-oil-treasury-yields-rise-iran-tensions-2026-09-02/" target="_blank" rel="noreferrer noopener">Reuters+1</a></p>
+<p>全市场成交 <strong>147.5亿股</strong>，过去20日平均 <strong>151.9亿股</strong>。上涨有宽度，成交还略低于均量，所以这场修复挺正常，还没有出现很明显的risk-on放量。<a href="https://www.reuters.com/business/us-stock-index-futures-subdued-oil-treasury-yields-rise-iran-tensions-2026-09-02/" target="_blank" rel="noreferrer noopener">reuters.com</a></p>
+<p>S&amp;P昨天跌到7,631，今天重新站回7,650以上。</p>
+<p>Russell涨1.1%反而比大型指数更强，这一点比单看S&amp;P涨0.46%舒服。</p>
+<p>SOX今年以来仍然很强，可Reuters指出它从6月底高位已经累计回撤接近四分之一。今天属于低位修复，距离重新进入主升状态还差得挺远。<a href="https://www.reuters.com/business/us-stock-index-futures-subdued-oil-treasury-yields-rise-iran-tensions-2026-09-02/" target="_blank" rel="noreferrer noopener">reuters.com</a></p>
+<hr>
+<h1>2. 盘中走势复盘</h1>
+<p>盘前债券还是很难看。10年期一度到 <strong>4.81%左右</strong>，30年期接近 <strong>5.29%</strong>。美伊冲突继续，Brent也在95美元上面。</p>
+<p>正常情况下，这个组合很容易继续压成长股。</p>
+<p>8:15 ET，ADP先给市场一点缓冲。</p>
+<p>美国8月私人就业只增加 <strong>3.8万人</strong>，低于Reuters预期4.8万人，7月从4.4万上修到4.6万。制造业直接减少1.7万人，专业和商业服务减少1.6万人。<a href="https://www.reuters.com/business/us-private-payrolls-growth-slows-august-adp-says-2026-09-02/" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>这一下让Fed加息概率从盘中约70%左右重新降到约64%，2年和10年收益率从高点下来一些。<a href="https://www.wsj.com/finance/jgbs-edge-lower-tracking-declines-in-u-s-treasurys-999492da?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">The Wall Street Journal+1</a></p>
+<p>开盘以后资金开始捡昨天被砸的东西。</p>
+<p>NVDA涨3.2%。</p>
+<p>MU涨2.4%。</p>
+<p>QCOM涨2.0%。</p>
+<p>Dell最狠，昨天盘后强财报以后今天正式交易 <strong>+15.8%</strong>。<a href="https://www.reuters.com/business/us-stock-index-futures-subdued-oil-treasury-yields-rise-iran-tensions-2026-09-02/" target="_blank" rel="noreferrer noopener">reuters.com</a></p>
+<p>Dell这场参考价值挺高。公司刚把FY2027 AI服务器收入预期从600亿美元提高到740亿美元，过去12个月AI服务器订单超过1300亿美元。市场愿意在正式交易时继续把盘后涨幅放大，AI服务器需求这一条目前没什么疑问。<a href="https://www.reuters.com/business/retail-consumer/dell-shares-gain-after-strong-ai-server-demand-boosts-annual-forecast-2026-09-02/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>午盘以后反弹扩散到区域银行、航空、材料、小盘。昨天被油价和债券打得比较狠的股票开始回补。</p>
+<p>尾盘没有重新塌。</p>
+<p>收盘后，AI又来了三场考试。</p>
+<p>Broadcom财报出来后先跌。</p>
+<p>Snowflake大涨。</p>
+<p>HPE跌。</p>
+<p>这个分化比白天指数反弹更值得留着。</p>
+<hr>
+<h1>3. 宏观环境</h1>
+<h2>3.1 美债</h2>
+<p>最终附近较可靠市场口径：</p>
+<div><div><div><section><h4>2Y</h4><dl><dt><strong>期限</strong></dt><dd>2Y</dd><dt><strong>收益率</strong></dt><dd><strong>约4.39%</strong></dd><dt><strong>状态</strong></dt><dd>从盘中高位回落</dd></dl></section><hr><section><h4>10Y</h4><dl><dt><strong>期限</strong></dt><dd>10Y</dd><dt><strong>收益率</strong></dt><dd><strong>约4.79%</strong></dd><dt><strong>状态</strong></dt><dd>仍处2023年以来极高区域</dd></dl></section><hr><section><h4>30Y</h4><dl><dt><strong>期限</strong></dt><dd>30Y</dd><dt><strong>收益率</strong></dt><dd><strong>约5.27%</strong></dd><dt><strong>状态</strong></dt><dd>仍逼近5.30%</dd></dl></section><hr><section><h4>2Y至10Y</h4><dl><dt><strong>期限</strong></dt><dd>2Y至10Y</dd><dt><strong>收益率</strong></dt><dd><strong>约+40bp</strong></dd><dt><strong>状态</strong></dt><dd>正斜率</dd></dl></section><hr><section><h4>10Y至30Y</h4><dl><dt><strong>期限</strong></dt><dd>10Y至30Y</dd><dt><strong>收益率</strong></dt><dd><strong>约+47bp</strong></dd><dt><strong>状态</strong></dt><dd>长端期限溢价仍高</dd></dl></section><hr></div></div></div>
+<p>WSJ收盘附近给出2年 <strong>4.392%</strong>、10年 <strong>4.794%</strong>、30年 <strong>5.266%</strong>。另一WSJ稍早口径是2年4.383%、10年4.793%，差异来自时间点，本期采用较晚报价。<a href="https://energynews.oedigital.com/electric-utilities/2026/09/02/wall-street-journal-september-2?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">能源新闻+1</a></p>
+<p>10年盘中一度 <strong>4.818%</strong>。</p>
+<p>30年一度到 <strong>5.296%</strong>。</p>
+<p>这就是为什么今天股票虽然涨，我不会马上把宏观风险降级。</p>
+<p>现在几条线很清楚：</p>
+<p><strong>2Y 4.40%</strong>，Fed近期政策压力。</p>
+<p><strong>10Y 4.80%</strong>，今天正在反复拉锯。</p>
+<p><strong>10Y 5.00%</strong>，真过去，高估值资产会重新大幅计算折现率。</p>
+<p><strong>30Y 5.30%</strong>，目前已经贴得非常近。</p>
+<p>还有个越来越大的问题。Reuters指出，大型科技公司为AI建设大量发债，正在与各国政府一起抢长期资本。这会把AI需求本身变成推高市场融资成本的一个因素。<a href="https://www.reuters.com/world/asia-pacific/bond-selloff-deepens-inflation-oil-prices-jolt-markets-2026-09-02/" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>这个循环后面会挺麻烦。</p>
+<p>AI越强。</p>
+<p>Capex越大。</p>
+<p>债券发行越多。</p>
+<p>资金成本越容易往上。</p>
+<hr>
+<h1>3.2 Fed预期</h1>
+<p>ADP以前，市场盘中一度给出 <strong>约70.2%</strong> 的9月加息概率。<a href="https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-oil-prices-bond-yields-adp-jobs-data-broadcom-results/card/70-chance-of-fed-rate-hike-as-treasury-yields-flirt-with-highest-level-in-nearly-3-years-7YFVEDqtsr98QbPp91N7?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">MarketWatch</a></p>
+<p>弱于预期的ADP出来以后，较晚市场口径回落到 <strong>约64%</strong>。<a href="https://www.wsj.com/finance/jgbs-edge-lower-tracking-declines-in-u-s-treasurys-999492da?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">The Wall Street Journal+1</a></p>
+<div><div><div><section><h4>9月维持3.50%至3.75%</h4><dl><dt><strong>情景</strong></dt><dd>9月维持3.50%至3.75%</dd><dt><strong>当前大致概率</strong></dt><dd>约36%</dd></dl></section><hr><section><h4>9月加息25bp</h4><dl><dt><strong>情景</strong></dt><dd>9月加息25bp</dd><dt><strong>当前大致概率</strong></dt><dd><strong>约64%</strong></dd></dl></section><hr><section><h4>盘中高点</h4><dl><dt><strong>情景</strong></dt><dd>盘中高点</dd><dt><strong>当前大致概率</strong></dt><dd>约70%</dd></dl></section><hr><section><h4>一周前</h4><dl><dt><strong>情景</strong></dt><dd>一周前</dd><dt><strong>当前大致概率</strong></dt><dd>约36%至40%</dd></dl></section><hr><section><h4>年内降息</h4><dl><dt><strong>情景</strong></dt><dd>年内降息</dd><dt><strong>当前大致概率</strong></dt><dd>暂无可靠主流定价</dd></dl></section><hr></div></div></div>
+<p>所以加息概率今天实际上稍微降了一点。</p>
+<p>可64%仍然高。</p>
+<p>New York Fed主席John Williams今天表示，他对下一步政策仍保持开放，同时认为长端收益率上涨更多反映经济韧性等因素，没有简单归结为通胀失控。<a href="https://www.wsj.com/finance/stocks/u-s-stocks-rise-as-oil-gains-on-iran-escalation-aaf0672e?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">The Wall Street Journal</a></p>
+<p>现在最大的问题已经从Fed讲话切到周五非农。</p>
+<p>Reuters最新调查：</p>
+<p><strong>非农 +5.6万人。</strong></p>
+<p><strong>私人就业 +4.5万人。</strong></p>
+<p><strong>失业率 4.1%。</strong> <a href="https://www.reuters.com/business/us-private-payrolls-growth-slows-august-adp-says-2026-09-02/" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>如果非农明显高于10万，同时工资也强，9月加息概率很容易重新过70%。</p>
+<p>如果非农很弱甚至再次负增长，今天ADP已经提前给了一个方向。</p>
+<hr>
+<h1>3.3 DXY、黄金、原油、Bitcoin、Ethereum</h1>
+<div><div><div><section><h4>DXY</h4><dl><dt><strong>资产</strong></dt><dd>DXY</dd><dt><strong>最新可靠值</strong></dt><dd>小幅回落</dd><dt><strong>当日</strong></dt><dd>暂无可靠精确终值</dd></dl></section><hr><section><h4>现货黄金</h4><dl><dt><strong>资产</strong></dt><dd>现货黄金</dd><dt><strong>最新可靠值</strong></dt><dd><strong>$4,376.41</strong></dd><dt><strong>当日</strong></dt><dd>+约1%</dd></dl></section><hr><section><h4>黄金期货</h4><dl><dt><strong>资产</strong></dt><dd>黄金期货</dd><dt><strong>最新可靠值</strong></dt><dd><strong>$4,414.60</strong></dd><dt><strong>当日</strong></dt><dd>上涨</dd></dl></section><hr><section><h4>WTI</h4><dl><dt><strong>资产</strong></dt><dd>WTI</dd><dt><strong>最新可靠值</strong></dt><dd><strong>$91.01</strong></dd><dt><strong>当日</strong></dt><dd>+0.9%</dd></dl></section><hr><section><h4>Brent</h4><dl><dt><strong>资产</strong></dt><dd>Brent</dd><dt><strong>最新可靠值</strong></dt><dd><strong>$95.63</strong></dd><dt><strong>当日</strong></dt><dd>+1.0%</dd></dl></section><hr><section><h4>Bitcoin</h4><dl><dt><strong>资产</strong></dt><dd>Bitcoin</dd><dt><strong>最新可靠值</strong></dt><dd><strong>约$77,300</strong></dd><dt><strong>当日</strong></dt><dd>接近平盘</dd></dl></section><hr><section><h4>Ethereum</h4><dl><dt><strong>资产</strong></dt><dd>Ethereum</dd><dt><strong>最新可靠值</strong></dt><dd>暂无可靠日终统一值</dd><dt><strong>当日</strong></dt><dd>暂无可靠数据</dd></dl></section><hr></div></div></div>
+<p><a href="https://www.reuters.com/world/india/gold-hits-over-3-week-low-mideast-tensions-fan-rate-hike-fears-2026-09-02/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters+2Reuters+2</a></p>
+<p>黄金昨天被利率砸，今天反弹超过1%。10年收益率和美元从日内高点回落，给黄金喘了一口气。<a href="https://www.reuters.com/world/india/gold-hits-over-3-week-low-mideast-tensions-fan-rate-hike-fears-2026-09-02/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>油价却还在涨。</p>
+<p>WTI 91.01。</p>
+<p>Brent 95.63。</p>
+<p>昨天我一直盯的95美元已经被突破。<a href="https://www.reuters.com/business/energy/oil-up-nearly-1-us-iran-trade-fresh-strikes-2026-09-02/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>Hormuz真正的船运情况仍然很紧。Reuters称当天只有4艘船通过海峡，10日平均约13艘。伊朗又扩大了“不合规船只”黑名单。<a href="https://www.reuters.com/business/energy/oil-up-nearly-1-us-iran-trade-fresh-strikes-2026-09-02/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters+1</a></p>
+<p>这一块现在还是市场最大的尾部风险之一。</p>
+<hr>
+<h1>3.4 当日美国重要经济数据</h1>
+<div><div><div><section><h4>ADP私人就业</h4><dl><dt><strong>数据</strong></dt><dd>ADP私人就业</dd><dt><strong>实际</strong></dt><dd><strong>+3.8万</strong></dd><dt><strong>预期</strong></dt><dd>+4.8万</dd><dt><strong>前值</strong></dt><dd>+4.6万修正</dd><dt><strong>解读</strong></dt><dd>偏弱</dd></dl></section><hr><section><h4>教育/医疗就业</h4><dl><dt><strong>数据</strong></dt><dd>教育/医疗就业</dd><dt><strong>实际</strong></dt><dd>+4.5万</dd><dt><strong>预期</strong></dt><dd>不适用</dd><dt><strong>前值</strong></dt><dd>不适用</dd><dt><strong>解读</strong></dt><dd>主要贡献</dd></dl></section><hr><section><h4>制造业就业</h4><dl><dt><strong>数据</strong></dt><dd>制造业就业</dd><dt><strong>实际</strong></dt><dd><strong>-1.7万</strong></dd><dt><strong>预期</strong></dt><dd>不适用</dd><dt><strong>前值</strong></dt><dd>不适用</dd><dt><strong>解读</strong></dt><dd>明显偏弱</dd></dl></section><hr><section><h4>专业商业服务</h4><dl><dt><strong>数据</strong></dt><dd>专业商业服务</dd><dt><strong>实际</strong></dt><dd><strong>-1.6万</strong></dd><dt><strong>预期</strong></dt><dd>不适用</dd><dt><strong>前值</strong></dt><dd>不适用</dd><dt><strong>解读</strong></dt><dd>偏弱</dd></dl></section><hr><section><h4>建筑</h4><dl><dt><strong>数据</strong></dt><dd>建筑</dd><dt><strong>实际</strong></dt><dd>+1.2万</dd><dt><strong>预期</strong></dt><dd>不适用</dd><dt><strong>前值</strong></dt><dd>不适用</dd><dt><strong>解读</strong></dt><dd>仍有韧性</dd></dl></section><hr><section><h4>7月工厂订单</h4><dl><dt><strong>数据</strong></dt><dd>7月工厂订单</dd><dt><strong>实际</strong></dt><dd><strong>+0.9%</strong></dd><dt><strong>预期</strong></dt><dd>暂无可靠统一预期</dd><dt><strong>前值</strong></dt><dd>-0.2%修正</dd><dt><strong>解读</strong></dt><dd>反弹</dd></dl></section><hr><section><h4>工厂订单同比</h4><dl><dt><strong>数据</strong></dt><dd>工厂订单同比</dd><dt><strong>实际</strong></dt><dd>+6.5%</dd><dt><strong>预期</strong></dt><dd>不适用</dd><dt><strong>前值</strong></dt><dd>不适用</dd><dt><strong>解读</strong></dt><dd>较强</dd></dl></section><hr></div></div></div>
+<p><a href="https://www.reuters.com/business/us-private-payrolls-growth-slows-august-adp-says-2026-09-02/" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>就业的结构比总数更值得看。</p>
+<p>教育医疗一个板块就加4.5万。</p>
+<p>私人就业总共才加3.8万。</p>
+<p>这意味着其他行业合计其实在减少工作岗位。</p>
+<p>制造和专业服务都在减。</p>
+<p>这场数据对周五非农稍微偏负面。</p>
+<p>但ADP本身历史上对BLS非农预测能力一般，Reuters也特意提醒了这一点。<a href="https://www.reuters.com/business/us-private-payrolls-growth-slows-august-adp-says-2026-09-02/" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<hr>
+<h1>4. 板块表现</h1>
+<p>S&amp;P 500今天 <strong>10个行业上涨，只有房地产下跌</strong>。材料涨幅最大。<a href="https://www.reuters.com/business/us-stock-index-futures-subdued-oil-treasury-yields-rise-iran-tensions-2026-09-02/" target="_blank" rel="noreferrer noopener">reuters.com</a></p>
+<p>完整11只ETF当日、近5日、近1月统一调整收盘数据，本轮仍无法全部可靠取得。对应缺口直接留空。</p>
+<div><div><div><section><h4>XLB 材料</h4><dl><dt><strong>ETF</strong></dt><dd>XLB 材料</dd><dt><strong>今日</strong></dt><dd>领涨</dd><dt><strong>近5日</strong></dt><dd>暂无可靠数据</dd><dt><strong>近1月</strong></dt><dd>暂无</dd><dt><strong>相对SPX</strong></dt><dd>跑赢</dd><dt><strong>驱动</strong></dt><dd>金属、矿业反弹</dd></dl></section><hr><section><h4>XLK 科技</h4><dl><dt><strong>ETF</strong></dt><dd>XLK 科技</dd><dt><strong>今日</strong></dt><dd>上涨</dd><dt><strong>近5日</strong></dt><dd>暂无</dd><dt><strong>近1月</strong></dt><dd>暂无</dd><dt><strong>相对SPX</strong></dt><dd>接近/略强</dd><dt><strong>驱动</strong></dt><dd>NVDA、芯片</dd></dl></section><hr><section><h4>XLC 通信</h4><dl><dt><strong>ETF</strong></dt><dd>XLC 通信</dd><dt><strong>今日</strong></dt><dd>上涨</dd><dt><strong>近5日</strong></dt><dd>暂无</dd><dt><strong>近1月</strong></dt><dd>暂无</dd><dt><strong>相对SPX</strong></dt><dd>正面</dd><dt><strong>驱动</strong></dt><dd>平台科技</dd></dl></section><hr><section><h4>XLY 可选消费</h4><dl><dt><strong>ETF</strong></dt><dd>XLY 可选消费</dd><dt><strong>今日</strong></dt><dd>上涨</dd><dt><strong>近5日</strong></dt><dd>暂无</dd><dt><strong>近1月</strong></dt><dd>暂无</dd><dt><strong>相对SPX</strong></dt><dd>修复</dd><dt><strong>驱动</strong></dt><dd>超跌回补</dd></dl></section><hr><section><h4>XLF 金融</h4><dl><dt><strong>ETF</strong></dt><dd>XLF 金融</dd><dt><strong>今日</strong></dt><dd>上涨</dd><dt><strong>近5日</strong></dt><dd>暂无</dd><dt><strong>近1月</strong></dt><dd>暂无</dd><dt><strong>相对SPX</strong></dt><dd>正面</dd><dt><strong>驱动</strong></dt><dd>区域银行反弹</dd></dl></section><hr><section><h4>XLI 工业</h4><dl><dt><strong>ETF</strong></dt><dd>XLI 工业</dd><dt><strong>今日</strong></dt><dd>上涨</dd><dt><strong>近5日</strong></dt><dd>暂无</dd><dt><strong>近1月</strong></dt><dd>暂无</dd><dt><strong>相对SPX</strong></dt><dd>正面</dd><dt><strong>驱动</strong></dt><dd>航空反弹</dd></dl></section><hr><section><h4>XLV 医疗</h4><dl><dt><strong>ETF</strong></dt><dd>XLV 医疗</dd><dt><strong>今日</strong></dt><dd>上涨</dd><dt><strong>近5日</strong></dt><dd>暂无</dd><dt><strong>近1月</strong></dt><dd>暂无</dd><dt><strong>相对SPX</strong></dt><dd>中性</dd><dt><strong>驱动</strong></dt><dd>宽度修复</dd></dl></section><hr><section><h4>XLP 必需消费</h4><dl><dt><strong>ETF</strong></dt><dd>XLP 必需消费</dd><dt><strong>今日</strong></dt><dd>上涨</dd><dt><strong>近5日</strong></dt><dd>暂无</dd><dt><strong>近1月</strong></dt><dd>暂无</dd><dt><strong>相对SPX</strong></dt><dd>中性</dd><dt><strong>驱动</strong></dt><dd>普涨</dd></dl></section><hr><section><h4>XLE 能源</h4><dl><dt><strong>ETF</strong></dt><dd>XLE 能源</dd><dt><strong>今日</strong></dt><dd>上涨方向</dd><dt><strong>近5日</strong></dt><dd>暂无</dd><dt><strong>近1月</strong></dt><dd>暂无</dd><dt><strong>相对SPX</strong></dt><dd>正面</dd><dt><strong>驱动</strong></dt><dd>Brent &gt;95</dd></dl></section><hr><section><h4>XLU 公用事业</h4><dl><dt><strong>ETF</strong></dt><dd>XLU 公用事业</dd><dt><strong>今日</strong></dt><dd>上涨/基本稳定</dd><dt><strong>近5日</strong></dt><dd>暂无</dd><dt><strong>近1月</strong></dt><dd>暂无</dd><dt><strong>相对SPX</strong></dt><dd>中性</dd><dt><strong>驱动</strong></dt><dd>债息日内回落</dd></dl></section><hr><section><h4>XLRE 房地产</h4><dl><dt><strong>ETF</strong></dt><dd>XLRE 房地产</dd><dt><strong>今日</strong></dt><dd><strong>唯一行业下跌</strong></dd><dt><strong>近5日</strong></dt><dd>暂无</dd><dt><strong>近1月</strong></dt><dd>暂无</dd><dt><strong>相对SPX</strong></dt><dd>明显跑输</dd><dt><strong>驱动</strong></dt><dd>10Y近4.8%</dd></dl></section><hr></div></div></div>
+<p>今天和昨天差很多。</p>
+<p>昨天能源独强，其他普跌。</p>
+<p>今天明显有 <strong>高切低 + 超跌修复 + 小盘参与</strong>。</p>
+<p>可房地产还跌，很符合10年4.79%这个环境。</p>
+<hr>
+<h1>5. 主题与风格表现</h1>
+<p><strong>SMH / SOXX</strong></p>
+<p>半导体今天重新上涨。NVDA +3.2%、MU +2.4%、QCOM +2%。SOX年内高点下来已经跌了接近四分之一，今天这场更多属于超跌修复。<a href="https://www.reuters.com/business/us-stock-index-futures-subdued-oil-treasury-yields-rise-iran-tensions-2026-09-02/" target="_blank" rel="noreferrer noopener">reuters.com</a></p>
+<p>盘后Broadcom会让明天重新复杂起来。</p>
+<p>Q3 AI芯片收入 <strong>167亿美元，超过去年同期三倍</strong>。</p>
+<p>Q4预计AI芯片收入 <strong>217亿美元</strong>，高于Visible Alpha约213.3亿美元。</p>
+<p>可公司Q4总收入指引 <strong>348亿美元</strong>，低于LSEG的350.3亿美元。</p>
+<p>盘后跌超过3%。<a href="https://www.reuters.com/business/broadcom-forecasts-quarterly-revenue-below-estimates-2026-09-02/" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>AI芯片本身很好，总公司指引没过市场那条线。</p>
+<p>这个地方会影响SMH和SOXX明天的开盘。</p>
+<p><strong>IGV / 软件</strong></p>
+<p>白天软件和服务反而是S&amp;P内部比较弱的方向，市场继续交易AI可能扰乱传统软件业务。<a href="https://www.reuters.com/business/us-stock-index-futures-subdued-oil-treasury-yields-rise-iran-tensions-2026-09-02/" target="_blank" rel="noreferrer noopener">reuters.com</a></p>
+<p>然后盘后Snowflake直接把这条线反打回来。</p>
+<p>产品收入 <strong>14.9亿美元，同比增长37%</strong>。</p>
+<p>调整EPS <strong>0.62美元</strong>，预期0.45美元。</p>
+<p>全年产品收入指引从 <strong>58.4亿美元提高到60.7亿美元</strong>。</p>
+<p>盘后涨幅一度超过 <strong>20%</strong>。<a href="https://www.reuters.com/business/snowflake-lifts-annual-product-revenue-forecast-demand-cloud-data-platform-2026-09-02/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>这场很能看出东西。</p>
+<p>软件里依然会出现真正的AI受益者。</p>
+<p>CRM、CRWD、WDAY、现在SNOW，已经连续出现这种案例。</p>
+<p><strong>CIBR / HACK</strong></p>
+<p>PANW财报不错，CRWD前面也不错。安全软件的AI需求逻辑继续成立。</p>
+<p><strong>CLOU / WCLD</strong></p>
+<p>Snowflake盘后大涨会明显改善明天云数据软件情绪。</p>
+<p><strong>BOTZ / AIQ</strong></p>
+<p>Nvidia白天反弹，Broadcom盘后弱，AI综合ETF明天大概率出现内部对冲。</p>
+<p><strong>光通信</strong></p>
+<p>COHR盘中仍偏弱，最新可验证盘中价约266美元，较前一天272美元继续回落。完整正式终值暂无可靠数据。<a href="https://stockanalysis.com/stocks/cohr/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">StockAnalysis.com</a></p>
+<p>LITE、AAOI完整终值暂无可靠数据。</p>
+<p><strong>数据中心 / 电力</strong></p>
+<p>Dell今天正式 <strong>+15.8%</strong>。</p>
+<p>HPE盘后又交出一份强数据。</p>
+<p>HPE Q3收入 <strong>122.1亿美元，同比增长33.7%</strong>，预期119.1亿美元。</p>
+<p>EPS <strong>1.11美元</strong>，预期0.93。</p>
+<p>FY2026收入增长指引从29%至33%提高到 <strong>34%至37%</strong>。</p>
+<p>FY2027收入增长预期从8%至12%提高到 <strong>13%至17%</strong>。<a href="https://www.reuters.com/business/hpe-raises-annual-forecasts-ai-networking-demand-lifts-quarterly-revenue-2026-09-02/" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>可HPE盘后跌3%以上。</p>
+<p>原因很直接，memory是当前最大供应瓶颈，其次还有NAND、CPU和硬盘。HPE库存已经从去年同期71.6亿美元升到 <strong>118.2亿美元</strong>。<a href="https://www.reuters.com/business/hpe-raises-annual-forecasts-ai-networking-demand-lifts-quarterly-revenue-2026-09-02/" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>需求很强。</p>
+<p>供应链和库存占用现金也很大。</p>
+<p>这一条以后要同时看。</p>
+<p><strong>小盘</strong></p>
+<p>Russell +1.1%。</p>
+<p>终于参加了。</p>
+<p><strong>等权</strong></p>
+<p>NYSE上涨家数1.78倍，等权结构明显比前几天舒服。</p>
+<p><strong>今日风格：超跌反弹，AI硬件恢复，小盘参加，软件白天偏弱但盘后Snowflake重新点火。</strong></p>
+<hr>
+<h1>6. 市场宽度与参与度</h1>
+<h2>6.1 高于20 / 50 / 100 / 200日均线比例</h2>
+<p>S&amp;P 500、Nasdaq 100、Nasdaq Composite、NYSE、Russell 2000完整9月2日统一数据：</p>
+<p><strong>暂无可靠数据。</strong></p>
+<p>今天不用这些数字也能看到宽度已经明显改善。</p>
+<p>前几天连续接近2至3倍下跌家数，今天直接翻到上涨家数接近2倍。</p>
+<hr>
+<h2>6.2 涨跌家数、新高新低</h2>
+<div><div><div><section><h4>NYSE</h4><dl><dt><strong>市场</strong></dt><dd>NYSE</dd><dt><strong>上涨</strong></dt><dd>暂无绝对数</dd><dt><strong>下跌</strong></dt><dd>暂无绝对数</dd><dt><strong>涨跌比</strong></dt><dd><strong>1.78 : 1</strong></dd><dt><strong>新高</strong></dt><dd>150</dd><dt><strong>新低</strong></dt><dd>290</dd><dt><strong>净新高</strong></dt><dd><strong>-140</strong></dd></dl></section><hr><section><h4>Nasdaq</h4><dl><dt><strong>市场</strong></dt><dd>Nasdaq</dd><dt><strong>上涨</strong></dt><dd><strong>3,102</strong></dd><dt><strong>下跌</strong></dt><dd><strong>1,679</strong></dd><dt><strong>涨跌比</strong></dt><dd><strong>1.85 : 1</strong></dd><dt><strong>新高</strong></dt><dd>58</dd><dt><strong>新低</strong></dt><dd>135</dd><dt><strong>净新高</strong></dt><dd><strong>-77</strong></dd></dl></section><hr><section><h4>S&amp;P 500</h4><dl><dt><strong>市场</strong></dt><dd>S&amp;P 500</dd><dt><strong>上涨</strong></dt><dd>暂无</dd><dt><strong>下跌</strong></dt><dd>暂无</dd><dt><strong>涨跌比</strong></dt><dd>上涨占优</dd><dt><strong>新高</strong></dt><dd>12</dd><dt><strong>新低</strong></dt><dd>10</dd><dt><strong>净新高</strong></dt><dd>+2</dd></dl></section><hr></div></div></div>
+<p><a href="https://www.reuters.com/business/us-stock-index-futures-subdued-oil-treasury-yields-rise-iran-tensions-2026-09-02/" target="_blank" rel="noreferrer noopener">reuters.com</a></p>
+<p>这里有个挺重要的区别。</p>
+<p>上涨家数修复很漂亮。</p>
+<p>52周新高新低却还没有修。</p>
+<p>NYSE仍然150新高对290新低。</p>
+<p>Nasdaq 58新高对135新低。</p>
+<p>所以今天属于 <strong>大量股票从低位反弹</strong>，还没形成大批股票重新突破。</p>
+<p>这和真正全面risk-on还是有区别。</p>
+<hr>
+<h1>6.3 A/D、McClellan、Put/Call、VIX、信用</h1>
+<p>A/D Line：方向明显改善，精确值 <strong>暂无可靠数据</strong>。</p>
+<p>McClellan：暂无可靠数据。</p>
+<p>Put/Call：暂无可靠统一终值。</p>
+<p>VIX term structure：暂无可靠完整数据。</p>
+<p>VVIX：暂无可靠数据。</p>
+<p>MOVE：全球债市波动仍高，精确值暂无可靠数据。</p>
+<p>HY spread：暂无可靠当日终值。</p>
+<p>IG spread：AI融资继续带来债券供应竞争，Reuters确认大型科技公司发债已经开始对整个债券市场的资金成本形成影响。<a href="https://www.reuters.com/world/asia-pacific/bond-selloff-deepens-inflation-oil-prices-jolt-markets-2026-09-02/" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>成交量 <strong>147.5亿股</strong>，20日平均151.9亿股。<a href="https://www.reuters.com/business/us-stock-index-futures-subdued-oil-treasury-yields-rise-iran-tensions-2026-09-02/" target="_blank" rel="noreferrer noopener">reuters.com</a></p>
+<hr>
+<h1>7. 技术面分析</h1>
+<p>SPY、QQQ、IWM、SMH、IGV、XLK、XLC、XLY完整20、50、100、200日线、RSI、MACD同源终值仍未全部可靠取得。</p>
+<p>对应项统一写 <strong>暂无可靠数据</strong>。</p>
+<p>几个真实价格区域够用了。</p>
+<h3>SPY / S&amp;P 500</h3>
+<p>S&amp;P收 <strong>7,666.63</strong>。</p>
+<p>昨天7,640至7,650跌破。</p>
+<p>今天重新收回来。</p>
+<p>这让昨天的破位暂时变成一次需要继续确认的下破。</p>
+<p>上面先看 <strong>7,700</strong>。</p>
+<p>再上去看7,730至7,750。</p>
+<p>下面重新看 <strong>7,630至7,650</strong>。</p>
+<p>如果明天Broadcom盘后负面把指数重新打到7,630以下，今天这场反弹含金量会降很多。</p>
+<h3>QQQ</h3>
+<p>最新公开盘中终值约 <strong>709.24</strong>，完整官方日高低暂无可靠数据。</p>
+<p>短线重新看700整数。</p>
+<p>向上先看715附近。</p>
+<h3>IWM</h3>
+<p>Russell收 <strong>2,953.17</strong>。</p>
+<p>昨天曾跌到2,920区域。</p>
+<p>今天涨1.1%。</p>
+<p>2,920至2,950开始形成一块近端支撑。</p>
+<p>上面重新看3,000。</p>
+<h3>SOX / SMH</h3>
+<p>SOX今天反弹，Broadcom盘后跌3%，明天会重新验证。</p>
+<p>这场更适合看 <strong>NVDA和AVGO谁影响整个芯片ETF更多</strong>。</p>
+<h3>IGV</h3>
+<p>Snowflake盘后超过20%的涨幅，会给软件ETF很强的上行动量。</p>
+<p>明天如果IGV还被卖，那说明传统软件的AI替代担忧压过个别强财报。</p>
+<hr>
+<h1>8. 重点个股新闻与异动</h1>
+<h2>8.1 七巨头</h2>
+<p><strong>NVDA +3.2%</strong>，收盘附近约 <strong>224.4美元</strong>。前一天最低215附近，今天明显buy the dip。<a href="https://www.reuters.com/business/us-stock-index-futures-subdued-oil-treasury-yields-rise-iran-tensions-2026-09-02/" target="_blank" rel="noreferrer noopener">Reuters+1</a></p>
+<p><strong>MSFT约-0.8%，496.82美元</strong>。<a href="https://www.fool.com/coverage/stock-market-today/2026/09/02/stock-market-today-sept-2-dell-helps-stocks-edge-higher-despite-geopolitical-tensions/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">The Motley Fool</a></p>
+<p><strong>AAPL基本持平，约324.96美元</strong>。<a href="https://www.fool.com/coverage/stock-market-today/2026/09/02/stock-market-today-sept-2-dell-helps-stocks-edge-higher-despite-geopolitical-tensions/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">The Motley Fool</a></p>
+<p><strong>GOOGL / GOOG约+0.5%，约333.78美元。</strong> <a href="https://www.fool.com/coverage/stock-market-today/2026/09/02/stock-market-today-sept-2-dell-helps-stocks-edge-higher-despite-geopolitical-tensions/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">The Motley Fool</a></p>
+<p><strong>AMZN基本持平，约254.98美元。</strong> <a href="https://www.fool.com/coverage/stock-market-today/2026/09/02/stock-market-today-sept-2-dell-helps-stocks-edge-higher-despite-geopolitical-tensions/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">The Motley Fool</a></p>
+<p><strong>META +约2.5%，592.85美元。</strong> <a href="https://www.fool.com/coverage/stock-market-today/2026/09/02/stock-market-today-sept-2-dell-helps-stocks-edge-higher-despite-geopolitical-tensions/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">The Motley Fool</a></p>
+<p><strong>TSLA +约0.3%，357.01美元。</strong> <a href="https://www.fool.com/coverage/stock-market-today/2026/09/02/stock-market-today-sept-2-dell-helps-stocks-edge-higher-despite-geopolitical-tensions/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">The Motley Fool</a></p>
+<p>这里很有意思。</p>
+<p>Nvidia和Meta最强。</p>
+<p>微软反而继续弱。</p>
+<p>Amazon昨天被FTC风险砸，今天几乎没反弹。</p>
+<p>七巨头内部仍然很分化。</p>
+<hr>
+<h1>8.2 AI硬件 / 半导体</h1>
+<p>NVDA <strong>+3.2%</strong>。</p>
+<p>MU <strong>+2.4%</strong>。</p>
+<p>QCOM <strong>+2.0%</strong>。<a href="https://www.reuters.com/business/us-stock-index-futures-subdued-oil-treasury-yields-rise-iran-tensions-2026-09-02/" target="_blank" rel="noreferrer noopener">reuters.com</a></p>
+<p>AMD、MRVL、TSM、ASML、ARM、INTC、SMCI、ANET、CLS、VRT、COHR、LITE、AAOI、TSEM、SIVE正式统一终值：</p>
+<p><strong>暂无可靠完整数据。</strong></p>
+<h3>Broadcom，盘后</h3>
+<p>这个今晚必须单独写。</p>
+<p>Q3收入 <strong>295.9亿美元</strong>，市场预期293.6亿美元。</p>
+<p>调整EPS <strong>3.32美元</strong>，预期3.24美元。</p>
+<p>AI芯片销售 <strong>167亿美元</strong>，同比超过三倍。</p>
+<p>Q4 AI芯片销售预计 <strong>217亿美元</strong>，高于Visible Alpha约213.3亿美元。</p>
+<p>Q4总收入预计 <strong>348亿美元</strong>，市场预期350.3亿美元。</p>
+<p>调整运营利润率预计66%。</p>
+<p>盘后 <strong>跌逾3%</strong>。<a href="https://www.reuters.com/business/broadcom-forecasts-quarterly-revenue-below-estimates-2026-09-02/" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>我对这份财报的理解会比较谨慎。</p>
+<p>AI业务没有问题，甚至很好。</p>
+<p>市场在意的是整个Broadcom下一季度增长略低于已经拉得很高的预期，同时Google正在扩大Marvell这类第二供应商。</p>
+<p>这和MRVL前几天的情况又形成一个挺有意思的镜像。</p>
+<p>MRVL的问题是收入兑现太远。</p>
+<p>AVGO的问题是当前AI收入很强，可竞争和整体公司增速让市场不愿再无条件提高倍数。</p>
+<hr>
+<h1>8.3 软件 / SaaS / AI应用</h1>
+<p>软件今天白天还是相对弱。</p>
+<p>盘后Snowflake直接改变了情绪。</p>
+<h3>SNOW</h3>
+<p>Q2总收入 <strong>15.5亿美元</strong>，市场约14.8亿美元。</p>
+<p>产品收入 <strong>14.9亿美元，同比增长37%</strong>。</p>
+<p>调整EPS <strong>0.62美元</strong>，市场0.45美元。</p>
+<p>Q3产品收入预计 <strong>15.88亿至15.93亿美元</strong>，市场约15.0至15.04亿美元。</p>
+<p>FY2027产品收入指引提高到 <strong>60.7亿美元</strong>，此前58.4亿美元。</p>
+<p>公司还与AWS签署 <strong>5年60亿美元</strong> 的云与AI基础设施协议。</p>
+<p>盘后一度 <strong>+20%以上</strong>。<a href="https://www.reuters.com/business/snowflake-lifts-annual-product-revenue-forecast-demand-cloud-data-platform-2026-09-02/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters+1</a></p>
+<p>这场比PANW昨天更干净。</p>
+<p>数字强。</p>
+<p>指引强。</p>
+<p>股价也买账。</p>
+<p>软件AI补涨又多了一个确认。</p>
+<p>CRM、CRWD、SNOW现在已经连续给出类似信号。</p>
+<p>PANW财报数字也强，只是股价反应更复杂。</p>
+<p>NOW、ORCL、ADBE、DDOG、NET、MDB、PLTR、APP、TEAM、WDAY、INTU、SHOP当天完整统一终值：</p>
+<p><strong>暂无可靠数据。</strong></p>
+<hr>
+<h1>8.4 AI电力 / 数据中心 / 能源基础设施</h1>
+<p>今天白天Dell正式涨 <strong>15.8%</strong>。<a href="https://www.reuters.com/business/us-stock-index-futures-subdued-oil-treasury-yields-rise-iran-tensions-2026-09-02/" target="_blank" rel="noreferrer noopener">reuters.com</a></p>
+<p>盘后HPE又出了强财报。</p>
+<p>HPE收入122.1亿美元，+33.7%。</p>
+<p>EPS 1.11美元。</p>
+<p>提高FY2026和FY2027收入增长预测。</p>
+<p>公司直接说 <strong>需求远远超过供应</strong>。<a href="https://www.reuters.com/business/hpe-raises-annual-forecasts-ai-networking-demand-lifts-quarterly-revenue-2026-09-02/" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>可盘后仍跌3%以上。</p>
+<p>Memory是第一大瓶颈。</p>
+<p>NAND、CPU和硬盘也紧。</p>
+<p>库存一年从71.6亿升到118.2亿美元。</p>
+<p>这个地方对整个AI基础设施链很重要。</p>
+<p>真正受益的下一阶段可能越来越往上游供应瓶颈走。</p>
+<p>HBM和memory。</p>
+<p>网络。</p>
+<p>光通信。</p>
+<p>电源。</p>
+<p>制冷。</p>
+<p>能真正拿到电和施工许可的数据中心。</p>
+<p>CEG、VST、NRG、ETN、PWR、GEV、VRT、FLNC、OKLO、SMR、BE、NEE、SO、DUK、APLD、IREN、CORZ当天完整涨跌：</p>
+<p><strong>暂无可靠统一数据。</strong></p>
+<hr>
+<h1>8.5 其他异动</h1>
+<p>Dell <strong>+15.8%</strong>，今天最强的大型AI基础设施股之一。<a href="https://www.reuters.com/business/us-stock-index-futures-subdued-oil-treasury-yields-rise-iran-tensions-2026-09-02/" target="_blank" rel="noreferrer noopener">reuters.com</a></p>
+<p>Brown-Forman <strong>+3.9%</strong>，季度利润beat。<a href="https://www.reuters.com/business/us-stock-index-futures-subdued-oil-treasury-yields-rise-iran-tensions-2026-09-02/" target="_blank" rel="noreferrer noopener">reuters.com</a></p>
+<p>Uber <strong>+1.6%</strong>，公司宣布裁员约10%。<a href="https://www.reuters.com/business/us-stock-index-futures-subdued-oil-treasury-yields-rise-iran-tensions-2026-09-02/" target="_blank" rel="noreferrer noopener">reuters.com</a></p>
+<p>HPE盘后跌3%以上。</p>
+<p>Broadcom盘后跌3%以上。</p>
+<p>Snowflake盘后大涨。</p>
+<p>今天三个盘后财报几乎把市场当前估值规则写出来了。</p>
+<hr>
+<h1>9. 财报日历与财报解读</h1>
+<h2>Dell正式交易</h2>
+<p>昨天盘后强财报，今天 <strong>+15.8%</strong>。</p>
+<p>这说明AI服务器需求强的数据真正获得市场认可。<a href="https://www.reuters.com/business/us-stock-index-futures-subdued-oil-treasury-yields-rise-iran-tensions-2026-09-02/" target="_blank" rel="noreferrer noopener">Reuters+1</a></p>
+<h2>Broadcom</h2>
+<p>AI收入继续爆发。</p>
+<p>AI Q3销售167亿美元。</p>
+<p>Q4预计217亿美元。</p>
+<p>可总公司Q4收入指引略低于一致预期，盘后跌逾3%。<a href="https://www.reuters.com/business/broadcom-forecasts-quarterly-revenue-below-estimates-2026-09-02/" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>这场会直接影响9月3日：</p>
+<p>AVGO自身。</p>
+<p>MRVL。</p>
+<p>ANET。</p>
+<p>LITE / COHR。</p>
+<p>定制ASIC整条链。</p>
+<h2>Snowflake</h2>
+<p>产品收入增长37%。</p>
+<p>全年指引大幅提高。</p>
+<p>盘后大涨。</p>
+<p>对CRM、NOW、DDOG、NET、MDB都有外溢意义。<a href="https://www.reuters.com/business/snowflake-lifts-annual-product-revenue-forecast-demand-cloud-data-platform-2026-09-02/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<h2>HPE</h2>
+<p>需求非常强。</p>
+<p>供应约束也非常强。</p>
+<p>盘后跌。</p>
+<p>这会影响Dell、SMCI、VRT、ANET以及memory链。<a href="https://www.reuters.com/business/hpe-raises-annual-forecasts-ai-networking-demand-lifts-quarterly-revenue-2026-09-02/" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<h2>未来1至2个交易日</h2>
+<p>9月3日还有美国国际贸易、生产率/单位劳动力成本和ISM服务业等数据。Reuters明确把这些列为周四重点。<a href="https://www.reuters.com/business/us-stock-index-futures-subdued-oil-treasury-yields-rise-iran-tensions-2026-09-02/" target="_blank" rel="noreferrer noopener">reuters.com</a></p>
+<p><strong>9月4日非农</strong>。</p>
+<p>这才是本周最大的宏观事件。</p>
+<hr>
+<h1>10. 机构观点与资金流</h1>
+<p>截至8月26日一周，美国股票基金净流出 <strong>223.3亿美元</strong>，是3月以来最大周度流出。科技行业基金反而净流入18.1亿美元。<a href="https://www.reuters.com/business/us-equity-funds-post-biggest-weekly-outflow-since-march-ahead-nvidia-earnings-2026-08-28/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>这个结构这几天一直在盘面上重复。</p>
+<p>市场在降广义美股beta。</p>
+<p>AI核心资产还有资金。</p>
+<p>现在Broadcom、Snowflake、HPE又给出了新的分化。</p>
+<p>Fed方面，ADP以后9月加息概率从盘中70%左右回到约64%。<a href="https://www.wsj.com/finance/jgbs-edge-lower-tracking-declines-in-u-s-treasurys-999492da?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">The Wall Street Journal+1</a></p>
+<p>机构对Fed也开始明显分裂。</p>
+<p>有些机构已经押9月和12月连续加息。</p>
+<p>弱ADP又让一部分人重新怀疑9月是否真会动。</p>
+<p>所以周五非农会直接影响债券和股市。</p>
+<p>Put/Call、当日完整ETF净申赎、大宗交易、内部人交易：</p>
+<p><strong>暂无可靠完整数据。</strong></p>
+<hr>
+<h1>11. 板块轮动判断</h1>
+<p>今天可以放进：</p>
+<p><strong>超跌反弹 + 宽度改善 + 小盘参与 + AI硬件回补 + 高切低。</strong></p>
+<p>昨天属于广泛risk-off。</p>
+<p>今天大部分方向都起来了。</p>
+<p>资金明显流进：</p>
+<p>半导体。</p>
+<p>Dell等AI服务器。</p>
+<p>材料。</p>
+<p>区域银行。</p>
+<p>航空。</p>
+<p>小盘。</p>
+<p>白天资金从软件和房地产流出。</p>
+<p>盘后Snowflake又会把一部分钱重新拉回软件。</p>
+<p>AI健康度我给 <strong>中性偏健康</strong>。</p>
+<p>产业数据继续非常强。</p>
+<p>Nvidia强。</p>
+<p>Dell强。</p>
+<p>Snowflake强。</p>
+<p>HPE需求强。</p>
+<p>Broadcom AI收入强。</p>
+<p>麻烦全在估值、供应和宏观折现率。</p>
+<p>半导体今天恢复领导力，明天Broadcom盘后下跌会重新测试。</p>
+<p>软件已经越来越有意思。</p>
+<p>CRM、CRWD、WDAY、SNOW连续出现真实AI收入。</p>
+<p>小盘今天终于参加，但一天还不够。</p>
+<p>市场宽度改善很明显，可新低仍然多于新高。</p>
+<p>现在更像 <strong>前几天risk-off后的有效反弹，内部还没真正回到健康趋势。</strong></p>
+<hr>
+<h1>12. 我的重点关注股观察</h1>
+<div><div><div><section><h4>NVDA</h4><dl><dt><strong>股票</strong></dt><dd>NVDA</dd><dt><strong>当日</strong></dt><dd>+3.2%</dd><dt><strong>当前趋势/新闻</strong></dt><dd>215附近出现承接</dd><dt><strong>支撑</strong></dt><dd>215至218</dd><dt><strong>压力</strong></dt><dd>225至230</dd><dt><strong>标签</strong></dt><dd>低位修复</dd></dl></section><hr><section><h4>AMD</h4><dl><dt><strong>股票</strong></dt><dd>AMD</dd><dt><strong>当日</strong></dt><dd>暂无可靠数据</dd><dt><strong>当前趋势/新闻</strong></dt><dd>芯片修复</dd><dt><strong>支撑</strong></dt><dd>暂无</dd><dt><strong>压力</strong></dt><dd>暂无</dd><dt><strong>标签</strong></dt><dd>低位修复</dd></dl></section><hr><section><h4>AVGO</h4><dl><dt><strong>股票</strong></dt><dd>AVGO</dd><dt><strong>当日</strong></dt><dd>日内暂无可靠，盘后-3%以上</dd><dt><strong>当前趋势/新闻</strong></dt><dd>AI强，总指引略弱</dd><dt><strong>支撑</strong></dt><dd>暂无</dd><dt><strong>压力</strong></dt><dd>暂无</dd><dt><strong>标签</strong></dt><dd>利好兑现</dd></dl></section><hr><section><h4>MRVL</h4><dl><dt><strong>股票</strong></dt><dd>MRVL</dd><dt><strong>当日</strong></dt><dd>暂无可靠数据</dd><dt><strong>当前趋势/新闻</strong></dt><dd>ASIC竞争继续</dd><dt><strong>支撑</strong></dt><dd>210至215</dd><dt><strong>压力</strong></dt><dd>225</dd><dt><strong>标签</strong></dt><dd>需要观察</dd></dl></section><hr><section><h4>GOOGL</h4><dl><dt><strong>股票</strong></dt><dd>GOOGL</dd><dt><strong>当日</strong></dt><dd>约+0.5%</dd><dt><strong>当前趋势/新闻</strong></dt><dd>平台科技稳定</dd><dt><strong>支撑</strong></dt><dd>暂无</dd><dt><strong>压力</strong></dt><dd>暂无</dd><dt><strong>标签</strong></dt><dd>高位震荡</dd></dl></section><hr><section><h4>MSFT</h4><dl><dt><strong>股票</strong></dt><dd>MSFT</dd><dt><strong>当日</strong></dt><dd>约-0.8%</dd><dt><strong>当前趋势/新闻</strong></dt><dd>相对偏弱</dd><dt><strong>支撑</strong></dt><dd>暂无</dd><dt><strong>压力</strong></dt><dd>暂无</dd><dt><strong>标签</strong></dt><dd>需要观察</dd></dl></section><hr><section><h4>META</h4><dl><dt><strong>股票</strong></dt><dd>META</dd><dt><strong>当日</strong></dt><dd>约+2.5%</dd><dt><strong>当前趋势/新闻</strong></dt><dd>Mega-cap强</dd><dt><strong>支撑</strong></dt><dd>暂无</dd><dt><strong>压力</strong></dt><dd>暂无</dd><dt><strong>标签</strong></dt><dd>继续强势</dd></dl></section><hr><section><h4>AMZN</h4><dl><dt><strong>股票</strong></dt><dd>AMZN</dd><dt><strong>当日</strong></dt><dd>基本持平</dd><dt><strong>当前趋势/新闻</strong></dt><dd>FTC压力仍在</dd><dt><strong>支撑</strong></dt><dd>250附近</dd><dt><strong>压力</strong></dt><dd>暂无</dd><dt><strong>标签</strong></dt><dd>需要观察</dd></dl></section><hr><section><h4>ORCL</h4><dl><dt><strong>股票</strong></dt><dd>ORCL</dd><dt><strong>当日</strong></dt><dd>暂无可靠数据</dd><dt><strong>当前趋势/新闻</strong></dt><dd>HPE扩展Oracle AI合作</dd><dt><strong>支撑</strong></dt><dd>暂无</dd><dt><strong>压力</strong></dt><dd>暂无</dd><dt><strong>标签</strong></dt><dd>需要观察</dd></dl></section><hr><section><h4>CRM</h4><dl><dt><strong>股票</strong></dt><dd>CRM</dd><dt><strong>当日</strong></dt><dd>暂无可靠数据</dd><dt><strong>当前趋势/新闻</strong></dt><dd>软件AI逻辑强</dd><dt><strong>支撑</strong></dt><dd>暂无</dd><dt><strong>压力</strong></dt><dd>暂无</dd><dt><strong>标签</strong></dt><dd>高位震荡</dd></dl></section><hr><section><h4>NOW</h4><dl><dt><strong>股票</strong></dt><dd>NOW</dd><dt><strong>当日</strong></dt><dd>暂无可靠数据</dd><dt><strong>当前趋势/新闻</strong></dt><dd>软件AI受益</dd><dt><strong>支撑</strong></dt><dd>暂无</dd><dt><strong>压力</strong></dt><dd>暂无</dd><dt><strong>标签</strong></dt><dd>低位修复</dd></dl></section><hr><section><h4>SNOW</h4><dl><dt><strong>股票</strong></dt><dd>SNOW</dd><dt><strong>当日</strong></dt><dd>日内暂无可靠，盘后+20%以上</dd><dt><strong>当前趋势/新闻</strong></dt><dd>大幅beat并上调指引</dd><dt><strong>支撑</strong></dt><dd>暂无</dd><dt><strong>压力</strong></dt><dd>暂无</dd><dt><strong>标签</strong></dt><dd>继续强势</dd></dl></section><hr><section><h4>ADBE</h4><dl><dt><strong>股票</strong></dt><dd>ADBE</dd><dt><strong>当日</strong></dt><dd>暂无可靠数据</dd><dt><strong>当前趋势/新闻</strong></dt><dd>软件选择性修复</dd><dt><strong>支撑</strong></dt><dd>暂无</dd><dt><strong>压力</strong></dt><dd>暂无</dd><dt><strong>标签</strong></dt><dd>低位修复</dd></dl></section><hr><section><h4>PANW</h4><dl><dt><strong>股票</strong></dt><dd>PANW</dd><dt><strong>当日</strong></dt><dd>暂无可靠数据</dd><dt><strong>当前趋势/新闻</strong></dt><dd>强财报后消化</dd><dt><strong>支撑</strong></dt><dd>暂无</dd><dt><strong>压力</strong></dt><dd>暂无</dd><dt><strong>标签</strong></dt><dd>高位震荡</dd></dl></section><hr><section><h4>CRWD</h4><dl><dt><strong>股票</strong></dt><dd>CRWD</dd><dt><strong>当日</strong></dt><dd>暂无可靠数据</dd><dt><strong>当前趋势/新闻</strong></dt><dd>安全软件需求强</dd><dt><strong>支撑</strong></dt><dd>暂无</dd><dt><strong>压力</strong></dt><dd>暂无</dd><dt><strong>标签</strong></dt><dd>高位震荡</dd></dl></section><hr><section><h4>PLTR</h4><dl><dt><strong>股票</strong></dt><dd>PLTR</dd><dt><strong>当日</strong></dt><dd>暂无可靠数据</dd><dt><strong>当前趋势/新闻</strong></dt><dd>高估值</dd><dt><strong>支撑</strong></dt><dd>暂无</dd><dt><strong>压力</strong></dt><dd>暂无</dd><dt><strong>标签</strong></dt><dd>短线过热</dd></dl></section><hr><section><h4>DDOG</h4><dl><dt><strong>股票</strong></dt><dd>DDOG</dd><dt><strong>当日</strong></dt><dd>暂无可靠数据</dd><dt><strong>当前趋势/新闻</strong></dt><dd>SNOW利好外溢</dd><dt><strong>支撑</strong></dt><dd>暂无</dd><dt><strong>压力</strong></dt><dd>暂无</dd><dt><strong>标签</strong></dt><dd>低位修复</dd></dl></section><hr><section><h4>NET</h4><dl><dt><strong>股票</strong></dt><dd>NET</dd><dt><strong>当日</strong></dt><dd>暂无可靠数据</dd><dt><strong>当前趋势/新闻</strong></dt><dd>软件beta</dd><dt><strong>支撑</strong></dt><dd>暂无</dd><dt><strong>压力</strong></dt><dd>暂无</dd><dt><strong>标签</strong></dt><dd>低位修复</dd></dl></section><hr><section><h4>LITE</h4><dl><dt><strong>股票</strong></dt><dd>LITE</dd><dt><strong>当日</strong></dt><dd>暂无可靠数据</dd><dt><strong>当前趋势/新闻</strong></dt><dd>ASIC/网络链等AVGO传导</dd><dt><strong>支撑</strong></dt><dd>暂无</dd><dt><strong>压力</strong></dt><dd>暂无</dd><dt><strong>标签</strong></dt><dd>需要观察</dd></dl></section><hr><section><h4>COHR</h4><dl><dt><strong>股票</strong></dt><dd>COHR</dd><dt><strong>当日</strong></dt><dd>日内偏弱</dd><dt><strong>当前趋势/新闻</strong></dt><dd>光通信继续消化</dd><dt><strong>支撑</strong></dt><dd>263附近</dd><dt><strong>压力</strong></dt><dd>273</dd><dt><strong>标签</strong></dt><dd>回踩支撑</dd></dl></section><hr><section><h4>AAOI</h4><dl><dt><strong>股票</strong></dt><dd>AAOI</dd><dt><strong>当日</strong></dt><dd>暂无可靠数据</dd><dt><strong>当前趋势/新闻</strong></dt><dd>光通信高beta</dd><dt><strong>支撑</strong></dt><dd>暂无</dd><dt><strong>压力</strong></dt><dd>暂无</dd><dt><strong>标签</strong></dt><dd>需要观察</dd></dl></section><hr><section><h4>TSEM</h4><dl><dt><strong>股票</strong></dt><dd>TSEM</dd><dt><strong>当日</strong></dt><dd>暂无可靠数据</dd><dt><strong>当前趋势/新闻</strong></dt><dd>半导体beta</dd><dt><strong>支撑</strong></dt><dd>暂无</dd><dt><strong>压力</strong></dt><dd>暂无</dd><dt><strong>标签</strong></dt><dd>低位修复</dd></dl></section><hr><section><h4>SIVE</h4><dl><dt><strong>股票</strong></dt><dd>SIVE</dd><dt><strong>当日</strong></dt><dd>暂无可靠数据</dd><dt><strong>当前趋势/新闻</strong></dt><dd>暂无可靠新信息</dd><dt><strong>支撑</strong></dt><dd>暂无</dd><dt><strong>压力</strong></dt><dd>暂无</dd><dt><strong>标签</strong></dt><dd>需要观察</dd></dl></section><hr><section><h4>ANET</h4><dl><dt><strong>股票</strong></dt><dd>ANET</dd><dt><strong>当日</strong></dt><dd>暂无可靠数据</dd><dt><strong>当前趋势/新闻</strong></dt><dd>AI网络需求强</dd><dt><strong>支撑</strong></dt><dd>暂无</dd><dt><strong>压力</strong></dt><dd>暂无</dd><dt><strong>标签</strong></dt><dd>回踩支撑</dd></dl></section><hr><section><h4>FLNC</h4><dl><dt><strong>股票</strong></dt><dd>FLNC</dd><dt><strong>当日</strong></dt><dd>暂无可靠数据</dd><dt><strong>当前趋势/新闻</strong></dt><dd>储能弱</dd><dt><strong>支撑</strong></dt><dd>暂无</dd><dt><strong>压力</strong></dt><dd>暂无</dd><dt><strong>标签</strong></dt><dd>破位风险</dd></dl></section><hr><section><h4>OKLO</h4><dl><dt><strong>股票</strong></dt><dd>OKLO</dd><dt><strong>当日</strong></dt><dd>暂无可靠数据</dd><dt><strong>当前趋势/新闻</strong></dt><dd>高beta核电</dd><dt><strong>支撑</strong></dt><dd>暂无</dd><dt><strong>压力</strong></dt><dd>暂无</dd><dt><strong>标签</strong></dt><dd>需要观察</dd></dl></section><hr><section><h4>VST</h4><dl><dt><strong>股票</strong></dt><dd>VST</dd><dt><strong>当日</strong></dt><dd>暂无可靠数据</dd><dt><strong>当前趋势/新闻</strong></dt><dd>AI电力逻辑仍在</dd><dt><strong>支撑</strong></dt><dd>暂无</dd><dt><strong>压力</strong></dt><dd>暂无</dd><dt><strong>标签</strong></dt><dd>高位震荡</dd></dl></section><hr><section><h4>CEG</h4><dl><dt><strong>股票</strong></dt><dd>CEG</dd><dt><strong>当日</strong></dt><dd>暂无可靠数据</dd><dt><strong>当前趋势/新闻</strong></dt><dd>发电需求</dd><dt><strong>支撑</strong></dt><dd>暂无</dd><dt><strong>压力</strong></dt><dd>暂无</dd><dt><strong>标签</strong></dt><dd>高位震荡</dd></dl></section><hr><section><h4>ETN</h4><dl><dt><strong>股票</strong></dt><dd>ETN</dd><dt><strong>当日</strong></dt><dd>暂无可靠数据</dd><dt><strong>当前趋势/新闻</strong></dt><dd>AI配电</dd><dt><strong>支撑</strong></dt><dd>暂无</dd><dt><strong>压力</strong></dt><dd>暂无</dd><dt><strong>标签</strong></dt><dd>回踩支撑</dd></dl></section><hr><section><h4>VRT</h4><dl><dt><strong>股票</strong></dt><dd>VRT</dd><dt><strong>当日</strong></dt><dd>暂无可靠数据</dd><dt><strong>当前趋势/新闻</strong></dt><dd>Dell/HPE需求正面</dd><dt><strong>支撑</strong></dt><dd>暂无</dd><dt><strong>压力</strong></dt><dd>暂无</dd><dt><strong>标签</strong></dt><dd>回踩支撑</dd></dl></section><hr><section><h4>PWR</h4><dl><dt><strong>股票</strong></dt><dd>PWR</dd><dt><strong>当日</strong></dt><dd>暂无可靠数据</dd><dt><strong>当前趋势/新闻</strong></dt><dd>电网建设</dd><dt><strong>支撑</strong></dt><dd>暂无</dd><dt><strong>压力</strong></dt><dd>暂无</dd><dt><strong>标签</strong></dt><dd>回踩支撑</dd></dl></section><hr><section><h4>GEV</h4><dl><dt><strong>股票</strong></dt><dd>GEV</dd><dt><strong>当日</strong></dt><dd>暂无可靠数据</dd><dt><strong>当前趋势/新闻</strong></dt><dd>AI电力设备</dd><dt><strong>支撑</strong></dt><dd>暂无</dd><dt><strong>压力</strong></dt><dd>暂无</dd><dt><strong>标签</strong></dt><dd>回踩支撑</dd></dl></section><hr><section><h4>APLD</h4><dl><dt><strong>股票</strong></dt><dd>APLD</dd><dt><strong>当日</strong></dt><dd>暂无可靠数据</dd><dt><strong>当前趋势/新闻</strong></dt><dd>融资敏感</dd><dt><strong>支撑</strong></dt><dd>暂无</dd><dt><strong>压力</strong></dt><dd>暂无</dd><dt><strong>标签</strong></dt><dd>破位风险</dd></dl></section><hr><section><h4>IREN</h4><dl><dt><strong>股票</strong></dt><dd>IREN</dd><dt><strong>当日</strong></dt><dd>暂无可靠数据</dd><dt><strong>当前趋势/新闻</strong></dt><dd>AI算力高beta</dd><dt><strong>支撑</strong></dt><dd>暂无</dd><dt><strong>压力</strong></dt><dd>暂无</dd><dt><strong>标签</strong></dt><dd>需要观察</dd></dl></section><hr></div></div></div>
+<hr>
+<h1>13. 明日交易计划 / 观察清单</h1>
+<p>9月3日开盘先看Broadcom。</p>
+<p><strong>盘后跌逾3%。</strong></p>
+<p>如果AVGO开盘以后快速收回跌幅，那AI芯片销售217亿美元这个数字会重新成为主线。</p>
+<p>如果继续往下，市场会继续交易ASIC竞争和增长预期过高。</p>
+<p>Snowflake则相反。</p>
+<p>盘后大涨超过20%。</p>
+<p>这只我不会开盘追。更想看高开后能不能守住大部分缺口。</p>
+<p>宏观看：</p>
+<p><strong>10年期4.80%。</strong></p>
+<p>现在仍在附近。</p>
+<p>掉到4.70至4.75，成长股会舒服很多。</p>
+<p>重新过4.82，今天的反弹会再次受检验。</p>
+<p>Brent已经 <strong>95.63美元</strong>。</p>
+<p>继续往100走，市场会重新提高Fed加息概率。</p>
+<p>S&amp;P看：</p>
+<p><strong>7,630至7,650</strong>。</p>
+<p>今天刚刚重新收回来。</p>
+<p>向上看 <strong>7,700</strong>。</p>
+<p>股票放这些：</p>
+<ol>
+<li>
+<p><strong>AVGO</strong>，盘后财报第一优先。</p>
+</li>
+<li>
+<p><strong>NVDA</strong>，今天+3.2%，看AVGO会不会拖它。</p>
+</li>
+<li>
+<p><strong>MRVL</strong>，ASIC竞争的直接映射。</p>
+</li>
+<li>
+<p><strong>ANET</strong>，AI networking。</p>
+</li>
+<li>
+<p><strong>LITE</strong>，光通信。</p>
+</li>
+<li>
+<p><strong>COHR</strong>，光通信。</p>
+</li>
+<li>
+<p><strong>MU</strong>，HPE明确说memory是第一供应瓶颈。</p>
+</li>
+<li>
+<p><strong>DELL</strong>，今天+15.8%以后能不能继续站稳。</p>
+</li>
+<li>
+<p><strong>HPE</strong>，强财报盘后跌，看正式交易如何定价。</p>
+</li>
+<li>
+<p><strong>VRT</strong>，服务器需求继续验证。</p>
+</li>
+<li>
+<p><strong>ETN</strong>，数据中心配电。</p>
+</li>
+<li>
+<p><strong>PWR</strong>，电网建设。</p>
+</li>
+<li>
+<p><strong>SNOW</strong>，盘后20%大跳空。</p>
+</li>
+<li>
+<p><strong>CRM</strong>，SNOW的软件外溢。</p>
+</li>
+<li>
+<p><strong>NOW</strong>，软件第二梯队。</p>
+</li>
+<li>
+<p><strong>DDOG</strong>，云数据和应用监控。</p>
+</li>
+<li>
+<p><strong>NET</strong>，软件beta。</p>
+</li>
+<li>
+<p><strong>PANW</strong>，强数据后的消化。</p>
+</li>
+<li>
+<p><strong>CRWD</strong>，安全软件。</p>
+</li>
+<li>
+<p><strong>IWM</strong>，今天+1.1%，看宽度改善是否有第二天。</p>
+</li>
+</ol>
+<hr>
+<h1>14. 风险提示</h1>
+<div><div><div><section><h4>10Y</h4><dl><dt><strong>风险</strong></dt><dd>10Y</dd><dt><strong>当前情况</strong></dt><dd>约4.79%，盘中4.82%</dd><dt><strong>等级</strong></dt><dd>高</dd></dl></section><hr><section><h4>30Y</h4><dl><dt><strong>风险</strong></dt><dd>30Y</dd><dt><strong>当前情况</strong></dt><dd>约5.27%</dd><dt><strong>等级</strong></dt><dd>高</dd></dl></section><hr><section><h4>Fed 9月加息</h4><dl><dt><strong>风险</strong></dt><dd>Fed 9月加息</dd><dt><strong>当前情况</strong></dt><dd>约64%</dd><dt><strong>等级</strong></dt><dd>高</dd></dl></section><hr><section><h4>Brent</h4><dl><dt><strong>风险</strong></dt><dd>Brent</dd><dt><strong>当前情况</strong></dt><dd>95.63美元</dd><dt><strong>等级</strong></dt><dd>高</dd></dl></section><hr><section><h4>WTI</h4><dl><dt><strong>风险</strong></dt><dd>WTI</dd><dt><strong>当前情况</strong></dt><dd>91.01美元</dd><dt><strong>等级</strong></dt><dd>高</dd></dl></section><hr><section><h4>Iran/Hormuz</h4><dl><dt><strong>风险</strong></dt><dd>Iran/Hormuz</dd><dt><strong>当前情况</strong></dt><dd>船运受明显干扰</dd><dt><strong>等级</strong></dt><dd>高</dd></dl></section><hr><section><h4>Broadcom财报</h4><dl><dt><strong>风险</strong></dt><dd>Broadcom财报</dd><dt><strong>当前情况</strong></dt><dd>指引略低，盘后跌</dd><dt><strong>等级</strong></dt><dd>高</dd></dl></section><hr><section><h4>SNOW拥挤度</h4><dl><dt><strong>风险</strong></dt><dd>SNOW拥挤度</dd><dt><strong>当前情况</strong></dt><dd>盘后+20%以上</dd><dt><strong>等级</strong></dt><dd>高</dd></dl></section><hr><section><h4>HPE供应</h4><dl><dt><strong>风险</strong></dt><dd>HPE供应</dd><dt><strong>当前情况</strong></dt><dd>memory、NAND、CPU紧</dd><dt><strong>等级</strong></dt><dd>高</dd></dl></section><hr><section><h4>AI融资</h4><dl><dt><strong>风险</strong></dt><dd>AI融资</dd><dt><strong>当前情况</strong></dt><dd>与国债争长期资本</dd><dt><strong>等级</strong></dt><dd>高</dd></dl></section><hr><section><h4>Nasdaq新高新低</h4><dl><dt><strong>风险</strong></dt><dd>Nasdaq新高新低</dd><dt><strong>当前情况</strong></dt><dd>58 / 135</dd><dt><strong>等级</strong></dt><dd>中高</dd></dl></section><hr><section><h4>NYSE新高新低</h4><dl><dt><strong>风险</strong></dt><dd>NYSE新高新低</dd><dt><strong>当前情况</strong></dt><dd>150 / 290</dd><dt><strong>等级</strong></dt><dd>中高</dd></dl></section><hr><section><h4>宽度</h4><dl><dt><strong>风险</strong></dt><dd>宽度</dd><dt><strong>当前情况</strong></dt><dd>涨跌家数明显改善</dd><dt><strong>等级</strong></dt><dd>中</dd></dl></section><hr><section><h4>非农</h4><dl><dt><strong>风险</strong></dt><dd>非农</dd><dt><strong>当前情况</strong></dt><dd>9月4日</dd><dt><strong>等级</strong></dt><dd>高</dd></dl></section><hr><section><h4>流动性</h4><dl><dt><strong>风险</strong></dt><dd>流动性</dd><dt><strong>当前情况</strong></dt><dd>成交略低于20日均量</dd><dt><strong>等级</strong></dt><dd>中</dd></dl></section><hr></div></div></div>
+<hr>
+<h1>15. 最终结论</h1>
+<p>S&amp;P +0.46%，Nasdaq +0.45%，Dow +0.56%，Russell 2000 +1.1%。</p>
+<p>前几天连续恶化的宽度终于出现了一次像样修复。NYSE上涨家数是下跌家数1.78倍，Nasdaq是1.85倍。<a href="https://www.reuters.com/business/us-stock-index-futures-subdued-oil-treasury-yields-rise-iran-tensions-2026-09-02/" target="_blank" rel="noreferrer noopener">reuters.com</a></p>
+<p>AI硬件也接回钱。</p>
+<p>Nvidia +3.2%。</p>
+<p>Dell正式 +15.8%。</p>
+<p>Micron +2.4%。</p>
+<p>Qualcomm +2%。<a href="https://www.reuters.com/business/us-stock-index-futures-subdued-oil-treasury-yields-rise-iran-tensions-2026-09-02/" target="_blank" rel="noreferrer noopener">reuters.com</a></p>
+<p>可长债还在4.8%附近，Brent已经95.63美元，Fed 9月加息概率约64%。</p>
+<p>所以今天这场涨得不错，宏观背景并不轻松。</p>
+<p>盘后财报又把市场现在的定价规则说得挺清楚。</p>
+<p>Broadcom AI销售三倍增长，下一季度AI收入还高于预期，总公司收入指引只差了约2亿美元，股票依然跌超过3%。<a href="https://www.reuters.com/business/broadcom-forecasts-quarterly-revenue-below-estimates-2026-09-02/" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>Snowflake产品收入增长37%，提高全年产品收入指引，盘后一度涨超过20%。<a href="https://www.reuters.com/business/snowflake-lifts-annual-product-revenue-forecast-demand-cloud-data-platform-2026-09-02/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>HPE收入增长33.7%，提高两年增长预测，需求远超供应，股票盘后照样跌，因为memory和其他供应约束开始成为问题。<a href="https://www.reuters.com/business/hpe-raises-annual-forecasts-ai-networking-demand-lifts-quarterly-revenue-2026-09-02/" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p><strong>当前市场阶段：前期risk-off后的超跌修复，AI需求继续强，市场开始非常严格地区分增长质量、近期指引、供应瓶颈和估值。</strong></p>
+<p>操作倾向我从昨天的中性偏谨慎回到 <strong>中性</strong>。</p>
+<p>还不会因为今天一根阳线就大幅加仓。</p>
+<p>宽度改善要连续。</p>
+<p>10年需要离开4.8%。</p>
+<p>油价需要从95美元以上下来。</p>
+<p>这些出现以后，指数环境才会舒服很多。</p>
+<p>AI内部，现在我会更愿意看：</p>
+<p><strong>NVDA这种收入已经快速兑现的核心资产。</strong></p>
+<p><strong>SNOW、CRM这种AI已经开始推高真实收入的软件。</strong></p>
+<p><strong>MU、光通信、网络、电力里真正出现供应瓶颈和订单的公司。</strong></p>
+<p>对远期故事特别远、估值已经很贵的二线AI，我还会继续挑。</p>
+<p>最值得关注的5个信号：</p>
+<ol>
+<li>
+<p><strong>Broadcom盘后跌幅能不能在9月3日正式交易快速收回。AI业务本身很强，如果收不回来，ASIC估值还会继续降。</strong></p>
+</li>
+<li>
+<p><strong>Snowflake盘后超过20%的跳空能不能守住。守住的话，软件AI补涨又多了一个非常硬的确认。</strong></p>
+</li>
+<li>
+<p><strong>10年期能不能重新掉回4.75%以下。</strong></p>
+</li>
+<li>
+<p><strong>Nasdaq的新高58、新低135能不能继续改善。上涨家数已经修了，新高新低还没修。</strong></p>
+</li>
+<li>
+<p><strong>HPE明确说memory是第一供应瓶颈。MU以及整个HBM、光通信、网络链会不会因此重新获得相对收益。</strong></p>
+</li>
+</ol>
+<p><strong>三个深入思考的问题：</strong></p>
+<p><strong>1. Broadcom AI芯片收入同比三倍、下一季度AI收入也高于预期，股票还跌。如果正式交易仍然不买账，是不是说明AI硬件已经进入一个阶段，单纯“AI增长很快”已经不够，必须持续大幅超过市场最乐观预期？</strong></p>
+<p><strong>2. Dell AI服务器订单超过1300亿美元，HPE又说需求远超供应，memory成为最大瓶颈。下一阶段AI最有弹性的交易，会不会开始从GPU继续往HBM、网络、光通信、电源和制冷迁移？</strong></p>
+<p><strong>3. Snowflake、Salesforce、CrowdStrike连续证明AI能给软件创造真实收入。如果软件AI变现越来越快，同时半导体估值受到高利率压制，AI行情的下一轮领导权会不会从硬件逐渐往软件扩散？</strong></p></div></div>]]></content:encoded></item><item><title>每日重点简报｜《每日重点简报》</title><link>https://youngwilly.github.io/chatgpt-task-rss/#daily-brief-2026-09-02T22-40-51Z</link><guid isPermaLink="false">fe1614d6e6b6448f41dc7d9435438f06d36c4fe764a709ab6ec9a59f3352ce9e</guid><pubDate>Wed, 02 Sep 2026 22:40:51 GMT</pubDate><category>每日重点简报</category><description>《每日重点简报》 2026年9月3日，星期四 1）昨夜美股收盘概览 周三美股终于反弹。道指涨295.01点，收53,061.89点，涨0.56%；标普500涨0.46%至7,666.63点；纳指涨0.45%至26,217.83点；罗素2000涨1.1%。材料板块领涨，房地产是标普11个板块里唯一收跌的。Reuters+1 芯片也从前一天的全面下跌里弹回来。Nvidia涨3.2%，Micron涨2.4%，Qualcomm涨2.0%。Dell直接涨15.8%，前一晚大幅提高AI服务器和全年业绩预期。市场广度也明显改善，纽交所上涨家数约为下跌家数1.78倍，纳斯达克约1.85倍。Reuters 不过这场反弹的力度一般。10年期美债还在4.8%附近，Brent已经95美元以上，AI财报很强，指数只反弹不到0.5%。钱愿意回来接跌深的股票，高利率和能源通胀还压在上面。 2）宏观与政策 ADP公布8月美国私人就业只增加3.8万人，低于Reu</description><content:encoded><![CDATA[<div><div><p>《每日重点简报》</p>
+<p>2026年9月3日，星期四</p>
+<p>1）昨夜美股收盘概览</p>
+<p>周三美股终于反弹。道指涨295.01点，收53,061.89点，涨0.56%；标普500涨0.46%至7,666.63点；纳指涨0.45%至26,217.83点；罗素2000涨1.1%。材料板块领涨，房地产是标普11个板块里唯一收跌的。<a href="https://www.reuters.com/business/us-stock-index-futures-subdued-oil-treasury-yields-rise-iran-tensions-2026-09-02/" target="_blank" rel="noreferrer noopener">Reuters+1</a></p>
+<p>芯片也从前一天的全面下跌里弹回来。Nvidia涨3.2%，Micron涨2.4%，Qualcomm涨2.0%。Dell直接涨15.8%，前一晚大幅提高AI服务器和全年业绩预期。市场广度也明显改善，纽交所上涨家数约为下跌家数1.78倍，纳斯达克约1.85倍。<a href="https://www.reuters.com/business/us-stock-index-futures-subdued-oil-treasury-yields-rise-iran-tensions-2026-09-02/" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>不过这场反弹的力度一般。10年期美债还在4.8%附近，Brent已经95美元以上，AI财报很强，指数只反弹不到0.5%。钱愿意回来接跌深的股票，高利率和能源通胀还压在上面。</p>
+<p>2）宏观与政策</p>
+<p>ADP公布8月美国私人就业只增加3.8万人，低于Reuters调查的4.8万人，7月修正到增加4.6万人。教育和医疗增加4.5万人，制造业减少1.7万人，专业和商业服务减少1.6万人。<a href="https://www.reuters.com/business/us-private-payrolls-growth-slows-august-adp-says-2026-09-02/" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>这个数字比周二JOLTS更偏弱。企业没有大规模裁员，招聘明显变慢。周五官方非农现在更重要了。</p>
+<p>CME定价周三一度把9月加息概率推到约70%，ADP偏弱以后又有所回落。10年期美债仍接近4.8%，油价和40万亿美元联邦债务都在给长端压力。<a href="https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-02-2026/card/odds-of-fed-rate-hike-in-september-hit-70--PQ04igZVrpQ5Hy4h87rp?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">The Wall Street Journal+1</a></p>
+<p>今天美国还有ISM服务业、国际贸易和生产率数据。服务业如果继续很强，弱ADP也未必足以阻止Fed。周五非农如果再次接近零，利率交易才会真正发生比较大的变化。</p>
+<p>3）AI与科技产业</p>
+<p>Broadcom昨晚这份财报挺有意思。三季度收入295.9亿美元，高于市场预期293.6亿美元；调整后EPS 3.32美元，高于3.24美元。AI芯片收入达到167亿美元，同比增长超过三倍。<a href="https://www.reuters.com/business/broadcom-forecasts-quarterly-revenue-below-estimates-2026-09-02/" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>四季度收入指引348亿美元，市场预期350.3亿美元，盘后股价跌超过3%。AI芯片销售预计217亿美元，仍高于市场预期213.3亿美元。<a href="https://www.reuters.com/business/broadcom-forecasts-quarterly-revenue-below-estimates-2026-09-02/" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>所以问题没出在AI需求。Google正在把部分定制芯片订单分给Marvell，客户也在主动降低对单一供应商的依赖。Broadcom手里的蛋糕继续变大，份额竞争也越来越真。它和Nvidia以后会有一个共同问题，行业增长很快，客户自己做芯片的能力也在变强。</p>
+<p>HPE的数据更偏积极。季度收入122.1亿美元，同比增长33.7%，高于市场预期119.1亿美元，公司把全年收入增速预期从29%至33%提高到34%至37%。HPE还扩大和Oracle合作，为Oracle AI数据中心部署Juniper网络设备。<a href="https://www.reuters.com/business/hpe-raises-annual-forecasts-ai-networking-demand-lifts-quarterly-revenue-2026-09-02/" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>Dell、HPE、Nvidia连续给出强数据，服务器和网络这一层目前没看到降温。</p>
+<p>Snowflake盘后涨超过20%。公司把全年产品收入预期从58.4亿美元提高到60.7亿美元，季度产品收入14.9亿美元，同比增长37%，同时签了与AWS五年60亿美元的基础设施协议。<a href="https://www.reuters.com/business/snowflake-lifts-annual-product-revenue-forecast-demand-cloud-data-platform-2026-09-02/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>企业AI现在有两条线同时跑。硬件继续大规模扩建，数据平台和企业软件里也开始出现真正能把AI转成收入的公司。</p>
+<p>4）全球重大新闻</p>
+<p>Brent周三再涨1%，收95.63美元；WTI涨0.9%至91.01美元，都是7月24日以来最高。美国和伊朗进行了7月以来最大规模的一轮互相攻击，美国打击伊朗南部沿岸目标，伊朗攻击地区内美军基地。<a href="https://www.reuters.com/business/energy/oil-up-nearly-1-us-iran-trade-fresh-strikes-2026-09-02/" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>霍尔木兹周三只有4艘商品船通过，过去10日平均约13艘。两艘油轮触雷受损。美国能源部长则表示，周一有1700万桶原油通过海峡，官方说法和船舶追踪数据之间差距很大。<a href="https://www.reuters.com/business/energy/oil-up-nearly-1-us-iran-trade-fresh-strikes-2026-09-02/" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>这个地方我还是更信实际船流和保险费。Brent已经95.63美元，再上100美元，美国汽油、柴油、物流和通胀都会一起变麻烦。</p>
+<p>俄罗斯昨晚也继续攻击乌克兰Odesa能源基础设施。俄乌和美伊同时影响能源系统，油价里已经开始叠加两场战争的供应风险。<a href="https://www.reuters.com/business/energy/oil-up-nearly-1-us-iran-trade-fresh-strikes-2026-09-02/" target="_blank" rel="noreferrer noopener">Reuters+1</a></p>
+<p>5）中国市场与政策</p>
+<p>8月官方制造业PMI升到49.8，7月49.2，新订单和生产重新回到50以上；非制造业PMI仍只有49.0。<a href="https://www.reuters.com/world/asia-pacific/chinas-factory-activity-improves-stays-contraction-august-2026-08-31/" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>中国央行行长周三在G20会议上再次强调扩大国内需求，同时表示中国没有刻意追求贸易顺差。<a href="https://www.reuters.com/world/asia-pacific/china-never-deliberately-pursues-trade-surplus-central-bank-governor-says-2026-09-02/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a> 这句话放在现在挺值得看，出口和高端制造还强，服务和居民需求依然弱，政策口径已经越来越多地往内需挪。</p>
+<p>A股AI芯片则非常热。腾讯支持的燧原科技科创板IPO网上认购超过6109倍，计划融资约61亿元，公司目前仍未盈利。<a href="https://www.reuters.com/world/china/tencent-backed-enflame-ipo-draws-6109-times-online-demand-2026-09-02/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>国产替代这条线有真实需求，估值也已经很激进。现在这种几千倍申购，更像资金在抢稀缺AI资产，不能直接等同于盈利已经能支撑发行价格。</p>
+<p>6）公司重大事件与财报</p>
+<p>Uber宣布裁员约3300人，占全球员工约10%，是疫情以来最大一次裁员。公司准备把节省下来的钱继续投向自动驾驶，目前相关投入已经超过100亿美元。<a href="https://www.reuters.com/business/world-at-work/uber-cut-3300-jobs-overhaul-bloomberg-news-reports-2026-09-02/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>这个动作很能说明传统互联网现在怎么面对AI和自动驾驶。组织要更瘦，资本继续往最有可能改变行业结构的技术投。</p>
+<p>Broadcom盘后下跌也值得记一下。收入、EPS、AI芯片销售都不错，只因为下一季度总收入略低于高预期，市场直接卖。现在AI股票的容错率依然很低。</p>
+<p>7）今日投资机会</p>
+<p>Dell昨晚涨15.8%，今天再追没什么意思。Dell、HPE、Nvidia连续确认AI服务器需求，更值得继续往电源、网络、液冷、企业SSD和数据中心配电找。</p>
+<p>Snowflake值得放回观察池。企业AI最后要吃数据，能把企业数据存储、治理、查询和AI调用放在同一平台里的公司，收入开始兑现了。</p>
+<p>Broadcom盘后如果今天正式交易跌幅扩大，我会先等。AI芯片销售本身很好，Google订单分流给Marvell说明竞争已经越来越激烈，便宜一点才有足够余量。</p>
+<p>中国AI芯片这条线很热，燧原6000多倍申购已经到了情绪极高的位置。产业趋势可以继续看，短期追高我会犹豫。</p>
+<p>8）风险预警</p>
+<p>Brent 95.63美元，Fed加息概率仍在高位，10年期美债接近4.8%。这三个东西放一起，对高估值科技不舒服。</p>
+<p>Broadcom的反应也提醒了一次，AI公司现在只交出强财报还不够，市场要求下一季继续加速。</p>
+<p>就业这边开始越来越薄。ADP只有3.8万人，制造业和专业服务都在减人。周五非农如果很差，美股短期可能先交易降息或不加息，后面还得算盈利。</p>
+<p>9）今日重点关注事项</p>
+<p>今天晚上先看美国ISM服务业。如果服务业还在很强的扩张区间，市场可能继续维持高加息概率。</p>
+<p>Broadcom正式开盘后的反应也很重要。AI芯片收入三倍增长，股价还继续跌，说明资金对定制ASIC的要求已经提高。</p>
+<p>Snowflake盘后涨20%以上，今天能不能守住，会告诉我们资金愿不愿意从AI硬件重新扩散到企业软件。</p>
+<p>Brent先看95美元。站稳并继续冲100美元，美国通胀交易会压过很多公司财报。</p>
+<p>周五非农仍是本周最大的节点。ADP已经给了一个偏弱预告，官方数据如果再次很差，9月Fed定价会明显重算。</p>
+<p>三个深入思考的问题：</p>
+<ol>
+<li>
+<p>Broadcom AI芯片收入已经增长三倍，Google却开始把更多订单给Marvell。AI定制芯片最后会变成少数公司的高利润生意，还是越来越接近多供应商竞争？</p>
+</li>
+<li>
+<p>Dell、HPE、Nvidia的AI硬件需求都很强，Snowflake的AI软件收入也开始加速。这轮AI资本开支是不是已经开始从纯建设期进入应用收入验证期？</p>
+</li>
+<li>
+<p>美国就业越来越弱，Brent又接近100美元。如果周五非农很差、油价继续涨，Fed会更怕就业掉下去，还是更怕能源重新把通胀推高？</p>
+</li>
+</ol></div></div>]]></content:encoded></item><item><title>每日新闻摄影精选｜一个年轻男人坐在涨水后的 Trishuli 河边，身前摆着祭祀用品。他母亲还在失踪名单上，家里已经开始为她举行葬</title><link>https://youngwilly.github.io/chatgpt-task-rss/#daily-photo-2026-09-02T22-40-14Z</link><guid isPermaLink="false">be1db9c09f38d94d4bd38a44e9df45958d19f827a3d8fed096b131a20b26d547</guid><pubDate>Wed, 02 Sep 2026 22:40:49 GMT</pubDate><category>每日新闻摄影精选</category><description>一个年轻男人坐在涨水后的 Trishuli 河边，身前摆着祭祀用品。他母亲还在失踪名单上，家里已经开始为她举行葬礼。 没有遗体。 他手里点着一小团火，手指沾着祭祀用的红色颜料。镜头靠得非常近，只留下他的手、火焰和赤裸的上身。真正失踪的人完全没有出现在照片里。 今天选这张。 摄影师：Rajesh Kumar Singh 机构：Associated Press 地点：尼泊尔 Nuwakot district，Trishuli River 河岸 日期：2026年9月2日 人物：Sahas Pyakurel 事件：母亲在8月26日的特大山洪中失踪，至今没有找到。家属已经推定她死亡，Sahas 按照印度教传统举行象征性的最后仪式。 AP 9月2日官方《The top photos of the day》把这张照片列为当天首图。官方图注明确写着，Sahas Pyakurel 的母亲在洪灾后仍然失踪并被推定死亡，他正在 Trishuli 河边</description><content:encoded><![CDATA[<div><div><p>一个年轻男人坐在涨水后的 Trishuli 河边，身前摆着祭祀用品。他母亲还在失踪名单上，家里已经开始为她举行葬礼。</p>
+<p>没有遗体。</p>
+<p>他手里点着一小团火，手指沾着祭祀用的红色颜料。镜头靠得非常近，只留下他的手、火焰和赤裸的上身。真正失踪的人完全没有出现在照片里。</p>
+<p>今天选这张。</p>
+<p>摄影师：<strong>Rajesh Kumar Singh</strong><br>
+机构：<strong>Associated Press</strong><br>
+地点：<strong>尼泊尔 Nuwakot district，Trishuli River 河岸</strong><br>
+日期：<strong>2026年9月2日</strong><br>
+人物：<strong>Sahas Pyakurel</strong><br>
+事件：母亲在8月26日的特大山洪中失踪，至今没有找到。家属已经推定她死亡，Sahas 按照印度教传统举行象征性的最后仪式。</p>
+<p>AP 9月2日官方《The top photos of the day》把这张照片列为当天首图。官方图注明确写着，Sahas Pyakurel 的母亲在洪灾后仍然失踪并被推定死亡，他正在 Trishuli 河边举行 symbolic last rites。摄影师、人物、动作、地点和日期都在同一个 AP 官方页面上。<a href="https://apnews.com/article/2b1f7dce596b436d92ff3adaf947907e" target="_blank" rel="noreferrer noopener">AP News</a></p>
+<p>我还直接打开了 AP 为这张照片提供的原始图片文件。准确画面就是双手托着祭祀物、中央有一小束火焰的这个近景，没有用同一场葬礼里其他照片替换。<a href="https://dims.apnews.com/dims4/default/2d3a3ab/2147483647/strip/true/crop/6349x4233%2B0%2B0/resize/599x399%21/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Feb%2F3b%2F70a9408b6b6f8fddb4698243b91d%2Fb755dcbb2eeb456abb5027f3e3c2edae" target="_blank" rel="noreferrer noopener">美联社 Dims</a></p>
+<p>AP 原图有版权限制，所以这里不重新转载。今天分析的准确照片可以直接从官方页面查看：</p>
+<p><a target="_blank" rel="noreferrer noopener">AP 9月2日官方每日摄影图集，首图即今天这张</a></p>
+<p>这张图有点反常。前几天尼泊尔洪灾里，照片越来越大，成排裹尸袋、集体埋葬、毁掉的山谷、几百人失踪的水电站。Rajesh Kumar Singh 今天把镜头收得只剩两只手。</p>
+<p>火也特别小。</p>
+<p>如果不知道背景，它甚至可能是一张普通宗教仪式照片。知道 Sahas 的母亲仍然没有找到以后，这团火的意思完全变了。</p>
+<p>印度教葬礼通常围绕死者遗体进行火化。Nuwakot 一些家庭现在连遗体都等不到，只能用稻草做成人形，放上木柴和供品，再举行象征性火葬，希望让失踪亲人的灵魂得到最后的宗教安顿。AP 9月2日专门记录了这些家庭。<a href="https://apnews.com/article/4dadbf49cf21d37af218e0df3c2b2622" target="_blank" rel="noreferrer noopener">AP News</a></p>
+<p>这个地方很要命。</p>
+<p>法律和救援系统里的状态还是“missing”。</p>
+<p>家庭已经开始说“dead”。</p>
+<p>两种时间并没有同步。</p>
+<p>AP当天确认，8月26日洪灾已经造成至少 <strong>1,118人死亡，超过3,900人仍然失踪</strong>。失踪者里包括590名来自39个国家的外国人。与此同时，也有人在失联几天后重新联系上政府，一部分外国游客因此从失踪名单中撤掉。<a href="https://apnews.com/article/4dadbf49cf21d37af218e0df3c2b2622" target="_blank" rel="noreferrer noopener">AP News</a></p>
+<p>所以举行这种葬礼其实非常难。</p>
+<p>家属知道找到活人的可能性越来越低，可人一天没找到，就永远留着一点非常小的可能。仪式却要求他们开始接受死亡。</p>
+<p>照片没有拍 Sahas 的脸，这个选择挺准。</p>
+<p>如果拍哭泣的表情，情绪会来得很快。现在观众只能看他的手。手在完成一个非常具体的动作，火焰正在燃烧，可他母亲在哪里仍然不知道。</p>
+<p>照片因此没有给出完整告别感。</p>
+<p>它更像一个悬着的葬礼。</p>
+<p>AP同一组官方报道里还有一张更大的现场照片。很多失踪者家属一起坐在涨水后的 Trishuli 河岸，祭司为每名失踪者制作稻草替身，再分别点燃。还有一名男子完成仪式后抱着女性家属安慰她。<a href="https://apnews.com/article/4dadbf49cf21d37af218e0df3c2b2622" target="_blank" rel="noreferrer noopener">AP News</a></p>
+<p>这些图更容易把仪式解释清楚。</p>
+<p>Sahas 这一张更难忘，因为摄影师把几乎所有环境都拿掉了。画面里只有身体、手、祭祀物和火。河流吞掉一个人以后，家属最后能够真正握住的东西可能就只有这么一点。</p>
+<p>今天 Reuters 官方《Pictures of the Day | September 2, 2026》我也直接核过。<a href="https://www.reutersconnect.com/collection/pictures-of-the-day-september-2-2026/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDM1BLRzAwMDEwNzMwNg" target="_blank" rel="noreferrer noopener">路透连接</a> 其中很强的一张来自印度尼西亚南苏门答腊 Ogan Ilir。Abriansyah Liberto 拍到一名男孩站在住宅区前，身后的森林火灾浓烟正在升起来。Reuters Connect 单图页把摄影师、Ogan Ilir、Indonesia、September 2, 2026 和编号 <strong>RC2VANAM7FOH</strong> 全部列清楚。<a href="https://www.reutersconnect.com/item/a-boy-reacts-as-smoke-rises-from-wildfires-at-a-residential-area-in-ogan-ilir-south-sumatra-province/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMlZBTkFNN0ZPSA" target="_blank" rel="noreferrer noopener">路透连接</a></p>
+<p>那张视觉冲击更直接，孩子和滚动的烟很强。</p>
+<p>今天我还是留 Sahas。</p>
+<p>因为灾难进入第二周以后，“还有多少人失踪”开始变成一条每天更新的数字。这张照片拍到了失踪持续太久以后，一个家庭会被逼到什么位置。</p>
+<p>救援工作本身还远没有结束。Reuters 9月2日报道，尼泊尔死亡人数已经超过1,200，失踪人数超过4,200，搜救力量正集中进入受灾水电站隧道。约900名工人被认为可能困在其中，一些封闭空间仍可能存在空气、食物和水，所以救援人员到现在仍没有完全放弃生还希望。<a href="https://www.reuters.com/business/environment/hopes-finding-survivors-dim-week-after-catastrophic-nepal-flood-2026-09-02/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>这和 Sahas 的照片放在一起，会出现一个很难处理的矛盾。</p>
+<p>国家必须继续找。</p>
+<p>家庭有时已经等不下去了。</p>
+<p>洪灾源头也越来越清楚。8月26日，尼泊尔与西藏交界附近发生大规模冰川和基岩崩塌，岩石、冰和融水冲入陡峭河谷，形成高速洪水和泥石流。房屋、桥梁、公路以及多个水电工程随后被摧毁。<a href="https://apnews.com/article/4dadbf49cf21d37af218e0df3c2b2622" target="_blank" rel="noreferrer noopener">AP News+1</a></p>
+<p>尼泊尔现在已经准备重建北部边境预警系统，包括地震传感器、摄像机以及卫星通信。原来的监测和通信设施在洪灾中严重受损，一些关键警告没能及时传到下游。<a href="https://www.reuters.com/business/environment/nepal-rebuild-early-warning-system-china-border-after-deadly-flood-sources-say-2026-09-02/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>这些都是后面要解决的大问题。</p>
+<p>Sahas 面前的问题小得多，也可能更难。</p>
+<p>母亲找不到了。</p>
+<p>还要等多久，才能开始告别？</p>
+<p>这张照片把这个问题压进了一团几厘米高的火里。</p>
+<ol>
+<li>
+<p>当一个人失踪七天、十天甚至一个月，政府仍然必须继续按照失踪人口寻找，可一个家庭什么时候有权开始把他当作死者哀悼？</p>
+</li>
+<li>
+<p>这次有些游客失联几天后重新联系上家人。这样的案例存在时，失踪者家庭举行象征性葬礼，会不会同时带来一点很难消除的内疚，万一人还活着呢？</p>
+</li>
+<li>
+<p>前几天最强的洪灾照片都在展示灾难规模。今天这张只留下两只手和一点火。等很多年以后再看，这种极小的画面，会不会反而更接近这场灾难真正留给家庭的东西？</p>
+</li>
+</ol></div></div>]]></content:encoded></item><item><title>美股收盘日报｜2026-09-01</title><link>https://youngwilly.github.io/chatgpt-task-rss/#us-close-2026-09-01T22-40-26Z</link><guid isPermaLink="false">d0fc40725b236ea7bbf359754a7520415d46ebb737924a4ad0c64061ea2ff513</guid><pubDate>Tue, 01 Sep 2026 22:40:26 GMT</pubDate><category>美股收盘日报</category><description>美股收盘日报｜2026-09-01 S&amp;P 500 收 7,631.47，跌0.71%；Dow 收 52,766.93，跌0.79%；Nasdaq Composite 收 26,099.77，跌1.03%。油价重新冲上去，Brent收 94.65美元，+4.6%，WTI收 90.22美元，+5.2%。10年期美债收益率盘中到 4.797% 左右，30年期到 5.286%，9月加息概率已经抬到 68.2%。Reuters+2Reuters+2 白天很明显是risk-off。SOX跌2.1%，NYSE和Nasdaq下跌家数都大约是上涨家数的2.8倍。可盘后Dell交出一份很狠的AI服务器财报，收入470亿美元，调整EPS 7.04美元，FY2027 AI服务器收入预期从600亿美元直接提到740亿美元，盘后涨约8%。Palo Alto的AI安全业务也继续增长。AI需求这条线今天并没有跟股市一起坏。Reuters+2Google+2 </description><content:encoded><![CDATA[<div><div><h1>美股收盘日报｜2026-09-01</h1>
 <p>S&amp;P 500 收 <strong>7,631.47，跌0.71%</strong>；Dow 收 <strong>52,766.93，跌0.79%</strong>；Nasdaq Composite 收 <strong>26,099.77，跌1.03%</strong>。油价重新冲上去，Brent收 <strong>94.65美元，+4.6%</strong>，WTI收 <strong>90.22美元，+5.2%</strong>。10年期美债收益率盘中到 <strong>4.797%</strong> 左右，30年期到 <strong>5.286%</strong>，9月加息概率已经抬到 <strong>68.2%</strong>。<a href="https://www.reuters.com/business/wall-st-futures-kick-off-september-under-pressure-yields-oil-prices-rise-2026-09-01/" target="_blank" rel="noreferrer noopener">Reuters+2Reuters+2</a></p>
 <p>白天很明显是risk-off。SOX跌2.1%，NYSE和Nasdaq下跌家数都大约是上涨家数的2.8倍。可盘后Dell交出一份很狠的AI服务器财报，收入470亿美元，调整EPS 7.04美元，FY2027 AI服务器收入预期从600亿美元直接提到740亿美元，盘后涨约8%。Palo Alto的AI安全业务也继续增长。AI需求这条线今天并没有跟股市一起坏。<a href="https://www.reuters.com/business/wall-st-futures-kick-off-september-under-pressure-yields-oil-prices-rise-2026-09-01/" target="_blank" rel="noreferrer noopener">Reuters+2Google+2</a></p>
 <h2>0. 今日一句话总结</h2>
@@ -2923,346 +3548,4 @@ IG spread：暂无可靠数据。</p>
 <li>
 <p><strong>AI产业需求还在，资本开支也没明显降，可长债利率、公司债融资和估值压力一起往上。如果这一轮AI调整持续，下一批资金会先回芯片，还是先去软件、电力、能源和更便宜的普通股票？</strong></p>
 </li>
-</ol></div></div>]]></content:encoded></item><item><title>每日重点简报｜《每日重点简报》</title><link>https://youngwilly.github.io/chatgpt-task-rss/#daily-brief-2026-08-20T22-40-31Z</link><guid isPermaLink="false">892096023c88b4bb06527f75b5f3175a7232a193d1f4f3cb879edea56d548e53</guid><pubDate>Thu, 20 Aug 2026 22:40:31 GMT</pubDate><category>每日重点简报</category><description>《每日重点简报》 2026年8月21日，星期五 1）昨夜美股收盘概览 周四这场跌得比前一天难看。道指跌1.32%至52,759.21点，标普500跌0.87%至7,641.16点，纳指跌1.00%至26,067.17点。标普已经比上周的纪录收盘低约2%，纳指比6月2日纪录收盘低超过3%。纽交所下跌家数接近上涨家数的两倍，已经有点从个股兑现往整体风险收缩扩散。Reuters SPY跌0.87%至762.60美元，QQQ跌0.74%至710.93美元，DIA跌1.27%。Nvidia跌0.34%至216.85美元，Microsoft跌0.66%，Alphabet跌1.16%，Amazon跌2.13%，Palantir跌0.74%。AMD反而涨0.60%，Micron大涨3.91%至974.33美元。 昨晚真正压市场的是两件事。Walmart财报把美国消费的问题摆到了桌面上，美债收益率又把财政部前一天回购带来的跌幅基本收回。科技股现在</description><content:encoded><![CDATA[<div><div><p>《每日重点简报》</p>
-<p>2026年8月21日，星期五</p>
-<p>1）昨夜美股收盘概览</p>
-<p>周四这场跌得比前一天难看。道指跌1.32%至52,759.21点，标普500跌0.87%至7,641.16点，纳指跌1.00%至26,067.17点。标普已经比上周的纪录收盘低约2%，纳指比6月2日纪录收盘低超过3%。纽交所下跌家数接近上涨家数的两倍，已经有点从个股兑现往整体风险收缩扩散。<a href="https://www.reuters.com/business/us-stock-futures-muted-bond-yields-resume-uptrend-ahead-walmarts-earnings-2026-08-20/" target="_blank" rel="noreferrer noopener">Reuters</a></p>
-<p>SPY跌0.87%至762.60美元，QQQ跌0.74%至710.93美元，DIA跌1.27%。Nvidia跌0.34%至216.85美元，Microsoft跌0.66%，Alphabet跌1.16%，Amazon跌2.13%，Palantir跌0.74%。AMD反而涨0.60%，Micron大涨3.91%至974.33美元。</p>
-<p>昨晚真正压市场的是两件事。Walmart财报把美国消费的问题摆到了桌面上，美债收益率又把财政部前一天回购带来的跌幅基本收回。科技股现在既要扛高利率，也要开始算经济减速对收入的影响，这个地方比单纯的估值调整麻烦。</p>
-<p>2）宏观与政策</p>
-<p>美国上周初请失业金人数降至20.6万，低于市场预期21万，企业依然没有大规模裁员。费城联储8月制造业指数升至47.4，远高于市场预期，制造业就业指数升至27.9，是2022年4月以来最高。<a href="https://www.reuters.com/world/us/us-weekly-jobless-claims-dip-latest-week-2026-08-20/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters+1</a></p>
-<p>所以美国现在有个挺别扭的组合。7月非农减少2.3万人，零售销售下降0.6%，Walmart又看到消费者变谨慎，可企业裁员很少，部分制造业数据还很强。Fed要马上转松没那么容易。</p>
-<p>债市反应更直接。财政部前一天把部分长期国债单次回购规模提高到至少40亿美元，一度把30年期收益率压到5.19%。周四收益率又重新往上，10年期约4.70%。美国国债市场规模约32.2万亿美元，40亿美元回购在量上很小，美国总债务又刚突破40万亿美元。<a href="https://www.reuters.com/business/bonds-bounce-us-buybacks-relief-may-be-brief-2026-08-20/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters+1</a></p>
-<p>现在真正值得防的是长端利率和Fed政策脱钩。即使Fed不加息，只要财政赤字、油价和债券供给继续推高10年、30年期收益率，股票估值照样会被压。</p>
-<p>3）AI与科技产业</p>
-<p>AI需求没有看到明显掉下来，融资压力越来越显眼。Amazon、Alphabet、Meta和Oracle今年截至7月初已经发行约1940亿美元债券，超过2025年全年约1080亿美元。Microsoft、Meta、Oracle、Amazon和Alphabet尚未开始的未来数据中心租赁付款承诺合计约1.09万亿美元。<a href="https://www.reuters.com/business/hyperscaler-debt-binge-pushes-yields-up-investor-demand-cools-2026-07-29/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters+1</a></p>
-<p>Nvidia又在把融资链往前推。公司参与的AI基础设施融资框架规模最高约5000亿美元，同时为OpenAI俄亥俄州数据中心项目提供最高1050亿美元支持。Reuters此前已经专门讨论这种安排带来的循环融资问题。<a href="https://www.reuters.com/commentary/breakingviews/jensen-huang-takes-wheel-500-bln-ai-bandwagon-2026-08-11/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters+1</a></p>
-<p>现在看AI，我会把股票分得更开。Nvidia 216.85美元、PE约33倍，这个估值相对它的利润增速还算能算。AMD约121倍，Palantir约149倍，对利率和增速都敏感得多。Alphabet现在约17倍，Amazon约21倍，现金流和估值的组合反而没那么夸张。</p>
-<p>Micron昨晚逆势涨近4%也值得留意。市场还在继续交易HBM、DRAM和AI存储供给偏紧，芯片整体下跌时它还能收在974美元附近，这场更能看出资金对存储周期的信心。</p>
-<p>4）全球重大新闻</p>
-<p>Brent昨晚涨2.4%至93.78美元，WTI涨2.3%至87.83美元，连续第五个交易日上涨，双双创7月24日以来最高收盘。特朗普威胁对支持伊朗的国家采取经济措施，美国财政部长Bessent计划周一进一步公布行动。霍尔木兹周三船流依然远低于战前水平。<a href="https://www.reuters.com/business/energy/oil-prices-steady-investors-assess-us-iran-war-outlook-2026-08-20/" target="_blank" rel="noreferrer noopener">Reuters</a></p>
-<p>93.78美元这个价格已经不能只当地缘风险看了。Walmart明确提到高汽油价格正在让消费者做取舍，公司预计燃料成本比原先多20亿美元。<a href="https://www.reuters.com/business/walmart-reports-rare-comparable-sales-miss-consumers-pare-back-spending-2026-08-20/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a> 油价再往100美元靠，美国消费和通胀会一起受压，美债长端就更难下来。</p>
-<p>俄乌这边也突然加重。俄罗斯对基辅发动大规模导弹和无人机袭击，乌方称造成至少17人死亡，同时乌克兰继续攻击俄罗斯能源设施。<a href="https://www.reuters.com/world/ukrainian-capital-kyiv-under-attack-by-russian-ballistic-missiles-mayor-says-2026-08-19/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a> 中东和俄乌同时打能源、航运和基础设施，能源风险溢价短期很难完全消失。</p>
-<p>5）中国市场与政策</p>
-<p>昨天1年期LPR继续维持3.00%，5年期维持3.50%，连续第15个月没有变化。Reuters调查的25名市场参与者此前全部预计不变。央行目前没有急着继续降息，政策更偏向把已经安排的财政资金加快投向基础设施。<a href="https://www.reuters.com/world/asia-pacific/china-leaves-loan-rates-steady-15th-consecutive-month-august-2026-08-20/" target="_blank" rel="noreferrer noopener">Reuters</a></p>
-<p>这个动作和7月数据放一起看有点意思。工业增加值同比只增长4.5%，零售销售增长0.6%，新增人民币贷款出现创纪录收缩，居民信用需求仍弱。<a href="https://www.reuters.com/world/asia-pacific/chinas-july-industrial-output-grew-45-yy-retail-sales-up-06-2026-08-17/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters+1</a></p>
-<p>今天A股如果继续交易刺激，我会更偏已有资金来源的电网、水利、数据中心、通信和高端制造。地产能有政策行情，居民愿不愿意重新借钱买房，现有数据还没给答案。</p>
-<p>6）公司重大事件与财报</p>
-<p>Walmart昨晚跌9.2%，单日市值蒸发超过800亿美元，是2022年5月以来最大单日跌幅。美国同店销售只增长2.6%，低于市场预期3.8%，也是六年来最慢。门店客流增长从一季度3%降至1.5%，单笔消费只增长1.1%。<a href="https://www.reuters.com/business/walmart-reports-rare-comparable-sales-miss-consumers-pare-back-spending-2026-08-20/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
-<p>公司全年销售和利润指引反而上调，电商增长24%，广告收入增长43%，会员收入增长17%。这个财报里最值得看的就是分化，数字业务挺强，实体消费者开始变谨慎。<a href="https://www.reuters.com/business/walmart-reports-rare-comparable-sales-miss-consumers-pare-back-spending-2026-08-20/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
-<p>Deere走了完全相反的方向，股价涨6.9%。季度收入增长6%至110亿美元，EPS 5.10美元，公司上调全年净利润预测下限。建筑和林业部门销售增长18%，AI数据中心建设和美国基础设施投入在拉工程设备需求；大型农业机械仍弱。<a href="https://www.reuters.com/business/deere-raises-lower-end-2026-net-income-forecast-range-2026-08-20/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters+1</a></p>
-<p>这个财报挺有参考价值。AI资本开支已经从GPU传到施工机械、场地、电力和基础设施。</p>
-<p>7）今日投资机会</p>
-<p>昨晚我反而会多看Micron。大盘跌、半导体前几天刚遭过一次大卖，它还能涨3.9%。974美元已经不便宜，等回踩比直接追舒服，HBM和高端存储这条供需线暂时没看到明显松动。</p>
-<p>Alphabet现在约340.7美元，PE约17倍。市场继续杀估值的话，它比很多百倍PE的AI软件更容易算账。Amazon跌到260美元附近，约21倍PE，也开始进入可以重新评估的位置。</p>
-<p>Deere这份财报又给数据中心施工链加了一条证据。变压器、配电、备用发电、施工设备和数据中心园区，我还会继续找订单已经进财报的公司。</p>
-<p>8）风险预警</p>
-<p>Brent 93.78美元，10年期美债约4.70%，Walmart同店销售只增长2.6%，这三个数字放在一起，对美股不太舒服。<a href="https://www.reuters.com/business/energy/oil-prices-steady-investors-assess-us-iran-war-outlook-2026-08-20/" target="_blank" rel="noreferrer noopener">Reuters+2The Wall Street Journal+2</a></p>
-<p>财政部扩大国债回购一天以后，长债收益率就重新上来。市场开始怀疑这种操作能不能真的改变长期供需。这个地方如果30年期重新越过5.3%，科技估值还会继续受压。</p>
-<p>AI需求还很强，债务和租赁承诺增长得更快。未来问题可能不会先出在GPU订单，反而可能先从融资成本、设备残值或者数据中心利用率暴露。</p>
-<p>9）今日重点关注事项</p>
-<p>今天白天看A股对LPR不变的后续反应。地产如果继续没量，产业投资方向会更占优势。</p>
-<p>今晚美国将公布8月S&amp;P Global制造业和服务业PMI初值。昨晚费城制造业很强，如果全国PMI也偏热，10年期收益率可能继续往上，科技股会比较难受。</p>
-<p>美股价格上，Nvidia先看215美元，AMD看460美元，QQQ看708至710美元。Micron已经重新靠近1000美元，如果还能逆势走强，存储会成为当前AI硬件里相对强的一条线。</p>
-<p>Brent已经93.78美元，今天最值得盯的价格其实可能是95美元。站稳95以后，美国消费、通胀和利率的交易会开始绑得更紧。</p>
-<p>三个值得继续想的问题：</p>
-<ol>
-<li>
-<p>Walmart作为消费降级最大的受益者，同店销售都开始低于预期，如果油价继续站在90美元以上，美国消费下一步会先砍可选消费，还是连食品和日用品数量也开始下降？</p>
-</li>
-<li>
-<p>AI公司今年大量发债，未来数据中心租赁承诺已经超过1万亿美元。如果长债利率长期在5%左右，AI项目最终需要多高的利用率和收入才能覆盖资本成本？</p>
-</li>
-<li>
-<p>中国LPR连续15个月不变，居民信贷需求却持续偏弱。如果继续降利率的效果有限，财政资金最终会不会越来越直接地转向居民消费和收入端？</p>
-</li>
-</ol></div></div>]]></content:encoded></item><item><title>每日新闻摄影精选｜一名老妇人站在被俄军导弹摧毁的基辅公寓楼旁，身体微微往前倾，双手抬起，脸朝着地上的孙子遗体。身后还能看到被炸开的</title><link>https://youngwilly.github.io/chatgpt-task-rss/#daily-photo-2026-08-20T22-40-08Z</link><guid isPermaLink="false">4502eef800ad13d2ecd6dc35697a66b4a754cc76eca1536156a89cff3f3f6a6f</guid><pubDate>Thu, 20 Aug 2026 22:40:27 GMT</pubDate><category>每日新闻摄影精选</category><description>一名老妇人站在被俄军导弹摧毁的基辅公寓楼旁，身体微微往前倾，双手抬起，脸朝着地上的孙子遗体。身后还能看到被炸开的住宅结构和散落物。画面没有把遗体放到很近的位置，摄影师把祖母的反应留在前面，死亡本身压在她的视线方向里。 今天选这张。 摄影师：Anatolii Stepanov 机构：Reuters 地点：乌克兰基辅 Kyiv 日期：2026年8月20日 Reuters 图片编号：RC222NAGLW1H Reuters Connect 的官方单图页直接展示了这张准确照片，完整图注明确写着，一名女性在被俄军导弹摧毁的公寓楼现场，面对遇害孙子的遗体作出反应。页面同时列出摄影师 Anatolii Stepanov、地点 Kyiv、国家 Ukraine、日期 August 20, 2026，以及 Reuters 图片编号 RC222NAGLW1H。它还被标记为 TPX Images of the Day。路透社连接 这张图属于 Reute</description><content:encoded><![CDATA[<div class="media-gallery"><figure><a href="https://www.reutersconnect.com/item/russian-missile-strike-in-kyiv/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMjIyTkFHTFcxSA" target="_blank" rel="noreferrer noopener"><img src="https://youngwilly.github.io/chatgpt-task-rss/assets/daily-photo-2026-08-20T22-40-08Z-official.jpg" alt="2026年8月20日，在乌克兰基辅，一名妇女在被俄罗斯导弹袭击摧毁的公寓楼旁，悲痛欲绝，她的孙子不幸遇难。（路透社/阿纳托利·斯捷潘诺夫 TPX每日图片）" width="800" height="450" loading="lazy" decoding="async" referrerpolicy="no-referrer" data-published-width="800" data-published-height="450"></a><figcaption>2026年8月20日，在乌克兰基辅，一名妇女在被俄罗斯导弹袭击摧毁的公寓楼旁，悲痛欲绝，她的孙子不幸遇难。（路透社/阿纳托利·斯捷潘诺夫 TPX每日图片） · <span>来源：reutersconnect.com</span></figcaption></figure></div><div><div><p>一名老妇人站在被俄军导弹摧毁的基辅公寓楼旁，身体微微往前倾，双手抬起，脸朝着地上的孙子遗体。身后还能看到被炸开的住宅结构和散落物。画面没有把遗体放到很近的位置，摄影师把祖母的反应留在前面，死亡本身压在她的视线方向里。</p>
-<p>今天选这张。</p>
-<p>摄影师：<strong>Anatolii Stepanov</strong><br>
-机构：<strong>Reuters</strong><br>
-地点：<strong>乌克兰基辅 Kyiv</strong><br>
-日期：<strong>2026年8月20日</strong><br>
-Reuters 图片编号：<strong>RC222NAGLW1H</strong></p>
-<p>Reuters Connect 的官方单图页直接展示了这张准确照片，完整图注明确写着，一名女性在被俄军导弹摧毁的公寓楼现场，面对遇害孙子的遗体作出反应。页面同时列出摄影师 Anatolii Stepanov、地点 Kyiv、国家 Ukraine、日期 August 20, 2026，以及 Reuters 图片编号 RC222NAGLW1H。它还被标记为 TPX Images of the Day。<a href="https://www.reutersconnect.com/item/russian-missile-strike-in-kyiv/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMjIyTkFHTFcxSA" target="_blank" rel="noreferrer noopener">路透社连接</a></p>
-<p>这张图属于 Reuters 可授权内容，官方页明确写着 Licensable picture，所以这里不重新嵌入，也不放任何相似照片。准确原图可以直接看 Reuters Connect 官方页。<a target="_blank" rel="noreferrer noopener">Reuters Connect 官方原图</a></p>
-<p>这张照片很难从祖母的动作上移开。</p>
-<p>她没有坐下来，也没有被人抱住。身体还站着，双手却已经失去很明确的用途，像是想靠近，又不知道还能做什么。摄影师没有等一个更大的哭喊动作，这一秒已经够了。</p>
-<p>画面里最重的地方，是她和孙子遗体之间那段距离。</p>
-<p>人还站着，家属还在现场，公寓楼也还能看出原来的住宅结构。所有东西都没有完全消失，家庭关系已经被切断了。这个地方很麻烦。战争报道里常写“住宅楼被击中”“平民死亡”，读起来几秒钟就过去。照片把这句话停住了。</p>
-<p>Anatolii Stepanov 没有把镜头贴到遗体上。这样处理保留了现场事实，也给死者留了一点距离。观众知道发生了什么，又没有被迫靠猎奇细节来理解死亡。</p>
-<p>8月20日这轮袭击发生在前一夜。Reuters 报道，俄军对基辅及周边发动大规模导弹和无人机攻击，造成至少17人死亡、40多人受伤。受损目标包括一栋九层住宅楼、食品仓库、一家儿童医院和红十字设施。基辅随后宣布哀悼日。<a href="https://www.reuters.com/world/ukrainian-capital-kyiv-under-attack-by-russian-ballistic-missiles-mayor-says-2026-08-19/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
-<p>俄方称袭击针对无人机部件生产设施、军用仓库和物流节点。<a href="https://www.reuters.com/world/russia-strikes-drone-component-facilities-other-targets-kyiv-defence-ministry-2026-08-20/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a> 乌方则把大量平民伤亡和住宅破坏列为这轮袭击最严重的结果之一。两边对目标性质的说法仍然对立，这张照片留下的是袭击落到居民生活里的结果。</p>
-<p>同一天的 Reuters《Pictures of the Day》还有塞尔维亚山火、加沙50名死者集体葬礼、低水位莱茵河、马德里附近移民转移、机器人大会等17张照片。<a href="https://www.reutersconnect.com/collection/pictures-of-the-day-august-20-2026/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDM1BLRzAwMDEwNzI3MQ?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">路透社连接</a> AP 也有一整组基辅袭击现场，包括居民抱着宠物、伤员、地铁避难者、遗体转运和被毁车辆。AP其中一张还拍到另一名失去孙子的女性独自坐在受损住宅楼前。<a href="https://apnews.com/photo-gallery/photos-show-kyiv-residents-clutching-pets-collecting-bodies-after-russian-missile-drone-attack-b3d73f5649924d36b57a629589ce78dd" target="_blank" rel="noreferrer noopener">AP News</a></p>
-<p>今天这张留得更久一点。</p>
-<p>祖母和孙子之间没有复杂的新闻背景，只有一个动作方向。她所有的注意力都在地上，摄影师也顺着这个方向把观众带过去。没有火焰，没有导弹尾迹，连救援人员都不抢画面。战争已经结束在这一小块现场里。</p>
-<p>视觉上，人物站在前景，破坏后的建筑结构把背景压得很满。她的身体和身后的断裂线条互相冲着走，画面很乱，又没有真正失控。摄影师没有追求漂亮构图，这种粗粝感更接近现场。</p>
-<p>这张照片的新闻价值也在这里。17人死亡是一条数字。一个祖母面对孙子遗体，是那17个人里其中一个家庭真正经历的几分钟。</p>
-<p>最后三个问题：</p>
-<ol>
-<li>
-<p>战争摄影里，拍到遗体和拍到家属反应，哪一种更能留下事实，同时少伤害一点死者尊严？</p>
-</li>
-<li>
-<p>当俄罗斯和乌克兰对攻击目标的性质各有说法时，住宅区里的平民伤亡应该在新闻叙事里占多大位置？</p>
-</li>
-<li>
-<p>这场战争已经进入第五个年头，基辅居民对空袭越来越熟悉。一个社会长期把地铁、防空警报和住宅受损当成日常以后，什么东西最难恢复？</p>
-</li>
-</ol></div></div>]]></content:encoded></item><item><title>美股收盘日报｜2026-08-19</title><link>https://youngwilly.github.io/chatgpt-task-rss/#us-close-2026-08-19T22-40-18Z</link><guid isPermaLink="false">360c42f5d0a05354f98f75705aba1f7592f161295c3f128a8efb8037246c0a10</guid><pubDate>Wed, 19 Aug 2026 22:40:18 GMT</pubDate><category>美股收盘日报</category><description>美股收盘日报｜2026-08-19 S&amp;P 500 收 7,707.98，+0.21%；Dow 收 53,463.05，+0.22%；Nasdaq Composite 收 26,331.09，+0.16%；Russell 2000 收 3,032.94，约+0.50%。三大指数结束连续三天回落。财政部突然宣布，从 9 月 9 日开始，把 10年至20年、20年至30年期限国债的流动性支持回购单次上限由 20 亿美元至少提高到 40 亿美元，长债收益率马上掉下来，股票、黄金、比特币一起反弹。Reuters+2AP News+2 0. 今日一句话总结 今天指数只涨0.2%左右，里面动作很大。RSP涨 1.05%，IWM涨 0.45%，XLV暴涨 3.48%，说明昨天AI杀估值之后，今天普通股票、小盘和医疗先把钱接过去了。 AI硬件没有真正止住。SOX最终仍跌约 2%，SOXX跌 2.24%，SMH跌 1.64%；NVDA跌1.03%</description><content:encoded><![CDATA[<div><div><h1>美股收盘日报｜2026-08-19</h1>
-<p>S&amp;P 500 收 <strong>7,707.98，+0.21%</strong>；Dow 收 <strong>53,463.05，+0.22%</strong>；Nasdaq Composite 收 <strong>26,331.09，+0.16%</strong>；Russell 2000 收 <strong>3,032.94，约+0.50%</strong>。三大指数结束连续三天回落。财政部突然宣布，从 9 月 9 日开始，把 10年至20年、20年至30年期限国债的流动性支持回购单次上限由 20 亿美元至少提高到 40 亿美元，长债收益率马上掉下来，股票、黄金、比特币一起反弹。<a href="https://www.reuters.com/business/us-stock-futures-steady-after-tech-slump-investors-focus-middle-east-tensions-2026-08-19/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters+2AP News+2</a></p>
-<h2>0. 今日一句话总结</h2>
-<p>今天指数只涨0.2%左右，里面动作很大。RSP涨 <strong>1.05%</strong>，IWM涨 <strong>0.45%</strong>，XLV暴涨 <strong>3.48%</strong>，说明昨天AI杀估值之后，今天普通股票、小盘和医疗先把钱接过去了。</p>
-<p>AI硬件没有真正止住。SOX最终仍跌约 <strong>2%</strong>，SOXX跌 <strong>2.24%</strong>，SMH跌 <strong>1.64%</strong>；NVDA跌1.03%，AMD跌3.64%，AVGO跌4.61%。MRVL因为Google定制AI芯片合作逆势涨 <strong>9.92%</strong>，这场已经非常明显，资金在AI里面继续挑公司。<a href="https://www.reuters.com/business/us-stock-futures-steady-after-tech-slump-investors-focus-middle-east-tensions-2026-08-19/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
-<p>Fed会议纪要偏鹰，“several”官员7月已经倾向加息，“many”认为通胀如果不继续下降，后面大概率还需要收紧。市场反应却不大，今天真正压住债息的是财政部回购措施。<a href="https://www.reuters.com/business/fed-policymakers-inflation-concerns-increased-july-meeting-minutes-show-2026-08-19/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters+1</a></p>
-<p><strong>今日市场状态：risk-on修复，宽度明显改善，长债压力暂时缓和，AI硬件继续去拥挤，软件和非科技板块接钱。</strong></p>
-<h2>1. 大盘表现总览</h2>
-<div><div><div><section><h4>Dow</h4><dl><dt><strong>指数 / ETF</strong></dt><dd>Dow</dd><dt><strong>收盘</strong></dt><dd>53,463.05</dd><dt><strong>涨跌</strong></dt><dd>+0.22%</dd><dt><strong>日内低 / 高</strong></dt><dd>暂无可靠数据</dd><dt><strong>成交量</strong></dt><dd>暂无可靠数据</dd><dt><strong>技术状态</strong></dt><dd>结束3连跌</dd></dl></section><hr><section><h4>S&amp;P 500</h4><dl><dt><strong>指数 / ETF</strong></dt><dd>S&amp;P 500</dd><dt><strong>收盘</strong></dt><dd>7,707.98</dd><dt><strong>涨跌</strong></dt><dd>+0.21%</dd><dt><strong>日内低 / 高</strong></dt><dd>SPY 767.05 / 772.46</dd><dt><strong>成交量</strong></dt><dd>4,024万股</dd><dt><strong>技术状态</strong></dt><dd>反弹，仍低于上周纪录</dd></dl></section><hr><section><h4>Nasdaq Composite</h4><dl><dt><strong>指数 / ETF</strong></dt><dd>Nasdaq Composite</dd><dt><strong>收盘</strong></dt><dd>26,331.09</dd><dt><strong>涨跌</strong></dt><dd>+0.16%</dd><dt><strong>日内低 / 高</strong></dt><dd>暂无可靠数据</dd><dt><strong>成交量</strong></dt><dd>暂无可靠数据</dd><dt><strong>技术状态</strong></dt><dd>AI拖累指数</dd></dl></section><hr><section><h4>QQQ</h4><dl><dt><strong>指数 / ETF</strong></dt><dd>QQQ</dd><dt><strong>收盘</strong></dt><dd>716.08</dd><dt><strong>涨跌</strong></dt><dd>-0.21%</dd><dt><strong>日内低 / 高</strong></dt><dd>712.69 / 721.84</dd><dt><strong>成交量</strong></dt><dd>3,566万股</dd><dt><strong>技术状态</strong></dt><dd>仍弱于SPY</dd></dl></section><hr><section><h4>Russell 2000 / IWM</h4><dl><dt><strong>指数 / ETF</strong></dt><dd>Russell 2000 / IWM</dd><dt><strong>收盘</strong></dt><dd>3,032.94 / 301.72</dd><dt><strong>涨跌</strong></dt><dd>约+0.50% / +0.45%</dd><dt><strong>日内低 / 高</strong></dt><dd>299.83 / 303.55</dd><dt><strong>成交量</strong></dt><dd>1,497万股</dd><dt><strong>技术状态</strong></dt><dd>小盘修复</dd></dl></section><hr><section><h4>SOX</h4><dl><dt><strong>指数 / ETF</strong></dt><dd>SOX</dd><dt><strong>收盘</strong></dt><dd>暂无可靠点位</dd><dt><strong>涨跌</strong></dt><dd>约-2.0%</dd><dt><strong>日内低 / 高</strong></dt><dd>暂无</dd><dt><strong>成交量</strong></dt><dd>暂无</dd><dt><strong>技术状态</strong></dt><dd>连续承压</dd></dl></section><hr><section><h4>SMH</h4><dl><dt><strong>指数 / ETF</strong></dt><dd>SMH</dd><dt><strong>收盘</strong></dt><dd>560.92</dd><dt><strong>涨跌</strong></dt><dd>-1.64%</dd><dt><strong>日内低 / 高</strong></dt><dd>556.48 / 578.20</dd><dt><strong>成交量</strong></dt><dd>866万股</dd><dt><strong>技术状态</strong></dt><dd>AI硬件仍弱</dd></dl></section><hr><section><h4>SOXX</h4><dl><dt><strong>指数 / ETF</strong></dt><dd>SOXX</dd><dt><strong>收盘</strong></dt><dd>519.67</dd><dt><strong>涨跌</strong></dt><dd>-2.24%</dd><dt><strong>日内低 / 高</strong></dt><dd>514.66 / 540.06</dd><dt><strong>成交量</strong></dt><dd>833万股</dd><dt><strong>技术状态</strong></dt><dd>再创新一轮短线低点</dd></dl></section><hr><section><h4>VIX</h4><dl><dt><strong>指数 / ETF</strong></dt><dd>VIX</dd><dt><strong>收盘</strong></dt><dd>暂无可靠最终值</dd><dt><strong>涨跌</strong></dt><dd>回落方向</dd><dt><strong>日内低 / 高</strong></dt><dd>暂无</dd><dt><strong>成交量</strong></dt><dd>不适用</dd><dt><strong>技术状态</strong></dt><dd>未见恐慌扩张</dd></dl></section><hr></div></div></div>
-<p><a href="https://www.reuters.com/business/us-stock-futures-steady-after-tech-slump-investors-focus-middle-east-tensions-2026-08-19/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
-<p>NYSE上涨家数对下跌家数 <strong>1.90:1</strong>，Nasdaq为 <strong>1.45:1</strong>。这比8月18日明显好。NYSE有263家52周新高、93家新低；Nasdaq有106家新高、89家新低；S&amp;P 500有18家新高、0家新低。<a href="https://www.reuters.com/business/us-stock-futures-steady-after-tech-slump-investors-focus-middle-east-tensions-2026-08-19/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
-<p>全天成交 <strong>169.2亿股</strong>，基本贴着过去20日均量169.6亿股。这场反弹有正常量，宽度也在。<a href="https://www.reuters.com/business/us-stock-futures-steady-after-tech-slump-investors-focus-middle-east-tensions-2026-08-19/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
-<p>可QQQ还是跌，SOXX又跌2.2%。所以今天指数修复主要靠医疗、消费、小盘、材料和部分软件，AI硬件没有一起回来。</p>
-<h2>2. 盘中走势复盘</h2>
-<p>盘前零售财报还可以。Target季度营收 <strong>265.4亿美元，+5.3%</strong>，同店销售增长 <strong>3.8%</strong>，客流增长3.6%，公司把全年销售增长预期从约4%提高到约5%。利润受接近10亿美元关税退款帮助很大，所以EPS大幅beat的参考价值要打一点折扣。<a href="https://www.reuters.com/business/retail-consumer/target-lifts-annual-forecasts-again-fiddelkes-turnaround-takes-root-2026-08-19/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters+1</a></p>
-<p>Lowe's也出了财报。调整EPS <strong>4.27美元</strong>，高于4.22美元预期；收入259.6亿美元，低于261.6亿美元预期；同店销售只增长0.2%，公司还下调了全年同店销售预期。消费者还在修房子，小项目和维修需求能扛，大型装修继续弱。<a href="https://www.reuters.com/business/lowes-cuts-annual-sales-growth-forecast-consumers-curb-high-cost-renovations-2026-08-19/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
-<p>真正改变盘面的消息来自财政部。美国财政部宣布9月9日起，把长端名义国债流动性支持回购的单次规模从最高20亿美元至少翻倍到40亿美元。30年、10年收益率快速回落，美元一起下跌。<a href="https://home.treasury.gov/news/press-releases/sb0607?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">U.S. Department of the Treasury+1</a></p>
-<p>这一下股市先普遍拉高。SPY最高772.46，QQQ最高721.84，IWM最高303.55。后面AI硬件还是有卖盘，Nasdaq把大部分涨幅吐掉。</p>
-<p>下午2点Fed纪要出来。7月会议里三名投票委员已经赞成加25bp，“several”与会者倾向更紧政策，“many”认为通胀如果不继续向2%下降，后面可能仍需加息。市场没怎么砸，因为财政部的债券回购动作当天影响更直接。<a href="https://www.reuters.com/business/fed-policymakers-inflation-concerns-increased-july-meeting-minutes-show-2026-08-19/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters+1</a></p>
-<p>尾盘指数回吐一部分涨幅，S&amp;P和Dow还能收红，QQQ最终收跌。今天的buy the dip有效，可钱买的是更广的市场，AI硬件依旧偏弱。</p>
-<h2>3. 宏观环境</h2>
-<h3>3.1 美债 2Y、10Y、30Y</h3>
-<p>财政部宣布增加长端债券回购以后，长债收益率明显下降。Reuters确认10年和30年收益率都从前一天多年来的高位回落。<a href="https://www.reuters.com/business/us-stock-futures-steady-after-tech-slump-investors-focus-middle-east-tensions-2026-08-19/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters+1</a></p>
-<div><div><div><section><h4>2Y</h4><dl><dt><strong>期限</strong></dt><dd>2Y</dd><dt><strong>最新状态</strong></dt><dd>暂无可靠最终统一值</dd><dt><strong>解读</strong></dt><dd>受Fed路径影响更多</dd></dl></section><hr><section><h4>10Y</h4><dl><dt><strong>期限</strong></dt><dd>10Y</dd><dt><strong>最新状态</strong></dt><dd>从4.7%以上明显回落</dd><dt><strong>解读</strong></dt><dd>财政部买回缓解供给压力</dd></dl></section><hr><section><h4>30Y</h4><dl><dt><strong>期限</strong></dt><dd>30Y</dd><dt><strong>最新状态</strong></dt><dd>从前一天5.3%以上回落</dd><dt><strong>解读</strong></dt><dd>当天最直接受益</dd></dl></section><hr><section><h4>2Y至10Y</h4><dl><dt><strong>期限</strong></dt><dd>2Y至10Y</dd><dt><strong>最新状态</strong></dt><dd>暂无可靠精确值</dd><dt><strong>解读</strong></dt><dd>曲线仍较陡</dd></dl></section><hr><section><h4>10Y至30Y</h4><dl><dt><strong>期限</strong></dt><dd>10Y至30Y</dd><dt><strong>最新状态</strong></dt><dd>暂无可靠精确值</dd><dt><strong>解读</strong></dt><dd>长端期限溢价仍高</dd></dl></section><hr></div></div></div>
-<p>精确的8月19日最终2Y、10Y、30Y CMT官方收盘数值，本轮财政部页面检索没有稳定返回对应表格，所以这里不拿盘中数据冒充正式收盘。</p>
-<p>财政部的动作能缓解流动性和技术性卖压，债务总量、财政赤字、AI资本开支融资这些压力还在。今天债市先松一口气，后面能不能持续要看收益率会不会重新往4.7%和5.3%走。</p>
-<h3>3.2 Fed预期</h3>
-<p>CME FedWatch官方工具确认下一次FOMC概率仍按Fed Funds futures推算。当前可靠外部读取显示，9月维持 <strong>3.50%至3.75%</strong> 的概率约 <strong>65.4%至65.7%</strong>，加息25bp约 <strong>34.3%至34.6%</strong>。<a href="https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">芝加哥期货交易所+2Investing.com+2</a></p>
-<div><div><div><section><h4>9月维持利率</h4><dl><dt><strong>情景</strong></dt><dd>9月维持利率</dd><dt><strong>当前</strong></dt><dd>约65%至66%</dd></dl></section><hr><section><h4>9月加息25bp</h4><dl><dt><strong>情景</strong></dt><dd>9月加息25bp</dd><dt><strong>当前</strong></dt><dd>约34%至35%</dd></dl></section><hr><section><h4>较前一日</h4><dl><dt><strong>情景</strong></dt><dd>较前一日</dd><dt><strong>当前</strong></dt><dd>变化不大</dd></dl></section><hr><section><h4>年内降息次数</h4><dl><dt><strong>情景</strong></dt><dd>年内降息次数</dd><dt><strong>当前</strong></dt><dd>暂无可靠数据</dd></dl></section><hr></div></div></div>
-<p>Fed会议纪要本身比期货价格鹰。会议里已有3名委员投票支持加息，而且“many”参与者认为通胀如果不继续下行，收紧政策很可能仍然需要。纪要里没有支持降息的讨论。<a href="https://www.reuters.com/business/fed-policymakers-inflation-concerns-increased-july-meeting-minutes-show-2026-08-19/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
-<p>这个地方很有意思。市场现在押9月先不动，Fed内部对后面加息的讨论其实挺认真。</p>
-<h3>3.3 DXY、黄金、原油、BTC、ETH</h3>
-<div><div><div><section><h4>DXY</h4><dl><dt><strong>资产</strong></dt><dd>DXY</dd><dt><strong>最新</strong></dt><dd>约98.7区域</dd><dt><strong>当日</strong></dt><dd>明显下跌</dd></dl></section><hr><section><h4>现货黄金</h4><dl><dt><strong>资产</strong></dt><dd>现货黄金</dd><dt><strong>最新</strong></dt><dd>$4,487.91</dd><dt><strong>当日</strong></dt><dd>+3.6%</dd></dl></section><hr><section><h4>黄金期货</h4><dl><dt><strong>资产</strong></dt><dd>黄金期货</dd><dt><strong>最新</strong></dt><dd>$4,545.30</dd><dt><strong>当日</strong></dt><dd>+2.8%</dd></dl></section><hr><section><h4>WTI</h4><dl><dt><strong>资产</strong></dt><dd>WTI</dd><dt><strong>最新</strong></dt><dd>约84.4美元</dd><dt><strong>当日</strong></dt><dd>小幅波动</dd></dl></section><hr><section><h4>Brent</h4><dl><dt><strong>资产</strong></dt><dd>Brent</dd><dt><strong>最新</strong></dt><dd>约91.6美元区域</dd><dt><strong>当日</strong></dt><dd>高位</dd></dl></section><hr><section><h4>Bitcoin</h4><dl><dt><strong>资产</strong></dt><dd>Bitcoin</dd><dt><strong>最新</strong></dt><dd>$69,143</dd><dt><strong>当日</strong></dt><dd>+7.10%</dd></dl></section><hr><section><h4>Ethereum</h4><dl><dt><strong>资产</strong></dt><dd>Ethereum</dd><dt><strong>最新</strong></dt><dd>$1,624.95</dd><dt><strong>当日</strong></dt><dd>涨跌幅暂无可靠数据</dd></dl></section><hr></div></div></div>
-<p><a href="https://www.reuters.com/world/india/gold-inches-higher-focus-fed-minutes-2026-08-19/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters+1</a></p>
-<p>黄金这场很狠，现货一天涨3.6%，最高4,499.20美元，直接突破100日线。财政部扩大买回，长债收益率下降，美元也弱，黄金三个条件一起吃到。<a href="https://www.reuters.com/world/india/gold-inches-higher-focus-fed-minutes-2026-08-19/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
-<p>Bitcoin一天涨7.1%，又回到69,000美元附近。今天risk-on更明显地出现在小盘、加密和部分成长股。</p>
-<p>油价还卡在91美元上下。这个地方仍然限制Fed彻底转鸽。</p>
-<h3>3.4 当日美国重要经济数据</h3>
-<p>没有CPI、PPI、非农这种一级宏观数据。</p>
-<p>今天宏观交易主要由三件事推动：</p>
-<p>财政部扩大长债回购。<a href="https://home.treasury.gov/news/press-releases/sb0607?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">U.S. Department of the Treasury</a></p>
-<p>Fed公布7月会议纪要。<a href="https://www.federalreserve.gov/newsevents/pressreleases/monetary20260819a.htm?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">联邦储备系统+1</a></p>
-<p>零售公司Target、Lowe's给出新的消费信号。<a href="https://www.reuters.com/business/retail-consumer/target-lifts-annual-forecasts-again-fiddelkes-turnaround-takes-root-2026-08-19/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters+1</a></p>
-<p>Target强，Lowe's偏混合。结合前几天零售销售-0.6%，美国消费现在更像分化，没有直接塌。</p>
-<h2>4. 板块表现</h2>
-<p>近5日、近1月完整统一收益率无法从同一可靠公开源稳定取得，对应栏标记“暂无可靠数据”。</p>
-<div><div><div><section><h4>医疗</h4><dl><dt><strong>板块</strong></dt><dd>医疗</dd><dt><strong>ETF</strong></dt><dd>XLV</dd><dt><strong>当日</strong></dt><dd>+3.48%</dd><dt><strong>相对SPY</strong></dt><dd>大幅跑赢</dd><dt><strong>今天在交易什么</strong></dt><dd>Moderna、Merck带动</dd></dl></section><hr><section><h4>可选消费</h4><dl><dt><strong>板块</strong></dt><dd>可选消费</dd><dt><strong>ETF</strong></dt><dd>XLY</dd><dt><strong>当日</strong></dt><dd>+1.92%</dd><dt><strong>相对SPY</strong></dt><dd>大幅跑赢</dd><dt><strong>今天在交易什么</strong></dt><dd>Target、TSLA、AMZN</dd></dl></section><hr><section><h4>材料</h4><dl><dt><strong>板块</strong></dt><dd>材料</dd><dt><strong>ETF</strong></dt><dd>XLB</dd><dt><strong>当日</strong></dt><dd>+1.41%</dd><dt><strong>相对SPY</strong></dt><dd>跑赢</dd><dt><strong>今天在交易什么</strong></dt><dd>宽度修复</dd></dl></section><hr><section><h4>必需消费</h4><dl><dt><strong>板块</strong></dt><dd>必需消费</dd><dt><strong>ETF</strong></dt><dd>XLP</dd><dt><strong>当日</strong></dt><dd>+1.10%</dd><dt><strong>相对SPY</strong></dt><dd>跑赢</dd><dt><strong>今天在交易什么</strong></dt><dd>防御+零售</dd></dl></section><hr><section><h4>房地产</h4><dl><dt><strong>板块</strong></dt><dd>房地产</dd><dt><strong>ETF</strong></dt><dd>XLRE</dd><dt><strong>当日</strong></dt><dd>+0.84%</dd><dt><strong>相对SPY</strong></dt><dd>跑赢</dd><dt><strong>今天在交易什么</strong></dt><dd>长债收益率下降</dd></dl></section><hr><section><h4>通信服务</h4><dl><dt><strong>板块</strong></dt><dd>通信服务</dd><dt><strong>ETF</strong></dt><dd>XLC</dd><dt><strong>当日</strong></dt><dd>+0.77%</dd><dt><strong>相对SPY</strong></dt><dd>跑赢</dd><dt><strong>今天在交易什么</strong></dt><dd>META、GOOGL修复</dd></dl></section><hr><section><h4>公用事业</h4><dl><dt><strong>板块</strong></dt><dd>公用事业</dd><dt><strong>ETF</strong></dt><dd>XLU</dd><dt><strong>当日</strong></dt><dd>+0.01%</dd><dt><strong>相对SPY</strong></dt><dd>接近</dd><dt><strong>今天在交易什么</strong></dt><dd>债息下降但结构平淡</dd></dl></section><hr><section><h4>能源</h4><dl><dt><strong>板块</strong></dt><dd>能源</dd><dt><strong>ETF</strong></dt><dd>XLE</dd><dt><strong>当日</strong></dt><dd>-0.17%</dd><dt><strong>相对SPY</strong></dt><dd>跑输</dd><dt><strong>今天在交易什么</strong></dt><dd>油价高位震荡</dd></dl></section><hr><section><h4>金融</h4><dl><dt><strong>板块</strong></dt><dd>金融</dd><dt><strong>ETF</strong></dt><dd>XLF</dd><dt><strong>当日</strong></dt><dd>-0.62%</dd><dt><strong>相对SPY</strong></dt><dd>跑输</dd><dt><strong>今天在交易什么</strong></dt><dd>收益率下行</dd></dl></section><hr><section><h4>工业</h4><dl><dt><strong>板块</strong></dt><dd>工业</dd><dt><strong>ETF</strong></dt><dd>XLI</dd><dt><strong>当日</strong></dt><dd>-0.89%</dd><dt><strong>相对SPY</strong></dt><dd>跑输</dd><dt><strong>今天在交易什么</strong></dt><dd>AI设备仍卖</dd></dl></section><hr><section><h4>科技</h4><dl><dt><strong>板块</strong></dt><dd>科技</dd><dt><strong>ETF</strong></dt><dd>XLK</dd><dt><strong>当日</strong></dt><dd>-1.13%</dd><dt><strong>相对SPY</strong></dt><dd>最弱</dd><dt><strong>今天在交易什么</strong></dt><dd>半导体拖累</dd></dl></section><hr></div></div></div>
-<p>医疗一天涨3.5%，很大一部分来自Moderna。Moderna公布与Merck合作的个性化mRNA癌症疗法三期数据，显著降低黑色素瘤复发和扩散风险，股价当天暴涨近177%。<a href="https://www.reuters.com/business/us-stock-futures-steady-after-tech-slump-investors-focus-middle-east-tensions-2026-08-19/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
-<p>RSP涨1.05%，SPY只涨0.19%，今天等权明显跑赢权重。</p>
-<p>IWO +0.53%，IWN +0.51%，小盘成长和价值差不多。SCHG +0.60%，VTV +0.28%。这场不是纯价值轮动，市场整体风险偏好确实恢复一点。</p>
-<h2>5. 主题与风格表现</h2>
-<div><div><div><section><h4>SMH</h4><dl><dt><strong>主题</strong></dt><dd>SMH</dd><dt><strong>当日</strong></dt><dd>-1.64%</dd><dt><strong>状态</strong></dt><dd>AI硬件继续弱</dd></dl></section><hr><section><h4>SOXX</h4><dl><dt><strong>主题</strong></dt><dd>SOXX</dd><dt><strong>当日</strong></dt><dd>-2.24%</dd><dt><strong>状态</strong></dt><dd>半导体仍在去拥挤</dd></dl></section><hr><section><h4>IGV</h4><dl><dt><strong>主题</strong></dt><dd>IGV</dd><dt><strong>当日</strong></dt><dd>+0.77%</dd><dt><strong>状态</strong></dt><dd>软件修复</dd></dl></section><hr><section><h4>光通信</h4><dl><dt><strong>主题</strong></dt><dd>光通信</dd><dt><strong>当日</strong></dt><dd>LITE -5.21%，COHR -6.22%，AAOI -6.99%</dd><dt><strong>状态</strong></dt><dd>继续去估值</dd></dl></section><hr><section><h4>AI网络</h4><dl><dt><strong>主题</strong></dt><dd>AI网络</dd><dt><strong>当日</strong></dt><dd>ANET -3.47%</dd><dt><strong>状态</strong></dt><dd>弱</dd></dl></section><hr><section><h4>AI服务器</h4><dl><dt><strong>主题</strong></dt><dd>AI服务器</dd><dt><strong>当日</strong></dt><dd>DELL -6.66%，HPE -4.61%，SMCI -2.23%</dd><dt><strong>状态</strong></dt><dd>明显弱</dd></dl></section><hr><section><h4>AI电力</h4><dl><dt><strong>主题</strong></dt><dd>AI电力</dd><dt><strong>当日</strong></dt><dd>VRT -4.24%，ETN -1.57%，PWR -2.71%，GEV -1.74%</dd><dt><strong>状态</strong></dt><dd>仍在消化</dd></dl></section><hr><section><h4>核电/电力</h4><dl><dt><strong>主题</strong></dt><dd>核电/电力</dd><dt><strong>当日</strong></dt><dd>CEG +2.74%，VST +1.54%，NRG +4.38%</dd><dt><strong>状态</strong></dt><dd>电力本体反弹</dd></dl></section><hr><section><h4>SMR</h4><dl><dt><strong>主题</strong></dt><dd>SMR</dd><dt><strong>当日</strong></dt><dd>+7.52%</dd><dt><strong>状态</strong></dt><dd>高beta反抽</dd></dl></section><hr><section><h4>储能</h4><dl><dt><strong>主题</strong></dt><dd>储能</dd><dt><strong>当日</strong></dt><dd>FLNC +2.64%</dd><dt><strong>状态</strong></dt><dd>超跌反弹</dd></dl></section><hr><section><h4>算力</h4><dl><dt><strong>主题</strong></dt><dd>算力</dd><dt><strong>当日</strong></dt><dd>APLD -0.95%，IREN +2.06%</dd><dt><strong>状态</strong></dt><dd>分化</dd></dl></section><hr><section><h4>RSP</h4><dl><dt><strong>主题</strong></dt><dd>RSP</dd><dt><strong>当日</strong></dt><dd>+1.05%</dd><dt><strong>状态</strong></dt><dd>宽度明显改善</dd></dl></section><hr><section><h4>IWO / IWN</h4><dl><dt><strong>主题</strong></dt><dd>IWO / IWN</dd><dt><strong>当日</strong></dt><dd>+0.53% / +0.51%</dd><dt><strong>状态</strong></dt><dd>小盘参与</dd></dl></section><hr><section><h4>SCHG</h4><dl><dt><strong>主题</strong></dt><dd>SCHG</dd><dt><strong>当日</strong></dt><dd>+0.60%</dd><dt><strong>状态</strong></dt><dd>大盘成长修复</dd></dl></section><hr><section><h4>VTV</h4><dl><dt><strong>主题</strong></dt><dd>VTV</dd><dt><strong>当日</strong></dt><dd>+0.28%</dd><dt><strong>状态</strong></dt><dd>价值也涨</dd></dl></section><hr></div></div></div>
-<p>今天AI里面真正能讲故事的是MRVL。Google与Marvell签了大规模定制AI芯片协议，Google可以通过认股权证最多购买约5,890万股Marvell，执行价206.58美元，潜在价值约122亿美元。合作覆盖TPU相关加速器、存储控制器、网络接口和near-memory计算，期限延伸到2033年。MRVL涨近10%，AVGO跌4.6%。<a href="https://www.marketwatch.com/story/marvells-stock-soars-on-news-of-google-chip-deal-and-broadcoms-falls-c2a7f559?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">MarketWatch+1</a></p>
-<p>这里直接说明 hyperscaler 正在进一步分散ASIC供应链。AVGO的Google业务没有消失，可它以前享受的独占想象空间开始被压。</p>
-<h2>6. 市场宽度与参与度</h2>
-<h3>6.1 高于20/50/100/200日均线比例</h3>
-<p>S&amp;P 500、Nasdaq 100、Nasdaq Composite、NYSE、Russell 2000高于20/50/100/200日均线比例：</p>
-<p><strong>暂无可靠统一数据。</strong></p>
-<p>公开数据源对成分和盘后更新时间差异较大，本期继续不拼。</p>
-<h3>6.2 涨跌家数、新高新低</h3>
-<div><div><div><section><h4>NYSE</h4><dl><dt><strong>市场</strong></dt><dd>NYSE</dd><dt><strong>上涨 / 下跌</strong></dt><dd>暂无绝对数</dd><dt><strong>比例</strong></dt><dd>1.90:1</dd><dt><strong>52周新高</strong></dt><dd>263</dd><dt><strong>新低</strong></dt><dd>93</dd><dt><strong>净新高</strong></dt><dd>+170</dd></dl></section><hr><section><h4>Nasdaq</h4><dl><dt><strong>市场</strong></dt><dd>Nasdaq</dd><dt><strong>上涨 / 下跌</strong></dt><dd>2,855 / 1,967</dd><dt><strong>比例</strong></dt><dd>1.45:1</dd><dt><strong>52周新高</strong></dt><dd>106</dd><dt><strong>新低</strong></dt><dd>89</dd><dt><strong>净新高</strong></dt><dd>+17</dd></dl></section><hr><section><h4>S&amp;P 500</h4><dl><dt><strong>市场</strong></dt><dd>S&amp;P 500</dd><dt><strong>上涨 / 下跌</strong></dt><dd>暂无可靠绝对数</dd><dt><strong>比例</strong></dt><dd>上涨占优</dd><dt><strong>52周新高</strong></dt><dd>18</dd><dt><strong>新低</strong></dt><dd>0</dd><dt><strong>净新高</strong></dt><dd>+18</dd></dl></section><hr></div></div></div>
-<p><a href="https://www.reuters.com/business/us-stock-futures-steady-after-tech-slump-investors-focus-middle-east-tensions-2026-08-19/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
-<p>昨天Nasdaq还是明显风险收缩，今天新高重新超过新低。宽度恢复速度挺快。</p>
-<h3>6.3 其他内部指标</h3>
-<p>A/D Line：方向明显改善，精确值暂无可靠数据。<br>
-McClellan：暂无可靠数据。<br>
-Put/Call：暂无可靠数据。<br>
-VIX term structure：暂无可靠完整数据。<br>
-VVIX：暂无可靠数据。<br>
-MOVE：暂无可靠数据。<br>
-HY Spread：暂无可靠数据。<br>
-IG Spread：暂无可靠数据。</p>
-<p>全市场169.2亿股，20日均值169.6亿股，成交量基本正常。<a href="https://www.reuters.com/business/us-stock-futures-steady-after-tech-slump-investors-focus-middle-east-tensions-2026-08-19/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
-<p>这场修复的宽度比前几天好很多，只是AI硬件仍然没参加。</p>
-<h2>7. 技术面分析</h2>
-<p>20、50、100、200日线、RSI、MACD完整统一可靠值今天仍然没有稳定获得，统一写 <strong>暂无可靠数据</strong>。支撑压力先看真实日内位置。</p>
-<div><div><div><section><h4>SPY</h4><dl><dt><strong>标的</strong></dt><dd>SPY</dd><dt><strong>当前价</strong></dt><dd>769.06</dd><dt><strong>支撑</strong></dt><dd>767.05</dd><dt><strong>压力</strong></dt><dd>772.46</dd><dt><strong>状态</strong></dt><dd>反弹但未收回前高</dd></dl></section><hr><section><h4>QQQ</h4><dl><dt><strong>标的</strong></dt><dd>QQQ</dd><dt><strong>当前价</strong></dt><dd>716.08</dd><dt><strong>支撑</strong></dt><dd>712.69</dd><dt><strong>压力</strong></dt><dd>721.84</dd><dt><strong>状态</strong></dt><dd>仍偏弱</dd></dl></section><hr><section><h4>IWM</h4><dl><dt><strong>标的</strong></dt><dd>IWM</dd><dt><strong>当前价</strong></dt><dd>301.72</dd><dt><strong>支撑</strong></dt><dd>299.83</dd><dt><strong>压力</strong></dt><dd>303.55</dd><dt><strong>状态</strong></dt><dd>300重新守住</dd></dl></section><hr><section><h4>SMH</h4><dl><dt><strong>标的</strong></dt><dd>SMH</dd><dt><strong>当前价</strong></dt><dd>560.92</dd><dt><strong>支撑</strong></dt><dd>556.48</dd><dt><strong>压力</strong></dt><dd>578.20</dd><dt><strong>状态</strong></dt><dd>弱</dd></dl></section><hr><section><h4>SOXX</h4><dl><dt><strong>标的</strong></dt><dd>SOXX</dd><dt><strong>当前价</strong></dt><dd>519.67</dd><dt><strong>支撑</strong></dt><dd>514.66</dd><dt><strong>压力</strong></dt><dd>540.06</dd><dt><strong>状态</strong></dt><dd>破位结构</dd></dl></section><hr><section><h4>IGV</h4><dl><dt><strong>标的</strong></dt><dd>IGV</dd><dt><strong>当前价</strong></dt><dd>102.81</dd><dt><strong>支撑</strong></dt><dd>101.20</dd><dt><strong>压力</strong></dt><dd>103.50</dd><dt><strong>状态</strong></dt><dd>软件修复</dd></dl></section><hr><section><h4>XLK</h4><dl><dt><strong>标的</strong></dt><dd>XLK</dd><dt><strong>当前价</strong></dt><dd>183.64</dd><dt><strong>支撑</strong></dt><dd>182.42</dd><dt><strong>压力</strong></dt><dd>186.85</dd><dt><strong>状态</strong></dt><dd>科技弱</dd></dl></section><hr><section><h4>XLC</h4><dl><dt><strong>标的</strong></dt><dd>XLC</dd><dt><strong>当前价</strong></dt><dd>111.32</dd><dt><strong>支撑</strong></dt><dd>110.25</dd><dt><strong>压力</strong></dt><dd>112.15</dd><dt><strong>状态</strong></dt><dd>修复</dd></dl></section><hr><section><h4>XLY</h4><dl><dt><strong>标的</strong></dt><dd>XLY</dd><dt><strong>当前价</strong></dt><dd>118.59</dd><dt><strong>支撑</strong></dt><dd>116.25</dd><dt><strong>压力</strong></dt><dd>119.06</dd><dt><strong>状态</strong></dt><dd>强</dd></dl></section><hr></div></div></div>
-<p>SOXX的问题最大。昨天最低523，今天又最低514.66，盘中虽然反弹到540，最终只收519.67。这个走势暂时还不能叫止跌。</p>
-<p>QQQ最低712.69，收716。明天如果再回到712以下，700会很快重新进入视野。</p>
-<p>IGV反而重新站回102.8。现在软件相对半导体明显强。</p>
-<h2>8. 重点个股新闻与异动</h2>
-<h3>8.1 七巨头</h3>
-<div><div><div><section><h4>NVDA</h4><dl><dt><strong>股票</strong></dt><dd>NVDA</dd><dt><strong>当日</strong></dt><dd>-1.03%</dd><dt><strong>日内低 / 高</strong></dt><dd>216.83 / 222.29</dd><dt><strong>标签</strong></dt><dd>回踩支撑</dd></dl></section><hr><section><h4>MSFT</h4><dl><dt><strong>股票</strong></dt><dd>MSFT</dd><dt><strong>当日</strong></dt><dd>+0.59%</dd><dt><strong>日内低 / 高</strong></dt><dd>477.00 / 489.18</dd><dt><strong>标签</strong></dt><dd>低位修复</dd></dl></section><hr><section><h4>AAPL</h4><dl><dt><strong>股票</strong></dt><dd>AAPL</dd><dt><strong>当日</strong></dt><dd>+2.21%</dd><dt><strong>日内低 / 高</strong></dt><dd>307.61 / 319.26</dd><dt><strong>标签</strong></dt><dd>继续强势</dd></dl></section><hr><section><h4>GOOGL</h4><dl><dt><strong>股票</strong></dt><dd>GOOGL</dd><dt><strong>当日</strong></dt><dd>+0.16%</dd><dt><strong>日内低 / 高</strong></dt><dd>340.75 / 346.68</dd><dt><strong>标签</strong></dt><dd>高位震荡</dd></dl></section><hr><section><h4>AMZN</h4><dl><dt><strong>股票</strong></dt><dd>AMZN</dd><dt><strong>当日</strong></dt><dd>+2.45%</dd><dt><strong>日内低 / 高</strong></dt><dd>258.67 / 267.00</dd><dt><strong>标签</strong></dt><dd>低位修复</dd></dl></section><hr><section><h4>META</h4><dl><dt><strong>股票</strong></dt><dd>META</dd><dt><strong>当日</strong></dt><dd>+0.43%</dd><dt><strong>日内低 / 高</strong></dt><dd>537.71 / 553.94</dd><dt><strong>标签</strong></dt><dd>低位修复</dd></dl></section><hr><section><h4>TSLA</h4><dl><dt><strong>股票</strong></dt><dd>TSLA</dd><dt><strong>当日</strong></dt><dd>+4.27%</dd><dt><strong>日内低 / 高</strong></dt><dd>335.62 / 351.85</dd><dt><strong>标签</strong></dt><dd>短线过热</dd></dl></section><hr></div></div></div>
-<p>大科技平台比AI硬件舒服。AAPL、AMZN、TSLA涨得挺明显，NVDA还在跌。</p>
-<h3>8.2 AI硬件 / 半导体</h3>
-<p>NVDA -1.03%，AMD -3.64%，AVGO -4.61%，MRVL +9.92%，MU -0.40%，TSM -0.25%，ASML -2.97%，ARM -1.48%，INTC -4.00%，QCOM +1.09%。</p>
-<p>SMCI -2.23%，DELL -6.66%，HPE -4.61%，CLS -2.96%。服务器和ODM链继续被卖。</p>
-<p>LITE -5.21%，COHR -6.22%，AAOI -6.99%，ANET -3.47%，TSEM -5.84%。光通信昨天大跌，今天还没止住。</p>
-<p>SIVE：<strong>暂无可靠数据</strong>。</p>
-<p>MRVL今天完全是事件驱动。Google定制芯片合作和巨额认股权证带来新的收入预期，Broadcom被市场当成潜在份额受损方先砍。<a href="https://www.marketwatch.com/story/marvells-stock-soars-on-news-of-google-chip-deal-and-broadcoms-falls-c2a7f559?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">MarketWatch+1</a></p>
-<h3>8.3 软件 / SaaS / AI应用</h3>
-<p>CRM +5.09%，NOW +6.44%，SNOW -0.18%，ORCL +0.74%，ADBE +3.59%，PANW -3.83%，CRWD -5.33%，PLTR +2.14%，DDOG -5.06%，NET -3.16%。</p>
-<p>软件内部也没那么整齐。CRM、NOW、ADBE明显反弹，安全和高估值observability继续被卖。</p>
-<p>MDB +1.30%，APP +1.21%，TEAM +6.87%，WDAY +4.04%，INTU +3.47%，SHOP基本持平。</p>
-<p>TEAM和NOW这种前几天刚被砍过的SaaS今天反弹很快，软件有明显超跌修复。</p>
-<h3>8.4 AI电力 / 数据中心 / 能源基础设施</h3>
-<p>CEG +2.74%，VST +1.54%，NRG +4.38%，ETN -1.57%，PWR -2.71%，GEV -1.74%，VRT -4.24%，FLNC +2.64%，OKLO +3.89%，SMR +7.52%，APLD -0.95%，IREN +2.06%。</p>
-<p>NEE -0.36%，SO +0.15%，DUK -0.30%，CORZ -0.72%。</p>
-<p>这一条开始分成两块。发电资产CEG、VST、NRG反弹，昂贵的设备和数据中心建设股VRT、PWR、GEV继续调整。</p>
-<h3>8.5 其他新闻与异动</h3>
-<p>Moderna当天近177%的涨幅是市场最大事件之一。与Merck合作的个性化mRNA癌症疫苗在晚期试验中显著降低黑色素瘤复发和扩散风险，Merck也被带动，医疗ETF一天涨3.5%。<a href="https://www.reuters.com/business/us-stock-futures-steady-after-tech-slump-investors-focus-middle-east-tensions-2026-08-19/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
-<p>Target涨4.3%，Lowe's涨约2%。零售消费数据目前没有继续往“全面衰退”走。<a href="https://www.reuters.com/business/us-stock-futures-steady-after-tech-slump-investors-focus-middle-east-tensions-2026-08-19/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
-<h2>9. 财报日历与财报解读</h2>
-<h3>Target</h3>
-<p>Q2收入 <strong>265.4亿美元</strong>，同比+5.3%。</p>
-<p>同店销售 <strong>+3.8%</strong>。</p>
-<p>数字同店销售 +8.7%，当天配送增长超过25%。</p>
-<p>全年销售增长预期由约4%提高到约5%。</p>
-<p>EPS 4.11美元，不过其中约1.65美元来自关税退款影响。<a href="https://www.investors.com/news/target-earnings-q2-tgt-stock/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Investor's Business Daily+1</a></p>
-<p>转型数据挺好，利润数字需要剔掉一次性关税退款再看。</p>
-<h3>Lowe's</h3>
-<p>EPS 4.27美元，高于4.22美元预期。</p>
-<p>收入259.6亿美元，低于261.6亿美元预期。</p>
-<p>同店销售+0.2%，预期+0.8%。</p>
-<p>全年同店销售指引下调至基本持平。<a href="https://www.reuters.com/business/lowes-cuts-annual-sales-growth-forecast-consumers-curb-high-cost-renovations-2026-08-19/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
-<p>美国人还愿意维修房子，大型装修继续缩。</p>
-<h3>Analog Devices</h3>
-<p>ADI Q3收入 <strong>40.2亿美元</strong>。公司给Q4收入指引 <strong>43亿美元，正负1亿美元</strong>，市场预期约40.7亿美元；调整EPS指引 <strong>3.86美元</strong>，预期3.54美元。<a href="https://www.reuters.com/technology/analog-devices-quarterly-forecast-tops-estimates-ai-fueled-chip-demand-2026-08-19/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters+1</a></p>
-<p>AI数据中心和工业需求还可以，可当天市场对半导体整体风险偏好差，ADI财报没有带动整个芯片链。</p>
-<h3>未来1到3个交易日</h3>
-<p>8月20日盘前最重要的是 <strong>Walmart</strong>。公司官方确认6:00 CDT发布财报，7:00召开电话会。<a href="https://corporate.walmart.com/news/2026/08/13/walmart-to-host-second-quarter-earnings-conference-call-august-20-2026?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">沃尔玛企业新闻与领导力</a></p>
-<p>市场预期Q2收入约 <strong>1,868亿美元</strong>，调整EPS约 <strong>0.74美元</strong>，同店销售增长接近4%。<a href="https://www.investopedia.com/here-is-how-much-traders-expect-walmart-stock-to-move-after-earnings-wmt-q2-2026-12057126?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Investopedia+1</a></p>
-<p>同一天还有Deere、Ross Stores等。Walmart最重要，它会告诉市场家庭日常消费到底有没有继续承压。</p>
-<h2>10. 机构观点与资金流</h2>
-<p>今天最大的“资金流”来自财政部。</p>
-<p>9月9日起，10年至20年、20年至30年期限的流动性支持回购，单次最大规模至少翻倍至40亿美元。市场直接把长债买起来，黄金、股票、Bitcoin一起反弹。<a href="https://home.treasury.gov/news/press-releases/sb0607?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">U.S. Department of the Treasury+1</a></p>
-<p>AI层面，Google和Marvell的合作会让机构重新评估ASIC供应链份额。MRVL涨近10%，AVGO跌4.6%，当天市场已经先投票。<a href="https://www.marketwatch.com/story/marvells-stock-soars-on-news-of-google-chip-deal-and-broadcoms-falls-c2a7f559?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">MarketWatch</a></p>
-<p>Fed纪要偏鹰却没有压住股票，说明当天边际资金更关注长债流动性缓和。<a href="https://www.reuters.com/business/fed-policymakers-inflation-concerns-increased-july-meeting-minutes-show-2026-08-19/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters+1</a></p>
-<p>ETF单日净申购、期权大单、大宗交易、完整内部人交易：<strong>暂无可靠数据</strong>。</p>
-<h2>11. 板块轮动判断</h2>
-<p>今天属于：</p>
-<p><strong>超跌反弹 + 宽度扩散 + AI硬件继续去拥挤 + 软件修复 + 医疗领涨。</strong></p>
-<p>钱流入医疗、小盘、等权、AAPL、AMZN、TSLA、CRM、NOW、ADBE、CEG、VST、NRG。</p>
-<p>钱继续流出NVDA、AMD、AVGO、ASML、服务器、光通信、VRT、PWR、GEV。</p>
-<p>AI健康度没有完全恢复。MRVL涨近10%看起来很强，可这是Google协议直接驱动。SOXX仍跌2.2%，NVDA、AMD、AVGO、ASML、Dell一起弱。</p>
-<p>半导体领先度继续下降。</p>
-<p>软件相对好很多，IGV涨0.77%，CRM和NOW大涨。这里更像前几天先跌后的资金回流。</p>
-<p>小盘和等权很好，RSP涨1.05%，IWM涨0.45%。市场宽度修复是真实的。</p>
-<p>防御也强，XLV涨3.5%，XLP涨1.1%。</p>
-<p><strong>现在更像市场整体从前一天risk-off里恢复，AI高估值资产仍然单独处于估值压缩阶段。</strong></p>
-<h2>12. 我的重点关注股观察</h2>
-<p>支撑、压力采用8月19日日内低高，SIVE无可靠行情。</p>
-<div><div><div><section><h4>NVDA</h4><dl><dt><strong>股票</strong></dt><dd>NVDA</dd><dt><strong>当日</strong></dt><dd>-1.03%</dd><dt><strong>支撑</strong></dt><dd>216.83</dd><dt><strong>压力</strong></dt><dd>222.29</dd><dt><strong>标签</strong></dt><dd>回踩支撑</dd></dl></section><hr><section><h4>AMD</h4><dl><dt><strong>股票</strong></dt><dd>AMD</dd><dt><strong>当日</strong></dt><dd>-3.64%</dd><dt><strong>支撑</strong></dt><dd>462.88</dd><dt><strong>压力</strong></dt><dd>489.64</dd><dt><strong>标签</strong></dt><dd>破位风险</dd></dl></section><hr><section><h4>AVGO</h4><dl><dt><strong>股票</strong></dt><dd>AVGO</dd><dt><strong>当日</strong></dt><dd>-4.61%</dd><dt><strong>支撑</strong></dt><dd>357.62</dd><dt><strong>压力</strong></dt><dd>383.00</dd><dt><strong>标签</strong></dt><dd>破位风险</dd></dl></section><hr><section><h4>MRVL</h4><dl><dt><strong>股票</strong></dt><dd>MRVL</dd><dt><strong>当日</strong></dt><dd>+9.92%</dd><dt><strong>支撑</strong></dt><dd>210.28</dd><dt><strong>压力</strong></dt><dd>246.90</dd><dt><strong>标签</strong></dt><dd>短线过热</dd></dl></section><hr><section><h4>GOOGL</h4><dl><dt><strong>股票</strong></dt><dd>GOOGL</dd><dt><strong>当日</strong></dt><dd>+0.16%</dd><dt><strong>支撑</strong></dt><dd>340.75</dd><dt><strong>压力</strong></dt><dd>346.68</dd><dt><strong>标签</strong></dt><dd>高位震荡</dd></dl></section><hr><section><h4>MSFT</h4><dl><dt><strong>股票</strong></dt><dd>MSFT</dd><dt><strong>当日</strong></dt><dd>+0.59%</dd><dt><strong>支撑</strong></dt><dd>477.00</dd><dt><strong>压力</strong></dt><dd>489.18</dd><dt><strong>标签</strong></dt><dd>低位修复</dd></dl></section><hr><section><h4>META</h4><dl><dt><strong>股票</strong></dt><dd>META</dd><dt><strong>当日</strong></dt><dd>+0.43%</dd><dt><strong>支撑</strong></dt><dd>537.71</dd><dt><strong>压力</strong></dt><dd>553.94</dd><dt><strong>标签</strong></dt><dd>低位修复</dd></dl></section><hr><section><h4>AMZN</h4><dl><dt><strong>股票</strong></dt><dd>AMZN</dd><dt><strong>当日</strong></dt><dd>+2.45%</dd><dt><strong>支撑</strong></dt><dd>258.67</dd><dt><strong>压力</strong></dt><dd>267.00</dd><dt><strong>标签</strong></dt><dd>低位修复</dd></dl></section><hr><section><h4>ORCL</h4><dl><dt><strong>股票</strong></dt><dd>ORCL</dd><dt><strong>当日</strong></dt><dd>+0.74%</dd><dt><strong>支撑</strong></dt><dd>137.50</dd><dt><strong>压力</strong></dt><dd>146.06</dd><dt><strong>标签</strong></dt><dd>低位修复</dd></dl></section><hr><section><h4>CRM</h4><dl><dt><strong>股票</strong></dt><dd>CRM</dd><dt><strong>当日</strong></dt><dd>+5.09%</dd><dt><strong>支撑</strong></dt><dd>193.14</dd><dt><strong>压力</strong></dt><dd>207.90</dd><dt><strong>标签</strong></dt><dd>低位修复</dd></dl></section><hr><section><h4>NOW</h4><dl><dt><strong>股票</strong></dt><dd>NOW</dd><dt><strong>当日</strong></dt><dd>+6.44%</dd><dt><strong>支撑</strong></dt><dd>117.00</dd><dt><strong>压力</strong></dt><dd>129.58</dd><dt><strong>标签</strong></dt><dd>低位修复</dd></dl></section><hr><section><h4>SNOW</h4><dl><dt><strong>股票</strong></dt><dd>SNOW</dd><dt><strong>当日</strong></dt><dd>-0.18%</dd><dt><strong>支撑</strong></dt><dd>316.45</dd><dt><strong>压力</strong></dt><dd>325.92</dd><dt><strong>标签</strong></dt><dd>高位震荡</dd></dl></section><hr><section><h4>ADBE</h4><dl><dt><strong>股票</strong></dt><dd>ADBE</dd><dt><strong>当日</strong></dt><dd>+3.59%</dd><dt><strong>支撑</strong></dt><dd>258.50</dd><dt><strong>压力</strong></dt><dd>275.77</dd><dt><strong>标签</strong></dt><dd>低位修复</dd></dl></section><hr><section><h4>PANW</h4><dl><dt><strong>股票</strong></dt><dd>PANW</dd><dt><strong>当日</strong></dt><dd>-3.83%</dd><dt><strong>支撑</strong></dt><dd>351.50</dd><dt><strong>压力</strong></dt><dd>375.47</dd><dt><strong>标签</strong></dt><dd>破位风险</dd></dl></section><hr><section><h4>CRWD</h4><dl><dt><strong>股票</strong></dt><dd>CRWD</dd><dt><strong>当日</strong></dt><dd>-5.33%</dd><dt><strong>支撑</strong></dt><dd>197.37</dd><dt><strong>压力</strong></dt><dd>213.60</dd><dt><strong>标签</strong></dt><dd>破位风险</dd></dl></section><hr><section><h4>PLTR</h4><dl><dt><strong>股票</strong></dt><dd>PLTR</dd><dt><strong>当日</strong></dt><dd>+2.14%</dd><dt><strong>支撑</strong></dt><dd>169.39</dd><dt><strong>压力</strong></dt><dd>176.75</dd><dt><strong>标签</strong></dt><dd>短线过热</dd></dl></section><hr><section><h4>DDOG</h4><dl><dt><strong>股票</strong></dt><dd>DDOG</dd><dt><strong>当日</strong></dt><dd>-5.06%</dd><dt><strong>支撑</strong></dt><dd>232.51</dd><dt><strong>压力</strong></dt><dd>246.14</dd><dt><strong>标签</strong></dt><dd>破位风险</dd></dl></section><hr><section><h4>NET</h4><dl><dt><strong>股票</strong></dt><dd>NET</dd><dt><strong>当日</strong></dt><dd>-3.16%</dd><dt><strong>支撑</strong></dt><dd>285.80</dd><dt><strong>压力</strong></dt><dd>302.34</dd><dt><strong>标签</strong></dt><dd>破位风险</dd></dl></section><hr><section><h4>LITE</h4><dl><dt><strong>股票</strong></dt><dd>LITE</dd><dt><strong>当日</strong></dt><dd>-5.21%</dd><dt><strong>支撑</strong></dt><dd>821.28</dd><dt><strong>压力</strong></dt><dd>909.01</dd><dt><strong>标签</strong></dt><dd>利好兑现</dd></dl></section><hr><section><h4>COHR</h4><dl><dt><strong>股票</strong></dt><dd>COHR</dd><dt><strong>当日</strong></dt><dd>-6.22%</dd><dt><strong>支撑</strong></dt><dd>284.77</dd><dt><strong>压力</strong></dt><dd>313.75</dd><dt><strong>标签</strong></dt><dd>破位风险</dd></dl></section><hr><section><h4>AAOI</h4><dl><dt><strong>股票</strong></dt><dd>AAOI</dd><dt><strong>当日</strong></dt><dd>-6.99%</dd><dt><strong>支撑</strong></dt><dd>121.57</dd><dt><strong>压力</strong></dt><dd>140.97</dd><dt><strong>标签</strong></dt><dd>破位风险</dd></dl></section><hr><section><h4>TSEM</h4><dl><dt><strong>股票</strong></dt><dd>TSEM</dd><dt><strong>当日</strong></dt><dd>-5.84%</dd><dt><strong>支撑</strong></dt><dd>225.25</dd><dt><strong>压力</strong></dt><dd>246.62</dd><dt><strong>标签</strong></dt><dd>破位风险</dd></dl></section><hr><section><h4>SIVE</h4><dl><dt><strong>股票</strong></dt><dd>SIVE</dd><dt><strong>当日</strong></dt><dd>暂无可靠数据</dd><dt><strong>支撑</strong></dt><dd>暂无可靠数据</dd><dt><strong>压力</strong></dt><dd>暂无可靠数据</dd><dt><strong>标签</strong></dt><dd>需要观察</dd></dl></section><hr><section><h4>ANET</h4><dl><dt><strong>股票</strong></dt><dd>ANET</dd><dt><strong>当日</strong></dt><dd>-3.47%</dd><dt><strong>支撑</strong></dt><dd>184.61</dd><dt><strong>压力</strong></dt><dd>196.26</dd><dt><strong>标签</strong></dt><dd>破位风险</dd></dl></section><hr><section><h4>FLNC</h4><dl><dt><strong>股票</strong></dt><dd>FLNC</dd><dt><strong>当日</strong></dt><dd>+2.64%</dd><dt><strong>支撑</strong></dt><dd>11.56</dd><dt><strong>压力</strong></dt><dd>12.15</dd><dt><strong>标签</strong></dt><dd>低位修复</dd></dl></section><hr><section><h4>OKLO</h4><dl><dt><strong>股票</strong></dt><dd>OKLO</dd><dt><strong>当日</strong></dt><dd>+3.89%</dd><dt><strong>支撑</strong></dt><dd>40.33</dd><dt><strong>压力</strong></dt><dd>43.47</dd><dt><strong>标签</strong></dt><dd>低位修复</dd></dl></section><hr><section><h4>VST</h4><dl><dt><strong>股票</strong></dt><dd>VST</dd><dt><strong>当日</strong></dt><dd>+1.54%</dd><dt><strong>支撑</strong></dt><dd>138.15</dd><dt><strong>压力</strong></dt><dd>142.73</dd><dt><strong>标签</strong></dt><dd>低位修复</dd></dl></section><hr><section><h4>CEG</h4><dl><dt><strong>股票</strong></dt><dd>CEG</dd><dt><strong>当日</strong></dt><dd>+2.74%</dd><dt><strong>支撑</strong></dt><dd>267.09</dd><dt><strong>压力</strong></dt><dd>274.94</dd><dt><strong>标签</strong></dt><dd>低位修复</dd></dl></section><hr><section><h4>ETN</h4><dl><dt><strong>股票</strong></dt><dd>ETN</dd><dt><strong>当日</strong></dt><dd>-1.57%</dd><dt><strong>支撑</strong></dt><dd>417.55</dd><dt><strong>压力</strong></dt><dd>436.40</dd><dt><strong>标签</strong></dt><dd>破位风险</dd></dl></section><hr><section><h4>VRT</h4><dl><dt><strong>股票</strong></dt><dd>VRT</dd><dt><strong>当日</strong></dt><dd>-4.24%</dd><dt><strong>支撑</strong></dt><dd>256.22</dd><dt><strong>压力</strong></dt><dd>277.57</dd><dt><strong>标签</strong></dt><dd>破位风险</dd></dl></section><hr><section><h4>PWR</h4><dl><dt><strong>股票</strong></dt><dd>PWR</dd><dt><strong>当日</strong></dt><dd>-2.71%</dd><dt><strong>支撑</strong></dt><dd>658.95</dd><dt><strong>压力</strong></dt><dd>704.00</dd><dt><strong>标签</strong></dt><dd>回踩支撑</dd></dl></section><hr><section><h4>GEV</h4><dl><dt><strong>股票</strong></dt><dd>GEV</dd><dt><strong>当日</strong></dt><dd>-1.74%</dd><dt><strong>支撑</strong></dt><dd>964.00</dd><dt><strong>压力</strong></dt><dd>1,017.00</dd><dt><strong>标签</strong></dt><dd>回踩支撑</dd></dl></section><hr><section><h4>APLD</h4><dl><dt><strong>股票</strong></dt><dd>APLD</dd><dt><strong>当日</strong></dt><dd>-0.95%</dd><dt><strong>支撑</strong></dt><dd>26.66</dd><dt><strong>压力</strong></dt><dd>28.87</dd><dt><strong>标签</strong></dt><dd>高位震荡</dd></dl></section><hr><section><h4>IREN</h4><dl><dt><strong>股票</strong></dt><dd>IREN</dd><dt><strong>当日</strong></dt><dd>+2.06%</dd><dt><strong>支撑</strong></dt><dd>39.50</dd><dt><strong>压力</strong></dt><dd>43.50</dd><dt><strong>标签</strong></dt><dd>低位修复</dd></dl></section><hr></div></div></div>
-<h2>13. 明日交易计划 / 观察清单</h2>
-<p>Walmart盘前先看。Target今天不错，Lowe's有点混合，Walmart会把美国消费这件事说得更清楚。公司6:00 CDT公布结果。市场等收入约1,868亿美元、EPS 0.74美元。<a href="https://corporate.walmart.com/news/2026/08/13/walmart-to-host-second-quarter-earnings-conference-call-august-20-2026?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">沃尔玛企业新闻与领导力+1</a></p>
-<p>指数先看：</p>
-<p>SPY <strong>767支撑，772.5压力</strong>。<br>
-QQQ <strong>712.7支撑，721.8压力</strong>。<br>
-IWM <strong>299.8支撑，303.6压力</strong>。<br>
-SOXX <strong>514.7支撑，540压力</strong>。<br>
-SMH <strong>556.5支撑，578.2压力</strong>。<br>
-IGV <strong>101.2支撑，103.5压力</strong>。</p>
-<p>明天值得盯这些：</p>
-<ol>
-<li>
-<p><strong>SOXX</strong>。今天最低514.7，反弹又收不住。收不回530至540，AI硬件仍然弱。</p>
-</li>
-<li>
-<p><strong>NVDA</strong>。216.8已经比昨天218.7又低一截。</p>
-</li>
-<li>
-<p><strong>AMD</strong>。462.9支撑。</p>
-</li>
-<li>
-<p><strong>AVGO</strong>。357.6非常关键，Google和MRVL合作带来的份额担忧还会继续交易。</p>
-</li>
-<li>
-<p><strong>MRVL</strong>。一天涨近10%，246.9压力，追高我会犹豫。</p>
-</li>
-<li>
-<p><strong>MU</strong>。915至916支撑，memory有没有真正止跌。</p>
-</li>
-<li>
-<p><strong>ASML</strong>。今天跌3%，设备链仍弱。</p>
-</li>
-<li>
-<p><strong>DELL</strong>。跌6.7%，AI服务器估值继续被压。</p>
-</li>
-<li>
-<p><strong>LITE</strong>。821支撑。</p>
-</li>
-<li>
-<p><strong>COHR</strong>。285支撑。</p>
-</li>
-<li>
-<p><strong>AAOI</strong>。122附近。</p>
-</li>
-<li>
-<p><strong>ANET</strong>。185附近。</p>
-</li>
-<li>
-<p><strong>CRM</strong>。今天涨5.1%，207.9突破看软件延续。</p>
-</li>
-<li>
-<p><strong>NOW</strong>。129.6压力。</p>
-</li>
-<li>
-<p><strong>CRWD</strong>。197支撑。</p>
-</li>
-<li>
-<p><strong>DDOG</strong>。232.5支撑。</p>
-</li>
-<li>
-<p><strong>CEG</strong>。274.9压力。</p>
-</li>
-<li>
-<p><strong>VRT</strong>。256支撑。</p>
-</li>
-<li>
-<p><strong>PWR</strong>。659支撑。</p>
-</li>
-<li>
-<p><strong>WMT</strong>。明天消费链最重要的单股。</p>
-</li>
-</ol>
-<p>财政部今天把债息压下来以后，明天如果10年和30年收益率又快速弹回前高，我会把今天的risk-on修复看得更谨慎。</p>
-<h2>14. 风险提示</h2>
-<div><div><div><section><h4>长端利率</h4><dl><dt><strong>风险</strong></dt><dd>长端利率</dd><dt><strong>当前情况</strong></dt><dd>财政部回购暂时压低收益率</dd><dt><strong>等级</strong></dt><dd>中高</dd></dl></section><hr><section><h4>Fed</h4><dl><dt><strong>风险</strong></dt><dd>Fed</dd><dt><strong>当前情况</strong></dt><dd>9月加息概率约34%至35%</dd><dt><strong>等级</strong></dt><dd>中</dd></dl></section><hr><section><h4>Fed内部</h4><dl><dt><strong>风险</strong></dt><dd>Fed内部</dd><dt><strong>当前情况</strong></dt><dd>多名官员仍倾向收紧</dd><dt><strong>等级</strong></dt><dd>中高</dd></dl></section><hr><section><h4>AI硬件</h4><dl><dt><strong>风险</strong></dt><dd>AI硬件</dd><dt><strong>当前情况</strong></dt><dd>SOXX再跌2.2%</dd><dt><strong>等级</strong></dt><dd>高</dd></dl></section><hr><section><h4>AVGO</h4><dl><dt><strong>风险</strong></dt><dd>AVGO</dd><dt><strong>当前情况</strong></dt><dd>Google供应链份额担忧</dd><dt><strong>等级</strong></dt><dd>高</dd></dl></section><hr><section><h4>光通信</h4><dl><dt><strong>风险</strong></dt><dd>光通信</dd><dt><strong>当前情况</strong></dt><dd>连续第二天大跌</dd><dt><strong>等级</strong></dt><dd>高</dd></dl></section><hr><section><h4>AI服务器</h4><dl><dt><strong>风险</strong></dt><dd>AI服务器</dd><dt><strong>当前情况</strong></dt><dd>DELL -6.7%，HPE -4.6%</dd><dt><strong>等级</strong></dt><dd>高</dd></dl></section><hr><section><h4>AI电力设备</h4><dl><dt><strong>风险</strong></dt><dd>AI电力设备</dd><dt><strong>当前情况</strong></dt><dd>VRT、PWR、GEV仍弱</dd><dt><strong>等级</strong></dt><dd>中高</dd></dl></section><hr><section><h4>宽度</h4><dl><dt><strong>风险</strong></dt><dd>宽度</dd><dt><strong>当前情况</strong></dt><dd>NYSE 1.9:1上涨占优</dd><dt><strong>等级</strong></dt><dd>中低</dd></dl></section><hr><section><h4>油价</h4><dl><dt><strong>风险</strong></dt><dd>油价</dd><dt><strong>当前情况</strong></dt><dd>Brent约91美元</dd><dt><strong>等级</strong></dt><dd>高</dd></dl></section><hr><section><h4>地缘</h4><dl><dt><strong>风险</strong></dt><dd>地缘</dd><dt><strong>当前情况</strong></dt><dd>霍尔木兹状态仍有争议</dd><dt><strong>等级</strong></dt><dd>高</dd></dl></section><hr><section><h4>流动性</h4><dl><dt><strong>风险</strong></dt><dd>流动性</dd><dt><strong>当前情况</strong></dt><dd>成交接近20日均量</dd><dt><strong>等级</strong></dt><dd>中</dd></dl></section><hr></div></div></div>
-<h2>15. 最终结论</h2>
-<p>S&amp;P涨0.21%，Dow涨0.22%，Nasdaq涨0.16%，Russell 2000涨约0.5%。前一天risk-off以后，今天市场确实有一次比较像样的修复。NYSE上涨家数是下跌家数1.9倍，RSP涨1.05%，医疗涨3.5%，小盘也涨。<a href="https://www.reuters.com/business/us-stock-futures-steady-after-tech-slump-investors-focus-middle-east-tensions-2026-08-19/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
-<p>财政部是今天真正的大变量。9月9日起长端国债回购规模至少翻倍，收益率马上下降，美元下跌，黄金涨3.6%，Bitcoin涨7.1%。<a href="https://home.treasury.gov/news/press-releases/sb0607?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">U.S. Department of the Treasury+1</a></p>
-<p>Fed纪要其实挺鹰。三名委员已经投票赞成加息，“many”官员认为通胀如果不继续下降，后面还得收紧。市场现在依旧给9月维持利率大约三分之二概率。<a href="https://www.reuters.com/business/fed-policymakers-inflation-concerns-increased-july-meeting-minutes-show-2026-08-19/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters+1</a></p>
-<p>AI的问题还没有解决。SOXX今天又跌2.24%，NVDA跌1%，AMD跌3.6%，AVGO跌4.6%，ASML跌3%，Dell跌6.7%，光通信继续跌5%至7%。前一天那场AI去拥挤今天还在继续。</p>
-<p>MRVL涨10%是个例外，也挺有意义。Google开始把更多定制AI芯片业务分给Marvell，Broadcom的独占溢价被压了一点。AI资本开支没停，供应链内部的赢家可能正在换。<a href="https://www.marketwatch.com/story/marvells-stock-soars-on-news-of-google-chip-deal-and-broadcoms-falls-c2a7f559?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">MarketWatch+1</a></p>
-<p>软件相对舒服。CRM、NOW、ADBE、TEAM、WDAY都出现明显反弹。资金开始从已经挤得很满的AI硬件往此前被砍过的软件和更广的市场找机会。</p>
-<p><strong>当前市场阶段：大盘进入超跌修复，宽度恢复，AI硬件仍处在估值压缩和去拥挤阶段，软件、小盘、医疗开始接钱。</strong></p>
-<p>操作倾向我会从昨天的明显谨慎，稍微往中性偏多挪一点，但AI硬件还不会急着全面抄底。SOXX先收回530，再看540；NVDA先守216至217；AVGO先看357；长债收益率别重新快速冲高。这几个条件多满足一些，再加AI仓位会舒服很多。</p>
-<p>最值得关注的5个信号：</p>
-<ol>
-<li>
-<p><strong>SOXX能不能从519重新收回530至540。</strong></p>
-</li>
-<li>
-<p><strong>财政部扩大回购以后，10年和30年收益率能不能持续下降，还是一两天后又回到前高。</strong></p>
-</li>
-<li>
-<p><strong>AVGO的357美元能不能守住，Google和Marvell合作会不会继续重估ASIC供应链。</strong></p>
-</li>
-<li>
-<p><strong>CRM、NOW、TEAM这批软件能不能连续第二天走强。如果可以，资金从AI硬件往软件的轮动会更可信。</strong></p>
-</li>
-<li>
-<p><strong>Walmart财报能不能确认Target的消费修复，还是更接近Lowe's那种“消费者仍然很谨慎”的状态。</strong></p>
-</li>
-</ol>
-<p>三个值得继续想的问题：</p>
-<ol>
-<li>
-<p><strong>财政部通过扩大长端国债回购把收益率暂时压下来。如果AI hyperscaler继续大规模发债，财政部自己又需要巨额融资，这种缓解能持续多久？</strong></p>
-</li>
-<li>
-<p><strong>Google把更多定制芯片合作交给Marvell，Broadcom一天跌4.6%。未来AI ASIC市场会不会从AVGO高度集中的格局，变成MRVL、AVGO和hyperscaler自研多家分食？</strong></p>
-</li>
-<li>
-<p><strong>这轮AI硬件跌了几天以后，市场宽度反而恢复，小盘、医疗、软件开始涨。如果这种结构持续，美股可能还有指数行情，但AI主线本身会不会进入几个月的估值消化期？</strong></p>
-</li>
-</ol>
-<div><div><div><div><div><div><a href="https://www.reuters.com/business/us-stock-futures-steady-after-tech-slump-investors-focus-middle-east-tensions-2026-08-19/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener"><div><div>Reuters</div><div>Wall St rises as yields ease, Moderna lifts healthcare stocks</div><div>今天</div></div></a></div></div></div><div><div><div><a href="https://www.reuters.com/business/fed-policymakers-inflation-concerns-increased-july-meeting-minutes-show-2026-08-19/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener"><div><div>Reuters</div><div>Fed policymakers' inflation concerns increased at July meeting, minutes show</div><div>今天</div></div></a></div></div></div><div><div><div><a href="https://home.treasury.gov/news/press-releases/sb0607?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener"><div><div>U.S. Department of the Treasury</div><div>Treasury Announces Increased Sizes of Nominal Long- ...</div></div></a></div></div></div><div><div><div><a href="https://www.reuters.com/business/retail-consumer/target-lifts-annual-forecasts-again-fiddelkes-turnaround-takes-root-2026-08-19/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener"><div><div>Reuters</div><div>Target lifts annual forecasts again as Fiddelke's turnaround ...</div><div>今天</div></div></a></div></div></div><div><div><div><a href="https://www.reuters.com/technology/analog-devices-quarterly-forecast-tops-estimates-ai-fueled-chip-demand-2026-08-19/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener"><div><div>Reuters</div><div>Analog Devices' quarterly forecast tops estimates on AI- ...</div><div>今天</div></div></a></div></div></div></div></div></div></div></div>]]></content:encoded></item></channel></rss>
+</ol></div></div>]]></content:encoded></item></channel></rss>
