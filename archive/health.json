@@ -1,12 +1,17 @@
 {
-  "status": "ok",
-  "checkedAt": "2026-09-04T22:40:26.879Z",
-  "lastSuccessfulAt": "2026-09-04T22:40:26.879Z",
+  "status": "degraded",
+  "checkedAt": "2026-09-05T22:40:48.661Z",
+  "lastSuccessfulAt": "2026-09-05T22:40:48.661Z",
   "successfulTasks": [
-    "daily-photo",
     "daily-brief",
     "us-close",
     "ai-turning-point"
   ],
-  "failedTasks": []
+  "failedTasks": [
+    {
+      "id": "daily-photo",
+      "title": "每日新闻摄影精选",
+      "reason": "page.waitForSelector: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('[data-message-author-role=\"assistant\"]') to be visible\n"
+    }
+  ]
 }
