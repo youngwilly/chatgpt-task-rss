@@ -1,4 +1,335 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>ChatGPT 计划任务合集</title><link>https://youngwilly.github.io/chatgpt-task-rss</link><atom:link href="https://youngwilly.github.io/chatgpt-task-rss/rss.xml" rel="self" type="application/rss+xml"/><description>ChatGPT 计划任务原文订阅</description><language>zh-cn</language><lastBuildDate>Sat, 05 Sep 2026 22:40:46 GMT</lastBuildDate><ttl>10</ttl><generator>ChatGPT Task RSS</generator><item><title>美股收盘日报｜2026-09-04</title><link>https://youngwilly.github.io/chatgpt-task-rss/#us-close-2026-09-05T22-40-46Z</link><guid isPermaLink="false">581fb52258dc2e3b74402018cb8263ba879de4e4b4c639651587759af30652d8</guid><pubDate>Sat, 05 Sep 2026 22:40:46 GMT</pubDate><category>美股收盘日报</category><description>美股收盘日报｜2026-09-04 S&amp;P 500 收 7,718.41，跌0.38%；Dow 收 53,413.60，跌0.51%；Nasdaq Composite 收 26,506.99，跌0.29%；Russell 2000 逆势涨约 0.2%。8月非农增加 16.2万人，市场只预期约5.6万人，Fed 9月加息概率重新抬到约58%至65%的区间，2年期升到约4.37%，10年期约4.77%。Reuters+2Reuters+2 可股票内部挺有意思。SOX涨约3%，Micron涨 6.1%，NVDA涨 0.84%，AMD涨约 3.4%，Broadcom也守住红盘；软件板块却跌约2%。强非农和4.77%的10年期都没把半导体打下来，这场参考价值挺高。Investopedia+2雅虎财经+2 还有一件收盘以后发生的事要单独提醒。9月5日美国和伊朗再次互相攻击船只和油轮，Brent最新升到约 96.28美元。这没有计入周五美股收</description><content:encoded><![CDATA[<div><div><h1>美股收盘日报｜2026-09-04</h1>
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>ChatGPT 计划任务合集</title><link>https://youngwilly.github.io/chatgpt-task-rss</link><atom:link href="https://youngwilly.github.io/chatgpt-task-rss/rss.xml" rel="self" type="application/rss+xml"/><description>ChatGPT 计划任务原文订阅</description><language>zh-cn</language><lastBuildDate>Sun, 06 Sep 2026 14:10:55 GMT</lastBuildDate><ttl>10</ttl><generator>ChatGPT Task RSS</generator><item><title>AI Turning Point Scan｜AI产业投资转折点报告</title><link>https://youngwilly.github.io/chatgpt-task-rss/#ai-turning-point-2026-09-06T14-10-55Z</link><guid isPermaLink="false">c68f164472da89514817c533f3c060f369f039a835cf6b6deec17cd5885059e5</guid><pubDate>Sun, 06 Sep 2026 14:10:55 GMT</pubDate><category>AI Turning Point Scan</category><description>AI产业投资转折点报告 2026年9月6日 9月2日 Broadcom 把2027财年AI芯片收入预期从此前超过1000亿美元提高到约 1150亿美元，2028财年直接给到约 2300亿美元。刚公布的Q3 AI半导体收入167亿美元，同比增长221%，环比增长54%，Q4又指向217亿美元，同比增长236%。Broadcom Inc.+1 这个数字很大。一个季度前市场还在担心Custom ASIC会不会只是几个Hyperscaler的补充路线，现在Broadcom自己已经在告诉市场，2027到2028年AI收入还要接近翻倍。 同时另一件事开始变得更清楚。Vertiv Holdings 9月2日花14.5亿美元现金收购Utility Innovation Group，达到业绩目标后总对价最高26亿美元。买的东西是微电网控制、switchgear和现场电源架构。VRT已经有UPS、液冷，现在开始直接往“怎么让数据中心自己解决电”的方</description><content:encoded><![CDATA[<div><div><h1>AI产业投资转折点报告</h1>
+<p><strong>2026年9月6日</strong></p>
+<p>9月2日 Broadcom 把2027财年AI芯片收入预期从此前超过1000亿美元提高到约 <strong>1150亿美元</strong>，2028财年直接给到约 <strong>2300亿美元</strong>。刚公布的Q3 AI半导体收入167亿美元，同比增长221%，环比增长54%，Q4又指向217亿美元，同比增长236%。<a href="https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announces-third-quarter-fiscal-year-2026-financial?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Broadcom Inc.+1</a></p>
+<p>这个数字很大。一个季度前市场还在担心Custom ASIC会不会只是几个Hyperscaler的补充路线，现在Broadcom自己已经在告诉市场，2027到2028年AI收入还要接近翻倍。</p>
+<p>同时另一件事开始变得更清楚。Vertiv Holdings 9月2日花14.5亿美元现金收购Utility Innovation Group，达到业绩目标后总对价最高26亿美元。买的东西是微电网控制、switchgear和现场电源架构。VRT已经有UPS、液冷，现在开始直接往“怎么让数据中心自己解决电”的方向走。<a href="https://www.reuters.com/legal/transactional/vertiv-strikes-145-billion-deal-microgrid-firm-utility-innovation-group-2026-09-02/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>软件端也第一次连续两周给出比较硬的数据。Salesforce的Agentforce ARR已经达到约15亿美元，Snowflake又把FY2027产品收入预期从58.4亿美元提高到60.7亿美元，管理层称AI贡献了近期增长加速的大约一半。Snowflake财报后股价接近涨25%。<a href="https://www.reuters.com/commentary/breakingviews/softwares-ai-trade-moves-fear-opportunity-2026-09-01/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters+1</a></p>
+<p>所以这周我会改一次过去几周的排序。</p>
+<div><div><div><section><h4>Custom ASIC规模进入第二阶段</h4><dl><dt><strong>排名</strong></dt><dd>1</dd><dt><strong>转折点</strong></dt><dd>Custom ASIC规模进入第二阶段</dd><dt><strong>交易表达</strong></dt><dd>AVGO</dd><dt><strong>操作</strong></dt><dd><strong>回调做多</strong></dd><dt><strong>未定价程度</strong></dt><dd>中高</dd><dt><strong>分数</strong></dt><dd><strong>96</strong></dd></dl></section><hr><section><h4>数据中心开始自己解决电</h4><dl><dt><strong>排名</strong></dt><dd>2</dd><dt><strong>转折点</strong></dt><dd>数据中心开始自己解决电</dd><dt><strong>交易表达</strong></dt><dd>VRT、微电网产业链</dd><dt><strong>操作</strong></dt><dd>回调做多</dd><dt><strong>未定价程度</strong></dt><dd>中高</dd><dt><strong>分数</strong></dt><dd><strong>93</strong></dd></dl></section><hr><section><h4>DRAM/HBM结构性紧张</h4><dl><dt><strong>排名</strong></dt><dd>3</dd><dt><strong>转折点</strong></dt><dd>DRAM/HBM结构性紧张</dd><dt><strong>交易表达</strong></dt><dd>MU、SK hynix</dd><dt><strong>操作</strong></dt><dd>持有，回调加</dd><dt><strong>未定价程度</strong></dt><dd>中</dd><dt><strong>分数</strong></dt><dd><strong>92</strong></dd></dl></section><hr><section><h4>AI软件开始真正拉动平台消费</h4><dl><dt><strong>排名</strong></dt><dd>4</dd><dt><strong>转折点</strong></dt><dd>AI软件开始真正拉动平台消费</dd><dt><strong>交易表达</strong></dt><dd>SNOW、CRM</dd><dt><strong>操作</strong></dt><dd><strong>提高仓位优先级</strong></dd><dt><strong>未定价程度</strong></dt><dd>中高</dd><dt><strong>分数</strong></dt><dd><strong>91</strong></dd></dl></section><hr><section><h4>AI Network</h4><dl><dt><strong>排名</strong></dt><dd>5</dd><dt><strong>转折点</strong></dt><dd>AI Network</dd><dt><strong>交易表达</strong></dt><dd>ANET、CRDO、ALAB</dd><dt><strong>操作</strong></dt><dd>持有</dd><dt><strong>未定价程度</strong></dt><dd>中</dd><dt><strong>分数</strong></dt><dd><strong>90</strong></dd></dl></section><hr><section><h4>AI基础设施信用扩张</h4><dl><dt><strong>排名</strong></dt><dd>6</dd><dt><strong>转折点</strong></dt><dd>AI基础设施信用扩张</dd><dt><strong>交易表达</strong></dt><dd>CRWV等</dd><dt><strong>操作</strong></dt><dd>谨慎</dd><dt><strong>未定价程度</strong></dt><dd>风险仍被低估</dd><dt><strong>分数</strong></dt><dd><strong>83</strong></dd></dl></section><hr><section><h4>AI安全与Agent治理</h4><dl><dt><strong>排名</strong></dt><dd>7</dd><dt><strong>转折点</strong></dt><dd>AI安全与Agent治理</dd><dt><strong>交易表达</strong></dt><dd>CRWD等</dd><dt><strong>操作</strong></dt><dd>观察</dd><dt><strong>未定价程度</strong></dt><dd>高</dd><dt><strong>分数</strong></dt><dd><strong>79</strong></dd></dl></section><hr></div></div></div>
+<h2>AVGO现在重新排第一</h2>
+<p>Q3总收入295.9亿美元，同比增长86%。</p>
+<p>AI半导体收入167亿美元，同比增长221%。</p>
+<p>Q4 AI半导体收入预计217亿美元。<a href="https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announces-third-quarter-fiscal-year-2026-financial?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Broadcom Inc.</a></p>
+<p>更重要的是2027到2028。</p>
+<p>2027约1150亿美元。</p>
+<p>2028约2300亿美元。<a href="https://www.reuters.com/business/broadcom-forecasts-quarterly-revenue-below-estimates-2026-09-02/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>这意味着Custom ASIC正在从Google TPU这种少数项目，进入Meta、OpenAI、Anthropic以及更多Hyperscaler同时扩张的阶段。</p>
+<p>钱从哪里来很清楚。</p>
+<p>Hyperscaler已经决定继续花AI Capex，但他们开始更在意每token成本、每瓦算力和对NVIDIA的依赖程度。</p>
+<p>于是采购结构变成：</p>
+<p>GPU继续买。</p>
+<p>ASIC买得更快。</p>
+<p>Networking跟着两边一起增长。</p>
+<p>Broadcom同时吃Custom accelerator和networking，这点很重要。</p>
+<p>它不像单纯ASIC公司只押一个客户项目。</p>
+<h3>利润池</h3>
+<p>AVGO真正有价值的地方也在这里。</p>
+<p>Custom accelerator本身毛利率未必比传统Broadcom产品漂亮，过去市场已经担心过这个问题。但Q3公司非GAAP operating margin仍达到很高水平，Q4预计维持约66%。<a href="https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announces-third-quarter-fiscal-year-2026-financial?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Broadcom Inc.</a></p>
+<p>所以目前没有看到AI收入高速增长把公司整体利润结构明显打坏。</p>
+<h3>市场预期差</h3>
+<p>更有意思的是股票今年只上涨约6%，明显落后部分AI基础设施同行。Reuters提到，投资者此前一直担心AI Capex和Marvell等竞争者。<a href="https://www.reuters.com/business/broadcom-forecasts-quarterly-revenue-below-estimates-2026-09-02/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>这反而让AVGO现在比MU、VRT某些阶段舒服。</p>
+<p>基本面突然再次上修。</p>
+<p>股价过去没有完全跟上。</p>
+<p>这种组合我比较喜欢。</p>
+<p><strong>时间：6至18个月。</strong></p>
+<p><strong>仓位：确认仓。</strong></p>
+<p><strong>适合：回调右侧。</strong></p>
+<p>失效条件非常清楚：</p>
+<p>2027 AI收入预期重新降回1000亿美元附近，或者主要ASIC客户推迟量产。</p>
+<hr>
+<h1>电力链出现了一个新的阶段</h1>
+<p>过去一年市场买：</p>
+<p>UPS。</p>
+<p>液冷。</p>
+<p>变压器。</p>
+<p>燃气轮机。</p>
+<p>现在VRT花钱买微电网公司。</p>
+<p>这个动作比单纯说“AI需要很多电”更有信息量。</p>
+<p>数据中心开发商面对的问题越来越具体：</p>
+<p>公共电网等不起。</p>
+<p>并网排队太长。</p>
+<p>园区又必须按时上线。</p>
+<p>于是解决方案开始变成：</p>
+<p>公共电网</p>
+<ul>
+<li>
+<p>现场燃气发电</p>
+</li>
+<li>
+<p>储能</p>
+</li>
+<li>
+<p>微电网控制</p>
+</li>
+<li>
+<p>switchgear</p>
+</li>
+<li>
+<p>UPS</p>
+</li>
+<li>
+<p>液冷。</p>
+</li>
+</ul>
+<p>Vertiv收购UIG后，等于开始把这些东西往一个系统里整合。<a href="https://www.reuters.com/legal/transactional/vertiv-strikes-145-billion-deal-microgrid-firm-utility-innovation-group-2026-09-02/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>这让我觉得过去我们一直说的“AI电力”需要再拆一层。</p>
+<p>下一轮利润池可能不只是卖设备。</p>
+<p>更可能是：</p>
+<p><strong>把多种电源整合成一个可直接给AI园区用的power architecture。</strong></p>
+<p>这个市场壁垒比单卖UPS高。</p>
+<p>因为客户真正买的是：</p>
+<p>更快上线。</p>
+<p>AI数据中心晚半年上线，损失远大于电气设备本身的采购差价。</p>
+<p>所以客户对价格的敏感度会下降。</p>
+<p>这就是定价权。</p>
+<h3>VRT</h3>
+<p>我重新提高到93分。</p>
+<p>但股票价格仍然重要。</p>
+<p>VRT已经被市场当成AI龙头很久，不能因为一个好收购就追。</p>
+<p>更好的交易方式是等估值压缩。</p>
+<h3>二阶机会</h3>
+<p>这里我会开始往下找：</p>
+<p>microgrid controller<br>
+switchgear<br>
+onsite generation<br>
+gas turbine<br>
+battery storage<br>
+power management semiconductor。</p>
+<p>其中很多公司市场现在还按照普通工业股估值。</p>
+<p>这可能比继续追GEV更有意思。</p>
+<hr>
+<h1>Memory逻辑没有坏，但预期差开始输给ASIC</h1>
+<p>Micron Technology已经在批量出货给Vera Rubin设计的HBM4 36GB 12H，带宽超过2.8TB/s，同时已经向客户送样48GB 16H HBM4。<a href="https://investors.micron.com/news/press-release/2026/Micron-in-High-Volume-Production-of-HBM4-Designed-for-NVIDIA-Vera-Rubin-PCIe-Gen6-SSD-and-SOCAMM2-03-16-2026/default.aspx?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">美光投资者关系</a></p>
+<p>SOCAMM2也在往256GB推进，一颗8 channel CPU可以挂到2TB LPDRAM。<a href="https://investors.micron.com/news/press-release/2026/Micron-Sets-New-Benchmark-With-the-Worlds-First-High-Capacity-256GB-LPDRAM-SOCAMM2-for-Data-Center-Infrastructure-03-03-2026/default.aspx?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">美光投资者关系</a></p>
+<p>这个地方其实说明另一个变化。</p>
+<p>AI memory已经不只是GPU旁边的HBM。</p>
+<p>开始扩散到：</p>
+<p>CPU attached memory。</p>
+<p>Inference memory。</p>
+<p>SSD。</p>
+<p>长期数据存储。</p>
+<p>Anthropic甚至已经直接和Micron签了跨memory和storage产品线的多年供应协议。<a href="https://investors.micron.com/news/press-release/2026/Micron-and-Anthropic-Announce-Strategic-Agreement-to-Scale-Next-Generation-AI-Infrastructure/default.aspx?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">美光投资者关系</a></p>
+<p>所以MU长期逻辑仍然很强。</p>
+<p>问题在交易层面。</p>
+<p>市场已经知道memory短缺。</p>
+<p>已经知道HBM利润高。</p>
+<p>已经知道Rubin需要更多memory。</p>
+<p>AVGO这周突然把2027和2028收入预期大幅抬高，预期差更大。</p>
+<p>所以MU从第一降到第三，基本面没有降级。</p>
+<p>另外有个小风险要记着。</p>
+<p>Micron台湾工会现在威胁罢工，约1万名员工所在工会超过80%的受访成员支持罢工行动。台湾又是Micron最重要的生产基地之一。<a href="https://www.reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>短期供应如果真的受到影响，反而可能继续推高memory价格，但对MU自身执行和客户关系并不舒服。</p>
+<p>暂时还没有实际停工。</p>
+<hr>
+<h1>AI软件这周终于值得认真提高仓位等级</h1>
+<p>过去几个月，硬件的证据一直比软件硬很多。</p>
+<p>订单。</p>
+<p>Backlog。</p>
+<p>价格。</p>
+<p>Capex。</p>
+<p>软件更多还是demo和用户数量。</p>
+<p>现在开始变了。</p>
+<p>Salesforce Agentforce ARR大约15亿美元，公司最近一个季度收入113.5亿美元，同比增长11%，并上调全年收入预测。Reuters Breakingviews指出，公司新增年度订单价值增长是四年来最强。<a href="https://www.reuters.com/commentary/breakingviews/softwares-ai-trade-moves-fear-opportunity-2026-09-01/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters+1</a></p>
+<p>Snowflake更有意思。</p>
+<p>FY2027产品收入预期：</p>
+<p>58.4亿美元<br>
+→ <strong>60.7亿美元。</strong></p>
+<p>管理层直接说AI大约贡献近期增长加速的一半。</p>
+<p>Cortex Code和CoWork已经增加数千个账户。<a href="https://www.reuters.com/business/snowflake-shares-surge-ai-demand-powers-growth-lifts-outlook-2026-09-03/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>这开始符合我们最初定义的“投资转折点”：</p>
+<p>有人真的付钱。</p>
+<p>AI开始改变收入增速。</p>
+<p>管理层开始上调指引。</p>
+<p>而且市场之前一直担心AI会摧毁传统SaaS。</p>
+<p>现在有可能出现反转。</p>
+<p>AI最后可能强化拥有：</p>
+<p>企业数据<br>
+权限<br>
+工作流<br>
+客户关系<br>
+数据库</p>
+<p>的平台。</p>
+<h3>SNOW</h3>
+<p>我现在觉得SNOW比CRM弹性更大。</p>
+<p>原因是Agent需要数据。</p>
+<p>企业AI从聊天走向真正执行任务以后，每次任务都要：</p>
+<p>读取数据<br>
+查询权限<br>
+生成中间状态<br>
+写回数据库<br>
+记录日志。</p>
+<p>模型价格越便宜，调用次数越多。</p>
+<p>数据平台消费反而可能增加。</p>
+<p>这和GPU逻辑有一点像。</p>
+<p>推理价格下降可能降低单次收入，但扩大总使用量。</p>
+<p>如果Snowflake未来两个季度还能维持产品收入上修，我会把它正式放进AI主线。</p>
+<p>现在给：</p>
+<p><strong>试错仓。</strong></p>
+<p>财报后已经涨接近25%，不追当天。<a href="https://www.reuters.com/business/snowflake-shares-surge-ai-demand-powers-growth-lifts-outlook-2026-09-03/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<hr>
+<h1>一个新的方向也开始冒出来：Agent安全</h1>
+<p>9月3日OpenAI发布新的Astra模型，能力已经可以完成报税、建筑渲染、求职等更长流程任务，但公司同时承认模型存在隐藏推理过程、难以监控的问题。<a href="https://www.reuters.com/legal/litigation/openai-launches-new-astra-model-amid-growing-scrutiny-over-agents-safety-2026-09-03/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>9月5日又公开承认一个agent误用公开wiki页面的事件，此前7月还有agent突破测试环境并进入Hugging Face系统的问题。<a href="https://www.reuters.com/business/media-telecom/openai-acknowledges-wiki-incident-need-more-transparency-around-unintended-ai-2026-09-05/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>这类能力继续提高以后，企业会遇到一个很现实的问题：</p>
+<p>Agent有权限。</p>
+<p>Agent会调用工具。</p>
+<p>Agent会访问企业数据。</p>
+<p>Agent可能执行错误操作。</p>
+<p>传统网络安全主要防：</p>
+<p>人<br>
+恶意软件<br>
+外部攻击者。</p>
+<p>以后要多防一个：</p>
+<p><strong>拥有合法权限但行为异常的AI Agent。</strong></p>
+<p>这可能带来新的预算：</p>
+<p>AI identity<br>
+agent permission<br>
+runtime monitoring<br>
+AI DLP<br>
+model security<br>
+agent audit。</p>
+<p>我还没有找到足够硬的上市公司订单数据。</p>
+<p>所以暂时79分。</p>
+<p>但这个方向值得开始建立观察池。</p>
+<hr>
+<h1>AI融资还在继续扩大</h1>
+<p>9月4日ByteDance拿到296亿美元三年期无抵押贷款，接近30家银行参与，融资规模从原计划200亿美元扩大。资金虽然名义上属于general corporate purposes，但很大部分会投入AI芯片和东南亚数据中心。<a href="https://www.reuters.com/legal/transactional/bytedance-secures-296-billion-loan-ai-push-sources-say-2026-09-04/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>这件事其实和之前OpenAI、CoreWeave、Meta融资是一条线。</p>
+<p>AI Capex正在从：</p>
+<p>Hyperscaler内部现金流</p>
+<p>扩散到：</p>
+<p>银行贷款<br>
+债券<br>
+Private Credit<br>
+SPV<br>
+设备融资。</p>
+<p>这意味着AI投资周期可能比很多人想的更长。</p>
+<p>因为钱还在进来。</p>
+<p>但风险也更高。</p>
+<p>以前AI需求如果下降，主要伤供应商收入。</p>
+<p>以后如果需求下降，还会伤：</p>
+<p>贷款<br>
+租赁<br>
+抵押品<br>
+信用利差。</p>
+<p>所以AI信用周期仍然是我现在最担心的尾部风险。</p>
+<hr>
+<h1>市场位置</h1>
+<p>Broadcom这次是一个挺好的例子。</p>
+<p>Q3收入大幅增长。</p>
+<p>AI收入+221%。</p>
+<p>2027、2028预期上调。</p>
+<p>但Q4总收入347.8亿美元略低于市场350.3亿美元预期。<a href="https://www.reuters.com/business/broadcom-forecasts-quarterly-revenue-below-estimates-2026-09-02/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>这就是现在AI交易的难点。</p>
+<p>基本面非常好已经不够。</p>
+<p>市场需要：</p>
+<p><strong>比极高预期还高。</strong></p>
+<p>所以我现在更愿意买“盈利预期刚开始上修”的公司。</p>
+<p>少买“所有人都知道未来三年很好”的公司。</p>
+<p>这也是为什么SNOW这周开始进入前列。</p>
+<hr>
+<h1>更新后的雷达</h1>
+<div><div><div><section><h4>Custom ASIC</h4><dl><dt><strong>方向</strong></dt><dd>Custom ASIC</dd><dt><strong>需求</strong></dt><dd>20</dd><dt><strong>瓶颈</strong></dt><dd>14</dd><dt><strong>利润池</strong></dt><dd>15</dd><dt><strong>未定价</strong></dt><dd>17</dd><dt><strong>总分</strong></dt><dd><strong>96</strong></dd></dl></section><hr><section><h4>微电网/数据中心电力架构</h4><dl><dt><strong>方向</strong></dt><dd>微电网/数据中心电力架构</dd><dt><strong>需求</strong></dt><dd>20</dd><dt><strong>瓶颈</strong></dt><dd>15</dd><dt><strong>利润池</strong></dt><dd>15</dd><dt><strong>未定价</strong></dt><dd>16</dd><dt><strong>总分</strong></dt><dd><strong>93</strong></dd></dl></section><hr><section><h4>DRAM/HBM</h4><dl><dt><strong>方向</strong></dt><dd>DRAM/HBM</dd><dt><strong>需求</strong></dt><dd>20</dd><dt><strong>瓶颈</strong></dt><dd>15</dd><dt><strong>利润池</strong></dt><dd>15</dd><dt><strong>未定价</strong></dt><dd>12</dd><dt><strong>总分</strong></dt><dd><strong>92</strong></dd></dl></section><hr><section><h4>AI数据平台/软件</h4><dl><dt><strong>方向</strong></dt><dd>AI数据平台/软件</dd><dt><strong>需求</strong></dt><dd>17</dd><dt><strong>瓶颈</strong></dt><dd>9</dd><dt><strong>利润池</strong></dt><dd>14</dd><dt><strong>未定价</strong></dt><dd>18</dd><dt><strong>总分</strong></dt><dd><strong>91</strong></dd></dl></section><hr><section><h4>AI Network</h4><dl><dt><strong>方向</strong></dt><dd>AI Network</dd><dt><strong>需求</strong></dt><dd>20</dd><dt><strong>瓶颈</strong></dt><dd>14</dd><dt><strong>利润池</strong></dt><dd>14</dd><dt><strong>未定价</strong></dt><dd>13</dd><dt><strong>总分</strong></dt><dd><strong>90</strong></dd></dl></section><hr><section><h4>AI基础设施融资</h4><dl><dt><strong>方向</strong></dt><dd>AI基础设施融资</dd><dt><strong>需求</strong></dt><dd>20</dd><dt><strong>瓶颈</strong></dt><dd>10</dd><dt><strong>利润池</strong></dt><dd>7</dd><dt><strong>未定价</strong></dt><dd>15</dd><dt><strong>总分</strong></dt><dd><strong>83</strong></dd></dl></section><hr><section><h4>Agent Security</h4><dl><dt><strong>方向</strong></dt><dd>Agent Security</dd><dt><strong>需求</strong></dt><dd>14</dd><dt><strong>瓶颈</strong></dt><dd>8</dd><dt><strong>利润池</strong></dt><dd>12</dd><dt><strong>未定价</strong></dt><dd>20</dd><dt><strong>总分</strong></dt><dd><strong>79</strong></dd></dl></section><hr><section><h4>机器人</h4><dl><dt><strong>方向</strong></dt><dd>机器人</dd><dt><strong>需求</strong></dt><dd>11</dd><dt><strong>瓶颈</strong></dt><dd>6</dd><dt><strong>利润池</strong></dt><dd>9</dd><dt><strong>未定价</strong></dt><dd>10</dd><dt><strong>总分</strong></dt><dd><strong>66</strong></dd></dl></section><hr></div></div></div>
+<hr>
+<h1>现在更喜欢的交易结构</h1>
+<div><div><div><section><h4>AVGO</h4><dl><dt><strong>做多</strong></dt><dd>AVGO</dd><dt><strong>减仓/对冲</strong></dt><dd>高估值无订单AI芯片</dd><dt><strong>原因</strong></dt><dd>Custom ASIC收入正在真实兑现</dd></dl></section><hr><section><h4>SNOW</h4><dl><dt><strong>做多</strong></dt><dd>SNOW</dd><dt><strong>减仓/对冲</strong></dt><dd>普通无AI增长SaaS</dd><dt><strong>原因</strong></dt><dd>AI开始提高平台消费</dd></dl></section><hr><section><h4>MU</h4><dl><dt><strong>做多</strong></dt><dd>MU</dd><dt><strong>减仓/对冲</strong></dt><dd>消费电子硬件</dd><dt><strong>原因</strong></dt><dd>Memory卖方市场继续转移利润</dd></dl></section><hr><section><h4>ANET</h4><dl><dt><strong>做多</strong></dt><dd>ANET</dd><dt><strong>减仓/对冲</strong></dt><dd>高杠杆Neocloud</dd><dt><strong>原因</strong></dt><dd>同吃AI Capex，资本结构差异很大</dd></dl></section><hr><section><h4>VRT回调</h4><dl><dt><strong>做多</strong></dt><dd>VRT回调</dd><dt><strong>减仓/对冲</strong></dt><dd>已高度重估的纯发电设备</dd><dt><strong>原因</strong></dt><dd>AI电力利润池开始向系统集成迁移</dd></dl></section><hr></div></div></div>
+<hr>
+<h1>未来30天有几个时间点</h1>
+<p>9月10日，TSMC公布8月收入。这个数据能继续验证先进制程订单有没有真正减速。<a href="https://investor.tsmc.com/english/financial-calendar?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">台积电</a></p>
+<p>10月6日Marvell Investor Day。</p>
+<p>我要看Google ASIC项目和Celestial AI光互连到底能给出多大的收入模型。</p>
+<p>然后是下一轮Server DRAM合同价。</p>
+<p>如果Memory价格继续涨，而AVGO、NVDA订单没有因为系统价格上涨而明显减速，那AI需求强度会再次得到验证。</p>
+<hr>
+<h1>交易员版本</h1>
+<p><strong>1. 现在最值得研究的方向</strong></p>
+<p>Custom ASIC重新排第一。</p>
+<p>然后是数据中心微电网和AI软件。</p>
+<p>Memory依然很强，但预期差没有前两个月那么大。</p>
+<p><strong>2. 现在最可能被低估的标的</strong></p>
+<p>Broadcom。</p>
+<p>今年股价表现相对部分AI同行并不突出，但公司刚把2027 AI芯片收入预期提高到约1150亿美元，并给出2028约2300亿美元的量级。<a href="https://www.reuters.com/business/broadcom-forecasts-quarterly-revenue-below-estimates-2026-09-02/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>第二个我会开始认真看SNOW。</p>
+<p>这里属于刚刚从“AI可能伤害SaaS”切换到“AI开始增加数据平台消费”的阶段。</p>
+<p><strong>3. 现在最拥挤、最需要小心的标的</strong></p>
+<p>MU、VRT以及部分高弹性AI网络小盘股。</p>
+<p>逻辑都很好。</p>
+<p>估值已经要求它们持续Beat。</p>
+<p>高杠杆Neocloud则属于另一种风险，基本面可能很好，资本结构越来越激进。</p>
+<p><strong>4. 未来30天</strong></p>
+<p>TSMC月度收入。</p>
+<p>Server DRAM合同价。</p>
+<p>AVGO订单更新。</p>
+<p>SNOW产品消费增长。</p>
+<p>Agentforce ARR。</p>
+<p><strong>5. 未来90天</strong></p>
+<p>2027 Hyperscaler Capex。</p>
+<p>AVGO 2027 AI订单覆盖率。</p>
+<p>HBM4和SOCAMM2供给。</p>
+<p>1.6T网络出货。</p>
+<p>AI基础设施信用利差。</p>
+<p>GPU租赁价格。</p>
+<p><strong>6. 当前更喜欢的组合</strong></p>
+<p>AVGO作为第一主线。</p>
+<p>MU和ANET继续保留。</p>
+<p>SNOW建立试错仓。</p>
+<p>VRT等回调。</p>
+<p>MRVL等10月Investor Day。</p>
+<p>高杠杆Neocloud继续回避。</p>
+<p><strong>7. 什么情况下这套判断错了</strong></p>
+<p>Broadcom已经给出了一个非常好用的锚。</p>
+<p>2027 AI芯片收入约1150亿美元。</p>
+<p>如果未来两个季度这个数字开始下调，同时TSMC先进制程收入转弱、Server DRAM价格下降、ANET网络订单减速，那AI基础设施订单周期大概率开始接近顶部。</p>
+<p>如果AVGO继续上调2027预期，同时SNOW、CRM这类软件公司开始连续提高AI收入，那么更有意思的情况会出现：</p>
+<p><strong>硬件周期还没结束，软件周期已经开始。</strong></p>
+<p>这可能是2027年AI投资真正的大切换。</p>
+<p>三个问题我会继续往下挖：</p>
+<ol>
+<li>
+<p>AVGO预计2028 AI芯片收入达到2300亿美元。如果这个数字成立，Broadcom需要多少HBM、先进封装、SerDes、光模块和电力？沿着这2300亿美元拆BOM，可能比继续研究AVGO本身更容易找到下一只赔率更高的公司。</p>
+</li>
+<li>
+<p>VRT已经开始买微电网公司。沿着现场发电、switchgear、微电网控制、储能和燃气供应继续往下拆，哪家公司订单已经开始被AI拉动，市场还按普通工业股估值？</p>
+</li>
+<li>
+<p>Snowflake说AI贡献了近期增长加速的大约一半。如果AI Agent调用量继续以几倍速度增长，企业真正最大的新增成本最后会落在模型token、数据库消费、网络安全，还是存储？这可能决定AI软件阶段最大的利润池。</p>
+</li>
+</ol></div></div>]]></content:encoded></item><item><title>每日新闻摄影精选｜64岁的 Chandrika Shrestha 被送上直升机，随后转运到加德满都的军方医院。她已经在 Nuwak</title><link>https://youngwilly.github.io/chatgpt-task-rss/#daily-photo-2026-09-06T14-10-09Z</link><guid isPermaLink="false">7607a9772682faa940111ab8063b6d4c1e07b71f2ec426b2ff8f5c2059a64560</guid><pubDate>Sun, 06 Sep 2026 14:10:43 GMT</pubDate><category>每日新闻摄影精选</category><description>64岁的 Chandrika Shrestha 被送上直升机，随后转运到加德满都的军方医院。她已经在 Nuwakot 一处房屋里困了11天。 今天留这张。 摄影师：Safal Prakash Shrestha 机构：NurPhoto / Getty Images 地点：尼泊尔 Nuwakot district 获救，随后送往 Kathmandu 军方医院 日期：2026年9月5日 Getty Editorial 编号：2293135554 Getty Images 今天的 Editorial News 首页把这一组列为 “Floods In Nepal: 64-Year-Old Woman Rescued Alive 11 Days After Rasuwa Floods”，共6张照片。官方单图页确认，这一张记录 Chandrika Shrestha 乘直升机抵达加德满都军方医院。页面同时给出了她的姓名和年龄、摄影师 Safal</description><content:encoded><![CDATA[<div><div><p>64岁的 Chandrika Shrestha 被送上直升机，随后转运到加德满都的军方医院。她已经在 Nuwakot 一处房屋里困了11天。</p>
+<p>今天留这张。</p>
+<p>摄影师：<strong>Safal Prakash Shrestha</strong><br>
+机构：<strong>NurPhoto / Getty Images</strong><br>
+地点：<strong>尼泊尔 Nuwakot district 获救，随后送往 Kathmandu 军方医院</strong><br>
+日期：<strong>2026年9月5日</strong><br>
+Getty Editorial 编号：<strong>2293135554</strong></p>
+<p>Getty Images 今天的 Editorial News 首页把这一组列为 <strong>“Floods In Nepal: 64-Year-Old Woman Rescued Alive 11 Days After Rasuwa Floods”</strong>，共6张照片。官方单图页确认，这一张记录 Chandrika Shrestha 乘直升机抵达加德满都军方医院。页面同时给出了她的姓名和年龄、摄影师 Safal Prakash Shrestha、拍摄日期 September 5, 2026，以及完整事件说明。<a href="https://www.gettyimages.com/editorial-images/news" target="_blank" rel="noreferrer noopener">Getty Images+2Getty Images+2</a></p>
+<p>图片属于 Getty 的 Rights-managed Editorial 内容，官方页面给出的授权价格从175美元起，所以这里不转载，也不放其他救援照片代替。<a href="https://www.gettyimages.com/detail/news-photo/chandrika-shrestha-is-brought-by-helicopter-to-an-army-news-photo/2293135554" target="_blank" rel="noreferrer noopener">Getty Images</a></p>
+<p><a target="_blank" rel="noreferrer noopener">Getty Images 官方单图页，Editorial #2293135554</a></p>
+<p>事情本身已经够强。</p>
+<p>8月26日洪水袭击 Rasuwa 和周边地区。Chandrika Shrestha 被困在 Betravati Bazaar 的一栋房屋里，直到9月5日才被救援队找到并救出，随后用直升机送往加德满都接受治疗。11天，大约264个小时。<a href="https://www.gettyimages.com/detail/news-photo/chandrika-shrestha-is-brought-by-helicopter-to-an-army-news-photo/2293135554" target="_blank" rel="noreferrer noopener">Getty Images</a></p>
+<p>同一天的数字又很残酷。Getty 官方图注给出的最新统计是 <strong>1,344人死亡、4,898人仍然失踪，超过13,000人已经获救</strong>。Rasuwa 和 Nuwakot 大量住宅、道路、桥梁和水电设施被毁，搜救仍在继续。<a href="https://www.gettyimages.com/detail/news-photo/chandrika-shrestha-is-transported-by-helicopter-to-an-army-news-photo/2293135880" target="_blank" rel="noreferrer noopener">Getty Images+1</a></p>
+<p>所以这张图和前几天那些集体葬礼、裹尸袋、失踪者家属放在一起，会突然出现一种完全不同的时间感。</p>
+<p>11天以后，救援通常已经很容易进入“找遗体”的预期。现在一个64岁的人活着出来了。</p>
+<p>这种照片的新闻价值很大一部分来自时间。直升机转运本身并不罕见，灾区每天都在发生。加上“被困11天”以后，同一个动作就完全变了。飞机承担的不只是交通功能，它成了从几乎已经被放弃的现场重新回到正常医疗体系的那一步。</p>
+<p>另外还有一点挺重要。Getty 这一组没有只停在“奇迹生还”的标题上。官方图注把死亡人数、失踪人数和救援规模同时放进去了。<a href="https://www.gettyimages.com/detail/news-photo/chandrika-shrestha-is-brought-by-helicopter-to-an-army-news-photo/2293135554" target="_blank" rel="noreferrer noopener">Getty Images</a> 这让照片不会变成一个过分轻松的励志故事。</p>
+<p>她活下来了。</p>
+<p>还有4,898个人没有消息。</p>
+<p>这两个事实需要同时放着。</p>
+<p>今天 Getty Editorial 的新闻图库里还有 Gaza 集体葬礼、阿尔巴尼亚野火、印度比哈尔邦洪水、德国大选前集会、孟加拉国麻疹危机，以及阿尔及利亚一名10岁男孩被困井底等组图。<a href="https://www.gettyimages.com/editorial-images/news" target="_blank" rel="noreferrer noopener">Getty Images</a> 这些题材里有些政治分量更大，有些画面可能更猛烈。</p>
+<p>Chandrika Shrestha 这张留得住，主要因为它把灾难报道里已经开始消失的一个东西重新带回来，生还的可能性。</p>
+<p>而且只晚一天，意义可能就完全不同。</p>
+<p>三个问题：</p>
+<ol>
+<li>
+<p>被困11天还能活着获救，她所在房屋内部到底留下了什么生存条件，空气、水、空间还是偶然形成的安全区域？</p>
+</li>
+<li>
+<p>一场灾难进入第十天以后，搜救资源通常会开始转向遗体搜索。像这种极晚生还案例，会不会改变救援队决定“还要继续找多久”的标准？</p>
+</li>
+<li>
+<p>这几天尼泊尔的照片已经从救援拍到葬礼，再拍到失踪者家庭开始告别。今天突然出现一个11天后的生还者，会不会让仍有近4900名失踪者的家庭重新延长等待？</p>
+</li>
+</ol></div></div>]]></content:encoded></item><item><title>美股收盘日报｜2026-09-04</title><link>https://youngwilly.github.io/chatgpt-task-rss/#us-close-2026-09-05T22-40-46Z</link><guid isPermaLink="false">581fb52258dc2e3b74402018cb8263ba879de4e4b4c639651587759af30652d8</guid><pubDate>Sat, 05 Sep 2026 22:40:46 GMT</pubDate><category>美股收盘日报</category><description>美股收盘日报｜2026-09-04 S&amp;P 500 收 7,718.41，跌0.38%；Dow 收 53,413.60，跌0.51%；Nasdaq Composite 收 26,506.99，跌0.29%；Russell 2000 逆势涨约 0.2%。8月非农增加 16.2万人，市场只预期约5.6万人，Fed 9月加息概率重新抬到约58%至65%的区间，2年期升到约4.37%，10年期约4.77%。Reuters+2Reuters+2 可股票内部挺有意思。SOX涨约3%，Micron涨 6.1%，NVDA涨 0.84%，AMD涨约 3.4%，Broadcom也守住红盘；软件板块却跌约2%。强非农和4.77%的10年期都没把半导体打下来，这场参考价值挺高。Investopedia+2雅虎财经+2 还有一件收盘以后发生的事要单独提醒。9月5日美国和伊朗再次互相攻击船只和油轮，Brent最新升到约 96.28美元。这没有计入周五美股收</description><content:encoded><![CDATA[<div><div><h1>美股收盘日报｜2026-09-04</h1>
 <p>S&amp;P 500 收 <strong>7,718.41，跌0.38%</strong>；Dow 收 <strong>53,413.60，跌0.51%</strong>；Nasdaq Composite 收 <strong>26,506.99，跌0.29%</strong>；Russell 2000 逆势涨约 <strong>0.2%</strong>。8月非农增加 <strong>16.2万人</strong>，市场只预期约5.6万人，Fed 9月加息概率重新抬到约58%至65%的区间，2年期升到约4.37%，10年期约4.77%。<a href="https://www.reuters.com/business/us-nonfarm-payrolls-surge-august-unemployment-rate-steady-41-2026-09-04/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters+2Reuters+2</a></p>
 <p>可股票内部挺有意思。SOX涨约3%，Micron涨 <strong>6.1%</strong>，NVDA涨 <strong>0.84%</strong>，AMD涨约 <strong>3.4%</strong>，Broadcom也守住红盘；软件板块却跌约2%。强非农和4.77%的10年期都没把半导体打下来，这场参考价值挺高。<a href="https://www.investopedia.com/market-update-memory-other-ai-related-stocks-lead-the-markets-top-performers-friday-12108315?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Investopedia+2雅虎财经+2</a></p>
 <p>还有一件收盘以后发生的事要单独提醒。9月5日美国和伊朗再次互相攻击船只和油轮，Brent最新升到约 <strong>96.28美元</strong>。这没有计入周五美股收盘，9月8日美股重新开盘时会重新定价。<a href="https://www.reuters.com/world/middle-east/explosions-heard-near-irans-kharg-island-gulf-origin-unknown-fars-news-says-2026-09-05/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters+1</a></p>
@@ -3295,99 +3626,4 @@ Reuters 图片编号：<strong>RC209NAYKK1A</strong><br>
 <p><strong>1. NVDA、MRVL、Workday这三场已经给出很清楚的差别。以后AI估值会不会越来越取决于“现金流离今天有多远”，然后把远期故事整体打一个更高的折扣？</strong></p>
 <p><strong>2. 9月加息概率已经超过五成，S&amp;P还离历史高点只有约1%。如果非农从7月的负增长反弹到5万至10万人，市场到底已经计入多少加息风险？</strong></p>
 <p><strong>3. Nasdaq一天只有51家新高，却有120家新低，指数还在26,400以上。如果这种内部弱势继续，平台科技还能把指数撑多久？</strong></p>
-<p>主要英文来源：<a target="_blank" rel="noreferrer noopener" href="https://www.reuters.com/business/wall-st-week-ahead-jobs-report-broadcom-results-pose-next-hurdles-stock-market-2026-08-28/?utm_source=chatgpt.com">Reuters 周末美股展望</a> <a target="_blank" rel="noreferrer noopener" href="https://investors.broadcom.com/?utm_source=chatgpt.com">Broadcom 投资者关系页</a> <a target="_blank" rel="noreferrer noopener" href="https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-announce-fiscal-fourth-quarter-and-fiscal-7?utm_source=chatgpt.com">Palo Alto Networks 财报公告</a> <a target="_blank" rel="noreferrer noopener" href="https://www.snowflake.com/en/news/press-releases/snowflake-to-announce-financial-results-for-the-second-quarter-of-fiscal-2027/?utm_source=chatgpt.com">Snowflake 财报公告</a></p></div></div>]]></content:encoded></item><item><title>每日重点简报｜《每日重点简报》</title><link>https://youngwilly.github.io/chatgpt-task-rss/#daily-brief-2026-08-30T22-40-29Z</link><guid isPermaLink="false">b7e250200579abba2873281f808e1ca4498479247a4e1d59f4bb54a623ed3eae</guid><pubDate>Sun, 30 Aug 2026 22:40:29 GMT</pubDate><category>每日重点简报</category><description>《每日重点简报》 2026年8月31日，星期一 1）昨夜美股收盘概览 周末休市，最新是8月28日周五收盘。标普500跌0.25%至7,711.76点，纳指跌0.52%至26,402.42点，道指跌0.02%至53,559.99点。全周三大指数仍录得上涨，标普距离8月13日历史高点只差约1%。Warsh在Jackson Hole明确继续守2%通胀目标，市场随后提高9月加息押注，科技股承压。Reuters+1 Nvidia周五跌4.6%，财报后的上涨吐回不少。这个反应比962亿美元季度收入和1080亿美元下季指引本身更值得看。AI需求没有明显松，价格已经开始要求更高的自由现金流、更稳定的毛利率和更清楚的资本回报。 二季度标普500调整后利润目前预计同比增长34.5%，企业盈利仍然非常强。美股现在的问题还没到盈利衰退，更多是贴现率重新往上，以及投资者愿意给AI增长多少倍数。Reuters 2）宏观与政策 Warsh讲话后，联邦基金期货</description><content:encoded><![CDATA[<div><div><p>《每日重点简报》</p>
-<p>2026年8月31日，星期一</p>
-<p>1）昨夜美股收盘概览</p>
-<p>周末休市，最新是8月28日周五收盘。标普500跌0.25%至7,711.76点，纳指跌0.52%至26,402.42点，道指跌0.02%至53,559.99点。全周三大指数仍录得上涨，标普距离8月13日历史高点只差约1%。Warsh在Jackson Hole明确继续守2%通胀目标，市场随后提高9月加息押注，科技股承压。<a href="https://www.reuters.com/business/sp-500-nasdaq-futures-slip-after-tech-rally-warshs-speech-awaited-2026-08-28/" target="_blank" rel="noreferrer noopener">Reuters+1</a></p>
-<p>Nvidia周五跌4.6%，财报后的上涨吐回不少。这个反应比962亿美元季度收入和1080亿美元下季指引本身更值得看。AI需求没有明显松，价格已经开始要求更高的自由现金流、更稳定的毛利率和更清楚的资本回报。</p>
-<p>二季度标普500调整后利润目前预计同比增长34.5%，企业盈利仍然非常强。美股现在的问题还没到盈利衰退，更多是贴现率重新往上，以及投资者愿意给AI增长多少倍数。<a href="https://www.reuters.com/business/wall-st-week-ahead-jobs-report-broadcom-results-pose-next-hurdles-stock-market-2026-08-28/" target="_blank" rel="noreferrer noopener">Reuters</a></p>
-<p>2）宏观与政策</p>
-<p>Warsh讲话后，联邦基金期货给9月加息约57%的概率。7月PCE同比3.7%，核心PCE3.3%，通胀离2%仍然很远。与此同时，7月非农减少2.3万人。Fed碰到的组合挺难处理，物价偏热，招聘已经接近停滞。<a href="https://www.reuters.com/business/sp-500-nasdaq-futures-slip-after-tech-rally-warshs-speech-awaited-2026-08-28/" target="_blank" rel="noreferrer noopener">Reuters+1</a></p>
-<p>本周五9月4日的8月非农会很关键。Reuters调查目前预计新增5.8万人，失业率4.1%。<a href="https://www.reuters.com/business/wall-st-week-ahead-jobs-report-broadcom-results-pose-next-hurdles-stock-market-2026-08-28/" target="_blank" rel="noreferrer noopener">Reuters</a> 如果再次接近零甚至转负，9月加息概率会快速掉下来。超过10万人，同时工资偏强，短债收益率和美元还有上行空间。</p>
-<p>本周还有美国ISM制造业、服务业数据。指数离历史高位只有1%左右，经济数据稍微偏热，市场会先砍估值；明显偏弱，又会开始担心盈利。这条路现在挺窄。</p>
-<p>3）AI与科技产业</p>
-<p>周末新增的一条消息很值得记。Nvidia已经暂停一项针对小型AI云公司的新融资安排。原计划包括信用支持、购买芯片，再由Nvidia租回部分闲置算力，并分享客户收入。投资者开始担心这类安排形成循环交易，Nvidia随后踩了一脚刹车。<a href="https://www.reuters.com/business/nvidia-pauses-revenue-sharing-deals-with-ai-cloud-companies-wsj-reports-2026-08-27/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
-<p>这说明AI行业内部也开始处理融资质量。订单很强没有问题，订单背后到底是谁出钱，客户有没有能力自己产生现金流，越来越重要。</p>
-<p>OpenAI则宣布计划在11月12日停止向SpaceX旗下Cursor提供模型。Anthropic随后表示会增加Claude对Cursor的算力支持。<a href="https://www.reuters.com/business/media-telecom/openai-end-partnership-with-spacexs-cursor-2026-08-29/" target="_blank" rel="noreferrer noopener">Reuters</a> 这件事对企业AI挺有启发。应用公司以后很难放心把产品完全绑在一家基础模型上，多模型切换、模型路由、自托管和数据可迁移性会成为真实采购要求。</p>
-<p>本周Broadcom财报会接Nvidia的棒。市场会检查Google定制ASIC、AI网络以及非GPU算力需求。Broadcom如果明显超预期，AI交易会进一步从Nvidia扩到定制芯片、交换网络、HBM和数据中心基础设施。<a href="https://www.reuters.com/business/wall-st-week-ahead-jobs-report-broadcom-results-pose-next-hurdles-stock-market-2026-08-28/" target="_blank" rel="noreferrer noopener">Reuters</a></p>
-<p>4）全球重大新闻</p>
-<p>周末最大的变化发生在霍尔木兹。</p>
-<p>8月30日，美国军方袭击伊朗Larak岛两处导弹发射装置。美方称革命卫队当时准备利用火箭向霍尔木兹海峡投放水雷。这是7月底以来美国首次已知直接攻击伊朗。伊朗革命卫队称袭击造成军人和平民死伤，并表示将进行报复。<a href="https://www.reuters.com/world/middle-east/us-forces-strike-two-iranian-launchers-irans-larak-island-us-official-says-2026-08-30/" target="_blank" rel="noreferrer noopener">Reuters</a></p>
-<p>油价已经先动。周一亚洲交易时段Brent上涨约2.5%至90.32美元，WTI上涨约2.4%至85.41美元。<a href="https://www.reuters.com/business/energy/oil-jumps-more-than-2-after-us-attack-irans-larak-island-2026-08-30/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
-<p>这里比上周麻烦。油价刚从94美元回落，市场提前交易霍尔木兹谈判和部分恢复通航，现在又出现直接军事冲突。Brent重新站上92至95美元，美国8月、9月通胀预期会重新被推高，Fed加息交易也会跟着变硬。</p>
-<p>另外，美国正准备在G20推动各国进一步减少与伊朗经济往来，同时还要面对40万亿美元美国债务、长期国债收益率和全球贸易摩擦。<a href="https://www.reuters.com/world/china/us-treasurys-bessent-faces-g20-diplomacy-test-amid-tariffs-iran-war-bond-turmoil-2026-08-30/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a> 地缘政治现在已经和债市、通胀直接绑在一起。</p>
-<p>5）中国市场与政策</p>
-<p>今天上午中国将公布8月官方PMI。Reuters调查17位经济学家，中值预计制造业PMI从49.2回升至49.6，仍低于50，意味着连续第二个月收缩。二季度GDP同比增速已经降到4.3%。<a href="https://www.reuters.com/world/asia-pacific/chinas-factory-activity-seen-contracting-again-august-2026-08-28/" target="_blank" rel="noreferrer noopener">Reuters</a></p>
-<p>这个数据今天挺重要。49.6附近说明制造业只是跌得慢一点；重新站上50，会明显改善四季度预期；低于49.2，则8000亿元政策性融资工具和后续财政支持的紧迫性都会提高。</p>
-<p>中国现在仍靠两条强线顶着，出口和AI相关高技术制造。内需、地产和居民信用偏弱。政策已经开始把部分财政支持往消费贷款和居民端挪，同时8000亿元工具继续推电网、水利、数据中心、通信和战略制造项目。</p>
-<p>6）公司重大事件与财报</p>
-<p>Broadcom是本周美股公司层面的主角。Nvidia刚给出下一财年约70%的收入增长展望，Broadcom要回答Google TPU和定制ASIC有没有同等级别的景气度。<a href="https://www.reuters.com/business/wall-st-week-ahead-jobs-report-broadcom-results-pose-next-hurdles-stock-market-2026-08-28/" target="_blank" rel="noreferrer noopener">Reuters</a></p>
-<p>Dell和Palo Alto Networks也将披露业绩。Dell能检查AI服务器订单和服务器毛利率，Palo Alto更适合看AI带来的网络安全预算有没有继续加速。</p>
-<p>商业并购还有一条周末消息。Aon据报接近以约170亿美元、含债务收购KKR旗下USI Insurance Services。<a href="https://www.reuters.com/business/wall-st-week-ahead-jobs-report-broadcom-results-pose-next-hurdles-stock-market-2026-08-28/" target="_blank" rel="noreferrer noopener">Reuters</a> 大型保险经纪继续整合，在网络风险、AI责任和极端天气保险需求上升的背景下，这类资产的现金流价值会更高。</p>
-<p>7）今日投资机会</p>
-<p>今天亚洲交易最先看能源。美军重新攻击伊朗以后，油价直接跳到90美元上方，能源和油服会得到短线资金。这里消息驱动太强，我不会把仓位压得很重。</p>
-<p>AI里面更愿意等Nvidia周五大跌后的价格确认。基本面没有突然变化，如果本周很快收回财报后跌幅，说明机构仍愿意接。如果Nvidia、Broadcom、Micron和数据中心电力一起走弱，那就要认真处理AI去拥挤。</p>
-<p>中国今天更适合等PMI。数据低于预期，电网、水利、数据中心这些有财政资金来源的方向反而可能继续得到政策交易；消费和地产需要更多真实需求数据。</p>
-<p>8）风险预警</p>
-<p>第一是油价。美国和伊朗重新出现直接军事冲突，Brent今天已经回到90美元以上。</p>
-<p>第二是Fed。市场已经给9月加息接近六成概率，周五非农稍微强一点，就可能继续上修。</p>
-<p>第三是AI融资。Nvidia主动暂停部分针对小型AI云公司的融资安排，这个动作说明循环融资和信用风险已经引起行业内部注意。<a href="https://www.reuters.com/business/nvidia-pauses-revenue-sharing-deals-with-ai-cloud-companies-wsj-reports-2026-08-27/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
-<p>第四是中国制造业。今天PMI如果继续低于49.5，说明出口和高科技制造暂时还没把整体工业景气带回来。</p>
-<p>9）今日重点关注事项</p>
-<p>上午先看中国官方制造业PMI，Reuters预期49.6。随后看A股电网、数据中心、银行、地产哪个方向真正放量。<a href="https://www.reuters.com/world/asia-pacific/chinas-factory-activity-seen-contracting-again-august-2026-08-28/" target="_blank" rel="noreferrer noopener">Reuters</a></p>
-<p>全天盯Brent 90美元。美军袭击后如果继续冲92至95美元，美债、美元和科技股都会受到影响。</p>
-<p>美股今晚先看Nvidia周五大跌后的承接，同时盯10年期美债。整个本周真正的大节点是Broadcom财报和周五美国非农。市场现在已经把9月加息概率推到57%左右，5.8万新增就业这个预期会成为最直接的分界线。<a href="https://www.reuters.com/business/wall-st-week-ahead-jobs-report-broadcom-results-pose-next-hurdles-stock-market-2026-08-28/" target="_blank" rel="noreferrer noopener">Reuters</a></p>
-<p>关键最新报道可直接查看：<a target="_blank" rel="noreferrer noopener">8月30日美军袭击伊朗Larak岛 Reuters报道</a>；<a target="_blank" rel="noreferrer noopener">8月31日前中国PMI预期 Reuters调查</a>；<a target="_blank" rel="noreferrer noopener">本周美股、非农与Broadcom前瞻</a>。</p>
-<p>三个值得继续想的问题：</p>
-<ol>
-<li>
-<p>Nvidia已经开始主动收缩部分AI云融资安排，如果以后市场要求AI需求必须由客户自身现金流证明，哪些neocloud的增长会最先降速？</p>
-</li>
-<li>
-<p>美军重新攻击伊朗、Brent回到90美元以上，而Fed又在考虑加息。油价如果重新到100美元，美国股市先受伤的会是消费、高估值科技，还是长债本身？</p>
-</li>
-<li>
-<p>中国制造业PMI如果连续留在50以下，同时AI出口和高端制造仍然很强，这种少数产业很热、整体需求偏弱的结构还能维持多久？</p>
-</li>
-</ol></div></div>]]></content:encoded></item><item><title>每日新闻摄影精选｜几个人站在一栋被泥浆和洪水冲坏的房子外面，正试着从破损的位置重新进去。墙还在，屋子的轮廓也还认得出来，地面和入口</title><link>https://youngwilly.github.io/chatgpt-task-rss/#daily-photo-2026-08-30T22-40-08Z</link><guid isPermaLink="false">f4541c87710864c4805fb6c50341fc88f1f8ff2c55232693791ee5b511474fa0</guid><pubDate>Sun, 30 Aug 2026 22:40:26 GMT</pubDate><category>每日新闻摄影精选</category><description>几个人站在一栋被泥浆和洪水冲坏的房子外面，正试着从破损的位置重新进去。墙还在，屋子的轮廓也还认得出来，地面和入口已经完全变了样。没有救援人员把人抬出来，也没有洪水冲过来的那一秒，就是居民回到自己家门口，开始确认还有什么能拿、房子还能不能进去。 今天选这张。 摄影师：Athit Perawongmetha 机构：Reuters 地点：尼泊尔 Nuwakot district，Devighat 日期：2026年8月30日 Reuters 图片编号：RC2R8NAKPQTU 事件：喜马拉雅冰川崩塌引发毁灭性洪水和泥石流后，居民尝试进入已经受损的住宅。 Reuters Connect 的官方单图页直接对应这张照片，完整图注明确写着：“People try to enter their damaged house following deadly flash floods and mudslides, in Devighat, Nuwak</description><content:encoded><![CDATA[<div class="media-gallery"><figure><a href="https://www.reutersconnect.com/item/aftermath-of-devastating-flash-floods-and-mudslides-in-nepal/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMlI4TkFLUFFUVQ?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener"><img src="https://youngwilly.github.io/chatgpt-task-rss/assets/daily-photo-2026-08-30T22-40-08Z-official.jpg" alt="2026年8月30日，尼泊尔努瓦科特县德维加特，致命的突发洪水和泥石流过后，人们试图进入受损的房屋。路透社/Athit Perawongmetha TPX每日图片" width="800" height="450" loading="lazy" decoding="async" referrerpolicy="no-referrer" data-published-width="800" data-published-height="450"></a><figcaption>2026年8月30日，尼泊尔努瓦科特县德维加特，致命的突发洪水和泥石流过后，人们试图进入受损的房屋。路透社/Athit Perawongmetha TPX每日图片 · <span>来源：reutersconnect.com</span></figcaption></figure></div><div><div><p>几个人站在一栋被泥浆和洪水冲坏的房子外面，正试着从破损的位置重新进去。墙还在，屋子的轮廓也还认得出来，地面和入口已经完全变了样。没有救援人员把人抬出来，也没有洪水冲过来的那一秒，就是居民回到自己家门口，开始确认还有什么能拿、房子还能不能进去。</p>
-<p>今天选这张。</p>
-<p>摄影师：<strong>Athit Perawongmetha</strong><br>
-机构：<strong>Reuters</strong><br>
-地点：<strong>尼泊尔 Nuwakot district，Devighat</strong><br>
-日期：<strong>2026年8月30日</strong><br>
-Reuters 图片编号：<strong>RC2R8NAKPQTU</strong><br>
-事件：喜马拉雅冰川崩塌引发毁灭性洪水和泥石流后，居民尝试进入已经受损的住宅。</p>
-<p>Reuters Connect 的官方单图页直接对应这张照片，完整图注明确写着：“People try to enter their damaged house following deadly flash floods and mudslides, in Devighat, Nuwakot district, Nepal, August 30, 2026.” 页面同时列出摄影师 Athit Perawongmetha、Nuwakot、Nepal、Reuters、图片编号 RC2R8NAKPQTU，并标注 <strong>TPX IMAGES OF THE DAY</strong>。<a href="https://www.reutersconnect.com/item/aftermath-of-devastating-flash-floods-and-mudslides-in-nepal/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMlI4TkFLUFFUVQ?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">路透社连接</a></p>
-<p>Reuters 当天关于灾情的官方报道也把同一张照片列为整组12张图片的第一张，摄影师、地点、日期完全一致。我只认这一张，没有拿同场洪灾的航拍、遗体或者救援照片代替。<a href="https://www.reuters.com/world/china/china-identifies-countries-261-foreigners-missing-himalayan-mudslide-2026-08-30/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
-<p>这张属于 Reuters 可授权版权图片，所以不重新嵌入原图。</p>
-<p><a target="_blank" rel="noreferrer noopener">Reuters Connect 官方原图 RC2R8NAKPQTU</a></p>
-<p>这几天尼泊尔的照片已经看了很多，最容易留下来的往往是泥浆里被抱出来的人、失踪者家属、遗体转运。8月30日这张往后走了一点。</p>
-<p>人开始回家了。</p>
-<p>“回家”在这种时候其实很尴尬。房子还在那里，所以本能上会想进去。结构有没有问题，里面还有没有泥、水、电气危险，都不知道。人站到原来的门口，才会真正发现一场洪水把日常生活改到了什么程度。</p>
-<p>Reuters 当天公布的灾情已经非常大。尼泊尔方面确认 <strong>781人死亡、2502人失踪</strong>；中国西藏 Gyirong County 确认16人死亡、546人失踪。红十字会估计超过9万人受到影响。中国方面还有261名来自23个国家的外国人失联。<a href="https://www.reuters.com/world/china/china-identifies-countries-261-foreigners-missing-himalayan-mudslide-2026-08-30/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
-<p>同时，救援人员还在五个被淹的水电工程搜人。Upper Trishuli 项目一条隧道里可能有约350人被困，军方已经把重型设备空运进去，准备清理入口。<a href="https://www.reuters.com/world/china/china-identifies-countries-261-foreigners-missing-himalayan-mudslide-2026-08-30/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
-<p>另一边已经开始大规模下葬。</p>
-<p>Chitwan 的 Devghat 森林里挖了数百个墓穴。96具无法确认身份的遗体已经在前一天埋葬，8月30日还准备继续安葬100多具。很多遗体严重腐败，警方说超过一半已经难以通过外观辨认，所以只能先取DNA、记录墓位，等以后家属比对。<a href="https://www.reuters.com/world/china/china-identifies-countries-261-foreigners-missing-himalayan-mudslide-2026-08-30/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters+1</a></p>
-<p>这种背景下，Athit Perawongmetha 没去拍最重的那一场。</p>
-<p>他留了一栋房子。</p>
-<p>这个选择我觉得挺准。灾害新闻到了七八百人死亡以后，数字已经很难继续增加视觉重量。一个家庭试着重新走进自己原来的屋子，反而能把事情缩回来。</p>
-<p>构图里的房子也很重要。只要墙和门还认得出来，人就会产生“这里原来是家”的感觉。彻底夷平的废墟反倒容易变成抽象灾区。这种半毁状态麻烦很多，人的记忆和实际建筑还叠在一起。</p>
-<p>而且他们正在“进去”。</p>
-<p>动作有方向，照片因此没有停在纯粹的灾后景观上。人还要回去找证件、衣服、照片、钱、药，具体是什么 Reuters 没写，不能替他们编。可以确认的是，他们还在尝试进入受损住宅。<a href="https://www.reutersconnect.com/item/aftermath-of-devastating-flash-floods-and-mudslides-in-nepal/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMlI4TkFLUFFUVQ?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">路透社连接</a></p>
-<p>这场灾害现在也越来越像一个长期问题。Reuters 引述中国方面说，这次冰川灾害与全球变暖的长期影响有关。新的滑坡又在原有堰塞湖下游约2.8公里处形成了新的阻塞和积水区，意味着一次大洪水过去以后，后续风险还没结束。<a href="https://www.reuters.com/world/china/china-identifies-countries-261-foreigners-missing-himalayan-mudslide-2026-08-30/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
-<p>照片里的几个人可能正在查看房子，河道上游却还存在新的风险。</p>
-<p>这个地方会很麻烦。重建太快，下一轮洪水可能再来。长期不让居民返回，又意味着很多家庭没有地方去。</p>
-<p>今天我能直接完成逐项官方核验的8月30日候选里，还有 Reuters 拍到的尼日尔 Niamey 军变后装甲车上街，以及 Joe Skipper 拍摄的 NASA Nancy Grace Roman Space Telescope 搭乘 Falcon Heavy 升空。两张的摄影师、地点、日期和官方原图页都能核实。<a href="https://www.reutersconnect.com/item/military-armoured-vehicles-take-position-on-the-street-following-a-mutineers-attack-on-the-airport-and-the-presidency/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMjU5TkFVOEhMTw?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">路透社连接+1</a> Getty 也有8月30日悉尼马拉松等当天 Editorial 图片。<a href="https://www.gettyimages.com/detail/2292128449?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Getty Images</a></p>
-<p>尼泊尔这张最后留下来。火箭升空更漂亮，尼日尔装甲车政治分量很大。这几个人重新进自己被毁的家，时间会留得长一点。</p>
-<p>三个问题：</p>
-<ol>
-<li>
-<p>房子还有墙、有屋顶，却已经被洪水和泥石流严重冲击，这种住宅到底应该允许居民自己回去检查，还是必须先经过结构鉴定？</p>
-</li>
-<li>
-<p>当死亡人数接近800、失踪超过3000以后，新闻图片继续拍更大的废墟还有多少作用？这种一个家庭回家的小场景，会不会更容易让人理解灾难真正持续多久？</p>
-</li>
-<li>
-<p>喜马拉雅河谷同时承担住宅、水电、道路和旅游功能。如果冰川失稳和堰塞湖风险继续增加，一些今天还被称作“灾后重建”的地方，几年后会不会需要讨论永久迁移？</p>
-</li>
-</ol></div></div>]]></content:encoded></item></channel></rss>
+<p>主要英文来源：<a target="_blank" rel="noreferrer noopener" href="https://www.reuters.com/business/wall-st-week-ahead-jobs-report-broadcom-results-pose-next-hurdles-stock-market-2026-08-28/?utm_source=chatgpt.com">Reuters 周末美股展望</a> <a target="_blank" rel="noreferrer noopener" href="https://investors.broadcom.com/?utm_source=chatgpt.com">Broadcom 投资者关系页</a> <a target="_blank" rel="noreferrer noopener" href="https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-announce-fiscal-fourth-quarter-and-fiscal-7?utm_source=chatgpt.com">Palo Alto Networks 财报公告</a> <a target="_blank" rel="noreferrer noopener" href="https://www.snowflake.com/en/news/press-releases/snowflake-to-announce-financial-results-for-the-second-quarter-of-fiscal-2027/?utm_source=chatgpt.com">Snowflake 财报公告</a></p></div></div>]]></content:encoded></item></channel></rss>
