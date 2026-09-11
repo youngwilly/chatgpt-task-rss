@@ -6,8 +6,8 @@ const tasks = await readJson(path.join(root, "config/tasks.json"), []);
 const { items = [] } = await readJson(path.join(archiveDir, "index.json"), { items: [] });
 const baseUrl = (process.env.PUBLIC_BASE_URL || "https://youngwilly.github.io/chatgpt-task-rss").replace(/\/$/, "");
 const basePath = new URL(baseUrl).pathname.replace(/\/$/, "");
-const aggregateFeedLimit = 20;
-const taskFeedLimit = 5;
+const aggregateFeedLimit = 10;
+const taskFeedLimit = 3;
 await fs.rm(docsDir, { recursive: true, force: true });
 await fs.mkdir(path.join(docsDir, "feeds"), { recursive: true });
 
