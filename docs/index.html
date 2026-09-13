@@ -1,4 +1,518 @@
-<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="format-detection" content="telephone=no"><meta name="robots" content="noindex,nofollow"><meta name="theme-color" content="#f4f1ea" media="(prefers-color-scheme:light)"><meta name="theme-color" content="#141412" media="(prefers-color-scheme:dark)"><link rel="alternate" type="application/rss+xml" title="四份每日观察" href="/chatgpt-task-rss/rss.xml"><link rel="alternate" type="application/feed+json" title="四份每日观察 JSON Feed" href="/chatgpt-task-rss/feed.json"><title>四份每日观察</title><style>:root{color-scheme:light dark;--bg:#f4f1ea;--card:#fffdf8;--text:#171713;--muted:#716e64;--line:#ded9cc;--accent:#d95032;--table-head:#eee9dd;--table-alt:#faf7f0}*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font:16px/1.65 -apple-system,BlinkMacSystemFont,"PingFang SC","Noto Sans CJK SC",sans-serif}.shell{width:min(760px,100%);margin:auto;padding:18px 14px 64px}header{padding:18px 4px 14px}h1{font:800 clamp(28px,8vw,46px)/1.05 Georgia,"Songti SC",serif;margin:0 0 8px}.deck{color:var(--muted);margin:0}.filters{display:flex;gap:8px;overflow:auto;padding:8px 0 18px;scrollbar-width:none}.filters a{white-space:nowrap;border:1px solid var(--line);border-radius:999px;padding:6px 12px;color:inherit;text-decoration:none;background:var(--card)}article{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:18px;margin:0 0 14px;box-shadow:0 8px 28px #0000000a}.meta{display:flex;justify-content:space-between;gap:10px;color:var(--muted);font-size:13px}.tag{color:var(--accent);font-weight:700}article h2{font:750 23px/1.2 Georgia,"Songti SC",serif;margin:8px 0 12px}.content img{display:block;width:100%;height:auto;border-radius:12px;margin:14px 0;background:var(--table-alt)}.content pre{max-width:100%;overflow:auto}.content a{color:var(--accent);text-underline-offset:3px}.table-scroll{max-width:100%;overflow-x:auto;-webkit-overflow-scrolling:touch;margin:16px 0;border:1px solid var(--line);border-radius:12px;background:var(--card);scrollbar-width:thin}.table-scroll:focus{outline:3px solid color-mix(in srgb,var(--accent) 28%,transparent);outline-offset:2px}.table-scroll table{width:max-content;min-width:100%;border:0;border-collapse:separate;border-spacing:0;font-size:14px;line-height:1.45}.table-scroll th,.table-scroll td{min-width:120px;max-width:260px;padding:10px 12px;border-right:1px solid var(--line);border-bottom:1px solid var(--line);text-align:left!important;vertical-align:top;overflow-wrap:anywhere}.table-scroll th{position:sticky;top:0;z-index:2;background:var(--table-head);font-weight:750}.table-scroll tr:nth-child(even) td{background:var(--table-alt)}.table-scroll th:first-child,.table-scroll td:first-child{position:sticky;left:0;z-index:1;min-width:58px;max-width:150px;background:var(--card);font-weight:700;box-shadow:1px 0 0 var(--line)}.table-scroll th:first-child{z-index:3;background:var(--table-head)}.table-scroll tr:nth-child(even) td:first-child{background:var(--table-alt)}.table-scroll tr:last-child td{border-bottom:0}.table-scroll th:last-child,.table-scroll td:last-child{border-right:0}.empty{padding:42px 18px;text-align:center;color:var(--muted)}footer{color:var(--muted);font-size:13px;padding:24px 4px}@media(max-width:560px){.shell{padding-inline:10px}article{padding:15px;border-radius:15px}.table-scroll{margin-inline:-4px}.table-scroll th,.table-scroll td{min-width:108px;max-width:220px;padding:9px 10px;font-size:13px}}@media(prefers-color-scheme:dark){:root{--bg:#141412;--card:#1e1e1a;--text:#f3efe6;--muted:#aaa69b;--line:#3b3933;--accent:#ff8268;--table-head:#302e29;--table-alt:#25241f}}html{-webkit-text-size-adjust:100%;text-size-adjust:100%;scroll-behavior:smooth}body{min-width:320px}.shell{padding-left:max(14px,env(safe-area-inset-left));padding-right:max(14px,env(safe-area-inset-right));padding-bottom:max(64px,env(safe-area-inset-bottom))}.content{overflow-wrap:anywhere}.content p{margin-block:0 1em}.content h1,.content h2,.content h3,.content h4{line-height:1.3;margin-block:1.35em .55em}.content ul,.content ol{padding-inline-start:1.5em}.content blockquote{margin:1.25em 0;padding:.1em 0 .1em 1em;border-left:3px solid var(--accent);color:var(--muted)}.content pre{padding:14px;border:1px solid var(--line);border-radius:10px;background:var(--table-alt);font-size:13px;line-height:1.5}.content code{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}.content img{max-height:78vh;object-fit:contain}.media-gallery{display:grid;gap:12px;margin:4px 0 22px}.media-gallery figure{margin:0}.media-gallery a{display:block;border-radius:13px;overflow:hidden;background:var(--table-alt)}.media-gallery img{margin:0;width:100%;max-height:none;aspect-ratio:auto;object-fit:contain}.media-gallery figcaption{padding:8px 2px 0;color:var(--muted);font-size:12px;line-height:1.45}.media-gallery figcaption span{white-space:nowrap}.filters a{display:inline-flex;align-items:center;min-height:42px}.filters a:focus-visible,.content a:focus-visible{outline:3px solid var(--accent);outline-offset:3px;border-radius:4px}@media(min-width:700px){.shell{width:min(900px,100%);padding-top:30px}.filters{flex-wrap:wrap;overflow:visible}article{padding:24px;margin-bottom:18px}.content{font-size:17px;line-height:1.72}.media-gallery:has(figure:nth-child(2)){grid-template-columns:repeat(2,minmax(0,1fr))}.table-scroll th,.table-scroll td{padding:11px 13px}}@media(min-width:1100px){.shell{width:min(1080px,100%);padding-top:42px}header{padding-block:24px 18px}article{padding:30px 34px;border-radius:22px}.content{font-size:18px;line-height:1.75}.content>p,.content>h1,.content>h2,.content>h3,.content>h4,.content>ul,.content>ol,.content>blockquote{max-width:74ch}.table-scroll{margin-block:22px}.table-scroll th,.table-scroll td{font-size:14px}}@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}@media(forced-colors:active){.filters a,article,.table-scroll,.table-scroll th,.table-scroll td{border-color:CanvasText}.tag,.content a{color:LinkText}}@media print{:root{color-scheme:light;--bg:#fff;--card:#fff;--text:#000;--muted:#444;--line:#aaa;--accent:#000;--table-head:#eee;--table-alt:#f7f7f7}body{background:#fff;font:11pt/1.5 Georgia,"Songti SC",serif}.shell{width:auto;max-width:none;padding:0}.filters,.deck,footer{display:none}header{padding:0 0 12pt}h1{font-size:24pt}article{border:0;border-radius:0;box-shadow:none;padding:0;margin:0 0 20pt;break-inside:auto}article h2{break-after:avoid}.content a{color:#000;text-decoration:underline}.content img{max-height:20cm;break-inside:avoid}.table-scroll{overflow:visible;border-radius:0;break-inside:avoid}.table-scroll table{width:100%;min-width:0;font-size:8pt}.table-scroll th,.table-scroll td{position:static!important;min-width:0;max-width:none;padding:4pt;box-shadow:none}.meta{font-size:9pt}}.table-mobile{display:none}@media(max-width:699px){.table-scroll{display:none}.table-mobile{display:grid;gap:10px;margin:14px 0}.table-card{margin:0;border:1px solid var(--line);border-radius:13px;background:var(--card);overflow:hidden}.table-card summary{display:grid;grid-template-columns:minmax(0,1fr) 28px;align-items:center;gap:10px;min-height:52px;padding:11px 12px;cursor:pointer;list-style:none;-webkit-tap-highlight-color:transparent}.table-card summary::-webkit-details-marker{display:none}.table-card summary::after{content:"＋";display:grid;place-items:center;width:28px;height:28px;border-radius:50%;background:var(--table-head);color:var(--muted);font-size:18px;line-height:1}.table-card[open] summary{border-bottom:1px solid var(--line);background:var(--table-alt)}.table-card[open] summary::after{content:"−"}.table-card-title{display:block;color:var(--text);font-size:15px;font-weight:750;line-height:1.35}.table-card-meta{display:block;margin-top:3px;color:var(--muted);font-size:12px;line-height:1.35;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.table-card dl{margin:0}.table-card dl>div{display:grid;grid-template-columns:minmax(88px,34%) minmax(0,1fr);gap:10px;padding:9px 12px;border-bottom:1px solid var(--line)}.table-card dl>div:last-child{border-bottom:0}.table-card dt{color:var(--muted);font-size:12px;font-weight:700;line-height:1.45}.table-card dd{min-width:0;margin:0;color:var(--text);font-size:13px;line-height:1.5;overflow-wrap:anywhere}.table-card dd p{margin:0}.table-card summary:focus-visible{outline:3px solid var(--accent);outline-offset:-3px}}@media print{.table-mobile{display:none!important}.table-scroll{display:block!important}}</style></head><body><main class="shell"><header><h1>四份每日观察</h1><p class="deck">原文呈现 · 全平台阅读 · 自动更新</p></header><nav class="filters" aria-label="内容分类"><a href="/chatgpt-task-rss/">全部</a><a href="/chatgpt-task-rss/daily-photo.html">每日新闻摄影精选</a><a href="/chatgpt-task-rss/daily-brief.html">每日重点简报</a><a href="/chatgpt-task-rss/us-close.html">美股收盘日报</a><a href="/chatgpt-task-rss/ai-turning-point.html">AI Turning Point Scan</a></nav><article id="ai-turning-point-2026-09-13T14-10-23Z"><div class="meta"><span class="tag">AI Turning Point Scan</span><time>2026/9/13 22:10:23</time></div><h2>AI 产业投资转折点报告</h2><div class="content"><div><div><h1>AI 产业投资转折点报告</h1>
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="format-detection" content="telephone=no"><meta name="robots" content="noindex,nofollow"><meta name="theme-color" content="#f4f1ea" media="(prefers-color-scheme:light)"><meta name="theme-color" content="#141412" media="(prefers-color-scheme:dark)"><link rel="alternate" type="application/rss+xml" title="四份每日观察" href="/chatgpt-task-rss/rss.xml"><link rel="alternate" type="application/feed+json" title="四份每日观察 JSON Feed" href="/chatgpt-task-rss/feed.json"><title>四份每日观察</title><style>:root{color-scheme:light dark;--bg:#f4f1ea;--card:#fffdf8;--text:#171713;--muted:#716e64;--line:#ded9cc;--accent:#d95032;--table-head:#eee9dd;--table-alt:#faf7f0}*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font:16px/1.65 -apple-system,BlinkMacSystemFont,"PingFang SC","Noto Sans CJK SC",sans-serif}.shell{width:min(760px,100%);margin:auto;padding:18px 14px 64px}header{padding:18px 4px 14px}h1{font:800 clamp(28px,8vw,46px)/1.05 Georgia,"Songti SC",serif;margin:0 0 8px}.deck{color:var(--muted);margin:0}.filters{display:flex;gap:8px;overflow:auto;padding:8px 0 18px;scrollbar-width:none}.filters a{white-space:nowrap;border:1px solid var(--line);border-radius:999px;padding:6px 12px;color:inherit;text-decoration:none;background:var(--card)}article{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:18px;margin:0 0 14px;box-shadow:0 8px 28px #0000000a}.meta{display:flex;justify-content:space-between;gap:10px;color:var(--muted);font-size:13px}.tag{color:var(--accent);font-weight:700}article h2{font:750 23px/1.2 Georgia,"Songti SC",serif;margin:8px 0 12px}.content img{display:block;width:100%;height:auto;border-radius:12px;margin:14px 0;background:var(--table-alt)}.content pre{max-width:100%;overflow:auto}.content a{color:var(--accent);text-underline-offset:3px}.table-scroll{max-width:100%;overflow-x:auto;-webkit-overflow-scrolling:touch;margin:16px 0;border:1px solid var(--line);border-radius:12px;background:var(--card);scrollbar-width:thin}.table-scroll:focus{outline:3px solid color-mix(in srgb,var(--accent) 28%,transparent);outline-offset:2px}.table-scroll table{width:max-content;min-width:100%;border:0;border-collapse:separate;border-spacing:0;font-size:14px;line-height:1.45}.table-scroll th,.table-scroll td{min-width:120px;max-width:260px;padding:10px 12px;border-right:1px solid var(--line);border-bottom:1px solid var(--line);text-align:left!important;vertical-align:top;overflow-wrap:anywhere}.table-scroll th{position:sticky;top:0;z-index:2;background:var(--table-head);font-weight:750}.table-scroll tr:nth-child(even) td{background:var(--table-alt)}.table-scroll th:first-child,.table-scroll td:first-child{position:sticky;left:0;z-index:1;min-width:58px;max-width:150px;background:var(--card);font-weight:700;box-shadow:1px 0 0 var(--line)}.table-scroll th:first-child{z-index:3;background:var(--table-head)}.table-scroll tr:nth-child(even) td:first-child{background:var(--table-alt)}.table-scroll tr:last-child td{border-bottom:0}.table-scroll th:last-child,.table-scroll td:last-child{border-right:0}.empty{padding:42px 18px;text-align:center;color:var(--muted)}footer{color:var(--muted);font-size:13px;padding:24px 4px}@media(max-width:560px){.shell{padding-inline:10px}article{padding:15px;border-radius:15px}.table-scroll{margin-inline:-4px}.table-scroll th,.table-scroll td{min-width:108px;max-width:220px;padding:9px 10px;font-size:13px}}@media(prefers-color-scheme:dark){:root{--bg:#141412;--card:#1e1e1a;--text:#f3efe6;--muted:#aaa69b;--line:#3b3933;--accent:#ff8268;--table-head:#302e29;--table-alt:#25241f}}html{-webkit-text-size-adjust:100%;text-size-adjust:100%;scroll-behavior:smooth}body{min-width:320px}.shell{padding-left:max(14px,env(safe-area-inset-left));padding-right:max(14px,env(safe-area-inset-right));padding-bottom:max(64px,env(safe-area-inset-bottom))}.content{overflow-wrap:anywhere}.content p{margin-block:0 1em}.content h1,.content h2,.content h3,.content h4{line-height:1.3;margin-block:1.35em .55em}.content ul,.content ol{padding-inline-start:1.5em}.content blockquote{margin:1.25em 0;padding:.1em 0 .1em 1em;border-left:3px solid var(--accent);color:var(--muted)}.content pre{padding:14px;border:1px solid var(--line);border-radius:10px;background:var(--table-alt);font-size:13px;line-height:1.5}.content code{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}.content img{max-height:78vh;object-fit:contain}.media-gallery{display:grid;gap:12px;margin:4px 0 22px}.media-gallery figure{margin:0}.media-gallery a{display:block;border-radius:13px;overflow:hidden;background:var(--table-alt)}.media-gallery img{margin:0;width:100%;max-height:none;aspect-ratio:auto;object-fit:contain}.media-gallery figcaption{padding:8px 2px 0;color:var(--muted);font-size:12px;line-height:1.45}.media-gallery figcaption span{white-space:nowrap}.filters a{display:inline-flex;align-items:center;min-height:42px}.filters a:focus-visible,.content a:focus-visible{outline:3px solid var(--accent);outline-offset:3px;border-radius:4px}@media(min-width:700px){.shell{width:min(900px,100%);padding-top:30px}.filters{flex-wrap:wrap;overflow:visible}article{padding:24px;margin-bottom:18px}.content{font-size:17px;line-height:1.72}.media-gallery:has(figure:nth-child(2)){grid-template-columns:repeat(2,minmax(0,1fr))}.table-scroll th,.table-scroll td{padding:11px 13px}}@media(min-width:1100px){.shell{width:min(1080px,100%);padding-top:42px}header{padding-block:24px 18px}article{padding:30px 34px;border-radius:22px}.content{font-size:18px;line-height:1.75}.content>p,.content>h1,.content>h2,.content>h3,.content>h4,.content>ul,.content>ol,.content>blockquote{max-width:74ch}.table-scroll{margin-block:22px}.table-scroll th,.table-scroll td{font-size:14px}}@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}@media(forced-colors:active){.filters a,article,.table-scroll,.table-scroll th,.table-scroll td{border-color:CanvasText}.tag,.content a{color:LinkText}}@media print{:root{color-scheme:light;--bg:#fff;--card:#fff;--text:#000;--muted:#444;--line:#aaa;--accent:#000;--table-head:#eee;--table-alt:#f7f7f7}body{background:#fff;font:11pt/1.5 Georgia,"Songti SC",serif}.shell{width:auto;max-width:none;padding:0}.filters,.deck,footer{display:none}header{padding:0 0 12pt}h1{font-size:24pt}article{border:0;border-radius:0;box-shadow:none;padding:0;margin:0 0 20pt;break-inside:auto}article h2{break-after:avoid}.content a{color:#000;text-decoration:underline}.content img{max-height:20cm;break-inside:avoid}.table-scroll{overflow:visible;border-radius:0;break-inside:avoid}.table-scroll table{width:100%;min-width:0;font-size:8pt}.table-scroll th,.table-scroll td{position:static!important;min-width:0;max-width:none;padding:4pt;box-shadow:none}.meta{font-size:9pt}}.table-mobile{display:none}@media(max-width:699px){.table-scroll{display:none}.table-mobile{display:grid;gap:10px;margin:14px 0}.table-card{margin:0;border:1px solid var(--line);border-radius:13px;background:var(--card);overflow:hidden}.table-card summary{display:grid;grid-template-columns:minmax(0,1fr) 28px;align-items:center;gap:10px;min-height:52px;padding:11px 12px;cursor:pointer;list-style:none;-webkit-tap-highlight-color:transparent}.table-card summary::-webkit-details-marker{display:none}.table-card summary::after{content:"＋";display:grid;place-items:center;width:28px;height:28px;border-radius:50%;background:var(--table-head);color:var(--muted);font-size:18px;line-height:1}.table-card[open] summary{border-bottom:1px solid var(--line);background:var(--table-alt)}.table-card[open] summary::after{content:"−"}.table-card-title{display:block;color:var(--text);font-size:15px;font-weight:750;line-height:1.35}.table-card-meta{display:block;margin-top:3px;color:var(--muted);font-size:12px;line-height:1.35;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.table-card dl{margin:0}.table-card dl>div{display:grid;grid-template-columns:minmax(88px,34%) minmax(0,1fr);gap:10px;padding:9px 12px;border-bottom:1px solid var(--line)}.table-card dl>div:last-child{border-bottom:0}.table-card dt{color:var(--muted);font-size:12px;font-weight:700;line-height:1.45}.table-card dd{min-width:0;margin:0;color:var(--text);font-size:13px;line-height:1.5;overflow-wrap:anywhere}.table-card dd p{margin:0}.table-card summary:focus-visible{outline:3px solid var(--accent);outline-offset:-3px}}@media print{.table-mobile{display:none!important}.table-scroll{display:block!important}}</style></head><body><main class="shell"><header><h1>四份每日观察</h1><p class="deck">原文呈现 · 全平台阅读 · 自动更新</p></header><nav class="filters" aria-label="内容分类"><a href="/chatgpt-task-rss/">全部</a><a href="/chatgpt-task-rss/daily-photo.html">每日新闻摄影精选</a><a href="/chatgpt-task-rss/daily-brief.html">每日重点简报</a><a href="/chatgpt-task-rss/us-close.html">美股收盘日报</a><a href="/chatgpt-task-rss/ai-turning-point.html">AI Turning Point Scan</a></nav><article id="us-close-2026-09-13T22-40-46Z"><div class="meta"><span class="tag">美股收盘日报</span><time>2026/9/14 06:40:46</time></div><h2>美股收盘日报｜2026-09-11</h2><div class="content"><div><div><h1>美股收盘日报｜2026-09-11</h1>
+<p>周五 S&amp;P 500 收 <strong>7,656.98，+0.86%</strong>，Nasdaq Composite 收 <strong>26,333.04，+0.96%</strong>，Dow 收 <strong>52,573.29，+0.98%</strong>。CPI 月率升到 <strong>0.4%</strong>，核心 CPI 月率 <strong>0.3%</strong>，FedWatch 一度把 9 月加息概率推到 <strong>91%</strong>，收盘附近仍有约 <strong>87% 至 90%</strong>；10 年美债盘中最高 <strong>4.9915%</strong>。这种利率环境下美股还能反弹，油价从接近 110 美元回落和 AI 服务器链大涨起了很大作用。<a href="https://www.reuters.com/business/wall-st-futures-recover-oil-slides-ahead-inflation-test-2026-09-11/" target="_blank" rel="noreferrer noopener">Reuters+2Investing.com+2</a></p>
+<p>周末的情况又变差了一点。沙特 East West 输油管道遭无人机袭击后仍处于关闭状态，这条通道近期每天承担约 <strong>400 万桶</strong>绕开 Hormuz 的出口量，若长时间中断，Reuters 估算潜在影响接近全球供应的 <strong>4%</strong>。沙特股市周日跌1.3%。所以周一第一笔交易又要先看油。<a href="https://www.reuters.com/business/energy/saudi-pipeline-outage-threatens-loss-4-global-oil-supply-2026-09-13/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters+1</a></p>
+<h2>0. 今日一句话总结</h2>
+<p>四连跌之后终于反弹，S&amp;P、Nasdaq、Dow 都涨接近1%，当天上涨家数明显恢复，VIX降到15.88。可 CPI 仍然偏热，10年债差一点摸到5%，Fed下周加息已经接近市场基准情景。<a href="https://www.reuters.com/business/wall-st-futures-recover-oil-slides-ahead-inflation-test-2026-09-11/" target="_blank" rel="noreferrer noopener">Reuters+1</a></p>
+<p>AI服务器是周五最强的地方，Dell和HPE都涨约12%，HP涨8.4%；SOX也涨约 <strong>2.3%</strong>。NVDA自己却几乎没动，资金继续从单一GPU龙头往服务器、ASIC、CPU、网络和其他基础设施扩。<a href="https://www.reuters.com/business/wall-st-futures-recover-oil-slides-ahead-inflation-test-2026-09-11/" target="_blank" rel="noreferrer noopener">Reuters+1</a></p>
+<p>Nasdaq新高新低仍然很差，反弹还带着明显的“低位修复”成分。周末沙特输油管线又出事，周一能不能继续risk on，很大程度看Brent会不会重新冲108至110美元。</p>
+<p><strong>今日市场状态：超跌反弹，AI基础设施重新领涨，市场宽度改善但没完全修复，利率和能源仍压着估值。</strong></p>
+<hr>
+<h2>1. 大盘表现总览</h2>
+<div><div><div class="table-mobile" role="list" aria-label="表格的手机卡片视图"><details class="table-card" role="listitem"><summary><span><span class="table-card-title">Dow Jones</span><span class="table-card-meta">收盘 52,573.29</span></span></summary><dl><div><dt>标的</dt><dd>Dow Jones</dd></div><div><dt>收盘</dt><dd><strong>52,573.29</strong></dd></div><div><dt>涨跌幅</dt><dd><strong>+0.98%</strong></dd></div><div><dt>成交/波动</dt><dd>暂无可靠完整高低点</dd></div><div><dt>技术状态</dt><dd>四连跌后反弹</dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">S&amp;P 500</span><span class="table-card-meta">收盘 7,656.98</span></span></summary><dl><div><dt>标的</dt><dd>S&amp;P 500</dd></div><div><dt>收盘</dt><dd><strong>7,656.98</strong></dd></div><div><dt>涨跌幅</dt><dd><strong>+0.86%</strong></dd></div><div><dt>成交/波动</dt><dd>全市场140亿股</dd></div><div><dt>技术状态</dt><dd>收回50日线附近</dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">Nasdaq Composite</span><span class="table-card-meta">收盘 26,333.04</span></span></summary><dl><div><dt>标的</dt><dd>Nasdaq Composite</dd></div><div><dt>收盘</dt><dd><strong>26,333.04</strong></dd></div><div><dt>涨跌幅</dt><dd><strong>+0.96%</strong></dd></div><div><dt>成交/波动</dt><dd>暂无可靠完整高低点</dd></div><div><dt>技术状态</dt><dd>科技修复</dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">Nasdaq 100 / QQQ</span><span class="table-card-meta">收盘 暂无可靠完整终值</span></span></summary><dl><div><dt>标的</dt><dd>Nasdaq 100 / QQQ</dd></div><div><dt>收盘</dt><dd>暂无可靠完整终值</dd></div><div><dt>涨跌幅</dt><dd>上涨</dd></div><div><dt>成交/波动</dt><dd>暂无可靠数据</dd></div><div><dt>技术状态</dt><dd>高位震荡</dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">Russell 2000</span><span class="table-card-meta">收盘 2,903.94</span></span></summary><dl><div><dt>标的</dt><dd>Russell 2000</dd></div><div><dt>收盘</dt><dd><strong>2,903.94</strong></dd></div><div><dt>涨跌幅</dt><dd><strong>约+0.4%</strong></dd></div><div><dt>成交/波动</dt><dd>小盘反弹有限</dd></div><div><dt>技术状态</dt><dd>明显弱于大型成长</dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">IWM</span><span class="table-card-meta">收盘 暂无可靠同源终值</span></span></summary><dl><div><dt>标的</dt><dd>IWM</dd></div><div><dt>收盘</dt><dd>暂无可靠同源终值</dd></div><div><dt>涨跌幅</dt><dd>上涨方向</dd></div><div><dt>成交/波动</dt><dd>暂无</dd></div><div><dt>技术状态</dt><dd>低位修复</dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">SOX</span><span class="table-card-meta">收盘 暂无可靠指数点位</span></span></summary><dl><div><dt>标的</dt><dd>SOX</dd></div><div><dt>收盘</dt><dd>暂无可靠指数点位</dd></div><div><dt>涨跌幅</dt><dd><strong>约+2.3%</strong></dd></div><div><dt>成交/波动</dt><dd>芯片普遍反弹</dd></div><div><dt>技术状态</dt><dd>相对强</dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">VIX</span><span class="table-card-meta">收盘 15.88</span></span></summary><dl><div><dt>标的</dt><dd>VIX</dd></div><div><dt>收盘</dt><dd><strong>15.88</strong></dd></div><div><dt>涨跌幅</dt><dd>约跌2点</dd></div><div><dt>成交/波动</dt><dd>风险溢价下降</dd></div><div><dt>技术状态</dt><dd>未进入恐慌区</dd></div></dl></details></div><div class="table-scroll" role="region" aria-label="完整表格" tabindex="0"><table><thead><tr><th>标的</th><th>收盘</th><th>涨跌幅</th><th>成交/波动</th><th>技术状态</th></tr></thead><tbody><tr><td>Dow Jones</td><td><strong>52,573.29</strong></td><td><strong>+0.98%</strong></td><td>暂无可靠完整高低点</td><td>四连跌后反弹</td></tr><tr><td>S&amp;P 500</td><td><strong>7,656.98</strong></td><td><strong>+0.86%</strong></td><td>全市场140亿股</td><td>收回50日线附近</td></tr><tr><td>Nasdaq Composite</td><td><strong>26,333.04</strong></td><td><strong>+0.96%</strong></td><td>暂无可靠完整高低点</td><td>科技修复</td></tr><tr><td>Nasdaq 100 / QQQ</td><td>暂无可靠完整终值</td><td>上涨</td><td>暂无可靠数据</td><td>高位震荡</td></tr><tr><td>Russell 2000</td><td><strong>2,903.94</strong></td><td><strong>约+0.4%</strong></td><td>小盘反弹有限</td><td>明显弱于大型成长</td></tr><tr><td>IWM</td><td>暂无可靠同源终值</td><td>上涨方向</td><td>暂无</td><td>低位修复</td></tr><tr><td>SOX</td><td>暂无可靠指数点位</td><td><strong>约+2.3%</strong></td><td>芯片普遍反弹</td><td>相对强</td></tr><tr><td>VIX</td><td><strong>15.88</strong></td><td>约跌2点</td><td>风险溢价下降</td><td>未进入恐慌区</td></tr></tbody></table></div></div></div>
+<p>Reuters给出的全市场成交量为 <strong>140亿股</strong>，低于此前20日平均149亿股，所以这根阳线宽度不错，量能只算一般。<a href="https://www.reuters.com/business/wall-st-futures-recover-oil-slides-ahead-inflation-test-2026-09-11/" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>周线仍然偏弱。S&amp;P一周跌0.8%，Nasdaq跌0.7%。前四天下跌造成的损伤还没完全修掉。<a href="https://www.reuters.com/business/wall-st-futures-recover-oil-slides-ahead-inflation-test-2026-09-11/" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>技术上，S&amp;P前一天跌破50日线，周五又拉回来。这个位置很适合拿来判断反弹真假。周一如果重新掉回7,600下方，周五这根阳线价值会明显下降。</p>
+<hr>
+<h2>2. 盘中走势复盘</h2>
+<p>8:30 ET CPI出来以后，债市先动。8月CPI月率 <strong>+0.4%</strong>，7月只有+0.1%；核心月率 <strong>+0.3%</strong>，高于市场原先较集中的+0.2%预期。FedWatch先把25bp加息概率打到91%，随后回到87%左右。<a href="https://www.investing.com/news/economy-news/us-consumer-inflation-picks-up-in-august-4897901" target="_blank" rel="noreferrer noopener">Investing.com</a></p>
+<p>10年债一度冲到 <strong>4.9915%</strong>。</p>
+<p>正常情况下，这种动作会直接压QQQ。</p>
+<p>偏偏油价开始往下掉。Brent早盘最高 <strong>109.97美元</strong>，随后因为Hormuz临时航运谈判消息回落，最后结算 <strong>104.61美元，跌2.81%</strong>；WTI收 <strong>100.05美元，跌2.37%</strong>。<a href="https://www.reuters.com/business/energy/oil-prices-set-end-week-over-100-first-time-nearly-4-months-2026-09-11/" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>开盘以后Dell、HPE、HP直接往上冲。</p>
+<p>Dell <strong>+12%</strong>。</p>
+<p>HPE <strong>+12%</strong>。</p>
+<p>HP <strong>+8.4%</strong>。</p>
+<p>Oracle前一晚财报把AI云订单规模又推高了一层，市场马上去买服务器厂商。<a href="https://www.reuters.com/business/wall-st-futures-recover-oil-slides-ahead-inflation-test-2026-09-11/" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>午盘以后10年债依旧在高位，Nasdaq没有重新砸下去。这场比纯short squeeze稍微强一点。</p>
+<p>尾盘买盘还在，可成交没有明显放大。</p>
+<p>盘后没有新的大型科技财报重新改方向。</p>
+<hr>
+<h1>3. 宏观环境</h1>
+<h2>3.1 美债</h2>
+<div><div><div class="table-mobile" role="list" aria-label="表格的手机卡片视图"><details class="table-card" role="listitem"><summary><span><span class="table-card-title">2Y</span><span class="table-card-meta">最新可靠区域 约4.64%</span></span></summary><dl><div><dt>期限</dt><dd>2Y</dd></div><div><dt>最新可靠区域</dt><dd><strong>约4.64%</strong></dd></div><div><dt>状态</dt><dd>CPI后明显上升</dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">10Y</span><span class="table-card-meta">最新可靠区域 收盘附近约4.92%至4.96%，盘中高点 4.9915%</span></span></summary><dl><div><dt>期限</dt><dd>10Y</dd></div><div><dt>最新可靠区域</dt><dd>收盘附近约4.92%至4.96%，盘中高点 <strong>4.9915%</strong></dd></div><div><dt>状态</dt><dd>5%就在眼前</dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">30Y</span><span class="table-card-meta">最新可靠区域 暂无可靠最终统一值</span></span></summary><dl><div><dt>期限</dt><dd>30Y</dd></div><div><dt>最新可靠区域</dt><dd>暂无可靠最终统一值</dd></div><div><dt>状态</dt><dd>长端仍高</dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">2Y至10Y</span><span class="table-card-meta">最新可靠区域 约+30bp左右</span></span></summary><dl><div><dt>期限</dt><dd>2Y至10Y</dd></div><div><dt>最新可靠区域</dt><dd>约+30bp左右</dd></div><div><dt>状态</dt><dd>正斜率</dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">10Y至30Y</span><span class="table-card-meta">最新可靠区域 暂无可靠精确值</span></span></summary><dl><div><dt>期限</dt><dd>10Y至30Y</dd></div><div><dt>最新可靠区域</dt><dd>暂无可靠精确值</dd></div><div><dt>状态</dt><dd>暂无可靠数据</dd></div></dl></details></div><div class="table-scroll" role="region" aria-label="完整表格" tabindex="0"><table><thead><tr><th>期限</th><th>最新可靠区域</th><th>状态</th></tr></thead><tbody><tr><td>2Y</td><td><strong>约4.64%</strong></td><td>CPI后明显上升</td></tr><tr><td>10Y</td><td>收盘附近约4.92%至4.96%，盘中高点 <strong>4.9915%</strong></td><td>5%就在眼前</td></tr><tr><td>30Y</td><td>暂无可靠最终统一值</td><td>长端仍高</td></tr><tr><td>2Y至10Y</td><td>约+30bp左右</td><td>正斜率</td></tr><tr><td>10Y至30Y</td><td>暂无可靠精确值</td><td>暂无可靠数据</td></tr></tbody></table></div></div></div>
+<p>Reuters确认10年期在CPI公布后最高升到4.9915%，随后回落至4.9%区域。<a href="https://www.investing.com/news/economy-news/us-consumer-inflation-picks-up-in-august-4897901" target="_blank" rel="noreferrer noopener">Investing.com+1</a></p>
+<p>5%现在已经成了真正的价格位，不再只是风险情景。</p>
+<p>持续站5%以上，高PE软件、部分AI硬件、小盘、地产都会继续被压。</p>
+<p>跌回4.80%附近，市场才能真正松一口气。</p>
+<p>美国财政和供给压力也没有消失。Treasury刚把长久期旧债回购规模提高到60亿美元，市场反应很一般，10年、20年和30年收益率当时反而继续上升。<a href="https://www.reuters.com/legal/transactional/edgy-bond-investors-unconsoled-by-bessents-big-buyback-2026-09-10/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>所以这里我没那么确定Fed加一次息就能让长债马上见顶。财政赤字、政府供给、AI企业融资都在抢长期资本。</p>
+<hr>
+<h2>3.2 Fed预期</h2>
+<p>CME FedWatch在CPI后：</p>
+<p><strong>9月加息25bp一度91%。</strong></p>
+<p>随后约 <strong>87%至90%</strong>。</p>
+<p>前一天只有72%。<a href="https://www.reuters.com/business/wall-st-futures-recover-oil-slides-ahead-inflation-test-2026-09-11/" target="_blank" rel="noreferrer noopener">Reuters+1</a></p>
+<p>现在3.50%至3.75%的政策利率区间，下周加到3.75%至4.00%已经接近基准场景。</p>
+<p>市场下一步会交易两件事。</p>
+<p>9月加完以后，10月还会不会加。</p>
+<p>12月会不会再加一次。</p>
+<p>Reuters调查和经济学家观点已经开始出现“年内第二次加息”的讨论。<a href="https://www.investing.com/news/economy-news/us-consumer-inflation-picks-up-in-august-4897901" target="_blank" rel="noreferrer noopener">Investing.com</a></p>
+<p>周末还有一件政治层面的噪音。Trump再次公开要求美国拥有全球最低利率，同时白宫官员表示仍支持Fed独立性。这不会直接改下周会议决策，但会增加会议后的政治噪音。<a href="https://www.reuters.com/business/ahead-fed-meeting-trump-says-us-should-have-worlds-lowest-interest-rate-2026-09-13/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<hr>
+<h2>3.3 DXY、黄金、WTI、Brent、BTC、ETH</h2>
+<div><div><div class="table-mobile" role="list" aria-label="表格的手机卡片视图"><details class="table-card" role="listitem"><summary><span><span class="table-card-title">DXY附近</span><span class="table-card-meta">最新可靠数据 约99.1</span></span></summary><dl><div><dt>资产</dt><dd>DXY附近</dd></div><div><dt>最新可靠数据</dt><dd><strong>约99.1</strong></dd></div><div><dt>状态</dt><dd>CPI后基本稳定</dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">黄金</span><span class="table-card-meta">最新可靠数据 约4,350美元/盎司</span></span></summary><dl><div><dt>资产</dt><dd>黄金</dd></div><div><dt>最新可靠数据</dt><dd><strong>约4,350美元/盎司</strong></dd></div><div><dt>状态</dt><dd>+约0.8%</dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">WTI</span><span class="table-card-meta">最新可靠数据 100.05美元</span></span></summary><dl><div><dt>资产</dt><dd>WTI</dd></div><div><dt>最新可靠数据</dt><dd><strong>100.05美元</strong></dd></div><div><dt>状态</dt><dd>-2.37%</dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">Brent</span><span class="table-card-meta">最新可靠数据 104.61美元</span></span></summary><dl><div><dt>资产</dt><dd>Brent</dd></div><div><dt>最新可靠数据</dt><dd><strong>104.61美元</strong></dd></div><div><dt>状态</dt><dd>-2.81%</dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">Bitcoin</span><span class="table-card-meta">最新可靠数据 约7.8万至7.9万美元区域</span></span></summary><dl><div><dt>资产</dt><dd>Bitcoin</dd></div><div><dt>最新可靠数据</dt><dd>约7.8万至7.9万美元区域</dd></div><div><dt>状态</dt><dd>偏弱整理</dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">Ethereum</span><span class="table-card-meta">最新可靠数据 暂无可靠数据</span></span></summary><dl><div><dt>资产</dt><dd>Ethereum</dd></div><div><dt>最新可靠数据</dt><dd><strong>暂无可靠数据</strong></dd></div><div><dt>状态</dt><dd>暂无可靠数据</dd></div></dl></details></div><div class="table-scroll" role="region" aria-label="完整表格" tabindex="0"><table><thead><tr><th>资产</th><th>最新可靠数据</th><th>状态</th></tr></thead><tbody><tr><td>DXY附近</td><td><strong>约99.1</strong></td><td>CPI后基本稳定</td></tr><tr><td>黄金</td><td><strong>约4,350美元/盎司</strong></td><td>+约0.8%</td></tr><tr><td>WTI</td><td><strong>100.05美元</strong></td><td>-2.37%</td></tr><tr><td>Brent</td><td><strong>104.61美元</strong></td><td>-2.81%</td></tr><tr><td>Bitcoin</td><td>约7.8万至7.9万美元区域</td><td>偏弱整理</td></tr><tr><td>Ethereum</td><td><strong>暂无可靠数据</strong></td><td>暂无可靠数据</td></tr></tbody></table></div></div></div>
+<p><a href="https://www.reuters.com/world/china/global-markets-corrected-2026-09-11/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters+1</a></p>
+<p>油周五跌了，可整周仍涨超过8%。美国柴油价格也已经首次突破 <strong>6美元/加仑</strong>。<a href="https://www.reuters.com/business/energy/oil-prices-set-end-week-over-100-first-time-nearly-4-months-2026-09-11/" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>周末沙特管道遇袭后，油价的尾部风险又重新上来了。Reuters估算East West管道如果迟迟无法恢复，最多可能影响全球约4%的原油供应。<a href="https://www.reuters.com/business/energy/saudi-pipeline-outage-threatens-loss-4-global-oil-supply-2026-09-13/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>油轮运费也已经创纪录。从阿曼湾到中国的大型VLCC运输成本折算约 <strong>11.50美元/桶</strong>。即便原油现货不再涨，这部分运输成本也会慢慢往经济里传。<a href="https://www.reuters.com/business/energy/oil-tanker-rates-hit-record-highs-following-iran-us-shipping-attacks-2026-09-11/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<hr>
+<h2>3.4 当日美国重要经济数据</h2>
+<div><div><div class="table-mobile" role="list" aria-label="表格的手机卡片视图"><details class="table-card" role="listitem"><summary><span><span class="table-card-title">CPI月率</span><span class="table-card-meta">实际 +0.4%</span></span></summary><dl><div><dt>数据</dt><dd>CPI月率</dd></div><div><dt>实际</dt><dd><strong>+0.4%</strong></dd></div><div><dt>预期</dt><dd>+0.4%</dd></div><div><dt>前值</dt><dd>+0.1%</dd></div><div><dt>解读</dt><dd>headline明显加速</dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">CPI同比</span><span class="table-card-meta">实际 +3.4%</span></span></summary><dl><div><dt>数据</dt><dd>CPI同比</dd></div><div><dt>实际</dt><dd><strong>+3.4%</strong></dd></div><div><dt>预期</dt><dd>+3.4%</dd></div><div><dt>前值</dt><dd>+3.4%</dd></div><div><dt>解读</dt><dd>仍远高于2%</dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">Core CPI月率</span><span class="table-card-meta">实际 +0.3%</span></span></summary><dl><div><dt>数据</dt><dd>Core CPI月率</dd></div><div><dt>实际</dt><dd><strong>+0.3%</strong></dd></div><div><dt>预期</dt><dd>+0.2%</dd></div><div><dt>前值</dt><dd>+0.2%</dd></div><div><dt>解读</dt><dd>比预期热</dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">Core CPI同比</span><span class="table-card-meta">实际 +2.4%</span></span></summary><dl><div><dt>数据</dt><dd>Core CPI同比</dd></div><div><dt>实际</dt><dd><strong>+2.4%</strong></dd></div><div><dt>预期</dt><dd>暂无可靠统一值</dd></div><div><dt>前值</dt><dd>+2.5%</dd></div><div><dt>解读</dt><dd>同比稍降</dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">汽油价格月率</span><span class="table-card-meta">实际 +3.9%</span></span></summary><dl><div><dt>数据</dt><dd>汽油价格月率</dd></div><div><dt>实际</dt><dd><strong>+3.9%</strong></dd></div><div><dt>预期</dt><dd>不适用</dd></div><div><dt>前值</dt><dd>前期下降</dd></div><div><dt>解读</dt><dd>占CPI月升幅超过1/3</dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">其他车用燃料</span><span class="table-card-meta">实际 +9.6%</span></span></summary><dl><div><dt>数据</dt><dd>其他车用燃料</dd></div><div><dt>实际</dt><dd><strong>+9.6%</strong></dd></div><div><dt>预期</dt><dd>不适用</dd></div><div><dt>前值</dt><dd>暂无</dd></div><div><dt>解读</dt><dd>能源传导明显</dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">实际平均时薪同比</span><span class="table-card-meta">实际 -0.3%</span></span></summary><dl><div><dt>数据</dt><dd>实际平均时薪同比</dd></div><div><dt>实际</dt><dd><strong>-0.3%</strong></dd></div><div><dt>预期</dt><dd>不适用</dd></div><div><dt>前值</dt><dd>暂无</dd></div><div><dt>解读</dt><dd>实际购买力承压</dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">密歇根消费者信心初值</span><span class="table-card-meta">实际 47.8</span></span></summary><dl><div><dt>数据</dt><dd>密歇根消费者信心初值</dd></div><div><dt>实际</dt><dd><strong>47.8</strong></dd></div><div><dt>预期</dt><dd>51.0</dd></div><div><dt>前值</dt><dd>51.7</dd></div><div><dt>解读</dt><dd>明显弱于预期</dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">1年通胀预期</span><span class="table-card-meta">实际 4.6%</span></span></summary><dl><div><dt>数据</dt><dd>1年通胀预期</dd></div><div><dt>实际</dt><dd><strong>4.6%</strong></dd></div><div><dt>预期</dt><dd>暂无</dd></div><div><dt>前值</dt><dd>4.0%</dd></div><div><dt>解读</dt><dd>明显升温</dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">5年通胀预期</span><span class="table-card-meta">实际 3.4%</span></span></summary><dl><div><dt>数据</dt><dd>5年通胀预期</dd></div><div><dt>实际</dt><dd><strong>3.4%</strong></dd></div><div><dt>预期</dt><dd>暂无</dd></div><div><dt>前值</dt><dd>3.3%</dd></div><div><dt>解读</dt><dd>略升</dd></div></dl></details></div><div class="table-scroll" role="region" aria-label="完整表格" tabindex="0"><table><thead><tr><th>数据</th><th>实际</th><th>预期</th><th>前值</th><th>解读</th></tr></thead><tbody><tr><td>CPI月率</td><td><strong>+0.4%</strong></td><td>+0.4%</td><td>+0.1%</td><td>headline明显加速</td></tr><tr><td>CPI同比</td><td><strong>+3.4%</strong></td><td>+3.4%</td><td>+3.4%</td><td>仍远高于2%</td></tr><tr><td>Core CPI月率</td><td><strong>+0.3%</strong></td><td>+0.2%</td><td>+0.2%</td><td>比预期热</td></tr><tr><td>Core CPI同比</td><td><strong>+2.4%</strong></td><td>暂无可靠统一值</td><td>+2.5%</td><td>同比稍降</td></tr><tr><td>汽油价格月率</td><td><strong>+3.9%</strong></td><td>不适用</td><td>前期下降</td><td>占CPI月升幅超过1/3</td></tr><tr><td>其他车用燃料</td><td><strong>+9.6%</strong></td><td>不适用</td><td>暂无</td><td>能源传导明显</td></tr><tr><td>实际平均时薪同比</td><td><strong>-0.3%</strong></td><td>不适用</td><td>暂无</td><td>实际购买力承压</td></tr><tr><td>密歇根消费者信心初值</td><td><strong>47.8</strong></td><td>51.0</td><td>51.7</td><td>明显弱于预期</td></tr><tr><td>1年通胀预期</td><td><strong>4.6%</strong></td><td>暂无</td><td>4.0%</td><td>明显升温</td></tr><tr><td>5年通胀预期</td><td><strong>3.4%</strong></td><td>暂无</td><td>3.3%</td><td>略升</td></tr></tbody></table></div></div></div>
+<p>CPI数据来自Reuters转引BLS，消费者信心和通胀预期来自University of Michigan调查。<a href="https://www.investing.com/news/economy-news/us-consumer-inflation-picks-up-in-august-4897901" target="_blank" rel="noreferrer noopener">Investing.com+1</a></p>
+<p>这套数据挺别扭。</p>
+<p>消费者情绪很弱。</p>
+<p>通胀预期却更高。</p>
+<p>如果能源价格继续高，这个地方会越来越像增长和通胀一起不舒服的环境。</p>
+<hr>
+<h1>4. 板块表现</h1>
+<p>周五S&amp;P 11个板块有 <strong>9个上涨</strong>，通信服务 <strong>+1.35%</strong> 领涨，可选消费 <strong>+1.13%</strong> 排第二。<a href="https://www.reuters.com/business/wall-st-futures-recover-oil-slides-ahead-inflation-test-2026-09-11/" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>完整11只Sector ETF的近5日和近1月同一权威数据本轮无法稳定取得，缺失项继续写“暂无可靠数据”。</p>
+<div><div><div class="table-mobile" role="list" aria-label="表格的手机卡片视图"><details class="table-card" role="listitem"><summary><span><span class="table-card-title">XLC</span><span class="table-card-meta">当日 约+1.35%行业口径</span></span></summary><dl><div><dt>板块</dt><dd>XLC</dd></div><div><dt>当日</dt><dd>约+1.35%行业口径</dd></div><div><dt>近5日</dt><dd>暂无可靠数据</dd></div><div><dt>近1月</dt><dd>暂无可靠数据</dd></div><div><dt>相对SPX</dt><dd>跑赢</dd></div><div><dt>驱动</dt><dd>平台科技</dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">XLY</span><span class="table-card-meta">当日 约+1.13%</span></span></summary><dl><div><dt>板块</dt><dd>XLY</dd></div><div><dt>当日</dt><dd>约+1.13%</dd></div><div><dt>近5日</dt><dd>暂无</dd></div><div><dt>近1月</dt><dd>暂无</dd></div><div><dt>相对SPX</dt><dd>跑赢</dd></div><div><dt>驱动</dt><dd>油回落、risk-on</dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">XLK</span><span class="table-card-meta">当日 上涨</span></span></summary><dl><div><dt>板块</dt><dd>XLK</dd></div><div><dt>当日</dt><dd>上涨</dd></div><div><dt>近5日</dt><dd>暂无</dd></div><div><dt>近1月</dt><dd>暂无</dd></div><div><dt>相对SPX</dt><dd>中性偏强</dd></div><div><dt>驱动</dt><dd>芯片和硬件修复</dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">XLF</span><span class="table-card-meta">当日 上涨方向</span></span></summary><dl><div><dt>板块</dt><dd>XLF</dd></div><div><dt>当日</dt><dd>上涨方向</dd></div><div><dt>近5日</dt><dd>暂无</dd></div><div><dt>近1月</dt><dd>暂无</dd></div><div><dt>相对SPX</dt><dd>中性</dd></div><div><dt>驱动</dt><dd>大盘修复</dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">XLI</span><span class="table-card-meta">当日 上涨方向</span></span></summary><dl><div><dt>板块</dt><dd>XLI</dd></div><div><dt>当日</dt><dd>上涨方向</dd></div><div><dt>近5日</dt><dd>暂无</dd></div><div><dt>近1月</dt><dd>暂无</dd></div><div><dt>相对SPX</dt><dd>中性</dd></div><div><dt>驱动</dt><dd>超跌反弹</dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">XLV</span><span class="table-card-meta">当日 上涨方向</span></span></summary><dl><div><dt>板块</dt><dd>XLV</dd></div><div><dt>当日</dt><dd>上涨方向</dd></div><div><dt>近5日</dt><dd>暂无</dd></div><div><dt>近1月</dt><dd>暂无</dd></div><div><dt>相对SPX</dt><dd>中性</dd></div><div><dt>驱动</dt><dd>修复</dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">XLP</span><span class="table-card-meta">当日 小幅上涨/稳定</span></span></summary><dl><div><dt>板块</dt><dd>XLP</dd></div><div><dt>当日</dt><dd>小幅上涨/稳定</dd></div><div><dt>近5日</dt><dd>暂无</dd></div><div><dt>近1月</dt><dd>暂无</dd></div><div><dt>相对SPX</dt><dd>跑输成长</dd></div><div><dt>驱动</dt><dd>risk-on</dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">XLE</span><span class="table-card-meta">当日 回落</span></span></summary><dl><div><dt>板块</dt><dd>XLE</dd></div><div><dt>当日</dt><dd>回落</dd></div><div><dt>近5日</dt><dd>暂无</dd></div><div><dt>近1月</dt><dd>近期明显强</dd></div><div><dt>相对SPX</dt><dd>跑输</dd></div><div><dt>驱动</dt><dd>油价从110附近回落</dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">XLU</span><span class="table-card-meta">当日 偏弱</span></span></summary><dl><div><dt>板块</dt><dd>XLU</dd></div><div><dt>当日</dt><dd>偏弱</dd></div><div><dt>近5日</dt><dd>暂无</dd></div><div><dt>近1月</dt><dd>暂无</dd></div><div><dt>相对SPX</dt><dd>跑输</dd></div><div><dt>驱动</dt><dd>长债接近5%</dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">XLB</span><span class="table-card-meta">当日 修复</span></span></summary><dl><div><dt>板块</dt><dd>XLB</dd></div><div><dt>当日</dt><dd>修复</dd></div><div><dt>近5日</dt><dd>暂无</dd></div><div><dt>近1月</dt><dd>暂无</dd></div><div><dt>相对SPX</dt><dd>中性</dd></div><div><dt>驱动</dt><dd>超跌</dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">XLRE</span><span class="table-card-meta">当日 偏弱</span></span></summary><dl><div><dt>板块</dt><dd>XLRE</dd></div><div><dt>当日</dt><dd>偏弱</dd></div><div><dt>近5日</dt><dd>暂无</dd></div><div><dt>近1月</dt><dd>暂无</dd></div><div><dt>相对SPX</dt><dd>跑输</dd></div><div><dt>驱动</dt><dd>10年债高位</dd></div></dl></details></div><div class="table-scroll" role="region" aria-label="完整表格" tabindex="0"><table><thead><tr><th>板块</th><th>当日</th><th>近5日</th><th>近1月</th><th>相对SPX</th><th>驱动</th></tr></thead><tbody><tr><td>XLC</td><td>约+1.35%行业口径</td><td>暂无可靠数据</td><td>暂无可靠数据</td><td>跑赢</td><td>平台科技</td></tr><tr><td>XLY</td><td>约+1.13%</td><td>暂无</td><td>暂无</td><td>跑赢</td><td>油回落、risk-on</td></tr><tr><td>XLK</td><td>上涨</td><td>暂无</td><td>暂无</td><td>中性偏强</td><td>芯片和硬件修复</td></tr><tr><td>XLF</td><td>上涨方向</td><td>暂无</td><td>暂无</td><td>中性</td><td>大盘修复</td></tr><tr><td>XLI</td><td>上涨方向</td><td>暂无</td><td>暂无</td><td>中性</td><td>超跌反弹</td></tr><tr><td>XLV</td><td>上涨方向</td><td>暂无</td><td>暂无</td><td>中性</td><td>修复</td></tr><tr><td>XLP</td><td>小幅上涨/稳定</td><td>暂无</td><td>暂无</td><td>跑输成长</td><td>risk-on</td></tr><tr><td>XLE</td><td>回落</td><td>暂无</td><td>近期明显强</td><td>跑输</td><td>油价从110附近回落</td></tr><tr><td>XLU</td><td>偏弱</td><td>暂无</td><td>暂无</td><td>跑输</td><td>长债接近5%</td></tr><tr><td>XLB</td><td>修复</td><td>暂无</td><td>暂无</td><td>中性</td><td>超跌</td></tr><tr><td>XLRE</td><td>偏弱</td><td>暂无</td><td>暂无</td><td>跑输</td><td>10年债高位</td></tr></tbody></table></div></div></div>
+<p>这场更像能源资金短暂往成长回流。</p>
+<p>大方向上能源还没有转弱，周末供应风险反而又升级了。</p>
+<hr>
+<h1>5. 主题与风格表现</h1>
+<p><strong>SMH / SOXX</strong></p>
+<p>MarketWatch给出的SOX涨幅约 <strong>2.3%</strong>。软件ETF也涨约0.4%，难得两条同时走强。<a href="https://www.marketwatch.com/livecoverage/stock-market-today-s-p-500-dow-nasdaq-consumer-inflation-data-cpi-report-august-oil-prices/card/software-and-semiconductor-shares-are-both-moving-higher-friday-jBQBK6wjbnT4OwadOQ3o?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">MarketWatch</a></p>
+<p>服务器的强度最高。</p>
+<p>Dell +12%。</p>
+<p>HPE +12%。</p>
+<p>HP +8.4%。<a href="https://www.reuters.com/business/wall-st-futures-recover-oil-slides-ahead-inflation-test-2026-09-11/" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>NVDA没有同步爆发，这里更像钱从GPU核心往AI基础设施外圈扩。</p>
+<p><strong>IGV</strong></p>
+<p>软件也修了一点，可强度明显低于半导体服务器。</p>
+<p><strong>CIBR / HACK</strong></p>
+<p>PANW周五 <strong>-2.32%</strong>，CRWD <strong>-1.02%</strong>，安全软件没参加当天大盘反弹。<a href="https://www.marketwatch.com/data-news/fortinet-inc-stock-underperforms-friday-when-compared-to-competitors-67b8273f-4d7ddd52654d?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">MarketWatch</a></p>
+<p><strong>CLOU / WCLD</strong></p>
+<p>Oracle订单继续给云基础设施提供支撑，可ORCL自己最后跌约2%。市场现在很关心融资和现金流。</p>
+<p><strong>光通信</strong></p>
+<p>LITE、COHR、AAOI周五完整同源最终数据暂无可靠数据。</p>
+<p>前几天光通信已经出现过明显资金扩散，只要服务器线继续强，这条需求逻辑还在。</p>
+<p><strong>数据中心 / 电力</strong></p>
+<p>Oracle确认，其 <strong>6640亿美元</strong> backlog 中大约一半预计未来36个月转成收入。公司也表示很多新增合同有客户预付款或客户提供芯片，可以减轻一部分资本开支压力。<a href="https://www.reuters.com/business/retail-consumer/oracle-shares-rise-ai-cloud-backlog-beats-estimates-2026-09-11/" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>这个对VRT、ETN、PWR、ANET、光通信仍然偏正面。</p>
+<p><strong>核电 / SMR、储能</strong></p>
+<p>完整当日统一数据暂无可靠数据。</p>
+<p><strong>IWO / IWN / IWM</strong></p>
+<p>Russell只涨约0.4%，远不如大型科技。</p>
+<p>小盘没有真正参加这场risk-on。</p>
+<p><strong>RSP</strong></p>
+<p>当天宽度有修，但成交偏轻，新高数量还少，扩散质量只能算一半。</p>
+<p><strong>QQQ / SCHG</strong></p>
+<p>继续依赖AI硬件和大平台。</p>
+<p><strong>VTV</strong></p>
+<p>没有接管领导权。</p>
+<p>当前风格可以写成：</p>
+<p><strong>AI服务器最强，半导体扩散，软件温和修复，小盘仍落后。</strong></p>
+<hr>
+<h1>6. 市场宽度与参与度</h1>
+<h2>6.1 高于20 / 50 / 100 / 200日均线比例</h2>
+<p>分指数完整统一数据目前仍然缺失。</p>
+<div><div><div class="table-mobile" role="list" aria-label="表格的手机卡片视图"><details class="table-card" role="listitem"><summary><span><span class="table-card-title">S&amp;P 500</span><span class="table-card-meta">&gt;20DMA 暂无可靠数据</span></span></summary><dl><div><dt>市场</dt><dd>S&amp;P 500</dd></div><div><dt>&gt;20DMA</dt><dd>暂无可靠数据</dd></div><div><dt>&gt;50DMA</dt><dd>暂无可靠9月11日终值</dd></div><div><dt>&gt;100DMA</dt><dd>暂无可靠数据</dd></div><div><dt>&gt;200DMA</dt><dd>暂无可靠数据</dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">Nasdaq 100</span><span class="table-card-meta">&gt;20DMA 暂无可靠数据</span></span></summary><dl><div><dt>市场</dt><dd>Nasdaq 100</dd></div><div><dt>&gt;20DMA</dt><dd>暂无可靠数据</dd></div><div><dt>&gt;50DMA</dt><dd>暂无可靠数据</dd></div><div><dt>&gt;100DMA</dt><dd>暂无可靠数据</dd></div><div><dt>&gt;200DMA</dt><dd>暂无可靠数据</dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">Nasdaq Composite</span><span class="table-card-meta">&gt;20DMA 暂无可靠数据</span></span></summary><dl><div><dt>市场</dt><dd>Nasdaq Composite</dd></div><div><dt>&gt;20DMA</dt><dd>暂无可靠数据</dd></div><div><dt>&gt;50DMA</dt><dd>暂无可靠数据</dd></div><div><dt>&gt;100DMA</dt><dd>暂无可靠数据</dd></div><div><dt>&gt;200DMA</dt><dd>暂无可靠数据</dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">NYSE</span><span class="table-card-meta">&gt;20DMA 暂无可靠数据</span></span></summary><dl><div><dt>市场</dt><dd>NYSE</dd></div><div><dt>&gt;20DMA</dt><dd>暂无可靠数据</dd></div><div><dt>&gt;50DMA</dt><dd>暂无可靠数据</dd></div><div><dt>&gt;100DMA</dt><dd>暂无可靠数据</dd></div><div><dt>&gt;200DMA</dt><dd>暂无可靠数据</dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">Russell 2000</span><span class="table-card-meta">&gt;20DMA 暂无可靠数据</span></span></summary><dl><div><dt>市场</dt><dd>Russell 2000</dd></div><div><dt>&gt;20DMA</dt><dd>暂无可靠数据</dd></div><div><dt>&gt;50DMA</dt><dd>暂无可靠数据</dd></div><div><dt>&gt;100DMA</dt><dd>暂无可靠数据</dd></div><div><dt>&gt;200DMA</dt><dd>暂无可靠数据</dd></div></dl></details></div><div class="table-scroll" role="region" aria-label="完整表格" tabindex="0"><table><thead><tr><th>市场</th><th>&gt;20DMA</th><th>&gt;50DMA</th><th>&gt;100DMA</th><th>&gt;200DMA</th></tr></thead><tbody><tr><td>S&amp;P 500</td><td>暂无可靠数据</td><td>暂无可靠9月11日终值</td><td>暂无可靠数据</td><td>暂无可靠数据</td></tr><tr><td>Nasdaq 100</td><td>暂无可靠数据</td><td>暂无可靠数据</td><td>暂无可靠数据</td><td>暂无可靠数据</td></tr><tr><td>Nasdaq Composite</td><td>暂无可靠数据</td><td>暂无可靠数据</td><td>暂无可靠数据</td><td>暂无可靠数据</td></tr><tr><td>NYSE</td><td>暂无可靠数据</td><td>暂无可靠数据</td><td>暂无可靠数据</td><td>暂无可靠数据</td></tr><tr><td>Russell 2000</td><td>暂无可靠数据</td><td>暂无可靠数据</td><td>暂无可靠数据</td><td>暂无可靠数据</td></tr></tbody></table></div></div></div>
+<p>前一个交易日S&amp;P 500仅约38%的成分股站50日线上，周五上涨后应该有所修复，但没有可靠收盘终值，我不拿估算替代。</p>
+<h2>6.2 上涨/下跌、新高/新低</h2>
+<p>Reuters收盘数据：</p>
+<p>S&amp;P上涨股与下跌股约 <strong>2.1比1</strong>。</p>
+<p>S&amp;P 52周新高 <strong>8家</strong>，新低 <strong>9家</strong>。</p>
+<p>Nasdaq新高 <strong>45家</strong>，新低 <strong>182家</strong>。<a href="https://www.reuters.com/business/wall-st-futures-recover-oil-slides-ahead-inflation-test-2026-09-11/" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>这组数据很能说明周五这场。</p>
+<p>当天涨得挺广。</p>
+<p>真正创52周新高的股票还是很少。</p>
+<p>Nasdaq新低还是新高的4倍。</p>
+<p>反弹有了，突破宽度还没回来。</p>
+<h2>6.3 其他内部指标</h2>
+<p>A/D Line：方向明显改善，<strong>精确值暂无可靠数据</strong>。</p>
+<p>McClellan：<strong>暂无可靠数据</strong>。</p>
+<p>Put/Call：<strong>暂无可靠官方终值</strong>。</p>
+<p>VIX：<strong>15.88</strong>。<a href="https://www.reuters.com/business/wall-st-futures-recover-oil-slides-ahead-inflation-test-2026-09-11/" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>VIX term structure：<strong>暂无可靠完整同源数据</strong>。</p>
+<p>VVIX：<strong>暂无可靠数据</strong>。</p>
+<p>MOVE：<strong>暂无可靠日终数据</strong>。</p>
+<p>HY spread：<strong>暂无可靠9月11日终值</strong>。</p>
+<p>IG spread：<strong>暂无可靠9月11日终值</strong>。</p>
+<p>成交量140亿股，低于20日平均149亿股。</p>
+<p>所以这里我会记成：</p>
+<p><strong>缩量反弹，宽度改善，新高新低仍弱。</strong></p>
+<hr>
+<h1>7. 技术面分析</h1>
+<p>SPY、QQQ、IWM、SMH、IGV、XLK、XLC、XLY完整9月11日同源的20、50、100、200日均线、RSI和MACD没有全部可靠取得。</p>
+<p>我不把前一天技术值冒充当天终值。</p>
+<div><div><div class="table-mobile" role="list" aria-label="表格的手机卡片视图"><details class="table-card" role="listitem"><summary><span><span class="table-card-title">SPY / SPX</span><span class="table-card-meta">当前状态 SPX 7,656.98</span></span></summary><dl><div><dt>标的</dt><dd>SPY / SPX</dd></div><div><dt>当前状态</dt><dd>SPX 7,656.98</dd></div><div><dt>支撑</dt><dd>7,600至7,620</dd></div><div><dt>压力</dt><dd>7,700</dd></div><div><dt>RSI/MACD</dt><dd>暂无可靠当天完整值</dd></div><div><dt>判断</dt><dd>低位修复</dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">QQQ</span><span class="table-card-meta">当前状态 上涨方向</span></span></summary><dl><div><dt>标的</dt><dd>QQQ</dd></div><div><dt>当前状态</dt><dd>上涨方向</dd></div><div><dt>支撑</dt><dd>710附近</dd></div><div><dt>压力</dt><dd>718至724</dd></div><div><dt>RSI/MACD</dt><dd>暂无可靠当天完整值</dd></div><div><dt>判断</dt><dd>高位震荡</dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">IWM</span><span class="table-card-meta">当前状态 RUT 2,903.94</span></span></summary><dl><div><dt>标的</dt><dd>IWM</dd></div><div><dt>当前状态</dt><dd>RUT 2,903.94</dd></div><div><dt>支撑</dt><dd>2,880至2,900</dd></div><div><dt>压力</dt><dd>2,950</dd></div><div><dt>RSI/MACD</dt><dd>暂无可靠当天完整值</dd></div><div><dt>判断</dt><dd>弱修复</dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">SMH</span><span class="table-card-meta">当前状态 半导体明显修复</span></span></summary><dl><div><dt>标的</dt><dd>SMH</dd></div><div><dt>当前状态</dt><dd>半导体明显修复</dd></div><div><dt>支撑</dt><dd>暂无</dd></div><div><dt>压力</dt><dd>暂无</dd></div><div><dt>RSI/MACD</dt><dd>暂无可靠数据</dd></div><div><dt>判断</dt><dd>确认看第二天</dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">IGV</span><span class="table-card-meta">当前状态 温和反弹</span></span></summary><dl><div><dt>标的</dt><dd>IGV</dd></div><div><dt>当前状态</dt><dd>温和反弹</dd></div><div><dt>支撑</dt><dd>暂无</dd></div><div><dt>压力</dt><dd>暂无</dd></div><div><dt>RSI/MACD</dt><dd>暂无可靠数据</dd></div><div><dt>判断</dt><dd>仍弱于硬件</dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">XLK</span><span class="table-card-meta">当前状态 科技反弹</span></span></summary><dl><div><dt>标的</dt><dd>XLK</dd></div><div><dt>当前状态</dt><dd>科技反弹</dd></div><div><dt>支撑</dt><dd>暂无</dd></div><div><dt>压力</dt><dd>暂无</dd></div><div><dt>RSI/MACD</dt><dd>暂无可靠数据</dd></div><div><dt>判断</dt><dd>高位震荡</dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">XLC</span><span class="table-card-meta">当前状态 当天较强</span></span></summary><dl><div><dt>标的</dt><dd>XLC</dd></div><div><dt>当前状态</dt><dd>当天较强</dd></div><div><dt>支撑</dt><dd>暂无</dd></div><div><dt>压力</dt><dd>暂无</dd></div><div><dt>RSI/MACD</dt><dd>暂无可靠数据</dd></div><div><dt>判断</dt><dd>相对强</dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">XLY</span><span class="table-card-meta">当前状态 当天较强</span></span></summary><dl><div><dt>标的</dt><dd>XLY</dd></div><div><dt>当前状态</dt><dd>当天较强</dd></div><div><dt>支撑</dt><dd>暂无</dd></div><div><dt>压力</dt><dd>暂无</dd></div><div><dt>RSI/MACD</dt><dd>暂无可靠数据</dd></div><div><dt>判断</dt><dd>低位修复</dd></div></dl></details></div><div class="table-scroll" role="region" aria-label="完整表格" tabindex="0"><table><thead><tr><th>标的</th><th>当前状态</th><th>支撑</th><th>压力</th><th>RSI/MACD</th><th>判断</th></tr></thead><tbody><tr><td>SPY / SPX</td><td>SPX 7,656.98</td><td>7,600至7,620</td><td>7,700</td><td>暂无可靠当天完整值</td><td>低位修复</td></tr><tr><td>QQQ</td><td>上涨方向</td><td>710附近</td><td>718至724</td><td>暂无可靠当天完整值</td><td>高位震荡</td></tr><tr><td>IWM</td><td>RUT 2,903.94</td><td>2,880至2,900</td><td>2,950</td><td>暂无可靠当天完整值</td><td>弱修复</td></tr><tr><td>SMH</td><td>半导体明显修复</td><td>暂无</td><td>暂无</td><td>暂无可靠数据</td><td>确认看第二天</td></tr><tr><td>IGV</td><td>温和反弹</td><td>暂无</td><td>暂无</td><td>暂无可靠数据</td><td>仍弱于硬件</td></tr><tr><td>XLK</td><td>科技反弹</td><td>暂无</td><td>暂无</td><td>暂无可靠数据</td><td>高位震荡</td></tr><tr><td>XLC</td><td>当天较强</td><td>暂无</td><td>暂无</td><td>暂无可靠数据</td><td>相对强</td></tr><tr><td>XLY</td><td>当天较强</td><td>暂无</td><td>暂无</td><td>暂无可靠数据</td><td>低位修复</td></tr></tbody></table></div></div></div>
+<p>S&amp;P的价格位比较清楚。</p>
+<p><strong>7,600</strong> 是第一道支撑。</p>
+<p><strong>7,700</strong> 是第一道确认位。</p>
+<p>周一能站7,700，才更像四连跌后的反转继续。</p>
+<p>重新跌破7,600，周五更像一次单日修复。</p>
+<hr>
+<h1>8. 重点个股新闻与异动</h1>
+<h2>8.1 七巨头</h2>
+<p>GOOG周五收 <strong>335.45美元，+1.53%</strong>。</p>
+<p>MSFT约 <strong>+0.65%</strong>。</p>
+<p>AMZN约 <strong>+1.94%</strong>。</p>
+<p>META约 <strong>+0.57%</strong>。<a href="https://www.marketwatch.com/data-news/alphabet-inc-cl-c-stock-outperforms-competitors-on-strong-trading-day-c784a47d-449430658e47?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">MarketWatch</a></p>
+<p>NVDA周五收 <strong>218.29美元附近</strong>，基本持平。Reuters周末又披露，Anthropic正在讨论让Nvidia成为潜在IPO的锚定投资者，Nvidia考虑投资最高约 <strong>100亿美元</strong>。Anthropic潜在融资规模最高1000亿美元，讨论估值约2万亿美元，方案仍可能变化。<a href="https://www.reuters.com/legal/transactional/nvidia-talks-invest-anthropics-mega-ipo-sources-say-2026-09-11/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>Apple、TSLA完整同源最终涨跌本轮 <strong>暂无可靠数据</strong>。</p>
+<p>NVDA这里挺有意思。</p>
+<p>服务器、芯片板块都涨。</p>
+<p>它自己没有领导。</p>
+<p>如果这种相对弱势再持续一周，AI内部资金结构变化就更值得重视。</p>
+<hr>
+<h2>8.2 AI硬件 / 半导体</h2>
+<p>已验证的重要变化：</p>
+<p>Dell <strong>+12%</strong>。</p>
+<p>HPE <strong>+12%</strong>。</p>
+<p>HPQ <strong>+8.4%</strong>。</p>
+<p>SOX <strong>约+2.3%</strong>。<a href="https://www.reuters.com/business/wall-st-futures-recover-oil-slides-ahead-inflation-test-2026-09-11/" target="_blank" rel="noreferrer noopener">Reuters+1</a></p>
+<p>AMD、AVGO、MRVL、MU、TSM、ASML、ARM、INTC、QCOM、SMCI、ANET、CLS、VRT、COHR、LITE、AAOI、TSEM、SIVE的9月11日完整同源终值，本轮没有可靠全部返回。</p>
+<p>SMCI有可靠Barchart数据，周五 <strong>40.10美元，+7.28%</strong>，说明AI服务器并非只有Dell/HPE在动。<a href="https://raymondjames.websol.barchart.com/?0=NEWS&amp;1_selected=stockTechnicals&amp;1_selected_selected=tradersCheatSheet&amp;module=stockDetail&amp;region=&amp;symbol=SMCI&amp;utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Raymond James</a></p>
+<p>这条现在已经很清楚。</p>
+<p>服务器。</p>
+<p>ASIC。</p>
+<p>CPU。</p>
+<p>memory。</p>
+<p>网络。</p>
+<p>光互连。</p>
+<p>资金越来越愿意从GPU往外扩。</p>
+<hr>
+<h2>8.3 软件 / SaaS / AI应用</h2>
+<p>Adobe Q3收入 <strong>67.6亿美元</strong>，高于市场约67亿美元；调整后EPS <strong>6.13美元</strong>，高于6.09美元预期；AI-first产品ARR同比增长超过一倍。Q4收入指引68.0亿至68.5亿美元，中点略低于市场约68.5亿预期。<a href="https://www.reuters.com/business/adobe-beats-third-quarter-revenue-estimates-2026-09-10/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>PANW周五 <strong>-2.32%</strong>。</p>
+<p>CRWD <strong>206.74美元，-1.02%</strong>。<a href="https://www.marketwatch.com/data-news/fortinet-inc-stock-underperforms-friday-when-compared-to-competitors-67b8273f-4d7ddd52654d?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">MarketWatch</a></p>
+<p>Oracle周五盘中一度涨7.8%，最后反而收跌约2%。原因已经很明确。</p>
+<p>backlog很强。</p>
+<p>现金流压力也很大。</p>
+<p>公司计划本财年通过债务和股权筹资 <strong>400亿美元</strong>，最近季度自由现金流 <strong>负54亿美元</strong>。<a href="https://www.reuters.com/business/retail-consumer/oracle-shares-rise-ai-cloud-backlog-beats-estimates-2026-09-11/" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>CRM、NOW、SNOW、DDOG、NET、MDB、PLTR、APP、TEAM、WDAY、INTU、SHOP完整日终同源行情：<strong>暂无可靠数据</strong>。</p>
+<p>软件现在越来越需要分开看。</p>
+<p>AI基础设施软件、数据、云消费更舒服。</p>
+<p>依赖seat订阅和workflow功能的软件还要证明自己的功能不会被agent快速替代。</p>
+<hr>
+<h2>8.4 AI电力 / 数据中心 / 能源基础设施</h2>
+<p>Oracle的6640亿美元backlog和服务器股周五的反应，继续给VRT、ETN、PWR、GEV、ANET这条需求链背书。<a href="https://www.reuters.com/business/retail-consumer/oracle-shares-rise-ai-cloud-backlog-beats-estimates-2026-09-11/" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>AI建设现在的麻烦已经不只是订单。</p>
+<p>融资也越来越重。</p>
+<p>电力。</p>
+<p>并网。</p>
+<p>变压器。</p>
+<p>冷却。</p>
+<p>高速网络。</p>
+<p>客户预付款。</p>
+<p>这些东西已经一起进入利润池。</p>
+<p>CEG、VST、NRG、ETN、PWR、GEV、VRT、FLNC、OKLO、SMR、BE、NEE、SO、DUK、APLD、IREN、CORZ完整9月11日同源行情：</p>
+<p><strong>暂无可靠完整数据。</strong></p>
+<p>这里我仍然更喜欢已经有订单和现金流的公司。</p>
+<p>10年债真站5%以上，远期项目和高融资依赖公司会很难。</p>
+<hr>
+<h2>8.5 其他新闻与异动</h2>
+<p>ACV Auctions涨 <strong>44%</strong>，Copart同意以接近 <strong>19亿美元</strong>收购。<a href="https://www.reuters.com/business/wall-st-futures-recover-oil-slides-ahead-inflation-test-2026-09-11/" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>美国股票基金截至9月9日一周出现 <strong>322.7亿美元净流出</strong>，创九个月最大流出；大型股基金流出 <strong>404.4亿美元</strong>。科技基金反而流入约17.1亿美元。<a href="https://www.reuters.com/business/us-equity-funds-record-nine-month-high-outflows-oil-stokes-inflation-fears-2026-09-11/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>这个资金流和指数挺有反差。</p>
+<p>大盘beta在撤。</p>
+<p>AI和科技内部依旧有人买。</p>
+<hr>
+<h1>9. 财报日历与财报解读</h1>
+<p>最近两份值得继续留：</p>
+<p><strong>Oracle</strong></p>
+<p>收入和订单增长强。</p>
+<p>backlog 6640亿美元。</p>
+<p>约一半预计未来36个月转收入。</p>
+<p>融资400亿美元。</p>
+<p>自由现金流仍为负。</p>
+<p>股价周五盘中涨7.8%，最后收跌约2%。<a href="https://www.reuters.com/business/retail-consumer/oracle-shares-rise-ai-cloud-backlog-beats-estimates-2026-09-11/" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>市场的态度已经很清楚。</p>
+<p>AI需求可以给增长。</p>
+<p>资本效率也必须开始交卷。</p>
+<p><strong>Adobe</strong></p>
+<p>Q3收入和EPS小幅beat。</p>
+<p>AI-first ARR翻倍。</p>
+<p>Q4收入指引没有超过市场高预期。<a href="https://www.reuters.com/business/adobe-beats-third-quarter-revenue-estimates-2026-09-10/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>未来1至3个交易日财报密度不算大。</p>
+<p>最大的事件在：</p>
+<p><strong>9月15日至16日FOMC。</strong></p>
+<p>现在市场几乎已经把25bp加息押进价格。</p>
+<p>声明和Warsh讲话会更重要。</p>
+<hr>
+<h1>10. 机构观点与资金流</h1>
+<p>美国股票基金截至9月9日的一周流出 <strong>322.7亿美元</strong>，九个月最大。</p>
+<p>大型股基金流出404.4亿美元。</p>
+<p>中盘流出6.82亿美元。</p>
+<p>小盘反而流入2.74亿美元。</p>
+<p>科技行业基金流入17.1亿美元。</p>
+<p>美国债券基金继续第21周净流入，本周流入65.6亿美元。<a href="https://www.reuters.com/business/us-equity-funds-record-nine-month-high-outflows-oil-stokes-inflation-fears-2026-09-11/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>所以现在资金动作挺微妙。</p>
+<p>整体股票风险在降。</p>
+<p>科技里面还有选择性加仓。</p>
+<p>债券资金也继续进。</p>
+<p>卖方对指数盈利仍然偏乐观，市场整体forward PE约19倍，可10年债已经在5%门口。</p>
+<p>这个组合会让未来几周行情很挑公司。</p>
+<p>期权单日异动：<strong>暂无可靠完整数据</strong>。</p>
+<p>大宗交易：<strong>暂无可靠完整数据</strong>。</p>
+<p>内部人交易：<strong>暂无可靠重大新增信息</strong>。</p>
+<hr>
+<h1>11. 板块轮动判断</h1>
+<p>现在放在：</p>
+<p><strong>超跌反弹 + AI硬件扩散 + 指数内部仍偏弱 + 高利率压估值。</strong></p>
+<p>钱明显去了Dell、HPE、SMCI这些服务器。</p>
+<p>半导体也一起涨。</p>
+<p>通信和可选消费修复。</p>
+<p>能源因为周五油价回落暂时降温。</p>
+<p>AI健康度我给 <strong>中性偏健康</strong>。</p>
+<p>需求端没坏。</p>
+<p>订单没坏。</p>
+<p>服务器和云需求还在放量。</p>
+<p>价格端的问题越来越集中到融资成本。</p>
+<p>半导体领导力还在，但NVDA自己的领导力短线下降。</p>
+<p>软件只修了一点。</p>
+<p>小盘继续弱于大盘。</p>
+<p>所以还谈不上完整risk-on。</p>
+<hr>
+<h1>12. 我的重点关注股观察</h1>
+<p>当日数据没能可靠验证的继续直接标记。</p>
+<div><div><div class="table-mobile" role="list" aria-label="表格的手机卡片视图"><details class="table-card" role="listitem"><summary><span><span class="table-card-title">NVDA</span><span class="table-card-meta">当日 近乎持平</span></span></summary><dl><div><dt>股票</dt><dd>NVDA</dd></div><div><dt>当日</dt><dd>近乎持平</dd></div><div><dt>当前趋势 / 新闻</dt><dd>相对硬件链偏弱，周末Anthropic IPO投资传闻</dd></div><div><dt>支撑</dt><dd>215至218</dd></div><div><dt>压力</dt><dd>225至230</dd></div><div><dt>标签</dt><dd>高位震荡</dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">AMD</span><span class="table-card-meta">当日 暂无可靠数据</span></span></summary><dl><div><dt>股票</dt><dd>AMD</dd></div><div><dt>当日</dt><dd>暂无可靠数据</dd></div><div><dt>当前趋势 / 新闻</dt><dd>近期相对强</dd></div><div><dt>支撑</dt><dd>500</dd></div><div><dt>压力</dt><dd>525</dd></div><div><dt>标签</dt><dd>高位震荡</dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">AVGO</span><span class="table-card-meta">当日 暂无可靠数据</span></span></summary><dl><div><dt>股票</dt><dd>AVGO</dd></div><div><dt>当日</dt><dd>暂无可靠数据</dd></div><div><dt>当前趋势 / 新闻</dt><dd>ASIC和AI网络逻辑强</dd></div><div><dt>支撑</dt><dd>355至360</dd></div><div><dt>压力</dt><dd>370</dd></div><div><dt>标签</dt><dd>高位震荡</dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">MRVL</span><span class="table-card-meta">当日 暂无可靠数据</span></span></summary><dl><div><dt>股票</dt><dd>MRVL</dd></div><div><dt>当日</dt><dd>暂无可靠数据</dd></div><div><dt>当前趋势 / 新闻</dt><dd>ASIC修复</dd></div><div><dt>支撑</dt><dd>220附近</dd></div><div><dt>压力</dt><dd>230</dd></div><div><dt>标签</dt><dd>低位修复</dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">GOOGL</span><span class="table-card-meta">当日 +1.53%</span></span></summary><dl><div><dt>股票</dt><dd>GOOGL</dd></div><div><dt>当日</dt><dd><strong>+1.53%</strong></dd></div><div><dt>当前趋势 / 新闻</dt><dd>平台反弹</dd></div><div><dt>支撑</dt><dd>330</dd></div><div><dt>压力</dt><dd>340</dd></div><div><dt>标签</dt><dd>低位修复</dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">MSFT</span><span class="table-card-meta">当日 约+0.65%</span></span></summary><dl><div><dt>股票</dt><dd>MSFT</dd></div><div><dt>当日</dt><dd><strong>约+0.65%</strong></dd></div><div><dt>当前趋势 / 新闻</dt><dd>490附近有承接</dd></div><div><dt>支撑</dt><dd>490</dd></div><div><dt>压力</dt><dd>500</dd></div><div><dt>标签</dt><dd>回踩支撑</dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">META</span><span class="table-card-meta">当日 约+0.57%</span></span></summary><dl><div><dt>股票</dt><dd>META</dd></div><div><dt>当日</dt><dd><strong>约+0.57%</strong></dd></div><div><dt>当前趋势 / 新闻</dt><dd>Muse催化后整理</dd></div><div><dt>支撑</dt><dd>暂无</dd></div><div><dt>压力</dt><dd>暂无</dd></div><div><dt>标签</dt><dd>高位震荡</dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">AMZN</span><span class="table-card-meta">当日 约+1.94%</span></span></summary><dl><div><dt>股票</dt><dd>AMZN</dd></div><div><dt>当日</dt><dd><strong>约+1.94%</strong></dd></div><div><dt>当前趋势 / 新闻</dt><dd>AWS和自研AI芯片</dd></div><div><dt>支撑</dt><dd>暂无</dd></div><div><dt>压力</dt><dd>暂无</dd></div><div><dt>标签</dt><dd>继续强势</dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">ORCL</span><span class="table-card-meta">当日 约-2%</span></span></summary><dl><div><dt>股票</dt><dd>ORCL</dd></div><div><dt>当日</dt><dd>约-2%</dd></div><div><dt>当前趋势 / 新闻</dt><dd>订单强，融资与现金流受质疑</dd></div><div><dt>支撑</dt><dd>150</dd></div><div><dt>压力</dt><dd>160至165</dd></div><div><dt>标签</dt><dd>利好兑现</dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">CRM</span><span class="table-card-meta">当日 暂无可靠数据</span></span></summary><dl><div><dt>股票</dt><dd>CRM</dd></div><div><dt>当日</dt><dd>暂无可靠数据</dd></div><div><dt>当前趋势 / 新闻</dt><dd>SaaS低位修复</dd></div><div><dt>支撑</dt><dd>240</dd></div><div><dt>压力</dt><dd>250</dd></div><div><dt>标签</dt><dd>低位修复</dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">NOW</span><span class="table-card-meta">当日 暂无可靠数据</span></span></summary><dl><div><dt>股票</dt><dd>NOW</dd></div><div><dt>当日</dt><dd>暂无可靠数据</dd></div><div><dt>当前趋势 / 新闻</dt><dd>软件修复</dd></div><div><dt>支撑</dt><dd>暂无</dd></div><div><dt>压力</dt><dd>暂无</dd></div><div><dt>标签</dt><dd>低位修复</dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">SNOW</span><span class="table-card-meta">当日 暂无可靠数据</span></span></summary><dl><div><dt>股票</dt><dd>SNOW</dd></div><div><dt>当日</dt><dd>暂无可靠数据</dd></div><div><dt>当前趋势 / 新闻</dt><dd>强财报后整理</dd></div><div><dt>支撑</dt><dd>财报缺口</dd></div><div><dt>压力</dt><dd>暂无</dd></div><div><dt>标签</dt><dd>高位震荡</dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">ADBE</span><span class="table-card-meta">当日 暂无可靠终值</span></span></summary><dl><div><dt>股票</dt><dd>ADBE</dd></div><div><dt>当日</dt><dd>暂无可靠终值</dd></div><div><dt>当前趋势 / 新闻</dt><dd>财报基本符合预期</dd></div><div><dt>支撑</dt><dd>245至250</dd></div><div><dt>压力</dt><dd>260</dd></div><div><dt>标签</dt><dd>需要观察</dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">PANW</span><span class="table-card-meta">当日 -2.32%</span></span></summary><dl><div><dt>股票</dt><dd>PANW</dd></div><div><dt>当日</dt><dd><strong>-2.32%</strong></dd></div><div><dt>当前趋势 / 新闻</dt><dd>安全软件跑输大盘</dd></div><div><dt>支撑</dt><dd>325附近</dd></div><div><dt>压力</dt><dd>340</dd></div><div><dt>标签</dt><dd>回踩支撑</dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">CRWD</span><span class="table-card-meta">当日 -1.02%</span></span></summary><dl><div><dt>股票</dt><dd>CRWD</dd></div><div><dt>当日</dt><dd><strong>-1.02%</strong></dd></div><div><dt>当前趋势 / 新闻</dt><dd>大盘反弹仍跌</dd></div><div><dt>支撑</dt><dd>205</dd></div><div><dt>压力</dt><dd>215</dd></div><div><dt>标签</dt><dd>回踩支撑</dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">PLTR</span><span class="table-card-meta">当日 暂无可靠数据</span></span></summary><dl><div><dt>股票</dt><dd>PLTR</dd></div><div><dt>当日</dt><dd>暂无可靠数据</dd></div><div><dt>当前趋势 / 新闻</dt><dd>高估值</dd></div><div><dt>支撑</dt><dd>暂无</dd></div><div><dt>压力</dt><dd>暂无</dd></div><div><dt>标签</dt><dd>短线过热</dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">DDOG</span><span class="table-card-meta">当日 暂无可靠数据</span></span></summary><dl><div><dt>股票</dt><dd>DDOG</dd></div><div><dt>当日</dt><dd>暂无可靠数据</dd></div><div><dt>当前趋势 / 新闻</dt><dd>AI基础软件</dd></div><div><dt>支撑</dt><dd>暂无</dd></div><div><dt>压力</dt><dd>暂无</dd></div><div><dt>标签</dt><dd>高位震荡</dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">NET</span><span class="table-card-meta">当日 暂无可靠数据</span></span></summary><dl><div><dt>股票</dt><dd>NET</dd></div><div><dt>当日</dt><dd>暂无可靠数据</dd></div><div><dt>当前趋势 / 新闻</dt><dd>前期快速上涨</dd></div><div><dt>支撑</dt><dd>暂无</dd></div><div><dt>压力</dt><dd>暂无</dd></div><div><dt>标签</dt><dd>短线过热</dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">LITE</span><span class="table-card-meta">当日 暂无可靠数据</span></span></summary><dl><div><dt>股票</dt><dd>LITE</dd></div><div><dt>当日</dt><dd>暂无可靠数据</dd></div><div><dt>当前趋势 / 新闻</dt><dd>光通信</dd></div><div><dt>支撑</dt><dd>暂无</dd></div><div><dt>压力</dt><dd>暂无</dd></div><div><dt>标签</dt><dd>高位震荡</dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">COHR</span><span class="table-card-meta">当日 暂无可靠数据</span></span></summary><dl><div><dt>股票</dt><dd>COHR</dd></div><div><dt>当日</dt><dd>暂无可靠数据</dd></div><div><dt>当前趋势 / 新闻</dt><dd>高速光互连</dd></div><div><dt>支撑</dt><dd>暂无</dd></div><div><dt>压力</dt><dd>暂无</dd></div><div><dt>标签</dt><dd>高位震荡</dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">AAOI</span><span class="table-card-meta">当日 暂无可靠数据</span></span></summary><dl><div><dt>股票</dt><dd>AAOI</dd></div><div><dt>当日</dt><dd>暂无可靠数据</dd></div><div><dt>当前趋势 / 新闻</dt><dd>高beta</dd></div><div><dt>支撑</dt><dd>暂无</dd></div><div><dt>压力</dt><dd>暂无</dd></div><div><dt>标签</dt><dd>需要观察</dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">TSEM</span><span class="table-card-meta">当日 暂无可靠数据</span></span></summary><dl><div><dt>股票</dt><dd>TSEM</dd></div><div><dt>当日</dt><dd>暂无可靠数据</dd></div><div><dt>当前趋势 / 新闻</dt><dd>半导体beta</dd></div><div><dt>支撑</dt><dd>暂无</dd></div><div><dt>压力</dt><dd>暂无</dd></div><div><dt>标签</dt><dd>低位修复</dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">SIVE</span><span class="table-card-meta">当日 暂无可靠数据</span></span></summary><dl><div><dt>股票</dt><dd>SIVE</dd></div><div><dt>当日</dt><dd>暂无可靠数据</dd></div><div><dt>当前趋势 / 新闻</dt><dd>信息不足</dd></div><div><dt>支撑</dt><dd>暂无</dd></div><div><dt>压力</dt><dd>暂无</dd></div><div><dt>标签</dt><dd>需要观察</dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">ANET</span><span class="table-card-meta">当日 暂无可靠数据</span></span></summary><dl><div><dt>股票</dt><dd>ANET</dd></div><div><dt>当日</dt><dd>暂无可靠数据</dd></div><div><dt>当前趋势 / 新闻</dt><dd>AI网络</dd></div><div><dt>支撑</dt><dd>暂无</dd></div><div><dt>压力</dt><dd>暂无</dd></div><div><dt>标签</dt><dd>继续强势</dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">FLNC</span><span class="table-card-meta">当日 暂无可靠数据</span></span></summary><dl><div><dt>股票</dt><dd>FLNC</dd></div><div><dt>当日</dt><dd>暂无可靠数据</dd></div><div><dt>当前趋势 / 新闻</dt><dd>储能</dd></div><div><dt>支撑</dt><dd>暂无</dd></div><div><dt>压力</dt><dd>暂无</dd></div><div><dt>标签</dt><dd>破位风险</dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">OKLO</span><span class="table-card-meta">当日 暂无可靠数据</span></span></summary><dl><div><dt>股票</dt><dd>OKLO</dd></div><div><dt>当日</dt><dd>暂无可靠数据</dd></div><div><dt>当前趋势 / 新闻</dt><dd>核电高beta</dd></div><div><dt>支撑</dt><dd>暂无</dd></div><div><dt>压力</dt><dd>暂无</dd></div><div><dt>标签</dt><dd>需要观察</dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">VST</span><span class="table-card-meta">当日 暂无可靠数据</span></span></summary><dl><div><dt>股票</dt><dd>VST</dd></div><div><dt>当日</dt><dd>暂无可靠数据</dd></div><div><dt>当前趋势 / 新闻</dt><dd>数据中心电力</dd></div><div><dt>支撑</dt><dd>暂无</dd></div><div><dt>压力</dt><dd>暂无</dd></div><div><dt>标签</dt><dd>高位震荡</dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">CEG</span><span class="table-card-meta">当日 暂无可靠数据</span></span></summary><dl><div><dt>股票</dt><dd>CEG</dd></div><div><dt>当日</dt><dd>暂无可靠数据</dd></div><div><dt>当前趋势 / 新闻</dt><dd>核电和AI电力</dd></div><div><dt>支撑</dt><dd>暂无</dd></div><div><dt>压力</dt><dd>暂无</dd></div><div><dt>标签</dt><dd>高位震荡</dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">ETN</span><span class="table-card-meta">当日 暂无可靠数据</span></span></summary><dl><div><dt>股票</dt><dd>ETN</dd></div><div><dt>当日</dt><dd>暂无可靠数据</dd></div><div><dt>当前趋势 / 新闻</dt><dd>数据中心配电</dd></div><div><dt>支撑</dt><dd>暂无</dd></div><div><dt>压力</dt><dd>暂无</dd></div><div><dt>标签</dt><dd>回踩支撑</dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">VRT</span><span class="table-card-meta">当日 暂无可靠数据</span></span></summary><dl><div><dt>股票</dt><dd>VRT</dd></div><div><dt>当日</dt><dd>暂无可靠数据</dd></div><div><dt>当前趋势 / 新闻</dt><dd>AI供电和制冷</dd></div><div><dt>支撑</dt><dd>暂无</dd></div><div><dt>压力</dt><dd>暂无</dd></div><div><dt>标签</dt><dd>继续强势</dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">PWR</span><span class="table-card-meta">当日 暂无可靠数据</span></span></summary><dl><div><dt>股票</dt><dd>PWR</dd></div><div><dt>当日</dt><dd>暂无可靠数据</dd></div><div><dt>当前趋势 / 新闻</dt><dd>电网建设</dd></div><div><dt>支撑</dt><dd>暂无</dd></div><div><dt>压力</dt><dd>暂无</dd></div><div><dt>标签</dt><dd>回踩支撑</dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">GEV</span><span class="table-card-meta">当日 暂无可靠数据</span></span></summary><dl><div><dt>股票</dt><dd>GEV</dd></div><div><dt>当日</dt><dd>暂无可靠数据</dd></div><div><dt>当前趋势 / 新闻</dt><dd>发电设备</dd></div><div><dt>支撑</dt><dd>暂无</dd></div><div><dt>压力</dt><dd>暂无</dd></div><div><dt>标签</dt><dd>高位震荡</dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">APLD</span><span class="table-card-meta">当日 暂无可靠数据</span></span></summary><dl><div><dt>股票</dt><dd>APLD</dd></div><div><dt>当日</dt><dd>暂无可靠数据</dd></div><div><dt>当前趋势 / 新闻</dt><dd>高融资敏感</dd></div><div><dt>支撑</dt><dd>暂无</dd></div><div><dt>压力</dt><dd>暂无</dd></div><div><dt>标签</dt><dd>破位风险</dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">IREN</span><span class="table-card-meta">当日 暂无可靠数据</span></span></summary><dl><div><dt>股票</dt><dd>IREN</dd></div><div><dt>当日</dt><dd>暂无可靠数据</dd></div><div><dt>当前趋势 / 新闻</dt><dd>AI算力高beta</dd></div><div><dt>支撑</dt><dd>暂无</dd></div><div><dt>压力</dt><dd>暂无</dd></div><div><dt>标签</dt><dd>需要观察</dd></div></dl></details></div><div class="table-scroll" role="region" aria-label="完整表格" tabindex="0"><table><thead><tr><th>股票</th><th>当日</th><th>当前趋势 / 新闻</th><th>支撑</th><th>压力</th><th>标签</th></tr></thead><tbody><tr><td>NVDA</td><td>近乎持平</td><td>相对硬件链偏弱，周末Anthropic IPO投资传闻</td><td>215至218</td><td>225至230</td><td>高位震荡</td></tr><tr><td>AMD</td><td>暂无可靠数据</td><td>近期相对强</td><td>500</td><td>525</td><td>高位震荡</td></tr><tr><td>AVGO</td><td>暂无可靠数据</td><td>ASIC和AI网络逻辑强</td><td>355至360</td><td>370</td><td>高位震荡</td></tr><tr><td>MRVL</td><td>暂无可靠数据</td><td>ASIC修复</td><td>220附近</td><td>230</td><td>低位修复</td></tr><tr><td>GOOGL</td><td><strong>+1.53%</strong></td><td>平台反弹</td><td>330</td><td>340</td><td>低位修复</td></tr><tr><td>MSFT</td><td><strong>约+0.65%</strong></td><td>490附近有承接</td><td>490</td><td>500</td><td>回踩支撑</td></tr><tr><td>META</td><td><strong>约+0.57%</strong></td><td>Muse催化后整理</td><td>暂无</td><td>暂无</td><td>高位震荡</td></tr><tr><td>AMZN</td><td><strong>约+1.94%</strong></td><td>AWS和自研AI芯片</td><td>暂无</td><td>暂无</td><td>继续强势</td></tr><tr><td>ORCL</td><td>约-2%</td><td>订单强，融资与现金流受质疑</td><td>150</td><td>160至165</td><td>利好兑现</td></tr><tr><td>CRM</td><td>暂无可靠数据</td><td>SaaS低位修复</td><td>240</td><td>250</td><td>低位修复</td></tr><tr><td>NOW</td><td>暂无可靠数据</td><td>软件修复</td><td>暂无</td><td>暂无</td><td>低位修复</td></tr><tr><td>SNOW</td><td>暂无可靠数据</td><td>强财报后整理</td><td>财报缺口</td><td>暂无</td><td>高位震荡</td></tr><tr><td>ADBE</td><td>暂无可靠终值</td><td>财报基本符合预期</td><td>245至250</td><td>260</td><td>需要观察</td></tr><tr><td>PANW</td><td><strong>-2.32%</strong></td><td>安全软件跑输大盘</td><td>325附近</td><td>340</td><td>回踩支撑</td></tr><tr><td>CRWD</td><td><strong>-1.02%</strong></td><td>大盘反弹仍跌</td><td>205</td><td>215</td><td>回踩支撑</td></tr><tr><td>PLTR</td><td>暂无可靠数据</td><td>高估值</td><td>暂无</td><td>暂无</td><td>短线过热</td></tr><tr><td>DDOG</td><td>暂无可靠数据</td><td>AI基础软件</td><td>暂无</td><td>暂无</td><td>高位震荡</td></tr><tr><td>NET</td><td>暂无可靠数据</td><td>前期快速上涨</td><td>暂无</td><td>暂无</td><td>短线过热</td></tr><tr><td>LITE</td><td>暂无可靠数据</td><td>光通信</td><td>暂无</td><td>暂无</td><td>高位震荡</td></tr><tr><td>COHR</td><td>暂无可靠数据</td><td>高速光互连</td><td>暂无</td><td>暂无</td><td>高位震荡</td></tr><tr><td>AAOI</td><td>暂无可靠数据</td><td>高beta</td><td>暂无</td><td>暂无</td><td>需要观察</td></tr><tr><td>TSEM</td><td>暂无可靠数据</td><td>半导体beta</td><td>暂无</td><td>暂无</td><td>低位修复</td></tr><tr><td>SIVE</td><td>暂无可靠数据</td><td>信息不足</td><td>暂无</td><td>暂无</td><td>需要观察</td></tr><tr><td>ANET</td><td>暂无可靠数据</td><td>AI网络</td><td>暂无</td><td>暂无</td><td>继续强势</td></tr><tr><td>FLNC</td><td>暂无可靠数据</td><td>储能</td><td>暂无</td><td>暂无</td><td>破位风险</td></tr><tr><td>OKLO</td><td>暂无可靠数据</td><td>核电高beta</td><td>暂无</td><td>暂无</td><td>需要观察</td></tr><tr><td>VST</td><td>暂无可靠数据</td><td>数据中心电力</td><td>暂无</td><td>暂无</td><td>高位震荡</td></tr><tr><td>CEG</td><td>暂无可靠数据</td><td>核电和AI电力</td><td>暂无</td><td>暂无</td><td>高位震荡</td></tr><tr><td>ETN</td><td>暂无可靠数据</td><td>数据中心配电</td><td>暂无</td><td>暂无</td><td>回踩支撑</td></tr><tr><td>VRT</td><td>暂无可靠数据</td><td>AI供电和制冷</td><td>暂无</td><td>暂无</td><td>继续强势</td></tr><tr><td>PWR</td><td>暂无可靠数据</td><td>电网建设</td><td>暂无</td><td>暂无</td><td>回踩支撑</td></tr><tr><td>GEV</td><td>暂无可靠数据</td><td>发电设备</td><td>暂无</td><td>暂无</td><td>高位震荡</td></tr><tr><td>APLD</td><td>暂无可靠数据</td><td>高融资敏感</td><td>暂无</td><td>暂无</td><td>破位风险</td></tr><tr><td>IREN</td><td>暂无可靠数据</td><td>AI算力高beta</td><td>暂无</td><td>暂无</td><td>需要观察</td></tr></tbody></table></div></div></div>
+<hr>
+<h1>13. 下一交易日交易计划 / 观察清单</h1>
+<p>周一第一眼先看 <strong>Brent</strong>。</p>
+<p>周五104.61美元。</p>
+<p>周末沙特East West管道还停着。如果亚洲盘重新把Brent打回108至110美元，周五的成长反弹会马上接受测试。<a href="https://www.reuters.com/business/energy/saudi-pipeline-outage-threatens-loss-4-global-oil-supply-2026-09-13/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>第二眼看 <strong>10年期5.00%</strong>。</p>
+<p>4.99已经摸过。</p>
+<p>正式站上5%，我会减少对高PE股票的容忍度。</p>
+<p>回到4.85%至4.90%，成长股会舒服很多。</p>
+<p>S&amp;P看：</p>
+<p><strong>7,600支撑。</strong></p>
+<p><strong>7,700压力。</strong></p>
+<p>7,700收上去，反弹可以继续往7,750。</p>
+<p>7,600再次跌破，反弹质量快速下降。</p>
+<p>股票优先放屏幕上：</p>
+<ol>
+<li>
+<p>DELL，周五+12%以后能不能守。</p>
+</li>
+<li>
+<p>HPE，同样看服务器资金连续性。</p>
+</li>
+<li>
+<p>SMCI，周五+7.28%，服务器扩散是否继续。</p>
+</li>
+<li>
+<p>NVDA，硬件链很强，它能不能重新接棒。</p>
+</li>
+<li>
+<p>AMD，相对NVDA近期更强。</p>
+</li>
+<li>
+<p>AVGO，ASIC和网络。</p>
+</li>
+<li>
+<p>MRVL，ASIC第二梯队。</p>
+</li>
+<li>
+<p>ANET，AI网络。</p>
+</li>
+<li>
+<p>LITE，光通信。</p>
+</li>
+<li>
+<p>COHR，高速光互连。</p>
+</li>
+<li>
+<p>VRT，供电和制冷。</p>
+</li>
+<li>
+<p>ETN，配电。</p>
+</li>
+<li>
+<p>PWR，电网。</p>
+</li>
+<li>
+<p>ORCL，订单与现金流的拉扯。</p>
+</li>
+<li>
+<p>AMZN，AWS和custom silicon。</p>
+</li>
+<li>
+<p>MSFT，490至500。</p>
+</li>
+<li>
+<p>GOOGL，330至340。</p>
+</li>
+<li>
+<p>PANW、CRWD，安全软件为什么没跟大盘。</p>
+</li>
+<li>
+<p>XLE，周末油市重新升温。</p>
+</li>
+<li>
+<p>IWM，小盘到底能不能加入反弹。</p>
+</li>
+</ol>
+<hr>
+<h1>14. 风险提示</h1>
+<div><div><div class="table-mobile" role="list" aria-label="表格的手机卡片视图"><details class="table-card" role="listitem"><summary><span><span class="table-card-title">10年期</span><span class="table-card-meta">当前状态 盘中4.9915%</span></span></summary><dl><div><dt>风险</dt><dd>10年期</dd></div><div><dt>当前状态</dt><dd>盘中4.9915%</dd></div><div><dt>等级</dt><dd><strong>高</strong></dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">Fed 9月加息</span><span class="table-card-meta">当前状态 87%至90%</span></span></summary><dl><div><dt>风险</dt><dd>Fed 9月加息</dd></div><div><dt>当前状态</dt><dd>87%至90%</dd></div><div><dt>等级</dt><dd><strong>高</strong></dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">Core CPI</span><span class="table-card-meta">当前状态 月率0.3%，高于预期</span></span></summary><dl><div><dt>风险</dt><dd>Core CPI</dd></div><div><dt>当前状态</dt><dd>月率0.3%，高于预期</dd></div><div><dt>等级</dt><dd><strong>高</strong></dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">Brent</span><span class="table-card-meta">当前状态 104.61美元，周末供应风险再升</span></span></summary><dl><div><dt>风险</dt><dd>Brent</dd></div><div><dt>当前状态</dt><dd>104.61美元，周末供应风险再升</dd></div><div><dt>等级</dt><dd><strong>高</strong></dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">沙特East West管道</span><span class="table-card-meta">当前状态 仍停运</span></span></summary><dl><div><dt>风险</dt><dd>沙特East West管道</dd></div><div><dt>当前状态</dt><dd>仍停运</dd></div><div><dt>等级</dt><dd><strong>高</strong></dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">Hormuz</span><span class="table-card-meta">当前状态 通航显著受限</span></span></summary><dl><div><dt>风险</dt><dd>Hormuz</dd></div><div><dt>当前状态</dt><dd>通航显著受限</dd></div><div><dt>等级</dt><dd><strong>高</strong></dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">Bab el Mandeb</span><span class="table-card-meta">当前状态 Houthi活动扩大</span></span></summary><dl><div><dt>风险</dt><dd>Bab el Mandeb</dd></div><div><dt>当前状态</dt><dd>Houthi活动扩大</dd></div><div><dt>等级</dt><dd><strong>高</strong></dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">美国柴油</span><span class="table-card-meta">当前状态 &gt;6美元/加仑</span></span></summary><dl><div><dt>风险</dt><dd>美国柴油</dd></div><div><dt>当前状态</dt><dd>&gt;6美元/加仑</dd></div><div><dt>等级</dt><dd><strong>高</strong></dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">Nasdaq新高新低</span><span class="table-card-meta">当前状态 45 / 182</span></span></summary><dl><div><dt>风险</dt><dd>Nasdaq新高新低</dd></div><div><dt>当前状态</dt><dd>45 / 182</dd></div><div><dt>等级</dt><dd><strong>高</strong></dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">AI服务器短线拥挤</span><span class="table-card-meta">当前状态 DELL/HPE双双约+12%</span></span></summary><dl><div><dt>风险</dt><dd>AI服务器短线拥挤</dd></div><div><dt>当前状态</dt><dd>DELL/HPE双双约+12%</dd></div><div><dt>等级</dt><dd><strong>高</strong></dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">Oracle融资</span><span class="table-card-meta">当前状态 本财年400亿美元</span></span></summary><dl><div><dt>风险</dt><dd>Oracle融资</dd></div><div><dt>当前状态</dt><dd>本财年400亿美元</dd></div><div><dt>等级</dt><dd><strong>中高</strong></dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">大盘资金流</span><span class="table-card-meta">当前状态 股票基金九个月最大流出</span></span></summary><dl><div><dt>风险</dt><dd>大盘资金流</dd></div><div><dt>当前状态</dt><dd>股票基金九个月最大流出</dd></div><div><dt>等级</dt><dd><strong>高</strong></dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">NVDA相对强度</span><span class="table-card-meta">当前状态 落后服务器链</span></span></summary><dl><div><dt>风险</dt><dd>NVDA相对强度</dd></div><div><dt>当前状态</dt><dd>落后服务器链</dd></div><div><dt>等级</dt><dd><strong>中高</strong></dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">小盘</span><span class="table-card-meta">当前状态 明显落后大盘</span></span></summary><dl><div><dt>风险</dt><dd>小盘</dd></div><div><dt>当前状态</dt><dd>明显落后大盘</dd></div><div><dt>等级</dt><dd><strong>中高</strong></dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">VIX</span><span class="table-card-meta">当前状态 15.88</span></span></summary><dl><div><dt>风险</dt><dd>VIX</dd></div><div><dt>当前状态</dt><dd>15.88</dd></div><div><dt>等级</dt><dd><strong>中低</strong></dd></div></dl></details><details class="table-card" role="listitem"><summary><span><span class="table-card-title">成交量</span><span class="table-card-meta">当前状态 低于20日均量</span></span></summary><dl><div><dt>风险</dt><dd>成交量</dd></div><div><dt>当前状态</dt><dd>低于20日均量</dd></div><div><dt>等级</dt><dd><strong>中</strong></dd></div></dl></details></div><div class="table-scroll" role="region" aria-label="完整表格" tabindex="0"><table><thead><tr><th>风险</th><th>当前状态</th><th>等级</th></tr></thead><tbody><tr><td>10年期</td><td>盘中4.9915%</td><td><strong>高</strong></td></tr><tr><td>Fed 9月加息</td><td>87%至90%</td><td><strong>高</strong></td></tr><tr><td>Core CPI</td><td>月率0.3%，高于预期</td><td><strong>高</strong></td></tr><tr><td>Brent</td><td>104.61美元，周末供应风险再升</td><td><strong>高</strong></td></tr><tr><td>沙特East West管道</td><td>仍停运</td><td><strong>高</strong></td></tr><tr><td>Hormuz</td><td>通航显著受限</td><td><strong>高</strong></td></tr><tr><td>Bab el Mandeb</td><td>Houthi活动扩大</td><td><strong>高</strong></td></tr><tr><td>美国柴油</td><td>&gt;6美元/加仑</td><td><strong>高</strong></td></tr><tr><td>Nasdaq新高新低</td><td>45 / 182</td><td><strong>高</strong></td></tr><tr><td>AI服务器短线拥挤</td><td>DELL/HPE双双约+12%</td><td><strong>高</strong></td></tr><tr><td>Oracle融资</td><td>本财年400亿美元</td><td><strong>中高</strong></td></tr><tr><td>大盘资金流</td><td>股票基金九个月最大流出</td><td><strong>高</strong></td></tr><tr><td>NVDA相对强度</td><td>落后服务器链</td><td><strong>中高</strong></td></tr><tr><td>小盘</td><td>明显落后大盘</td><td><strong>中高</strong></td></tr><tr><td>VIX</td><td>15.88</td><td><strong>中低</strong></td></tr><tr><td>成交量</td><td>低于20日均量</td><td><strong>中</strong></td></tr></tbody></table></div></div></div>
+<hr>
+<h1>15. 最终结论</h1>
+<p>周五最有意思的东西其实不复杂。</p>
+<p>CPI月率0.4%。</p>
+<p>核心0.3%。</p>
+<p>Fed加息概率接近90%。</p>
+<p>10年差一点5%。</p>
+<p>结果S&amp;P涨0.86%，Nasdaq涨0.96%。<a href="https://www.reuters.com/business/wall-st-futures-recover-oil-slides-ahead-inflation-test-2026-09-11/" target="_blank" rel="noreferrer noopener">Reuters+1</a></p>
+<p>原因也很具体。</p>
+<p>油从110附近掉回104。</p>
+<p>Dell、HPE、HP、SMCI这批AI服务器直接大涨。</p>
+<p>SOX涨2.3%。</p>
+<p>钱又回到AI基础设施。<a href="https://www.reuters.com/business/wall-st-futures-recover-oil-slides-ahead-inflation-test-2026-09-11/" target="_blank" rel="noreferrer noopener">Reuters+2MarketWatch+2</a></p>
+<p>可我不会把这个解释成风险已经过去。</p>
+<p>Nasdaq还有182个新低，只有45个新高。</p>
+<p>成交量还低于20日均量。</p>
+<p>10年债在5%门口。</p>
+<p>美国股票基金一周流出322.7亿美元。<a href="https://www.reuters.com/business/wall-st-futures-recover-oil-slides-ahead-inflation-test-2026-09-11/" target="_blank" rel="noreferrer noopener">Reuters+1</a></p>
+<p>周末沙特管道又停了。</p>
+<p>周一如果油重新跳起来，市场马上又会回到通胀和债息交易。</p>
+<p>所以现在更像：</p>
+<p><strong>高位调整后的修复，AI基础设施仍有很强基本面，市场正在把资金从单一GPU领导往服务器、ASIC、网络、光通信和供电扩散。宏观这边还没有给一个舒服的估值环境。</strong></p>
+<p>操作倾向维持 <strong>中性</strong>。</p>
+<p>核心AI仓位可以留。</p>
+<p>服务器链单日12%以后我不会追。</p>
+<p>更愿意等DELL、HPE、SMCI回踩，看量缩不缩。</p>
+<p>NVDA继续留意相对强度。</p>
+<p>如果10年站上5%，我会对高PE和高融资依赖的AI股票更谨慎。</p>
+<p>最值得盯的五个信号：</p>
+<ol>
+<li>
+<p><strong>10年期能不能正式站稳5%。</strong></p>
+</li>
+<li>
+<p><strong>周末沙特管道事件会不会把Brent重新推回108至110美元。</strong></p>
+</li>
+<li>
+<p><strong>Dell、HPE、SMCI能不能守住周五的大部分涨幅。</strong></p>
+</li>
+<li>
+<p><strong>Nasdaq 45个新高、182个新低能不能在反弹日迅速改善。</strong></p>
+</li>
+<li>
+<p><strong>NVDA能不能重新取得AI硬件领导权，还是钱继续流向服务器、AMD、ASIC、网络和光通信。</strong></p>
+</li>
+</ol>
+<p>最后三个问题我会继续想：</p>
+<p><strong>如果10年期长期进入5%以上区间，S&amp;P目前约19倍forward PE到底够不够低，还是还要靠一轮PE压缩适应新的资金成本？</strong></p>
+<p><strong>服务器、网络、光通信、供电越来越强，GPU龙头短线却落后。AI的下一段超额收益会不会真的从单点GPU行情变成基础设施全面扩散？</strong></p>
+<p><strong>Anthropic准备以最高2万亿美元估值冲IPO，Nvidia又可能投100亿美元。供应商给客户投资，客户再拿钱买供应商算力，这种资本循环如果越来越大，未来市场会先奖励收入，还是先开始质疑资本回报率？</strong></p></div></div></div></article><article id="daily-brief-2026-09-13T22-40-41Z"><div class="meta"><span class="tag">每日重点简报</span><time>2026/9/14 06:40:41</time></div><h2>《每日重点简报》</h2><div class="content"><div><div><p>《每日重点简报》</p>
+<p>2026年9月14日，星期一</p>
+<p>1）昨夜美股收盘概览</p>
+<p>周末美股休市，最新价格停在9月11日周五。标普500涨0.86%至7,656.98点，纳指涨0.96%至26,333.04点，道指涨0.98%至52,573.29点。全周标普仍跌0.8%，纳指跌0.7%，道指跌1.6%。周五140亿股成交，略低于近期均值，VIX降到15.88。<a href="https://www.reuters.com/business/wall-st-futures-recover-oil-slides-ahead-inflation-test-2026-09-11/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>周五那场反弹参考价值有限。10年期美债盘中已经摸到4.9915%，离5%只差一点；8月CPI环比0.4%，Fed加息预期继续升，股票还能反弹，很大一部分来自Brent从109.97美元高位回落到104美元附近。<a href="https://www.reuters.com/world/china/global-markets-corrected-2026-09-11/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>周末中东又出了新情况，周五这部分油价利好今天可能要重新吐回去。</p>
+<p>2）宏观与政策</p>
+<p>美联储9月15日至16日开会。周五市场对加息25个基点的定价已经到大约85%至90%，当前联邦基金利率为3.50%至3.75%。8月非农增加16.2万人，CPI环比0.4%，核心0.3%，PPI也偏硬，现在数据已经给Fed足够空间收紧一次。<a href="https://www.reuters.com/world/china/global-markets-corrected-2026-09-11/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters+1</a></p>
+<p>有个分歧挺值得留意。Reuters经济学家调查此前多数人仍预测9月维持利率不变，市场价格已经明显走在调查前面。<a href="https://www.reuters.com/business/fed-hold-rates-steady-rest-2026-rising-number-analysts-see-least-one-hike-2026-09-09/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>周日Trump又公开要求美国拥有全球最低利率，同时承认自己也不确定Fed这次会怎么做。<a href="https://www.reuters.com/business/ahead-fed-meeting-trump-says-us-should-have-worlds-lowest-interest-rate-2026-09-13/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a> Warsh这次面对的环境很别扭，通胀和油价都要求更紧，白宫又在公开要求降息。</p>
+<p>如果Fed只加25个基点，随后强调观察能源冲击，市场大概还能消化。声明里如果开始讨论持续性通胀和继续加息，10年债站上5%的概率会明显增加。</p>
+<p>3）AI与科技产业</p>
+<p>周末AI最值得看的消息来自Anthropic。</p>
+<p>Reuters周日援引Business Insider报道，Anthropic已经选择Nasdaq作为潜在IPO上市地。前一天CEO Dario Amodei刚公开呼吁领先AI公司减慢最前沿模型能力推进速度，提出独立测试、同行协调和国际安全合作。Sam Altman和Elon Musk也表达支持。<a href="https://www.reuters.com/business/anthropic-selects-nasdaq-ipo-business-insider-reports-2026-09-13/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters+1</a></p>
+<p>这两个动作放在一起很有意思。Anthropic一边准备进入公开市场，一边开始主动讨论减慢模型竞赛。公开市场最后会要求它同时证明收入、算力成本和安全控制，单纯比谁模型更强已经越来越难撑一个两万亿美元级别的估值故事。</p>
+<p>安全事件也越来越具体。Anthropic最近披露Claude曾被用于疑似俄罗斯网络攻击、中国相关情报活动和生物武器研究。<a href="https://www.reuters.com/legal/litigation/anthropic-disrupts-russian-chinese-ai-campaigns-targeting-its-claude-models-2026-09-10/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters+1</a></p>
+<p>这会继续推高AI安全、身份权限、模型审计和沙箱产品的预算。</p>
+<p>还有一条容易被忽略。阿联酋正在重新修改原计划5GW的AI数据中心项目，原因就是伊朗战争带来的安全、电力和基础设施风险。<a href="https://www.reuters.com/world/middle-east/uae-revises-ai-data-center-plan-after-iranian-attacks-sources-say-2026-09-11/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a> AI数据中心已经开始真正受到地缘政治约束。</p>
+<p>4）全球重大新闻</p>
+<p>周末最大的变化还是石油。</p>
+<p>沙特东西向输油管线遭无人机袭击后目前仍处于停运状态。这条管线原先每天向红海Yanbu输送约400万桶原油，在霍尔木兹受阻以后成了沙特最重要的替代通道。如果短期修不好，影响规模接近全球供应的4%。Yanbu现有库存大概只能支撑5至7天。<a href="https://www.reuters.com/business/energy/saudi-pipeline-outage-threatens-loss-4-global-oil-supply-2026-09-13/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters+1</a></p>
+<p>与此同时，霍尔木兹又出现新的船只遇袭报告，胡塞武装继续扩大在也门红海沿岸的控制。原定讨论霍尔木兹航行安全的阿曼会谈已经推迟。美国柴油价格升到创纪录的每加仑6.20美元。<a href="https://www.reuters.com/business/energy/new-report-attack-strait-hormuz-shipping-fans-fears-threats-oil-supplies-2026-09-13/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>这点很要命。上周五美股反弹的重要条件是油价从110美元附近掉下来。现在周末又损失一条400万桶级别替代路线，周一Brent重新跳高的风险很大。</p>
+<p>沙特股市周日已经先反应，基准指数跌1.3%，Saudi Aramco跌1.6%。<a href="https://www.reuters.com/world/middle-east/saudi-shares-drop-after-drone-attacks-target-key-oil-pipeline-2026-09-13/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>5）中国市场与政策</p>
+<p>周末中国宏观没有特别大的新数据，之前那组结构仍然没变。8月出口增长25%，高技术产品出口保持很强，国内需求明显弱一些。</p>
+<p>周日有两条值得放一起看。</p>
+<p>第一，德国经济研究所数据显示，德国企业2026年上半年对华投资同比增加约三分之一，对美国投资同期明显下降。<a href="https://www.reuters.com/world/china/german-firms-lift-china-investment-us-outlays-fall-iw-study-shows-2026-09-13/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a> 欧洲企业嘴上讨论去风险，资本配置没有完全按这个方向走。</p>
+<p>第二，习近平在新德里金砖峰会提出扩大“Greater BRICS”经济合作，包括AI、贸易、金融和经济特区合作，并宣布推动BRICS AI开源区。<a href="https://www.reuters.com/business/aerospace-defense/xi-pushes-greater-brics-economic-ties-give-bloc-larger-global-role-2026-09-13/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>对市场短期影响有限，但中国现在很明显在一边强化高技术出口，一边给AI、汽车和制造业寻找美国之外的市场。</p>
+<p>6）公司重大事件与财报</p>
+<p>Anthropic潜在IPO会成为未来几个月AI资本市场最大的事件之一。如果最后真的以极高估值上市，Nvidia、AMD、云厂商、数据中心运营商都会受到估值映射。<a href="https://www.reuters.com/business/anthropic-selects-nasdaq-ipo-business-insider-reports-2026-09-13/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>Oracle上周财报继续确认AI服务器需求，这也是Dell、HPE周五大涨的直接催化。现在Oracle这种公司最大的矛盾依然在现金流。订单很多，建设数据中心需要的钱也很多。</p>
+<p>Apple折叠iPhone发布以后，接下来市场会逐渐从产品发布转向实际订单。1999美元价格能不能带来高端换机，同时不明显侵蚀Pro Max销量，比发布会本身重要。</p>
+<p>7）今日投资机会</p>
+<p>今天我会先看能源，不急着追科技。</p>
+<p>沙特替代管线仍停着，如果Brent直接重新冲110美元，能源生产商、油服和部分炼化资产会继续受益。价格一分钟能因为一条外交新闻掉几美元，仓位不能太激进。</p>
+<p>AI硬件回调以后仍然值得接着看。Oracle已经确认服务器订单，Dell和HPE也给出价格反应。电源、网络、HBM、液冷这些环节暂时没有看到需求转弱。</p>
+<p>网络安全也越来越值得放进AI交易里。模型开始真正操作浏览器、代码和企业系统后，安全预算很难继续当可选项。</p>
+<p>8）风险预警</p>
+<p>第一还是油。400万桶级别沙特替代管线和霍尔木兹同时受扰，如果Brent在110美元以上维持几周，问题会从交易情绪变成CPI和企业利润。</p>
+<p>第二是10年债5%。周五已经到4.9915%。油价今天一旦重新上涨，美债很容易再测试这个位置。</p>
+<p>第三是Fed。市场已经基本把一次25个基点加息放进价格，真正危险的是加完以后继续偏鹰。</p>
+<p>第四是AI资本开支。UAE一个5GW项目都开始因为战争修改规划，说明未来限制数据中心扩张的东西已经包含能源安全、地缘政治和融资成本。</p>
+<p>9）今日重点关注事项</p>
+<p>今天亚洲开盘先看Brent和美债期货怎么消化沙特管线停运。如果油价明显高开，A股和港股里的航空、运输、化工会先承压，能源链会先拿到资金。</p>
+<p>沙特东西向管线能不能在5至7天库存窗口内恢复，会是这周很关键的一条实物变量。</p>
+<p>美联储9月15日至16日开会。市场已经把加息放进去很多，Powell后续措辞更重要。</p>
+<p>Anthropic IPO进度也值得继续盯。公开市场第一次可能直接面对一个超大型基础模型公司的收入、算力支出和安全成本，这会给整个AI产业重新定一遍价格。</p>
+<p>关键来源：<a target="_blank" rel="noreferrer noopener">Reuters 9月13日：沙特管线停运与全球原油供应风险</a>　<a target="_blank" rel="noreferrer noopener">Reuters 9月13日：霍尔木兹与沙特遭袭最新情况</a>　<a target="_blank" rel="noreferrer noopener">Reuters 9月13日：Anthropic选择Nasdaq推进IPO</a>　<a target="_blank" rel="noreferrer noopener">Reuters 9月11日：周五美股收盘与Fed定价</a></p>
+<p>三个值得继续想的问题：</p>
+<ol>
+<li>
+<p>如果Brent在110美元以上维持一个月，同时10年债站稳5%，现在标普500的365美元年度EPS预期需要下调多少才合理？</p>
+</li>
+<li>
+<p>Anthropic一边准备IPO，一边呼吁放慢模型开发。如果行业真的减慢最前沿训练，GPU资本开支会先受到影响，还是推理和企业部署会把这部分需求补回来？</p>
+</li>
+<li>
+<p>沙特已经靠东西向管线绕开霍尔木兹，现在这条通道也被打到。全球能源市场还剩多少真正能够迅速替代中东海运的冗余能力？</p>
+</li>
+</ol></div></div></div></article><article id="daily-photo-2026-09-13T22-40-13Z"><div class="meta"><span class="tag">每日新闻摄影精选</span><time>2026/9/14 06:40:37</time></div><h2>一个刚从灾区回家的男人坐在人群中，家人伸手把红色 tika 点在他额头上。</h2><div class="content"><div class="media-gallery"><figure><a href="https://www.reutersconnect.com/item/aftermath-of-devastating-floods-in-nepal/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMjRJTkFFMTZUOQ?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener"><img src="/chatgpt-task-rss/assets/daily-photo-2026-09-13T22-40-13Z-official.png" alt="2026年9月13日，在尼泊尔萨普塔里县蒂拉蒂科伊拉迪村，桑杰·萨赫获救后首次回到家中。此前，他被困在水电站隧道中九天，后因山洪暴发和泥石流而幸存。获救后，他的家人为他点上吉祥的蒂卡（tika，一种印度教的吉祥符号）。（路透社/纳维什·奇特拉卡尔 TPX 每日图片）" width="800" height="450" loading="lazy" decoding="async" referrerpolicy="no-referrer" data-published-width="800" data-published-height="450"></a><figcaption>2026年9月13日，在尼泊尔萨普塔里县蒂拉蒂科伊拉迪村，桑杰·萨赫获救后首次回到家中。此前，他被困在水电站隧道中九天，后因山洪暴发和泥石流而幸存。获救后，他的家人为他点上吉祥的蒂卡（tika，一种印度教的吉祥符号）。（路透社/纳维什·奇特拉卡尔 TPX 每日图片） · <span>来源：reutersconnect.com</span></figcaption></figure></div><div><div><p>一个刚从灾区回家的男人坐在人群中，家人伸手把红色 tika 点在他额头上。</p>
+<p>他叫 Sanjay Sah，30岁。8月26日尼泊尔冰川崩塌引发山洪和泥石流时，他被困在 Upper Trishuli 3A 水电站的地下隧道里整整9天。没有食物，只靠洪水和岩壁渗水活下来。获救后又在加德满都住院一周。9月13日，他第一次回到自己的村子。</p>
+<p>今天选这张。</p>
+<p>摄影师：<strong>Navesh Chitrakar</strong><br>
+机构：<strong>Reuters</strong><br>
+地点：<strong>Tilathi Koiladi village, Saptari District, Nepal</strong><br>
+日期：<strong>2026年9月13日</strong><br>
+Reuters 图片编号：<strong>RC24INAE16T9</strong></p>
+<p>Reuters Connect 官方原图页已经逐项核过。页面显示的就是家人为 Sanjay Sah 点 tika 的这一刻，官方图注明确写明，他是在山洪和泥石流后被困水电站隧道9天并获救，这一天第一次回家。页面同时列出了摄影师 Navesh Chitrakar、Saptari、Nepal、September 13, 2026、编号 RC24INAE16T9，并标记为 <strong>TPX IMAGES OF THE DAY</strong>。<a href="https://www.reutersconnect.com/item/aftermath-of-devastating-floods-in-nepal/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMjRJTkFFMTZUOQ?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">路透社连接</a></p>
+<p>这是 Reuters 授权图片，所以这里不重新转载，也不拿另一张灾区照片代替。</p>
+<p><a target="_blank" rel="noreferrer noopener">Reuters Connect 官方原图 RC24INAE16T9</a></p>
+<p>这张看起来很轻。</p>
+<p>没有泥石流，没有隧道，没有担架，连明显的哭泣都没有。就是一个人坐着，家人给他点 tika。</p>
+<p>可前面的9天太重了。</p>
+<p>Sah 是 Upper Trishuli 3A 水电站的机械领班。灾害发生时，他先让其他工人撤离，自己留在控制室协助。洪水冲进地下结构后，他被困在里面。隧道完全黑掉以后，他多数时间闭着眼，怕在碎片里撞伤眼睛。脚被破碎灯管和杂物划伤。他后来告诉 Reuters，自己很快失去了时间概念，获救时甚至以为只过去两三天。<a href="https://www.reuters.com/world/asia-pacific/trapped-nine-days-dark-tunnel-nepali-man-tells-his-survival-story-2026-09-11/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>没有食物。</p>
+<p>他喝洪水，也喝岩壁渗出来的水。</p>
+<p>撑不住的时候就念 Maha Mantra。Sah 说，反复念诵让他慢慢安静下来。他一直想着妻子和两岁的女儿，觉得外面还有人在等他。<a href="https://www.reuters.com/world/asia-pacific/trapped-nine-days-dark-tunnel-nepali-man-tells-his-survival-story-2026-09-11/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>9月4日，救援人员终于把 Sah 和同事 Kabir Maharjan 从隧道里带出来。两个人已经被困9天。Sah 被人背出来时满脸泥，随后戴上氧气面罩，被送往军方医院。<a href="https://www.reuters.com/world/china/two-people-pulled-alive-nepal-hydropower-tunnel-2026-09-04/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>今天这张照片已经是获救后的第九天。</p>
+<p>他从医院出来，回到 Tilathi Koiladi。</p>
+<p>Reuters 当天报道里有一句话很有分量。Sah 说，困在隧道里像被关住，住院时也觉得被关在房间里，回到村子以后才终于觉得自由。<a href="https://www.reuters.com/world/china/nepal-tunnel-survivor-finds-solace-village-homecoming-2026-09-13/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>所以家人给他点 tika，这个动作放在这里就很准。</p>
+<p>在尼泊尔和印度北部的印度教传统里，tika 经常跟祝福、欢迎、宗教仪式放在一起。照片里它成了回家的确认。人真的回来了。</p>
+<p>画面有一个挺好的地方，Sah 没有被拍成英雄姿势。</p>
+<p>他坐着，身体显得有点松。周围人的手伸进画面，有人碰他的额头，有人围着他。前几天新闻里他还是那个从隧道口被背出来的幸存者，到了这里已经重新变成丈夫、父亲、儿子、村里的人。</p>
+<p>这个转换很重要。</p>
+<p>尼泊尔这场灾害到9月13日已经造成至少 <strong>1,386人死亡，5,130人仍然失踪</strong>。水电系统受到的打击尤其重，约900名电站工作人员一度失踪。Sah 所在的 Upper Trishuli 3A 隧道最终只有极少数人活着出来。<a href="https://www.reuters.com/world/china/nepal-tunnel-survivor-finds-solace-village-homecoming-2026-09-13/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters+1</a></p>
+<p>所以这张照片里的高兴其实压着另一层东西。</p>
+<p>Sah 回来了。</p>
+<p>村里还有人在等家人。</p>
+<p>Reuters 当天的报道说得很清楚，这次返乡既有释放感，也有悲伤。很多家庭还没有消息。<a href="https://www.reuters.com/world/china/nepal-tunnel-survivor-finds-solace-village-homecoming-2026-09-13/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p>这个地方我觉得比获救现场更耐看。</p>
+<p>救援照片里，人从洞里出来，大家欢呼，事件有很明确的高潮。今天这张已经过了高潮。Sah 回家以后，灾难对他的影响才真正进入漫长阶段。身体恢复、睡眠、工作、对黑暗和地下空间的反应，这些东西照片里都看不到。</p>
+<p>偏偏这种看不到的东西，可能跟他很久。</p>
+<p>构图也比较收。</p>
+<p>Navesh Chitrakar 没去追一个很夸张的动作。家人的手从四周进入，Sah 在中间。视觉上很像大家重新把他接回一个共同体里。红色 tika 在肤色和衣服之间很小，但会直接把视线拉到他的脸上。</p>
+<p>新闻摄影有时候就靠这种小东西。</p>
+<p>九天黑暗可以写几千字。</p>
+<p>最后变成额头上的一点红。</p>
+<p>今天我还能直接核到 Reuters 9月13日多张 TPX 日选，包括美国网球公开赛男单决赛、环西自行车赛、BRICS 新德里峰会、伦敦 Thames 河 Ganga Aarti、特朗普爱尔兰访问等。Reuters 这张的新闻分量和人物故事都更完整。<a href="https://www.reutersconnect.com/item/us-open/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNOUQxUDhMM0w?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">路透社连接+4路透社连接+4路透社连接+4</a></p>
+<p>AP 当天有公开摄影内容，但我没有找到一个同时具备官方单图展示、完整摄影师、地点、日期，而且新闻摄影力度能压过这张的候选。NYT Photos/Lens 的公开页面这次无法直接访问，AFP Forum 也没有拿到能逐项核对完整元数据的公开候选，所以这些来源没有被硬塞进比较。</p>
+<p>三个问题留着：</p>
+<ol>
+<li>
+<p>Sah 在隧道里活了9天，靠水和一个相对稳定的空气空间撑下来。灾害救援里，什么时候应该停止“活人搜救”，这类极晚生还案例会不会把标准往后推？</p>
+</li>
+<li>
+<p>约900名水电站工作人员一度失踪，说明山区大型基础设施的地下空间本身成了灾害放大器。以后喜马拉雅地区新建水电项目，要不要重新设计逃生井、独立通信和长期空气储备？</p>
+</li>
+<li>
+<p>灾难摄影前几天都在拍毁灭。两周以后开始出现这种“人回家”的照片。再过半年，真正值得继续拍的可能会变成创伤、失业、迁移和重建。媒体通常很早就撤走，这一段反而最容易消失。</p>
+</li>
+</ol></div></div></div></article><article id="ai-turning-point-2026-09-13T14-10-23Z"><div class="meta"><span class="tag">AI Turning Point Scan</span><time>2026/9/13 22:10:23</time></div><h2>AI 产业投资转折点报告</h2><div class="content"><div><div><h1>AI 产业投资转折点报告</h1>
 <p><strong>2026年9月13日</strong></p>
 <p>9月10日两组数字放在一起看，挺有意思。</p>
 <p><a target="_blank" rel="noreferrer noopener">Oracle</a> Q1 FY2027收入193亿美元，同比增长30%；OCI基础设施收入74亿美元，同比增长121%；RPO直接到了 <strong>6640亿美元</strong>。一个季度新签AI云合同超过300亿美元，交付的数据中心容量增加850MW，还向客户交付了超过30万颗GPU。与此同时，单季资本开支已经冲到 <strong>285亿美元</strong>，自由现金流负54亿美元。<a href="https://investor.oracle.com/investor-news/news-details/2026/Oracle-Announces-Q1-Results-Driven-by-Triple-Digit-Growth-in-Cloud-Infrastructure-Revenues/default.aspx?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Oracle投资者关系+1</a></p>
