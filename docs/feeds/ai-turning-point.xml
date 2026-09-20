@@ -1,4 +1,145 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>AI Turning Point Scan</title><link>https://youngwilly.github.io/chatgpt-task-rss</link><atom:link href="https://youngwilly.github.io/chatgpt-task-rss/feeds/ai-turning-point.xml" rel="self" type="application/rss+xml"/><description>ChatGPT 计划任务原文订阅</description><language>zh-cn</language><lastBuildDate>Sun, 13 Sep 2026 14:10:23 GMT</lastBuildDate><ttl>10</ttl><generator>ChatGPT Task RSS</generator><item><title>AI Turning Point Scan｜AI 产业投资转折点报告</title><link>https://youngwilly.github.io/chatgpt-task-rss/ai-turning-point.html#ai-turning-point-2026-09-13T14-10-23Z</link><guid isPermaLink="false">5d14051265b0654593ca990df20903d4aacd6b2d1539e8971d833ed3c8051456</guid><pubDate>Sun, 13 Sep 2026 14:10:23 GMT</pubDate><category>AI Turning Point Scan</category><description>AI 产业投资转折点报告 2026年9月13日 9月10日两组数字放在一起看，挺有意思。 Oracle Q1 FY2027收入193亿美元，同比增长30%；OCI基础设施收入74亿美元，同比增长121%；RPO直接到了 6640亿美元。一个季度新签AI云合同超过300亿美元，交付的数据中心容量增加850MW，还向客户交付了超过30万颗GPU。与此同时，单季资本开支已经冲到 285亿美元，自由现金流负54亿美元。Oracle投资者关系+1 同一天，Taiwan Semiconductor Manufacturing Company 8月收入创纪录，同比增长 53.3%。先进制程订单到现在还没看到明显减速。台积电 再加一条供应链价格信号。9月10日Reuters确认，HBM短缺已经严重到中国AI加速卡开始直接涨价，华为下一代Ascend 950DT报价提高20%至50%，寒武纪下一代690提高20%至30%。这里受出口限制影响较大，</description><content:encoded><![CDATA[<div><div><h1>AI 产业投资转折点报告</h1>
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>AI Turning Point Scan</title><link>https://youngwilly.github.io/chatgpt-task-rss</link><atom:link href="https://youngwilly.github.io/chatgpt-task-rss/feeds/ai-turning-point.xml" rel="self" type="application/rss+xml"/><description>ChatGPT 计划任务原文订阅</description><language>zh-cn</language><lastBuildDate>Sun, 20 Sep 2026 14:10:37 GMT</lastBuildDate><ttl>10</ttl><generator>ChatGPT Task RSS</generator><item><title>AI Turning Point Scan｜AI产业投资转折点报告</title><link>https://youngwilly.github.io/chatgpt-task-rss/ai-turning-point.html#ai-turning-point-2026-09-20T14-10-37Z</link><guid isPermaLink="false">f13af16a691bdcb4e1ed99183850f4842d8717edc87955b10dd79b00c7d5b389</guid><pubDate>Sun, 20 Sep 2026 14:10:37 GMT</pubDate><category>AI Turning Point Scan</category><description>AI产业投资转折点报告 截至2026年9月20日晚 9月16日，Amazon和Generac签了第一阶段约24亿美元的数据中心备用发电机合同，2027至2028年开始交付。协议里的采购触发条款最高做到约80亿美元，Amazon还拿到了Generac约3%股份对应的认股权证。消息出来以后，GNRC盘后一度涨超过40%。Reuters+1 9月18日，另一边出了完全不同的信号。Oracle在新墨西哥州Project Jupiter项目相关的180亿美元贷款，已经在二级市场跌到面值的89至91美分。项目还卡着天然气管线、电力和环保审批，S&amp;P今年7月已经把Oracle评级降到距离垃圾级只有一档。Reuters+1 同一天，Nscale提交美国IPO文件。上半年收入只有1.406亿美元，净亏损10.2亿美元，合同总额却已经超过1030亿美元，52%的现有收入来自单一客户。CoreWeave这周又准备发行30亿美元可转债，同时建立最多35</description><content:encoded><![CDATA[<div><div><h1 dir="auto">AI产业投资转折点报告</h1>
+<p dir="auto"><strong>截至2026年9月20日晚</strong></p>
+<p dir="auto">9月16日，Amazon和Generac签了第一阶段约24亿美元的数据中心备用发电机合同，2027至2028年开始交付。协议里的采购触发条款最高做到约80亿美元，Amazon还拿到了Generac约3%股份对应的认股权证。消息出来以后，GNRC盘后一度涨超过40%。<a href="https://www.reuters.com/business/energy/generac-amazon-strike-24-billion-long-term-generator-supply-deal-2026-09-16/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters+1</a></p>
+<p dir="auto">9月18日，另一边出了完全不同的信号。Oracle在新墨西哥州Project Jupiter项目相关的180亿美元贷款，已经在二级市场跌到面值的89至91美分。项目还卡着天然气管线、电力和环保审批，S&amp;P今年7月已经把Oracle评级降到距离垃圾级只有一档。<a href="https://www.reuters.com/business/finance/oracles-18-billion-data-center-debt-under-pressure-ft-reports-2026-09-18/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters+1</a></p>
+<p dir="auto">同一天，Nscale提交美国IPO文件。上半年收入只有1.406亿美元，净亏损10.2亿美元，合同总额却已经超过1030亿美元，52%的现有收入来自单一客户。CoreWeave这周又准备发行30亿美元可转债，同时建立最多3500万股的新股ATM融资计划。<a href="https://www.reuters.com/technology/ai-cloud-firm-nscale-files-us-ipo-2026-09-18/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters+2Stock Titan+2</a></p>
+<p dir="auto">然后9月19日，日本生命又准备拿大约127.5亿美元去做美国数据中心基础设施融资。钱还在大量进来。<a href="https://www.reuters.com/world/asia-pacific/japans-nippon-life-plans-13-billion-data-center-financing-us-nikkei-asia-reports-2026-09-19/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p dir="auto">这几件事放在一起，现在AI资本开支看着没有停，信用市场已经开始挑项目了。电力设备已经从“长期可能受益”走到Amazon直接锁设备产能；芯片端继续扩张；融资端开始出现债务折价、可转债、股权稀释、资产残值担保这些东西。这个地方比半年前复杂很多。</p>
+<div dir="auto"><div><div><section><h4>Custom AI芯片供应商继续扩容</h4><dl><dt><strong>排名</strong></dt><dd>1</dd><dt><strong>现在出现的变化</strong></dt><dd>Custom AI芯片供应商继续扩容</dd><dt><strong>更适合表达的上市公司</strong></dt><dd>QCOM、AVGO、MRVL、2454.TW</dd><dt><strong>当前态度</strong></dt><dd><strong>QCOM优先</strong></dd><dt><strong>评分</strong></dt><dd><strong>96</strong></dd></dl></section><hr><section><h4>数据中心现场供电和配电真正进入大订单阶段</h4><dl><dt><strong>排名</strong></dt><dd>2</dd><dt><strong>现在出现的变化</strong></dt><dd>数据中心现场供电和配电真正进入大订单阶段</dd><dt><strong>更适合表达的上市公司</strong></dt><dd>POWL、GNRC、CMI、VRT</dd><dt><strong>当前态度</strong></dt><dd><strong>POWL优先，GNRC等价格消化</strong></dd><dt><strong>评分</strong></dt><dd><strong>95</strong></dd></dl></section><hr><section><h4>AI基础设施信用开始分层</h4><dl><dt><strong>排名</strong></dt><dd>3</dd><dt><strong>现在出现的变化</strong></dt><dd>AI基础设施信用开始分层</dd><dt><strong>更适合表达的上市公司</strong></dt><dd>ORCL、CRWV</dd><dt><strong>当前态度</strong></dt><dd><strong>明显降权</strong></dd><dt><strong>评分</strong></dt><dd><strong>95风险分</strong></dd></dl></section><hr><section><h4>DRAM仍极紧，但新增供给风险第一次变得具体</h4><dl><dt><strong>排名</strong></dt><dd>4</dd><dt><strong>现在出现的变化</strong></dt><dd>DRAM仍极紧，但新增供给风险第一次变得具体</dd><dt><strong>更适合表达的上市公司</strong></dt><dd>MU、000660.KS、005930.KS、688825.SS</dd><dt><strong>当前态度</strong></dt><dd><strong>短多长谨慎</strong></dd><dt><strong>评分</strong></dt><dd><strong>92</strong></dd></dl></section><hr><section><h4>网络和数据搬运继续吃算力扩张</h4><dl><dt><strong>排名</strong></dt><dd>5</dd><dt><strong>现在出现的变化</strong></dt><dd>网络和数据搬运继续吃算力扩张</dd><dt><strong>更适合表达的上市公司</strong></dt><dd>ANET、CRDO、ALAB、QCOM</dd><dt><strong>当前态度</strong></dt><dd>回调做多</dd><dt><strong>评分</strong></dt><dd><strong>90</strong></dd></dl></section><hr><section><h4>半导体设备进入更长周期</h4><dl><dt><strong>排名</strong></dt><dd>6</dd><dt><strong>现在出现的变化</strong></dt><dd>半导体设备进入更长周期</dd><dt><strong>更适合表达的上市公司</strong></dt><dd>ASML、AMAT、KLAC、6857.T</dd><dt><strong>当前态度</strong></dt><dd>持有型机会</dd><dt><strong>评分</strong></dt><dd><strong>87</strong></dd></dl></section><hr><section><h4>AI软件已经能卖钱，但分化很大</h4><dl><dt><strong>排名</strong></dt><dd>7</dd><dt><strong>现在出现的变化</strong></dt><dd>AI软件已经能卖钱，但分化很大</dd><dt><strong>更适合表达的上市公司</strong></dt><dd>SNOW、CRM、ADBE</dd><dt><strong>当前态度</strong></dt><dd>选择性试错</dd><dt><strong>评分</strong></dt><dd><strong>83</strong></dd></dl></section><hr></div></div></div>
+<h2 dir="auto">这周我会把QCOM提到第一</h2>
+<p dir="auto">9月8日那笔Amazon协议，现在越看越值得重视。</p>
+<p dir="auto">Amazon可以在长期合作框架下采购最高约600亿美元的Qualcomm AI数据中心芯片和相关产品。约40亿美元的QCOM认股权证会随着采购量逐步归属，行权价161.26美元。Qualcomm和AWS同时做多代定制芯片和最高1.6T的光互连。<a href="https://www.investing.com/news/stock-market-news/qualcomm-amazon-to-develop-custom-chips-for-ai-data-centers-4891798?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Investing.com+1</a></p>
+<p dir="auto">600亿美元不能直接当订单。这里很容易算过头，它是采购上限。</p>
+<p dir="auto">但认股权证和采购量绑定，这个结构比一个普通技术合作协议强很多。Amazon采购越多，Amazon持有Qualcomm股权的经济价值越大。</p>
+<p dir="auto">Qualcomm自己今年6月给的目标是FY2029数据中心收入超过150亿美元。现在Amazon一个客户的框架上限已经达到600亿美元，公司原来那个150亿美元目标看起来明显没那么激进了。<a href="https://investor.qualcomm.com/news-events/press-releases/news-details/2026/Qualcomm-Accelerates-Diversification-with-Comprehensive-Strategy-for-Data-Center-and-Sees-Multiple-Inflection-Points-Over-the-Next-3-to-5-Years/default.aspx?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Qualcomm 投资者关系</a></p>
+<p dir="auto">而且Qualcomm买Alphawave之后，已经不只是做accelerator。它手里有SerDes、optical DSP、高速互连、CPU、NPU，开始往AVGO和MRVL那种“定制计算加连接”的模式走。<a href="https://investor.qualcomm.com/news-events/press-releases/news-details/2025/Qualcomm-to-Acquire-Alphawave-Semi/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Qualcomm 投资者关系</a></p>
+<p dir="auto">市场反应只有3%左右，挺克制。<a href="https://www.investing.com/news/stock-market-news/qualcomm-amazon-to-develop-custom-chips-for-ai-data-centers-4891798?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Investing.com</a></p>
+<p dir="auto">这个地方我觉得有预期差。</p>
+<p dir="auto">Qualcomm过去几年市场给它的主要标签还是手机芯片、Apple modem流失、Android周期。现在如果AWS项目从2027开始形成真实收入，估值框架会发生变化。</p>
+<p dir="auto">我现在会把它当成：</p>
+<p dir="auto"><strong>6至24个月确认型机会。</strong></p>
+<p dir="auto">AVGO还是更成熟的资产，订单和收入已经出来了。QCOM弹性可能更大，因为市场对它的数据中心身份还没有完全接受。</p>
+<p dir="auto">失效条件也很好用。</p>
+<p dir="auto">如果未来两个季度公司仍然不给Amazon项目明确量产时间、AI数据中心收入没有开始提高，同时FY2029超过150亿美元的目标没有上修，那600亿美元很可能只是一个很宽的框架。</p>
+<h2 dir="auto">MediaTek也出现了类似东西</h2>
+<p dir="auto">9月15日MediaTek发布2nm Dimensity 9600 Pro，Reuters同时披露，它给一家大型美国云厂商开发的第一颗AI accelerator将在2026年底进入量产。公司刚完成约39亿美元可转债融资，Nvidia和Alphabet都参与。<a href="https://www.reuters.com/business/media-telecom/mediatek-launches-new-mobile-chip-using-tsmcs-most-advanced-technology-2026-09-15/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p dir="auto">2454.TW现在很有意思。</p>
+<p dir="auto">Qualcomm和MediaTek以前都是移动SoC公司，现在同时往数据中心custom silicon走。</p>
+<p dir="auto">如果两个都成功，Custom ASIC市场的结构会和市场现在想的不太一样。AVGO和MRVL仍然很强，供应商数量会增加，Hyperscaler议价权也会提高。</p>
+<p dir="auto">MediaTek目前证据还比QCOM少，所以我只放观察仓。</p>
+<p dir="auto">真正转成确认仓，需要看到这颗美国云厂商芯片的客户身份、单价和2027量产规模。</p>
+<h2 dir="auto">电力这周终于从故事变成合同</h2>
+<p dir="auto">Generac以前最容易被人当成家用备用发电机公司。</p>
+<p dir="auto">Amazon一次签24亿美元，2027和2028交货，采购机制还能一路做到80亿美元。<a href="https://www.reuters.com/business/energy/generac-amazon-strike-24-billion-long-term-generator-supply-deal-2026-09-16/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p dir="auto">这说明Hyperscaler已经开始直接锁大型备用和现场发电设备。</p>
+<p dir="auto">GNRC过去自己披露的数据中心backlog只有大约16亿美元，现在一个Amazon客户就把量级又往上抬了一截。<a href="https://www.marketwatch.com/story/generacs-stock-soars-more-than-30-after-amazon-deal-cements-its-status-as-ai-power-player-a842b0dc?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">MarketWatch</a></p>
+<p dir="auto">问题是股票一晚上涨三四成。</p>
+<p dir="auto">现在再追，我会犹豫。</p>
+<p dir="auto">这笔订单更有价值的地方，是它验证了旁边一批公司的订单逻辑。</p>
+<p dir="auto">POWL现在反而更值得看。</p>
+<p dir="auto">Powell今年拿到了一笔超过4亿美元的数据中心订单，是公司历史最大单笔订单，而且这个项目明确采用behind the meter现场发电架构。公司二季度结束时backlog已经18亿美元。随后Q3新订单达到9.34亿美元，book to bill约3倍，backlog升到24亿美元。<a href="https://powellindustriesinc.gcs-web.com/news-releases/news-release-details/powell-industries-announces-second-quarter-fiscal-2026-results?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Powell Industries, Inc.+1</a></p>
+<p dir="auto">这就是switchgear、medium voltage distribution、控制柜、电气房。</p>
+<p dir="auto">GPU怎么供电，天然气发电机怎么接进园区，电网怎么切换，最后都绕不开这些东西。</p>
+<p dir="auto">而且POWL没有负债表融资问题，之前披露现金和短期投资约6.34亿美元。<a href="https://www.stocktitan.net/sec-filings/POWL/8-k-powell-industries-inc-reports-material-event-a6d991267f8b.html?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Stock Titan</a></p>
+<p dir="auto">这里最大的风险很朴素。</p>
+<p dir="auto">订单转收入太慢。</p>
+<p dir="auto">工厂、技术工人、交付能力会卡住。POWL现在订单长得比收入快很多，如果制造能力扩不上来，backlog看着很漂亮，EPS不会同步出来。</p>
+<p dir="auto">所以我更喜欢：</p>
+<p dir="auto"><strong>POWL确认仓。</strong></p>
+<p dir="auto"><strong>GNRC等回调。</strong></p>
+<p dir="auto">VRT继续拿，但现在它已经是大家都知道的AI电力股，新的预期差小一点。</p>
+<h2 dir="auto">Memory这周出现了第一条真正值得警惕的供给消息</h2>
+<p dir="auto">TrendForce 9月7日的数据还是非常强。</p>
+<p dir="auto">2Q26全球DRAM行业收入环比增长59.5%，达到约1547亿美元。供应商库存处于历史低位，3Q传统DRAM合同价格仍预计上涨13%至18%。<a href="https://www.trendforce.com/presscenter/news/20260907-13219.html?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">TrendForce</a></p>
+<p dir="auto">9月18日现货DDR5 16Gb平均价格当天又涨1.39%。<a href="https://www.trendforce.com/price/dram/dram_contract?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">TrendForce</a></p>
+<p dir="auto">所以MU、SK hynix、Samsung现在的利润环境没有明显坏。</p>
+<p dir="auto">但今天，9月20日，CXMT宣布第五代G5 DRAM工艺已经量产。新工艺把cell spacing做到11.95nm，同一片晶圆可以多生产至少50%的die，还推出了两款24Gb LPDDR5X。<a href="https://www.reuters.com/world/asia-pacific/chinas-cxmt-says-new-memory-chip-platform-enters-mass-production-2026-09-20/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters+1</a></p>
+<p dir="auto">短期影响我觉得很有限。</p>
+<p dir="auto">它现在主要冲的是LPDDR和普通DRAM，HBM的工艺、封装、客户验证壁垒还很高。</p>
+<p dir="auto">但这条消息会改变2027至2028年commodity DRAM供给模型。</p>
+<p dir="auto">过去买MU有两层。</p>
+<p dir="auto">HBM赚钱。</p>
+<p dir="auto">HBM挤产能以后，普通DRAM也一起涨价。</p>
+<p dir="auto">第二层现在要开始打一点折扣了。</p>
+<p dir="auto">CXMT如果真的能把bit output快速拉起来，中国PC、手机、服务器普通DRAM采购对三星、SK hynix、Micron的依赖会下降。</p>
+<p dir="auto">所以Memory我现在变成：</p>
+<p dir="auto"><strong>未来6至12个月继续偏多。</strong></p>
+<p dir="auto"><strong>18至30个月要开始盯供给。</strong></p>
+<p dir="auto">还有一个短期风险。Micron台湾工会和公司的利润分成谈判仍然没有彻底结束，工会此前说9月18和21日如果拿不到具体方案，会推进罢工投票。Micron台湾是公司最大的DRAM和HBM生产基地之一。<a href="https://www.reuters.com/business/world-at-work/micron-taiwan-union-presses-profit-sharing-demand-keeps-strike-preparations-2026-09-15/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p dir="auto">现在MU出现回调，我不会因为CXMT这条消息立刻卖。</p>
+<p dir="auto">如果看到两件事同时出现，我会明显降仓位：</p>
+<p dir="auto">CXMT bit shipment开始大幅增长。</p>
+<p dir="auto">全球Server DRAM合同价连续两个季度转跌。</p>
+<h2 dir="auto">网络的东西还在继续积累</h2>
+<p dir="auto">9月15日，几位Intel老兵创办的Delos Data又融资1亿美元，专门做AI数据中心chip to chip数据搬运。创始人讲得很直接，数据中心现在的问题之一就是不同GPU、accelerator和网络架构混在一起以后，数据移动效率太差。<a href="https://www.reuters.com/business/delos-data-chip-startup-founded-by-intel-veterans-raises-100-million-ai-networks-2026-09-15/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p dir="auto">这家公司没上市，但产业信号有价值。</p>
+<p dir="auto">QCOM和Amazon的合同又把1.6T optical connectivity写进合作内容。<a href="https://investor.qualcomm.com/news-events/press-releases/news-details/2026/Qualcomm-Announces-Multi-Generational-Product-Collaboration-with-Amazon-to-Build-Next-Generation-AI-Data-Center-Infrastructure/default.aspx?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Qualcomm 投资者关系</a></p>
+<p dir="auto">所以ANET、CRDO、ALAB那条线我没有降级。</p>
+<p dir="auto">只是股票已经跑了很多，我目前更喜欢QCOM这种同时有compute和connectivity、估值叙事刚开始变化的公司。</p>
+<p dir="auto">CRDO和ALAB如果再有15%至20%左右回撤，而收入指引没降，我会重新提高优先级。</p>
+<h2 dir="auto">现在整个AI周期最危险的地方，我会放在信用市场</h2>
+<p dir="auto">Oracle这周的180亿美元Project Jupiter贷款，89至91美分交易，是我觉得这周最重要的一条风险数据。<a href="https://www.reuters.com/business/finance/oracles-18-billion-data-center-debt-under-pressure-ft-reports-2026-09-18/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p dir="auto">项目需求没有消失。</p>
+<p dir="auto">贷款先开始折价。</p>
+<p dir="auto">这很像一个信用周期真正开始形成时会看到的东西。</p>
+<p dir="auto">CoreWeave又在9月17日发行30亿美元可转债，同时准备通过ATM再卖最多3500万股。它Q2收入25.75亿美元，同比增长112%，backlog已经1042亿美元。需求很好，融资需求也越来越大。<a href="https://www.reuters.com/legal/transactional/coreweave-launches-3-billion-convertible-debt-sale-2026-09-17/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters+1</a></p>
+<p dir="auto">Nscale更极端。</p>
+<p dir="auto">上半年1.406亿美元收入。</p>
+<p dir="auto">10.2亿美元净亏损。</p>
+<p dir="auto">合同超过1030亿美元。</p>
+<p dir="auto">电力pipeline超过10GW。</p>
+<p dir="auto">还背着超过80亿美元债务。<a href="https://www.reuters.com/technology/ai-cloud-firm-nscale-files-us-ipo-2026-09-18/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters+1</a></p>
+<p dir="auto">这种公司未来可能长得非常快，但股权投资者承担的是融资、客户集中、建设延误、GPU残值和长期合同履约几个风险一起叠。</p>
+<p dir="auto">9月19日日本生命又准备向美国数据中心融资投约127.5亿美元，所以钱没有枯竭。<a href="https://www.reuters.com/world/asia-pacific/japans-nippon-life-plans-13-billion-data-center-financing-us-nikkei-asia-reports-2026-09-19/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p dir="auto">现在更像一个分层市场。</p>
+<p dir="auto">优质项目还能拿到很多钱。</p>
+<p dir="auto">稍微有审批、电力、客户或者资产负债表问题的项目，债已经开始打折。</p>
+<p dir="auto">今天FT还有一个数据很值得盯。大型科技公司越来越多通过residual value guarantee给AI设备和数据中心融资提供资产残值担保，相关表外AI敞口可能达到约3000亿美元。<a href="https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">金融时报</a></p>
+<p dir="auto">这个东西后面会很麻烦。</p>
+<p dir="auto">一旦GPU租金或者二手GPU残值下降，风险可能从Neocloud传到SPV、银行、Private Credit，再传回芯片采购。</p>
+<p dir="auto">所以以后判断AI顶部，我会把两个数据放到很高的位置：</p>
+<p dir="auto"><strong>GPU租赁价格。</strong></p>
+<p dir="auto"><strong>数据中心债二级市场价格。</strong></p>
+<p dir="auto">它们可能会比NVDA季度收入更早拐头。</p>
+<h2 dir="auto">软件这周没有出现新的大赢家，Adobe倒是给了一个提醒</h2>
+<p dir="auto">Adobe Q3收入67.6亿美元，高于市场67亿美元预期，AI first产品ARR同比超过翻倍。Q4收入指引68亿至68.5亿美元，中值略低于市场68.5亿美元预期，盘后股价还跌了1.9%。<a href="https://www.reuters.com/business/adobe-beats-third-quarter-revenue-estimates-2026-09-10/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p dir="auto">这场参考价值挺高。</p>
+<p dir="auto">AI功能有人用，收入也在涨，市场现在已经不愿意仅凭“AI ARR翻倍”给很高的估值。</p>
+<p dir="auto">它要看整个公司增速有没有被AI拉起来。</p>
+<p dir="auto">所以应用软件这里我依然更喜欢SNOW这种已经直接提高产品收入指引的公司。</p>
+<p dir="auto">ADBE我会放在观察。</p>
+<p dir="auto">如果未来两个季度AI产品ARR继续翻倍，同时公司整体收入增速重新加速，估值才有可能真正切换。</p>
+<h2 dir="auto">ASML这边适合看得长一点</h2>
+<p dir="auto">9月14日Reuters报道，TSMC、Samsung、SK hynix和Intel基本都已经接受High NA EUV会进入下一代量产。设备单价大约4亿美元，Intel已经处理超过100万片相关晶圆，其他主要厂商预计从2028年开始进入High NA大规模生产。ASML目前全球先进光刻市场份额约94%。<a href="https://www.reuters.com/world/asia-pacific/asml-extends-chipmaking-dominance-customers-embrace-high-na-2026-09-14/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
+<p dir="auto">这个交易没有QCOM和POWL那么快。</p>
+<p dir="auto">但它有个很舒服的地方。</p>
+<p dir="auto">不管最后AI accelerator赢的是NVIDIA、Broadcom、Qualcomm、MediaTek还是Hyperscaler自己，节点继续往下走，它们都得用更先进的光刻。</p>
+<p dir="auto">所以12至36个月我还是会保留ASML。</p>
+<p dir="auto">它更像一个低赔率波动、高确定性的长期底仓。</p>
+<h2 dir="auto">现在我会这样放钱</h2>
+<div dir="auto"><div><div><section><h4>新的高预期差</h4><dl><dt><strong>类型</strong></dt><dd>新的高预期差</dd><dt><strong>标的</strong></dt><dd><strong>QCOM</strong></dd><dt><strong>现在的位置</strong></dt><dd>确认仓</dd></dl></section><hr><section><h4>二阶电力</h4><dl><dt><strong>类型</strong></dt><dd>二阶电力</dd><dt><strong>标的</strong></dt><dd><strong>POWL</strong></dd><dt><strong>现在的位置</strong></dt><dd>确认仓</dd></dl></section><hr><section><h4>网络</h4><dl><dt><strong>类型</strong></dt><dd>网络</dd><dt><strong>标的</strong></dt><dd>ANET、CRDO、ALAB</dd><dt><strong>现在的位置</strong></dt><dd>回调加</dd></dl></section><hr><section><h4>Memory</h4><dl><dt><strong>类型</strong></dt><dd>Memory</dd><dt><strong>标的</strong></dt><dd>MU、SK hynix</dd><dt><strong>现在的位置</strong></dt><dd>持有，涨太急不追</dd></dl></section><hr><section><h4>Custom ASIC龙头</h4><dl><dt><strong>类型</strong></dt><dd>Custom ASIC龙头</dd><dt><strong>标的</strong></dt><dd>AVGO</dd><dt><strong>现在的位置</strong></dt><dd>核心持有</dd></dl></section><hr><section><h4>长周期设备</h4><dl><dt><strong>类型</strong></dt><dd>长周期设备</dd><dt><strong>标的</strong></dt><dd>ASML</dd><dt><strong>现在的位置</strong></dt><dd>中长期持有</dd></dl></section><hr><section><h4>软件</h4><dl><dt><strong>类型</strong></dt><dd>软件</dd><dt><strong>标的</strong></dt><dd>SNOW</dd><dt><strong>现在的位置</strong></dt><dd>小仓确认</dd></dl></section><hr><section><h4>电力已快速重估</h4><dl><dt><strong>类型</strong></dt><dd>电力已快速重估</dd><dt><strong>标的</strong></dt><dd>GNRC、VRT、GEV</dd><dt><strong>现在的位置</strong></dt><dd>等价格</dd></dl></section><hr><section><h4>高杠杆AI云</h4><dl><dt><strong>类型</strong></dt><dd>高杠杆AI云</dd><dt><strong>标的</strong></dt><dd>CRWV</dd><dt><strong>现在的位置</strong></dt><dd>控制仓位</dd></dl></section><hr><section><h4>高杠杆新IPO</h4><dl><dt><strong>类型</strong></dt><dd>高杠杆新IPO</dd><dt><strong>标的</strong></dt><dd>Nscale</dd><dt><strong>现在的位置</strong></dt><dd>IPO价格出来前不碰</dd></dl></section><hr><section><h4>高Capex信用风险</h4><dl><dt><strong>类型</strong></dt><dd>高Capex信用风险</dd><dt><strong>标的</strong></dt><dd>ORCL</dd><dt><strong>现在的位置</strong></dt><dd>基本面跟踪，估值降权</dd></dl></section><hr></div></div></div>
+<p dir="auto">这周最大的变化其实挺清楚。</p>
+<p dir="auto">一个是QCOM。以前AVGO、MRVL吃Custom ASIC，现在Amazon把Qualcomm也拉进来了，而且连1.6T optical一起做。</p>
+<p dir="auto">另一个是电力。Amazon开始用几十亿美元级订单锁发电机，POWL已经拿到4亿美元behind the meter配电订单，VRT直接收购微电网公司。电力开始从“建数据中心时要买的设备”变成决定项目什么时候能上线的东西。</p>
+<p dir="auto">第三个是信用。AI需求目前还很强，钱也很多，但Oracle债、CoreWeave融资、Nscale IPO文件已经把另外一面摊开了。以后这轮周期能不能继续，可能越来越取决于融资市场愿意以什么价格接这些项目。</p>
+<p dir="auto">我现在会把组合稍微改成：</p>
+<p dir="auto"><strong>QCOM + AVGO + POWL</strong>作为新的增量主线。</p>
+<p dir="auto"><strong>MU + ANET</strong>继续保留。</p>
+<p dir="auto"><strong>ASML</strong>做长期。</p>
+<p dir="auto"><strong>GNRC</strong>等这一轮暴涨消化。</p>
+<p dir="auto"><strong>CRWV、ORCL</strong>压低风险敞口。</p>
+<p dir="auto">三个问题值得继续往下挖：</p>
+<ol>
+<li>
+<p dir="auto">Amazon给Qualcomm最高600亿美元的采购框架之后，AWS未来三年的AI accelerator采购里，Trainium、NVIDIA GPU、Qualcomm custom silicon各自可能占多少？如果QCOM拿到10%至20%的真实份额，它的估值体系应该放在哪一档？</p>
+</li>
+<li>
+<p dir="auto">Amazon已经开始直接锁Generac发电机，POWL拿到behind the meter的4亿美元订单。沿着这一层往下拆，发动机、alternator、switchgear、天然气压缩机、变压器、电缆里面，哪家公司订单已经明显变了，股价还没被当成AI资产？</p>
+</li>
+<li>
+<p dir="auto">Oracle的AI数据中心债已经跌到89至91美分。如果未来GPU二手价格也开始下跌，到底是Neocloud、Private Credit、芯片厂商的残值担保，还是Hyperscaler的长期租赁合同先出现压力？这个顺序可能会提前告诉我们整轮AI资本开支什么时候真正见顶。</p>
+</li>
+</ol></div></div>]]></content:encoded></item><item><title>AI Turning Point Scan｜AI 产业投资转折点报告</title><link>https://youngwilly.github.io/chatgpt-task-rss/ai-turning-point.html#ai-turning-point-2026-09-13T14-10-23Z</link><guid isPermaLink="false">5d14051265b0654593ca990df20903d4aacd6b2d1539e8971d833ed3c8051456</guid><pubDate>Sun, 13 Sep 2026 14:10:23 GMT</pubDate><category>AI Turning Point Scan</category><description>AI 产业投资转折点报告 2026年9月13日 9月10日两组数字放在一起看，挺有意思。 Oracle Q1 FY2027收入193亿美元，同比增长30%；OCI基础设施收入74亿美元，同比增长121%；RPO直接到了 6640亿美元。一个季度新签AI云合同超过300亿美元，交付的数据中心容量增加850MW，还向客户交付了超过30万颗GPU。与此同时，单季资本开支已经冲到 285亿美元，自由现金流负54亿美元。Oracle投资者关系+1 同一天，Taiwan Semiconductor Manufacturing Company 8月收入创纪录，同比增长 53.3%。先进制程订单到现在还没看到明显减速。台积电 再加一条供应链价格信号。9月10日Reuters确认，HBM短缺已经严重到中国AI加速卡开始直接涨价，华为下一代Ascend 950DT报价提高20%至50%，寒武纪下一代690提高20%至30%。这里受出口限制影响较大，</description><content:encoded><![CDATA[<div><div><h1>AI 产业投资转折点报告</h1>
 <p><strong>2026年9月13日</strong></p>
 <p>9月10日两组数字放在一起看，挺有意思。</p>
 <p><a target="_blank" rel="noreferrer noopener">Oracle</a> Q1 FY2027收入193亿美元，同比增长30%；OCI基础设施收入74亿美元，同比增长121%；RPO直接到了 <strong>6640亿美元</strong>。一个季度新签AI云合同超过300亿美元，交付的数据中心容量增加850MW，还向客户交付了超过30万颗GPU。与此同时，单季资本开支已经冲到 <strong>285亿美元</strong>，自由现金流负54亿美元。<a href="https://investor.oracle.com/investor-news/news-details/2026/Oracle-Announces-Q1-Results-Driven-by-Triple-Digit-Growth-in-Cloud-Infrastructure-Revenues/default.aspx?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Oracle投资者关系+1</a></p>
@@ -545,284 +686,5 @@ SPV<br>
 </li>
 <li>
 <p>Snowflake说AI贡献了近期增长加速的大约一半。如果AI Agent调用量继续以几倍速度增长，企业真正最大的新增成本最后会落在模型token、数据库消费、网络安全，还是存储？这可能决定AI软件阶段最大的利润池。</p>
-</li>
-</ol></div></div>]]></content:encoded></item><item><title>AI Turning Point Scan｜AI产业投资转折点报告</title><link>https://youngwilly.github.io/chatgpt-task-rss/ai-turning-point.html#ai-turning-point-2026-08-30T14-10-19Z</link><guid isPermaLink="false">39867e36a275536ed2a950c1419f5b1361f865b67ca87487bc4406d450ac54dd</guid><pubDate>Sun, 30 Aug 2026 14:10:19 GMT</pubDate><category>AI Turning Point Scan</category><description>AI产业投资转折点报告 2026年8月30日 8月26日 NVIDIA 这份财报把很多争论暂时打掉了。季度收入962亿美元，同比增长106%，Data Center 890亿美元，同比增长117%。更夸张的是公司给出的下一财年初步判断，收入增长约70%，明显高于市场此前约44%的预期。Vera Rubin已经开始生产出货，而且主要Hyperscaler、AI Cloud和OEM都已经下了采购订单。英伟达+1 但真正改变我这周排序的，是财报电话会后半段。 NVIDIA明确说memory正在经历“extreme pricing conditions”，涨价幅度超过此前预期，而且明年还会继续上涨。公司预计毛利率从现在75%降到Q4的71%至72%，等产品涨价生效以后，FY2028回到72%至73%。库存已经升到320亿美元，为Rubin备货。英伟达 这已经把Memory从“AI受益方向”推到了整个AI系统最大的成本瓶颈之一。 这周排序</description><content:encoded><![CDATA[<div><div><h1>AI产业投资转折点报告</h1>
-<p><strong>2026年8月30日</strong></p>
-<p>8月26日 NVIDIA 这份财报把很多争论暂时打掉了。季度收入962亿美元，同比增长106%，Data Center 890亿美元，同比增长117%。更夸张的是公司给出的下一财年初步判断，收入增长约70%，明显高于市场此前约44%的预期。Vera Rubin已经开始生产出货，而且主要Hyperscaler、AI Cloud和OEM都已经下了采购订单。<a href="https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Second-Quarter-Fiscal-2027/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">英伟达+1</a></p>
-<p>但真正改变我这周排序的，是财报电话会后半段。</p>
-<p>NVIDIA明确说memory正在经历“extreme pricing conditions”，涨价幅度超过此前预期，而且明年还会继续上涨。公司预计毛利率从现在75%降到Q4的71%至72%，等产品涨价生效以后，FY2028回到72%至73%。库存已经升到320亿美元，为Rubin备货。<a href="https://investor.nvidia.com/files/content_files/TRANSCRIPT_-NVIDIA-Corp-NVDA-US-Q2-2027-Earnings-Call-26-August-2026-5_00-PM-ET.pdf?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">英伟达</a></p>
-<p>这已经把Memory从“AI受益方向”推到了<strong>整个AI系统最大的成本瓶颈之一</strong>。</p>
-<h2>这周排序变了</h2>
-<div><div><div><section><h4>DRAM/HBM结构性短缺</h4><dl><dt><strong>排名</strong></dt><dd>1</dd><dt><strong>转折点</strong></dt><dd>DRAM/HBM结构性短缺</dd><dt><strong>标的</strong></dt><dd>Micron Technology MU / SK hynix</dd><dt><strong>操作</strong></dt><dd>回调做多</dd><dt><strong>市场定价</strong></dt><dd>较高但盈利仍上修</dd><dt><strong>分数</strong></dt><dd><strong>95</strong></dd></dl></section><hr><section><h4>AI网络content持续提升</h4><dl><dt><strong>排名</strong></dt><dd>2</dd><dt><strong>转折点</strong></dt><dd>AI网络content持续提升</dd><dt><strong>标的</strong></dt><dd>ANET / CRDO / ALAB</dd><dt><strong>操作</strong></dt><dd>回调做多</dd><dt><strong>市场定价</strong></dt><dd>部分</dd><dt><strong>分数</strong></dt><dd><strong>93</strong></dd></dl></section><hr><section><h4>Custom ASIC进入第二增长阶段</h4><dl><dt><strong>排名</strong></dt><dd>3</dd><dt><strong>转折点</strong></dt><dd>Custom ASIC进入第二增长阶段</dd><dt><strong>标的</strong></dt><dd>Marvell Technology MRVL</dd><dt><strong>操作</strong></dt><dd><strong>试错仓</strong></dd><dt><strong>市场定价</strong></dt><dd>中</dd><dt><strong>分数</strong></dt><dd><strong>91</strong></dd></dl></section><hr><section><h4>AI算力向CPU扩散</h4><dl><dt><strong>排名</strong></dt><dd>4</dd><dt><strong>转折点</strong></dt><dd>AI算力向CPU扩散</dd><dt><strong>标的</strong></dt><dd>NVDA / ARM</dd><dt><strong>操作</strong></dt><dd>新增观察</dd><dt><strong>市场定价</strong></dt><dd><strong>较低</strong></dd><dt><strong>分数</strong></dt><dd><strong>89</strong></dd></dl></section><hr><section><h4>AI软件开始出现真钱</h4><dl><dt><strong>排名</strong></dt><dd>5</dd><dt><strong>转折点</strong></dt><dd>AI软件开始出现真钱</dd><dt><strong>标的</strong></dt><dd>CRM / WDAY</dd><dt><strong>操作</strong></dt><dd>重新提高关注</dd><dt><strong>市场定价</strong></dt><dd>中</dd><dt><strong>分数</strong></dt><dd><strong>87</strong></dd></dl></section><hr><section><h4>AI基础设施融资</h4><dl><dt><strong>排名</strong></dt><dd>6</dd><dt><strong>转折点</strong></dt><dd>AI基础设施融资</dd><dt><strong>标的</strong></dt><dd>CRWV等</dd><dt><strong>操作</strong></dt><dd><strong>规避高杠杆端</strong></dd><dt><strong>市场定价</strong></dt><dd>风险仍低估</dd><dt><strong>分数</strong></dt><dd><strong>82</strong></dd></dl></section><hr><section><h4>AI存储</h4><dl><dt><strong>排名</strong></dt><dd>7</dd><dt><strong>转折点</strong></dt><dd>AI存储</dd><dt><strong>标的</strong></dt><dd>PSTG等</dd><dt><strong>操作</strong></dt><dd>等更多数据</dd><dt><strong>市场定价</strong></dt><dd>中高</dd><dt><strong>分数</strong></dt><dd><strong>78</strong></dd></dl></section><hr></div></div></div>
-<p>MU依然第一，但现在已经是“高置信度、赔率没有以前舒服”的资产。</p>
-<p>MRVL我从上周第二降到第三。</p>
-<p>原因来自它自己的财报。</p>
-<hr>
-<h2>NVIDIA给Memory做了一次非常强的交叉验证</h2>
-<p>NVIDIA Q2毛利率75%。</p>
-<p>Q3预计74%。</p>
-<p>Q4预计：</p>
-<p><strong>71%至72%。</strong></p>
-<p>公司把原因直接指向memory成本。<a href="https://investor.nvidia.com/files/content_files/TRANSCRIPT_-NVIDIA-Corp-NVDA-US-Q2-2027-Earnings-Call-26-August-2026-5_00-PM-ET.pdf?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">英伟达</a></p>
-<p>这个数字比供应链传言有价值得多，因为NVIDIA是整个AI硬件产业链里议价权最强的公司之一。</p>
-<p>连它都开始出现明显毛利率压力，说明memory卖方市场已经相当极端。</p>
-<p>而且现在出现了一个反馈：</p>
-<p>AI GPU增加<br>
-→ HBM需求增加<br>
-→ DRAM晶圆向HBM迁移<br>
-→ Server DRAM变紧<br>
-→ 普通DRAM变紧<br>
-→ Memory价格上涨<br>
-→ AI服务器成本上涨<br>
-→ NVIDIA提价。</p>
-<p>TrendForce 8月4日甚至说，DRAM紧张已经迫使NVIDIA评估降低Rubin Ultra的HBM配置，包括从原来的12 Hi HBM4E考虑8 Hi版本，CSP自己的下一代ASIC也在评估降低HBM容量。<a href="https://www.trendforce.com/presscenter/news/20260804-13166.html?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">TrendForce</a></p>
-<p>这点很要命。</p>
-<p>Memory已经开始影响<strong>AI芯片架构设计</strong>。</p>
-<p>SK hynix 8月27日又给了一个更长期的信号。</p>
-<p>公司预计全球memory shortage可能持续到<strong>2030年</strong>，Indiana HBM4E封装厂预计2029年Q3才开始量产。公司同时批准到2031年投入54.3万亿韩元，约383亿美元。<a href="https://www.reuters.com/world/asia-pacific/sk-hynix-holds-groundbreaking-ceremony-4-billion-indiana-ai-chip-packaging-2026-08-27/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
-<p>这意味着新增供给响应非常慢。</p>
-<p>所以MU现在的问题已经不太是基本面。</p>
-<p>主要问题变成价格。</p>
-<p>今年市场已经把它从传统周期股重新估成AI基础设施资产。<a href="https://www.reuters.com/world/china/micron-joins-1-trillion-club-ai-race-powers-memory-chip-boom-2026-05-26/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
-<p>我不会追大阳线。</p>
-<p>6至18个月仍然做多。</p>
-<p>如果出现20%左右的估值回撤，但Server DRAM价格没有下降，我会更愿意加。</p>
-<p>失效条件还是那个：</p>
-<p><strong>Server DRAM合同价连续两个季度下降。</strong></p>
-<hr>
-<h1>NVIDIA财报确认了第二条主线，网络</h1>
-<p>Rubin这一代，NVIDIA估算每GW收入机会已经从Hopper时代约180亿美元，升到Blackwell的250亿美元，再升到Vera Rubin的：</p>
-<p><strong>400亿美元/GW。</strong> <a href="https://investor.nvidia.com/files/content_files/TRANSCRIPT_-NVIDIA-Corp-NVDA-US-Q2-2027-Earnings-Call-26-August-2026-5_00-PM-ET.pdf?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">英伟达</a></p>
-<p>里面已经包含：</p>
-<p>Vera CPU<br>
-Rubin GPU<br>
-NVLink<br>
-InfiniBand或Ethernet<br>
-Groq LPU。</p>
-<p>Networking本季度再次创纪录，环比增长18%。</p>
-<p>Spectrum X Ethernet同比增长：</p>
-<p><strong>2.6倍。</strong> <a href="https://investor.nvidia.com/files/content_files/TRANSCRIPT_-NVIDIA-Corp-NVDA-US-Q2-2027-Earnings-Call-26-August-2026-5_00-PM-ET.pdf?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">英伟达</a></p>
-<p>这个数字把过去一个月ANET、Cisco、ALAB、CRDO的数据全部串起来了。</p>
-<p>网络增长现在同时来自两部分。</p>
-<p>GPU越来越多。</p>
-<p>每颗GPU对应的network content也越来越高。</p>
-<p>所以我继续把AI Network放第二。</p>
-<p>而且相比Memory，这条线还有一个优势。</p>
-<p>Memory涨价最终会刺激扩产，也会压制终端需求。</p>
-<p>Network content增加更像架构变化。</p>
-<p>Rubin以后Scale Up和Scale Out网络都越来越复杂。</p>
-<p>ANET还是我更喜欢的大市值表达。</p>
-<p>CRDO和ALAB提供更高弹性，但估值风险更高。</p>
-<hr>
-<h1>MRVL财报出来以后，需要稍微降温</h1>
-<p>Marvell Technology Q2收入27.39亿美元，同比增长37%，环比增长13%。</p>
-<p>Data Center：</p>
-<p><strong>21.72亿美元</strong></p>
-<p>同比：</p>
-<p><strong>+46%</strong></p>
-<p>环比：</p>
-<p><strong>+18%</strong></p>
-<p>收入占公司：</p>
-<p><strong>79%。</strong> <a href="https://investor.marvell.com/news-events/press-releases/detail/1031/marvell-technology-inc-reports-second-quarter-of-fiscal-year-2027-financial-results?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Marvell Technology, Inc.</a></p>
-<p>这些数字很好。</p>
-<p>问题出在市场期待更高。</p>
-<p>Google大单公布以后，市场希望Marvell明显提高长期收入预期。</p>
-<p>公司这次没有给出足够大的长期上修，股价因此承压。Reuters也明确指出，投资者对Google协议最终能带来多大收入仍有疑问。<a href="https://www.reuters.com/technology/marvell-technology-forecasts-quarterly-revenue-above-estimates-2026-08-27/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
-<p>所以MRVL现在很典型：</p>
-<p>产业逻辑强。</p>
-<p>短期预期差一般。</p>
-<p>我不会撤掉它。</p>
-<p>更适合试错仓。</p>
-<p>真正值得等的是10月6日Investor Day。公司如果届时把Google、自研ASIC和Celestial AI光互连的长期收入模型讲清楚，可能重新出现右侧机会。<a href="https://investor.marvell.com/news-events/press-releases?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Marvell Technology, Inc.</a></p>
-<p>失效条件：</p>
-<p>Data Center收入连续两个季度低于30%左右增长。</p>
-<hr>
-<h1>一个容易被忽略的新转折，AI开始吃CPU</h1>
-<p>NVIDIA Grace CPU过去12个月收入已经超过：</p>
-<p><strong>50亿美元。</strong></p>
-<p>公司预计Vera CPU FY2028收入：</p>
-<p><strong>超过翻倍。</strong></p>
-<p>而且Vera已经开始向OCI、AWS等客户出货。<a href="https://investor.nvidia.com/files/content_files/TRANSCRIPT_-NVIDIA-Corp-NVDA-US-Q2-2027-Earnings-Call-26-August-2026-5_00-PM-ET.pdf?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">英伟达</a></p>
-<p>这个地方以前市场关注很少。</p>
-<p>Agentic AI和长上下文推理需要大量：</p>
-<p>数据预处理<br>
-内存管理<br>
-调度<br>
-向量检索<br>
-数据库操作<br>
-CPU侧推理协调。</p>
-<p>GPU越多，CPU并不会消失。</p>
-<p>NVIDIA甚至认为全球Server CPU TAM仍然大约200亿美元。</p>
-<p>如果Vera真能两年做到100亿美元级别，它已经开始直接侵蚀传统x86 CPU市场。</p>
-<p>潜在受损：</p>
-<p>Intel。</p>
-<p>AMD传统EPYC部分份额也可能受到压力。</p>
-<p>潜在受益：</p>
-<p>NVIDIA自身。</p>
-<p>ARM生态。</p>
-<p>先进封装和memory。</p>
-<p>这一条现在还没有被市场当成独立交易主题。</p>
-<p>我给89分，但暂时只观察。</p>
-<p>需要再看两个季度Vera CPU实际收入。</p>
-<hr>
-<h1>AI软件这周终于有点像真正的生意了</h1>
-<p>过去几个月我一直对Agent软件比较谨慎。</p>
-<p>这周数据开始变化。</p>
-<p>Salesforce季度收入113.5亿美元，同比增长11%，同时上调全年收入和利润预测。</p>
-<p>更重要的是Agentforce、Data 360和Slack开始贡献增长，公司又和Anthropic推出Claudeforce，把Claude直接接进销售、客服和营销工作流。财报后股价盘后涨约14%。<a href="https://www.reuters.com/technology/salesforce-raises-annual-revenue-forecast-2026-08-26/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
-<p>Workday也出现类似信号。</p>
-<p>季度收入26.5亿美元，同比增长13%。</p>
-<p>订阅收入增长13.9%。</p>
-<p>超过一半的新客户至少采用了一项AI产品。<a href="https://www.reuters.com/business/workday-beats-second-quarter-revenue-estimates-2026-08-27/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
-<p>所以Agent开始从：</p>
-<p>Demo<br>
-PoC<br>
-试验</p>
-<p>进入：</p>
-<p><strong>软件合同附加销售。</strong></p>
-<p>这个阶段很重要。</p>
-<p>因为AI软件最危险的地方一直是使用量很高、付费很低。</p>
-<p>现在终于开始出现企业合同层面的证据。</p>
-<p>但我暂时不会大仓买CRM或WDAY。</p>
-<p>还要看一个东西：</p>
-<p>AI功能到底带来新增ARR，还是只是被打包进原有合同。</p>
-<p>如果未来两个季度CRM和WDAY都出现：</p>
-<p>AI客户增加<br>
-ARR加速<br>
-续费率提高</p>
-<p>那AI应用层可能真正接基础设施的棒。</p>
-<hr>
-<h1>Anthropic这笔交易也很值得看</h1>
-<p>Reuters 8月26日报道，Anthropic准备未来六年向Nscale支付约：</p>
-<p><strong>450亿美元</strong></p>
-<p>租用West Virginia数据中心460MW算力，使用Vera Rubin。<a href="https://www.reuters.com/technology/anthropic-pay-nscale-45-billion-rent-ai-computing-power-bloomberg-news-reports-2026-08-26/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
-<p>平均下来：</p>
-<p>约75亿美元/年。</p>
-<p>对应460MW。</p>
-<p>粗略就是：</p>
-<p>约1630万美元/MW/年。</p>
-<p>这已经能看到AI算力的真实租赁经济模型。</p>
-<p>如果这些合同可以稳定执行，Neocloud的资产可以被融资。</p>
-<p>如果Claude收入没有跟上，这种长期take-or-pay式算力合同会变成巨大固定成本。</p>
-<p>所以这个数据既是AI需求的强证据，也是信用风险的强证据。</p>
-<hr>
-<h1>这周最大的风险信号也来自NVIDIA</h1>
-<p>8月27日，NVIDIA暂停了一个针对小型AI Cloud公司的新融资计划。</p>
-<p>这个模式原来是：</p>
-<p>NVIDIA提供信用支持<br>
-→ Neocloud融资<br>
-→ 买NVIDIA GPU<br>
-→ NVIDIA再租回闲置算力<br>
-→ Neocloud向NVIDIA分享收入。</p>
-<p>现在公司暂停，原因之一就是投资者越来越担心这种交易形成<strong>循环融资和需求放大</strong>。<a href="https://www.reuters.com/business/nvidia-pauses-revenue-sharing-deals-with-ai-cloud-companies-wsj-reports-2026-08-27/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
-<p>这件事我会非常认真看。</p>
-<p>因为过去AI Capex质量最高的是：</p>
-<p>Microsoft拿自己的现金买GPU。</p>
-<p>现在越来越多变成：</p>
-<p>债务<br>
-SPV<br>
-Private Credit<br>
-Vendor financing<br>
-GPU抵押<br>
-长期租赁。</p>
-<p>AI需求可能完全真实。</p>
-<p>但资本结构正在变差。</p>
-<p>这两件事可以同时发生。</p>
-<p>所以我现在会把：</p>
-<p><strong>AI基础设施信用风险</strong></p>
-<p>正式提高到Top 5风险。</p>
-<hr>
-<h1>市场位置开始比基本面弱</h1>
-<p>截至8月26日当周，美国股票基金净流出：</p>
-<p><strong>223.3亿美元。</strong></p>
-<p>是3月以来最大单周流出。</p>
-<p>其中大型股基金流出247.3亿美元。</p>
-<p>但Technology fund仍然净流入约18亿美元。<a href="https://www.reuters.com/business/us-equity-funds-post-biggest-weekly-outflow-since-march-ahead-nvidia-earnings-2026-08-28/?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">Reuters</a></p>
-<p>这个组合挺有意思。</p>
-<p>投资者整体在降风险。</p>
-<p>AI科技内部还没有明显撤退。</p>
-<p>NVIDIA财报又重新强化AI需求。</p>
-<p>所以短期最可能出现的是：</p>
-<p>指数波动加大。</p>
-<p>AI内部继续轮动。</p>
-<p>我不会因为市场资金流出就砍掉AI基础设施。</p>
-<p>但买入价格要比上半年严格。</p>
-<hr>
-<h1>更新后的雷达</h1>
-<div><div><div><section><h4>DRAM/HBM</h4><dl><dt><strong>方向</strong></dt><dd>DRAM/HBM</dd><dt><strong>需求强度</strong></dt><dd>20</dd><dt><strong>瓶颈</strong></dt><dd>15</dd><dt><strong>利润池</strong></dt><dd>15</dd><dt><strong>未定价</strong></dt><dd>15</dd><dt><strong>总分</strong></dt><dd><strong>95</strong></dd></dl></section><hr><section><h4>AI Network</h4><dl><dt><strong>方向</strong></dt><dd>AI Network</dd><dt><strong>需求强度</strong></dt><dd>20</dd><dt><strong>瓶颈</strong></dt><dd>14</dd><dt><strong>利润池</strong></dt><dd>14</dd><dt><strong>未定价</strong></dt><dd>15</dd><dt><strong>总分</strong></dt><dd><strong>93</strong></dd></dl></section><hr><section><h4>Custom ASIC</h4><dl><dt><strong>方向</strong></dt><dd>Custom ASIC</dd><dt><strong>需求强度</strong></dt><dd>19</dd><dt><strong>瓶颈</strong></dt><dd>13</dd><dt><strong>利润池</strong></dt><dd>13</dd><dt><strong>未定价</strong></dt><dd>15</dd><dt><strong>总分</strong></dt><dd><strong>91</strong></dd></dl></section><hr><section><h4>AI CPU</h4><dl><dt><strong>方向</strong></dt><dd>AI CPU</dd><dt><strong>需求强度</strong></dt><dd>17</dd><dt><strong>瓶颈</strong></dt><dd>11</dd><dt><strong>利润池</strong></dt><dd>13</dd><dt><strong>未定价</strong></dt><dd>19</dd><dt><strong>总分</strong></dt><dd><strong>89</strong></dd></dl></section><hr><section><h4>Agent软件</h4><dl><dt><strong>方向</strong></dt><dd>Agent软件</dd><dt><strong>需求强度</strong></dt><dd>15</dd><dt><strong>瓶颈</strong></dt><dd>7</dd><dt><strong>利润池</strong></dt><dd>12</dd><dt><strong>未定价</strong></dt><dd>16</dd><dt><strong>总分</strong></dt><dd><strong>87</strong></dd></dl></section><hr><section><h4>电力/发电</h4><dl><dt><strong>方向</strong></dt><dd>电力/发电</dd><dt><strong>需求强度</strong></dt><dd>20</dd><dt><strong>瓶颈</strong></dt><dd>15</dd><dt><strong>利润池</strong></dt><dd>15</dd><dt><strong>未定价</strong></dt><dd>7</dd><dt><strong>总分</strong></dt><dd><strong>86</strong></dd></dl></section><hr><section><h4>AI ODM</h4><dl><dt><strong>方向</strong></dt><dd>AI ODM</dd><dt><strong>需求强度</strong></dt><dd>19</dd><dt><strong>瓶颈</strong></dt><dd>11</dd><dt><strong>利润池</strong></dt><dd>10</dd><dt><strong>未定价</strong></dt><dd>12</dd><dt><strong>总分</strong></dt><dd><strong>85</strong></dd></dl></section><hr><section><h4>AI存储</h4><dl><dt><strong>方向</strong></dt><dd>AI存储</dd><dt><strong>需求强度</strong></dt><dd>14</dd><dt><strong>瓶颈</strong></dt><dd>9</dd><dt><strong>利润池</strong></dt><dd>11</dd><dt><strong>未定价</strong></dt><dd>14</dd><dt><strong>总分</strong></dt><dd><strong>78</strong></dd></dl></section><hr><section><h4>机器人</h4><dl><dt><strong>方向</strong></dt><dd>机器人</dd><dt><strong>需求强度</strong></dt><dd>10</dd><dt><strong>瓶颈</strong></dt><dd>6</dd><dt><strong>利润池</strong></dt><dd>9</dd><dt><strong>未定价</strong></dt><dd>10</dd><dt><strong>总分</strong></dt><dd><strong>65</strong></dd></dl></section><hr></div></div></div>
-<hr>
-<h1>当前交易结构</h1>
-<div><div><div><section><h4>MU / SK hynix</h4><dl><dt><strong>做多</strong></dt><dd>MU / SK hynix</dd><dt><strong>减仓/对冲</strong></dt><dd>消费电子硬件</dd><dt><strong>为什么</strong></dt><dd>Memory卖方市场直接挤压买方毛利</dd></dl></section><hr><section><h4>ANET</h4><dl><dt><strong>做多</strong></dt><dd>ANET</dd><dt><strong>减仓/对冲</strong></dt><dd>高杠杆Neocloud</dd><dt><strong>为什么</strong></dt><dd>同吃AI Capex，资本结构差异巨大</dd></dl></section><hr><section><h4>MRVL</h4><dl><dt><strong>做多</strong></dt><dd>MRVL</dd><dt><strong>减仓/对冲</strong></dt><dd>高估值无盈利AI软件</dd><dt><strong>为什么</strong></dt><dd>Custom ASIC已有真实收入</dd></dl></section><hr><section><h4>NVDA</h4><dl><dt><strong>做多</strong></dt><dd>NVDA</dd><dt><strong>减仓/对冲</strong></dt><dd>INTC</dd><dt><strong>为什么</strong></dt><dd>Vera CPU打开新TAM</dd></dl></section><hr><section><h4>CRM小仓</h4><dl><dt><strong>做多</strong></dt><dd>CRM小仓</dd><dt><strong>减仓/对冲</strong></dt><dd>传统无AI增长SaaS</dd><dt><strong>为什么</strong></dt><dd>Agent开始出现付费证据</dd></dl></section><hr></div></div></div>
-<p>这里NVDA/INTC是这周新加的观察型配对。</p>
-<p>还没到大仓位。</p>
-<p>需要先验证Vera CPU收入。</p>
-<hr>
-<h1>现在我不愿意追三个东西</h1>
-<p>第一，高杠杆Neocloud。</p>
-<p>需求没问题。</p>
-<p>融资质量开始有问题。</p>
-<p>第二，已经把2030年需求交易得很充分的电力设备股。</p>
-<p>基本面可能继续好，赔率越来越差。</p>
-<p>第三，纯人形机器人概念股。</p>
-<p>过去30天我依然没有找到足够大的工业客户批量订单，可以支撑现在很多股票的估值。</p>
-<p>这里继续等。</p>
-<hr>
-<h1>未来30天</h1>
-<p><strong>Marvell 10月6日Investor Day。</strong></p>
-<p>这会决定MRVL是否从试错仓变成确认仓。</p>
-<p><strong>Server DRAM 4Q合同价格。</strong></p>
-<p>如果继续上涨，MU逻辑再强化。</p>
-<p><strong>Rubin实际出货速度。</strong></p>
-<p>NVIDIA说它会成为公司历史最快的产品ramp。<a href="https://investor.nvidia.com/files/content_files/TRANSCRIPT_-NVIDIA-Corp-NVDA-US-Q2-2027-Earnings-Call-26-August-2026-5_00-PM-ET.pdf?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">英伟达</a></p>
-<p><strong>CRM和WDAY的AI ARR数据。</strong></p>
-<p>现在Agent第一次开始有商业化证据，需要确认能不能连续两个季度。</p>
-<hr>
-<h1>交易员版本</h1>
-<p><strong>1. 现在最值得研究的方向</strong></p>
-<p>Memory。</p>
-<p>AI Network。</p>
-<p>然后是Custom ASIC。</p>
-<p>这三个现在都有真实订单、价格或收入验证。</p>
-<p><strong>2. 现在最可能被低估的标的</strong></p>
-<p>MRVL仍然算一个，但需要10月Investor Day确认。</p>
-<p>另一个我开始觉得可能被低估的东西是<strong>AI CPU</strong>，这里市场还没有形成独立叙事。</p>
-<p><strong>3. 现在最拥挤、最需要小心的标的</strong></p>
-<p>高杠杆Neocloud。</p>
-<p>部分电力设备。</p>
-<p>MU本身也非常拥挤，所以我只愿意在回撤里增加。</p>
-<p><strong>4. 未来30天要盯</strong></p>
-<p>Server DRAM价格。</p>
-<p>Rubin出货。</p>
-<p>Spectrum X增长。</p>
-<p>MRVL客户项目。</p>
-<p>Agentforce新增ARR。</p>
-<p><strong>5. 未来90天要盯</strong></p>
-<p>Hyperscaler 2027 Capex。</p>
-<p>HBM4E验证。</p>
-<p>AI基础设施信用利差。</p>
-<p>GPU租赁价格。</p>
-<p>GPU二手价格。</p>
-<p>这两个GPU价格数据的重要性继续上升。</p>
-<p><strong>6. 当前最优结构</strong></p>
-<p>MU + ANET作为主线。</p>
-<p>MRVL试错。</p>
-<p>NVDA继续核心持有。</p>
-<p>CRM只给小仓位。</p>
-<p>规避高杠杆Neocloud。</p>
-<p><strong>7. 什么情况下我会承认这轮判断错了</strong></p>
-<p>NVIDIA已经给了一个很清楚的测试。</p>
-<p>公司预计FY2028收入增长约70%，同时供应至少到FY2028年底仍然是瓶颈。<a href="https://investor.nvidia.com/files/content_files/TRANSCRIPT_-NVIDIA-Corp-NVDA-US-Q2-2027-Earnings-Call-26-August-2026-5_00-PM-ET.pdf?utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">英伟达+1</a></p>
-<p>如果未来两个季度这个判断被下修，同时Server DRAM价格转跌、Networking收入增速跌到Compute以下、Marvell Data Center增速明显下降，那么AI基础设施已经接近订单顶部。</p>
-<p>反过来，如果这些都没发生，现在看到的估值波动更像市场消化价格，产业周期还没结束。</p>
-<p>三个问题现在值得继续挖：</p>
-<ol>
-<li>
-<p>NVIDIA预计Rubin时代每GW收入机会从Blackwell的250亿美元升到400亿美元。新增150亿美元里，到底有多少流向Networking、CPU、Memory和电力？把这个拆出来，可能就是2027年最好的AI交易地图。</p>
-</li>
-<li>
-<p>NVIDIA已经因为Memory成本主动降低毛利率预期。下一个被Memory涨价明显挤压利润的上市公司会是谁？Dell、Supermicro、Apple、PC OEM还是网络设备厂商？</p>
-</li>
-<li>
-<p>AI软件现在第一次出现Agent商业化证据。如果Agentforce、Workday AI未来两个季度继续提高合同价值，资金会不会从已经高度拥挤的AI硬件切向仍被当成“被AI颠覆对象”的传统SaaS？</p>
 </li>
 </ol></div></div>]]></content:encoded></item></channel></rss>
