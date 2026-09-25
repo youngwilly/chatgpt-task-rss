@@ -1,12 +1,28 @@
 {
-  "status": "ok",
-  "checkedAt": "2026-09-24T22:40:31.394Z",
+  "status": "degraded",
+  "checkedAt": "2026-09-25T22:42:17.380Z",
   "lastSuccessfulAt": "2026-09-24T22:40:31.394Z",
-  "successfulTasks": [
-    "daily-photo",
-    "daily-brief",
-    "us-close",
-    "ai-turning-point"
-  ],
-  "failedTasks": []
+  "successfulTasks": [],
+  "failedTasks": [
+    {
+      "id": "daily-photo",
+      "title": "每日新闻摄影精选",
+      "reason": "page.waitForSelector: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('[data-message-author-role=\"assistant\"]') to be visible\n"
+    },
+    {
+      "id": "daily-brief",
+      "title": "每日重点简报",
+      "reason": "page.waitForSelector: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('[data-message-author-role=\"assistant\"]') to be visible\n"
+    },
+    {
+      "id": "us-close",
+      "title": "美股收盘日报",
+      "reason": "page.waitForSelector: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('[data-message-author-role=\"assistant\"]') to be visible\n    - waiting for\" https://chatgpt.com/c/6a39c5ee-3ff0-83ea-a9a1-d18c556bcafb\" navigation to finish...\n    - navigated to \"https://chatgpt.com/c/6a39c5ee-3ff0-83ea-a9a1-d18c556bcafb\"\n"
+    },
+    {
+      "id": "ai-turning-point",
+      "title": "AI Turning Point Scan",
+      "reason": "page.waitForSelector: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('[data-message-author-role=\"assistant\"]') to be visible\n"
+    }
+  ]
 }
