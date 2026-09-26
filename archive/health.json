@@ -1,6 +1,6 @@
 {
   "status": "degraded",
-  "checkedAt": "2026-09-25T22:42:17.380Z",
+  "checkedAt": "2026-09-26T22:42:23.748Z",
   "lastSuccessfulAt": "2026-09-24T22:40:31.394Z",
   "successfulTasks": [],
   "failedTasks": [
@@ -17,7 +17,7 @@
     {
       "id": "us-close",
       "title": "美股收盘日报",
-      "reason": "page.waitForSelector: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('[data-message-author-role=\"assistant\"]') to be visible\n    - waiting for\" https://chatgpt.com/c/6a39c5ee-3ff0-83ea-a9a1-d18c556bcafb\" navigation to finish...\n    - navigated to \"https://chatgpt.com/c/6a39c5ee-3ff0-83ea-a9a1-d18c556bcafb\"\n"
+      "reason": "page.waitForSelector: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('[data-message-author-role=\"assistant\"]') to be visible\n"
     },
     {
       "id": "ai-turning-point",
